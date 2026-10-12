@@ -1,0 +1,288 @@
+{
+  "com.feralinteractive.rometw": {
+    "overviewZh": "在古罗马背景下经营帝国，在回合制战略地图与即时大规模战斗之间切换。购买前需检查设备兼容性。",
+    "positive": {
+      "zh": "样本认可战役管理的深度、耐玩性，以及将经典 PC 战略体验移植到手机的价值。",
+      "en": "Reviewers praise the campaign depth, replayability, and the value of a full PC-style strategy game on mobile.",
+      "reviewIds": [
+        "b9144ed65c3b571c",
+        "acadaec9818abdee",
+        "6144e47b135dda03"
+      ]
+    },
+    "caution": {
+      "zh": "三条样本都提到触屏战斗操作不够顺手，大规模战斗和转动部队尤其费力。评论来自 2019–2025 年，未验证现版本。",
+      "en": "All three mention awkward touch controls, particularly large battles and rotating units. These 2019–2025 reports are not a current-version verification.",
+      "reviewIds": [
+        "b9144ed65c3b571c",
+        "acadaec9818abdee",
+        "6144e47b135dda03"
+      ]
+    },
+    "sampleIds": [
+      "b9144ed65c3b571c",
+      "acadaec9818abdee",
+      "6144e47b135dda03"
+    ],
+    "method": "Human-reviewed synthesis of the public listing’s displayed reviews; not a random or representative sample."
+  },
+  "com.longyoug.hmby": {
+    "overviewZh": "以三国为背景，管理城市、任用武将并进行回合制战斗，地形、天气和阵型影响作战。付费下载，另有内购。",
+    "positive": {
+      "zh": "样本认可三国题材、玩法变化和策略深度，有玩家认为手机版接近 PC 体验。",
+      "en": "The sample praises the Three Kingdoms setting, varied decisions, and depth; one reviewer finds it close to the PC experience.",
+      "reviewIds": [
+        "c6ac9f9c9865edf9",
+        "4a0b5953c71486de",
+        "f446ae29c56536f6"
+      ]
+    },
+    "caution": {
+      "zh": "较早评论提到存档入口难找、翻译不完整；2026 年一条评论报告大军团手动战斗偶发冻结。",
+      "en": "Older reviews mention unclear save controls and incomplete translations. A July 2026 reviewer reports occasional freezes in large manual battles.",
+      "reviewIds": [
+        "4a0b5953c71486de",
+        "f446ae29c56536f6"
+      ]
+    },
+    "sampleIds": [
+      "c6ac9f9c9865edf9",
+      "4a0b5953c71486de",
+      "f446ae29c56536f6"
+    ],
+    "method": "Human-reviewed synthesis of the public listing’s displayed reviews; not a random or representative sample."
+  },
+  "air.com.midjiwan.polytopia": {
+    "overviewZh": "回合制文明策略：探索地图、研究科技、发展部落并与对手竞争，支持单人与多人模式及离线游玩。",
+    "positive": {
+      "zh": "三条样本都给出好评，认可轻量文明策略体验；其中一位觉得一次性购买定价合理。",
+      "en": "All three sampled reviews are positive about the compact civilization-strategy experience; one praises the one-time pricing.",
+      "reviewIds": [
+        "3009a6842ee20863",
+        "28549fb940998aa7",
+        "cb5e20b677bc7d4c"
+      ]
+    },
+    "caution": {
+      "zh": "样本希望增加合作胜利、剧情或自定义模式，并改善部落平衡和领先后滚雪球的问题。",
+      "en": "Requests include allied victories, story or custom modes, more tribe variety, and better balance once a player pulls ahead.",
+      "reviewIds": [
+        "3009a6842ee20863",
+        "28549fb940998aa7",
+        "cb5e20b677bc7d4c"
+      ]
+    },
+    "sampleIds": [
+      "3009a6842ee20863",
+      "28549fb940998aa7",
+      "cb5e20b677bc7d4c"
+    ],
+    "method": "Human-reviewed synthesis of the public listing’s displayed reviews; not a random or representative sample."
+  },
+  "com.birdshel.Uciana": {
+    "overviewZh": "探索随机生成的星系，分配科研、农业与生产资源，并设计舰船参加回合制太空战斗。",
+    "positive": {
+      "zh": "样本认可较完整的太空 4X 和战术战斗，认为低价买断有吸引力。",
+      "en": "Reviewers value the substantial space 4X systems, tactical battles, and inexpensive upfront purchase.",
+      "reviewIds": [
+        "0590566e89a5439e",
+        "9ecf734578a8d578"
+      ]
+    },
+    "caution": {
+      "zh": "有玩家认为教程不足、初期信息过载；2025 年一条评论报告约 200 回合后卡顿和崩溃。",
+      "en": "The sample flags limited guidance and initial complexity. A May 2025 review reports severe lag and crashes in campaigns beyond roughly 200 turns.",
+      "reviewIds": [
+        "9ecf734578a8d578",
+        "618abf014ae63d87"
+      ]
+    },
+    "sampleIds": [
+      "0590566e89a5439e",
+      "9ecf734578a8d578",
+      "618abf014ae63d87"
+    ],
+    "method": "Human-reviewed synthesis of the public listing’s displayed reviews; not a random or representative sample."
+  },
+  "com.playdigious.northgard": {
+    "overviewZh": "带领维京氏族建设聚落、分配工作并熬过严冬，通过征服、贸易等方式争取胜利；另售氏族 DLC。",
+    "positive": {
+      "zh": "样本肯定核心 RTS 玩法；合作玩家喜欢氏族差异，以及经济和军事等多种胜利方式。",
+      "en": "The sample values the core RTS design; a co-op player enjoys distinct clans and alternative economic or military win conditions.",
+      "reviewIds": [
+        "95475b2ef21ee5b4",
+        "fdd8b1db71b77779"
+      ]
+    },
+    "caution": {
+      "zh": "三条 2023–2024 年评论均提到崩溃或加载卡住。不能据此认定当前版本仍有同样问题。",
+      "en": "All three displayed reviews from 2023–2024 mention crashes or loading hangs. This does not establish the behavior of the current release.",
+      "reviewIds": [
+        "95475b2ef21ee5b4",
+        "2820d18f7f012580",
+        "fdd8b1db71b77779"
+      ]
+    },
+    "sampleIds": [
+      "95475b2ef21ee5b4",
+      "2820d18f7f012580",
+      "fdd8b1db71b77779"
+    ],
+    "method": "Human-reviewed synthesis of the public listing’s displayed reviews; not a random or representative sample."
+  },
+  "io.anuke.mindustry": {
+    "overviewZh": "把工厂供应链、塔防和即时战略结合起来：生产弹药与部队、守卫基地并征服区域，支持合作和对战。",
+    "positive": {
+      "zh": "样本喜欢工厂、塔防与战争的组合，认可内容深度、模组和多人玩法；沙盒也可用于慢节奏体验。",
+      "en": "The sample enjoys the factory, tower-defense, and warfare combination, with praise for depth, mods, multiplayer, and relaxed sandbox play.",
+      "reviewIds": [
+        "b9fd6cbec9c5d260",
+        "57e42041c892fc56",
+        "c2a72c52374b2737"
+      ]
+    },
+    "caution": {
+      "zh": "部分玩家希望增加星球、音乐和单位变化，另有对单位 AI 的改进期待；此样本没有形成明显的重大故障反馈。",
+      "en": "Some want additional planets, music, and variety, plus improved unit AI. These three reviews do not establish a major recurring technical complaint.",
+      "reviewIds": [
+        "b9fd6cbec9c5d260",
+        "57e42041c892fc56"
+      ]
+    },
+    "sampleIds": [
+      "b9fd6cbec9c5d260",
+      "57e42041c892fc56",
+      "c2a72c52374b2737"
+    ],
+    "method": "Human-reviewed synthesis of the public listing’s displayed reviews; not a random or representative sample."
+  },
+  "com.unciv.app": {
+    "overviewZh": "开源文明建设游戏，研究科技、发展城市、扩张帝国。开发者明确声明免费、无广告；多人模式需联网。",
+    "positive": {
+      "zh": "样本认可免费无广告、开源和较高重玩价值，认为简洁表现下有丰富的策略选择。",
+      "en": "Reviewers praise the free, ad-free open-source model, replay value, and substantial strategy beneath a simple presentation.",
+      "reviewIds": [
+        "74562c4a8caca0b3",
+        "b8e05d7428a03359",
+        "337c634c33f5421b"
+      ]
+    },
+    "caution": {
+      "zh": "玩家提到新手需要适应；一条评论指出教程过于笼统，文字和图标偏小，容易误点部队。",
+      "en": "New players describe an adjustment period. One reviewer finds the tutorial vague and text and icons small enough to cause accidental selections.",
+      "reviewIds": [
+        "74562c4a8caca0b3",
+        "337c634c33f5421b"
+      ]
+    },
+    "sampleIds": [
+      "74562c4a8caca0b3",
+      "b8e05d7428a03359",
+      "337c634c33f5421b"
+    ],
+    "method": "Human-reviewed synthesis of the public listing’s displayed reviews; not a random or representative sample."
+  },
+  "com.corrodinggames.rts": {
+    "overviewZh": "经典即时战略：建造基地、采集资源，指挥陆海空军作战。包含战役、遭遇战与多人玩法，开发者声明无微交易。",
+    "positive": {
+      "zh": "样本认可完整的经典 RTS 机制、模组与联机体验，认为值得购买。",
+      "en": "The sample praises a complete classic RTS package, mod support, online play, and good purchase value.",
+      "reviewIds": [
+        "bd12d42d1b2784a5",
+        "2552a484be75f414",
+        "328c0e1228f10106"
+      ]
+    },
+    "caution": {
+      "zh": "部分玩家需要适应手机界面与操作；还有炮塔平衡、阵营差异和画面升级方面的建议。",
+      "en": "Touch UI and controls take practice. Other requests concern turret balance, more distinct armies, and improved graphics.",
+      "reviewIds": [
+        "bd12d42d1b2784a5",
+        "2552a484be75f414",
+        "328c0e1228f10106"
+      ]
+    },
+    "sampleIds": [
+      "bd12d42d1b2784a5",
+      "2552a484be75f414",
+      "328c0e1228f10106"
+    ],
+    "method": "Human-reviewed synthesis of the public listing’s displayed reviews; not a random or representative sample."
+  },
+  "yio.tro.achikaps": {
+    "overviewZh": "简洁的经济策略游戏试玩版，提供沙盒和部分战役内容；商店列出离线与单人模式，开发者声明无微交易。",
+    "positive": {
+      "zh": "样本喜欢简洁画面下的独特玩法和挑战，2026 年一位玩家认为免费试玩内容很充足。",
+      "en": "Reviewers enjoy the distinctive systems and challenge beneath simple visuals. An August 2026 review finds the free demo generous.",
+      "reviewIds": [
+        "067260f9fe1f904f",
+        "3ab767673c1d8ecb",
+        "91fb8116e3aeecd6"
+      ]
+    },
+    "caution": {
+      "zh": "两条 2019 年评论分别提到战斗重复与存档损坏；年代较早，不能作为当前版本故障结论。",
+      "en": "Two 2019 reviews mention repetitive battles and corrupted saves respectively. These old reports are not evidence of a current defect.",
+      "reviewIds": [
+        "3ab767673c1d8ecb",
+        "91fb8116e3aeecd6"
+      ]
+    },
+    "sampleIds": [
+      "067260f9fe1f904f",
+      "3ab767673c1d8ecb",
+      "91fb8116e3aeecd6"
+    ],
+    "method": "Human-reviewed synthesis of the public listing’s displayed reviews; not a random or representative sample."
+  },
+  "age.of.civilizations2.jakowski.lukasz": {
+    "overviewZh": "跨越多个历史时期的大战略，通过战争、外交与条约改变版图，并使用编辑器创建国家和历史情景。",
+    "positive": {
+      "zh": "样本喜欢外交与国家经营玩法、情景选择和多国游玩，有人认为比更复杂的大战略更容易入门。",
+      "en": "The sample enjoys the diplomacy, scenarios, and ability to play multiple nations; one finds it more approachable than a heavier grand-strategy title.",
+      "reviewIds": [
+        "8fccae0967fb3d05",
+        "63172254531ec46b",
+        "1363e9c64cd717e3"
+      ]
+    },
+    "caution": {
+      "zh": "2026 年评论报告长局存档损坏，以及 AI 和谈、经济行为不合理；2024 年另有菜单画面抖动反馈。",
+      "en": "2026 reports mention corrupted campaigns and implausible AI peace and economic behavior. A 2024 review also describes screen shaking in menus.",
+      "reviewIds": [
+        "8fccae0967fb3d05",
+        "63172254531ec46b",
+        "1363e9c64cd717e3"
+      ]
+    },
+    "sampleIds": [
+      "8fccae0967fb3d05",
+      "63172254531ec46b",
+      "1363e9c64cd717e3"
+    ],
+    "method": "Human-reviewed synthesis of the public listing’s displayed reviews; not a random or representative sample."
+  },
+  "com.ironhidegames.android.kingdomrush": {
+    "overviewZh": "在中世纪奇幻世界中部署防御塔、升级能力并指挥英雄，抵挡敌人进攻。商店标注含广告与内购，支持离线。",
+    "positive": {
+      "zh": "三条样本都给出积极评价，认可塔防挑战、完成度和美术；2026 年一位玩家认为不必付费也能推进。",
+      "en": "All three sampled reviews are positive about the challenge, polish, and art. A July 2026 reviewer says purchases are not necessary to progress.",
+      "reviewIds": [
+        "29df8a1c741adf6e",
+        "003d62f1203f9e38",
+        "447acd21a68dd635"
+      ]
+    },
+    "caution": {
+      "zh": "这三条样本没有提供具体负面问题，不等于没有缺点；评论中的付费感受也不改变商店的广告、内购标记。",
+      "en": "No specific drawback is raised in this small sample. That does not imply none exist, and the store still marks ads and in-app purchases.",
+      "reviewIds": []
+    },
+    "sampleIds": [
+      "29df8a1c741adf6e",
+      "003d62f1203f9e38",
+      "447acd21a68dd635"
+    ],
+    "method": "Human-reviewed synthesis of the public listing’s displayed reviews; not a random or representative sample."
+  }
+}

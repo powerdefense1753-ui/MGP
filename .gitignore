@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.playwright/
+*.log
+
+.python-deps/
+__pycache__/
+*.pyc

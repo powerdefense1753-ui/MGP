@@ -1,0 +1,38 @@
+{
+  "package": "com.unciv.app",
+  "url": "https://play.google.com/store/apps/details?id=com.unciv.app&hl=en&gl=US",
+  "fetchedAt": "2026-10-12T05:05:53.909867+00:00",
+  "locale": "en-US",
+  "status": 200,
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": "Unciv",
+    "url": "https://play.google.com/store/apps/details/Unciv?id=com.unciv.app&hl=en",
+    "description": "Open source 4X civilization-building game",
+    "operatingSystem": "ANDROID",
+    "applicationCategory": "GAME_STRATEGY",
+    "image": "https://play-lh.googleusercontent.com/iJK5FRHfttfyasy1mS2gKUayeV3eayNJ_BC52B1a5GHO4TP2wYxCPuKjLqauhVFDcrgmc5eYUe_TwqfqgEzFBA",
+    "contentRating": "Everyone",
+    "author": {
+      "@type": "Person",
+      "name": "Yair Morgenstern",
+      "url": "https://github.com/yairm210/UnCiv"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.561403274536133",
+      "ratingCount": "54720"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      }
+    ]
+  },
+  "description": "Open source 4X civilization-building game",
+  "pageText": "Unciv - Apps on Google Play Games Apps Movies & TV Books Kids google_logo Play Games Apps Movies & TV Books Kids Gift Cards none search help_outline Sign in with Google play_apps Library & devices payment Payments & subscriptions reviews My Play activity redeem Offers redeem Gift cards Play Pass storefront Third-party app stores Personalization in Play settings Settings Privacy Policy • Terms of Service Games Apps Movies & TV Books Kids Unciv Yair Morgenstern 4.6 star 54.7K reviews Everyone info 1M+ Downloads Install Share Add to wishlist Everyone Learn more About this game arrow_forward An open-source reimplementation of the most famous civilization-building game ever - fast, small, no ads, free forever! Build your civilization, research technologies, expand your cities and defeat your foes! Requests? Bugs? Want to help development? Todo list for the application is https://github.com/yairm210/Unciv/issues Questions? Comments? Join us on discord at https://discord.gg/bjrB4Xw ;) Want to help translating the game into your language? See https://yairm210.github.io/Unciv/Other/Translating/ The world awaits! Will you build your civilization into an empire that will stand the test of time? * Internet permissions required for Multiplayer Open source 4X civilization-building game Updated on Oct 8, 2026 Available on Android, Windows Strategy 4X Casual Multiplayer Competitive multiplayer Single player Abstract Offline Featured stories Special event Play Fest starts on October 13 Big savings, big offers, and more "
+}

@@ -1,0 +1,1033 @@
+[
+  {
+    "id": "com.feralinteractive.rometw",
+    "title": "ROME: Total War",
+    "subtitle": "Combine empire management with large real-time battles.",
+    "genre": "Tactics",
+    "world": "Ancient Rome",
+    "art": "rome",
+    "color": "#7f947c",
+    "description": "A turn-based campaign and real-time battles bring ancient empire building to Android. The listing specifies Android 12+, storage requirements, and supported device restrictions; check compatibility before purchasing.",
+    "note": "Based on the developer’s store listing, not an independent playtest. Session length, difficulty, pause behavior, and daily-task pressure have not been verified.",
+    "tags": [
+      "Turn-based",
+      "Real-time",
+      "Tactics",
+      "Ancient",
+      "Roman",
+      "Warfare",
+      "Offline",
+      "Single player",
+      "Realistic",
+      "Paid download",
+      "Android"
+    ],
+    "price": "Paid download",
+    "priceValue": 9.99,
+    "priceCurrency": "USD",
+    "priceDisplay": "US$9.99",
+    "developer": "Feral Interactive",
+    "ads": null,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.feralinteractive.rometw&hl=en&gl=US",
+    "fetchedAt": "2026-10-12T05:05:54.999095+00:00",
+    "sourceDate": "2026-10-12",
+    "region": "US",
+    "language": "English",
+    "evidence": [
+      {
+        "tag": "Turn-based",
+        "basis": "Editorial mapping of listing",
+        "excerpt": "turn-based campaigns"
+      },
+      {
+        "tag": "Real-time",
+        "basis": "Editorial mapping of listing",
+        "excerpt": "real-time battles"
+      },
+      {
+        "tag": "Tactics",
+        "basis": "Editorial mapping of listing",
+        "excerpt": "tactics"
+      },
+      {
+        "tag": "Ancient",
+        "basis": "Editorial mapping of listing",
+        "excerpt": "antiquity"
+      },
+      {
+        "tag": "Roman",
+        "basis": "Editorial mapping of listing",
+        "excerpt": "Roman Empire"
+      },
+      {
+        "tag": "Warfare",
+        "basis": "Editorial mapping of listing",
+        "excerpt": "battles"
+      },
+      {
+        "tag": "Offline",
+        "basis": "Google Play listing",
+        "excerpt": "Offline"
+      },
+      {
+        "tag": "Single player",
+        "basis": "Google Play listing",
+        "excerpt": "Single player"
+      },
+      {
+        "tag": "Realistic",
+        "basis": "Google Play listing",
+        "excerpt": "Realistic"
+      },
+      {
+        "tag": "Paid download",
+        "basis": "Google Play price",
+        "excerpt": "USD 9.99"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "ANDROID"
+      }
+    ],
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/QcH_bf3yqacgufE3ghOEg_0NhfD9EKPSASGhKAkxOJHlO2L8g1gYFY1z2xuQfN7CAfYpqXsZKe1sK-S2ltErAw",
+    "artDisclaimer": "Original editorial illustration, not a game screenshot."
+  },
+  {
+    "id": "com.longyoug.hmby",
+    "title": "The Last Warlord",
+    "subtitle": "Govern cities and command officers in the Three Kingdoms.",
+    "genre": "Turn-based",
+    "world": "Three Kingdoms, China",
+    "art": "jade",
+    "color": "#7f947c",
+    "description": "Manage cities and officers in a Three Kingdoms setting. Turn-based battles account for weather, terrain, and formations. The store lists both an upfront price and in-app purchases.",
+    "note": "Based on the developer’s store listing, not an independent playtest. Session length, difficulty, pause behavior, and daily-task pressure have not been verified.",
+    "tags": [
+      "Turn-based",
+      "Tactics",
+      "Ancient",
+      "Chinese",
+      "Warfare",
+      "Politics",
+      "Illustrated",
+      "Stylized",
+      "Paid download",
+      "Android",
+      "In-app purchases"
+    ],
+    "price": "Paid download",
+    "priceValue": 4.99,
+    "priceCurrency": "USD",
+    "priceDisplay": "US$4.99",
+    "developer": "ChengDu LongYou Tech LTD",
+    "ads": null,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.longyoug.hmby&hl=en&gl=US",
+    "fetchedAt": "2026-10-12T05:05:55.532249+00:00",
+    "sourceDate": "2026-10-12",
+    "region": "US",
+    "language": "English",
+    "evidence": [
+      {
+        "tag": "Turn-based",
+        "basis": "Editorial mapping of listing",
+        "excerpt": "turn-based"
+      },
+      {
+        "tag": "Tactics",
+        "basis": "Editorial mapping of listing",
+        "excerpt": "Tactics"
+      },
+      {
+        "tag": "Ancient",
+        "basis": "Editorial mapping of listing",
+        "excerpt": "Ancient china"
+      },
+      {
+        "tag": "Chinese",
+        "basis": "Editorial mapping of listing",
+        "excerpt": "Chinese"
+      },
+      {
+        "tag": "Warfare",
+        "basis": "Editorial mapping of listing",
+        "excerpt": "troops"
+      },
+      {
+        "tag": "Politics",
+        "basis": "Editorial mapping of listing",
+        "excerpt": "policies"
+      },
+      {
+        "tag": "Illustrated",
+        "basis": "Editorial mapping of listing",
+        "excerpt": "fine-lined drawing"
+      },
+      {
+        "tag": "Stylized",
+        "basis": "Google Play listing",
+        "excerpt": "Stylized"
+      },
+      {
+        "tag": "Paid download",
+        "basis": "Google Play price",
+        "excerpt": "USD 4.99"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "ANDROID"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      }
+    ],
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/YjcoLiMMZgh1laxKnDnR9sGL2g7-PsBG5CWk63lwnvpZbBqOjxm7OsrqhArg_TNymDS953J9SzJwy2mx1L9P",
+    "artDisclaimer": "Original editorial illustration, not a game screenshot."
+  },
+  {
+    "id": "air.com.midjiwan.polytopia",
+    "title": "The Battle of Polytopia",
+    "subtitle": "Explore, research, and expand one turn at a time.",
+    "genre": "4X",
+    "world": "Stylized civilizations",
+    "art": "forest",
+    "color": "#7f947c",
+    "description": "Lead a tribe through exploration, technology research, and conflict on generated maps. The developer lists offline play, single-player and multiplayer modes; in-app purchases are listed separately from the free download.",
+    "note": "Based on the developer’s store listing, not an independent playtest. Session length, difficulty, pause behavior, and daily-task pressure have not been verified.",
+    "tags": [
+      "Turn-based",
+      "4X",
+      "Warfare",
+      "Politics",
+      "Low poly",
+      "Offline",
+      "Single player",
+      "Multiplayer",
+      "Stylized",
+      "Free download",
+      "Android",
+      "In-app purchases"
+    ],
+    "price": "Free download",
+    "priceValue": 0.0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Midjiwan AB",
+    "ads": null,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=air.com.midjiwan.polytopia&hl=en&gl=US",
+    "fetchedAt": "2026-10-12T05:05:53.890385+00:00",
+    "sourceDate": "2026-10-12",
+    "region": "US",
+    "language": "English",
+    "evidence": [
+      {
+        "tag": "Turn-based",
+        "basis": "Editorial mapping of listing",
+        "excerpt": "turn based"
+      },
+      {
+        "tag": "4X",
+        "basis": "Editorial mapping of listing",
+        "excerpt": "4x"
+      },
+      {
+        "tag": "Warfare",
+        "basis": "Editorial mapping of listing",
+        "excerpt": "warfare"
+      },
+      {
+        "tag": "Politics",
+        "basis": "Editorial mapping of listing",
+        "excerpt": "Diplomacy"
+      },
+      {
+        "tag": "Low poly",
+        "basis": "Editorial mapping of listing",
+        "excerpt": "low poly"
+      },
+      {
+        "tag": "Offline",
+        "basis": "Google Play listing",
+        "excerpt": "Offline"
+      },
+      {
+        "tag": "Single player",
+        "basis": "Google Play listing",
+        "excerpt": "Single player"
+      },
+      {
+        "tag": "Multiplayer",
+        "basis": "Google Play listing",
+        "excerpt": "Multiplayer"
+      },
+      {
+        "tag": "Stylized",
+        "basis": "Google Play listing",
+        "excerpt": "Stylized"
+      },
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "ANDROID"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      }
+    ],
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/_XOGXn-bwLMfsaeGMdIkMFtj4zBgTUldfJpFMS76akYHNLZX2oXKvwiPsmE3o0DLE9p-gM_CU8nLc6WbdKpREQ",
+    "artDisclaimer": "Original editorial illustration, not a game screenshot."
+  },
+  {
+    "id": "com.birdshel.Uciana",
+    "title": "Uciana",
+    "subtitle": "Build a space empire and customize your fleet.",
+    "genre": "4X",
+    "world": "Deep space",
+    "art": "space",
+    "color": "#7f947c",
+    "description": "Explore generated galaxies and balance research, farming, and production. Customize ships for turn-based combat. Offline and single-player are listed by Google Play; session length has not been independently checked.",
+    "note": "Based on the developer’s store listing, not an independent playtest. Session length, difficulty, pause behavior, and daily-task pressure have not been verified.",
+    "tags": [
+      "4X",
+      "Turn-based",
+      "Future",
+      "Space",
+      "Warfare",
+      "Offline",
+      "Single player",
+      "Stylized",
+      "Paid download",
+      "Android"
+    ],
+    "price": "Paid download",
+    "priceValue": 0.99,
+    "priceCurrency": "USD",
+    "priceDisplay": "US$0.99",
+    "developer": "Birdshel",
+    "ads": null,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.birdshel.Uciana&hl=en&gl=US",
+    "fetchedAt": "2026-10-12T05:05:54.418389+00:00",
+    "sourceDate": "2026-10-12",
+    "region": "US",
+    "language": "English",
+    "evidence": [
+      {
+        "tag": "4X",
+        "basis": "Editorial mapping of listing",
+        "excerpt": "4X"
+      },
+      {
+        "tag": "Turn-based",
+        "basis": "Editorial mapping of listing",
+        "excerpt": "turn-based"
+      },
+      {
+        "tag": "Future",
+        "basis": "Editorial mapping of listing",
+        "excerpt": "space faring empire"
+      },
+      {
+        "tag": "Space",
+        "basis": "Editorial mapping of listing",
+        "excerpt": "Stars"
+      },
+      {
+        "tag": "Warfare",
+        "basis": "Editorial mapping of listing",
+        "excerpt": "combat"
+      },
+      {
+        "tag": "Offline",
+        "basis": "Google Play listing",
+        "excerpt": "Offline"
+      },
+      {
+        "tag": "Single player",
+        "basis": "Google Play listing",
+        "excerpt": "Single player"
+      },
+      {
+        "tag": "Stylized",
+        "basis": "Google Play listing",
+        "excerpt": "Stylized"
+      },
+      {
+        "tag": "Paid download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0.99"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "ANDROID"
+      }
+    ],
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/CXzRVHslEz6DxuOcY1uuw28Fl4eS5OTNo1FUSQkOf2-k81wM6cb2VamekJEYb39cxrV0x92OsoZKRsDPMl1j",
+    "artDisclaimer": "Original editorial illustration, not a game screenshot."
+  },
+  {
+    "id": "com.playdigious.northgard",
+    "title": "Northgard",
+    "subtitle": "Guide a Viking clan through harsh winters.",
+    "genre": "City builder",
+    "world": "Norse mythology",
+    "art": "north",
+    "color": "#7f947c",
+    "description": "Build a settlement, assign jobs, and manage resources in a Norse-inspired land. The developer describes a campaign, multiplayer, and separately purchasable clan DLC. Offline capability is not confirmed in this captured listing.",
+    "note": "Based on the developer’s store listing, not an independent playtest. Session length, difficulty, pause behavior, and daily-task pressure have not been verified.",
+    "tags": [
+      "City builder",
+      "Nordic",
+      "Fantasy",
+      "Survival",
+      "Trade",
+      "Warfare",
+      "Single player",
+      "Multiplayer",
+      "Stylized",
+      "Paid download",
+      "Android",
+      "In-app purchases"
+    ],
+    "price": "Paid download",
+    "priceValue": 2.99,
+    "priceCurrency": "USD",
+    "priceDisplay": "US$2.99",
+    "developer": "Playdigious",
+    "ads": null,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.playdigious.northgard&hl=en&gl=US",
+    "fetchedAt": "2026-10-12T05:05:55.017863+00:00",
+    "sourceDate": "2026-10-12",
+    "region": "US",
+    "language": "English",
+    "evidence": [
+      {
+        "tag": "City builder",
+        "basis": "Editorial mapping of listing",
+        "excerpt": "Build your settlement"
+      },
+      {
+        "tag": "Nordic",
+        "basis": "Editorial mapping of listing",
+        "excerpt": "Norse mythology"
+      },
+      {
+        "tag": "Fantasy",
+        "basis": "Editorial mapping of listing",
+        "excerpt": "Undead Warriors"
+      },
+      {
+        "tag": "Survival",
+        "basis": "Editorial mapping of listing",
+        "excerpt": "survive harsh winters"
+      },
+      {
+        "tag": "Trade",
+        "basis": "Editorial mapping of listing",
+        "excerpt": "trading"
+      },
+      {
+        "tag": "Warfare",
+        "basis": "Editorial mapping of listing",
+        "excerpt": "conquest"
+      },
+      {
+        "tag": "Single player",
+        "basis": "Google Play listing",
+        "excerpt": "Single player"
+      },
+      {
+        "tag": "Multiplayer",
+        "basis": "Google Play listing",
+        "excerpt": "Multiplayer"
+      },
+      {
+        "tag": "Stylized",
+        "basis": "Google Play listing",
+        "excerpt": "Stylized"
+      },
+      {
+        "tag": "Paid download",
+        "basis": "Google Play price",
+        "excerpt": "USD 2.99"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "ANDROID"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      }
+    ],
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/gLyPKw3pprF5mJkCIOU4xwW3OwD_3O1McJaJqDgVqUji3lMkq1nBzARimfNMWutMHpswQN_T32X9XwzFDMhGIKE",
+    "artDisclaimer": "Original editorial illustration, not a game screenshot."
+  },
+  {
+    "id": "io.anuke.mindustry",
+    "title": "Mindustry",
+    "subtitle": "Build the supply chains that keep your defenses alive.",
+    "genre": "Tower defense",
+    "world": "Industrial worlds",
+    "art": "modern",
+    "color": "#7f947c",
+    "description": "Combine factory production, tower defense, and real-time strategy. The developer describes campaigns, a map editor, co-op, and PvP; the store also lists offline and single-player modes.",
+    "note": "Based on the developer’s store listing, not an independent playtest. Session length, difficulty, pause behavior, and daily-task pressure have not been verified.",
+    "tags": [
+      "Tower defense",
+      "Real-time",
+      "Economic strategy",
+      "Future",
+      "Warfare",
+      "Offline",
+      "Single player",
+      "Multiplayer",
+      "Abstract",
+      "Free download",
+      "Android"
+    ],
+    "price": "Free download",
+    "priceValue": 0.0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Anuken",
+    "ads": null,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=io.anuke.mindustry&hl=en&gl=US",
+    "fetchedAt": "2026-10-12T05:05:53.928484+00:00",
+    "sourceDate": "2026-10-12",
+    "region": "US",
+    "language": "English",
+    "evidence": [
+      {
+        "tag": "Tower defense",
+        "basis": "Editorial mapping of listing",
+        "excerpt": "tower defense"
+      },
+      {
+        "tag": "Real-time",
+        "basis": "Editorial mapping of listing",
+        "excerpt": "RTS"
+      },
+      {
+        "tag": "Economic strategy",
+        "basis": "Editorial mapping of listing",
+        "excerpt": "factory-building"
+      },
+      {
+        "tag": "Future",
+        "basis": "Editorial mapping of listing",
+        "excerpt": "mechs"
+      },
+      {
+        "tag": "Warfare",
+        "basis": "Editorial mapping of listing",
+        "excerpt": "enemies"
+      },
+      {
+        "tag": "Offline",
+        "basis": "Google Play listing",
+        "excerpt": "Offline"
+      },
+      {
+        "tag": "Single player",
+        "basis": "Google Play listing",
+        "excerpt": "Single player"
+      },
+      {
+        "tag": "Multiplayer",
+        "basis": "Google Play listing",
+        "excerpt": "Multiplayer"
+      },
+      {
+        "tag": "Abstract",
+        "basis": "Google Play listing",
+        "excerpt": "Abstract"
+      },
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "ANDROID"
+      }
+    ],
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/jnZ7m9EvEBGlC684JnyZ-sWTG8044B_mLSyP4yj1l94yCf-kir8lBFUPTJoOT26w5aXLskGbku1AYvBHnC-p",
+    "artDisclaimer": "Original editorial illustration, not a game screenshot."
+  },
+  {
+    "id": "com.unciv.app",
+    "title": "Unciv",
+    "subtitle": "An open-source approach to building an empire.",
+    "genre": "4X",
+    "world": "Civilization building",
+    "art": "rome",
+    "color": "#7f947c",
+    "description": "Research technologies, develop cities, and expand a civilization. The developer explicitly describes the game as free forever and ad-free. The listing includes offline and single-player labels; internet access is required for multiplayer.",
+    "note": "Based on the developer’s store listing, not an independent playtest. Session length, difficulty, pause behavior, and daily-task pressure have not been verified.",
+    "tags": [
+      "4X",
+      "City builder",
+      "No ads",
+      "Warfare",
+      "Offline",
+      "Single player",
+      "Multiplayer",
+      "Abstract",
+      "Free download",
+      "Android"
+    ],
+    "price": "Free download",
+    "priceValue": 0.0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Yair Morgenstern",
+    "ads": false,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.unciv.app&hl=en&gl=US",
+    "fetchedAt": "2026-10-12T05:05:53.909867+00:00",
+    "sourceDate": "2026-10-12",
+    "region": "US",
+    "language": "English",
+    "evidence": [
+      {
+        "tag": "4X",
+        "basis": "Editorial mapping of listing",
+        "excerpt": "4X"
+      },
+      {
+        "tag": "City builder",
+        "basis": "Editorial mapping of listing",
+        "excerpt": "expand your cities"
+      },
+      {
+        "tag": "No ads",
+        "basis": "Editorial mapping of listing",
+        "excerpt": "no ads"
+      },
+      {
+        "tag": "Warfare",
+        "basis": "Editorial mapping of listing",
+        "excerpt": "defeat your foes"
+      },
+      {
+        "tag": "Offline",
+        "basis": "Google Play listing",
+        "excerpt": "Offline"
+      },
+      {
+        "tag": "Single player",
+        "basis": "Google Play listing",
+        "excerpt": "Single player"
+      },
+      {
+        "tag": "Multiplayer",
+        "basis": "Google Play listing",
+        "excerpt": "Multiplayer"
+      },
+      {
+        "tag": "Abstract",
+        "basis": "Google Play listing",
+        "excerpt": "Abstract"
+      },
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "ANDROID"
+      }
+    ],
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/iJK5FRHfttfyasy1mS2gKUayeV3eayNJ_BC52B1a5GHO4TP2wYxCPuKjLqauhVFDcrgmc5eYUe_TwqfqgEzFBA",
+    "artDisclaimer": "Original editorial illustration, not a game screenshot."
+  },
+  {
+    "id": "com.corrodinggames.rts",
+    "title": "Rusted Warfare - RTS Strategy",
+    "subtitle": "Command land, sea, and air forces in a classic RTS.",
+    "genre": "Real-time",
+    "world": "Mechanized warfare",
+    "art": "modern",
+    "color": "#7f947c",
+    "description": "Build bases and control a combined army in real time. The developer lists campaign and skirmish modes, online and offline multiplayer, and saving and loading games. The description explicitly says there are no microtransactions.",
+    "note": "Based on the developer’s store listing, not an independent playtest. Session length, difficulty, pause behavior, and daily-task pressure have not been verified.",
+    "tags": [
+      "Real-time",
+      "Warfare",
+      "No microtransactions",
+      "Offline",
+      "Single player",
+      "Multiplayer",
+      "Stylized",
+      "Paid download",
+      "Android"
+    ],
+    "price": "Paid download",
+    "priceValue": 1.99,
+    "priceCurrency": "USD",
+    "priceDisplay": "US$1.99",
+    "developer": "Corroding games",
+    "ads": null,
+    "inAppPurchases": false,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.corrodinggames.rts&hl=en&gl=US",
+    "fetchedAt": "2026-10-12T05:05:54.464212+00:00",
+    "sourceDate": "2026-10-12",
+    "region": "US",
+    "language": "English",
+    "evidence": [
+      {
+        "tag": "Real-time",
+        "basis": "Editorial mapping of listing",
+        "excerpt": "real-time strategy"
+      },
+      {
+        "tag": "Warfare",
+        "basis": "Editorial mapping of listing",
+        "excerpt": "army"
+      },
+      {
+        "tag": "No microtransactions",
+        "basis": "Editorial mapping of listing",
+        "excerpt": "no microtransactions"
+      },
+      {
+        "tag": "Offline",
+        "basis": "Google Play listing",
+        "excerpt": "Offline"
+      },
+      {
+        "tag": "Single player",
+        "basis": "Google Play listing",
+        "excerpt": "Single player"
+      },
+      {
+        "tag": "Multiplayer",
+        "basis": "Google Play listing",
+        "excerpt": "Multiplayer"
+      },
+      {
+        "tag": "Stylized",
+        "basis": "Google Play listing",
+        "excerpt": "Stylized"
+      },
+      {
+        "tag": "Paid download",
+        "basis": "Google Play price",
+        "excerpt": "USD 1.99"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "ANDROID"
+      }
+    ],
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/8XibM2aYuWhqmomPk0_wcq_L_Fww2XVvoYBrfLSp46SJoI2eWf_FrkOOYbPjPZKPDOY9QScsxKrApIXO7qTbsw",
+    "artDisclaimer": "Original editorial illustration, not a game screenshot."
+  },
+  {
+    "id": "yio.tro.achikaps",
+    "title": "Achikaps Demo",
+    "subtitle": "A free demo of a compact economic strategy game.",
+    "genre": "Economic strategy",
+    "world": "Abstract economy",
+    "art": "forest",
+    "color": "#7f947c",
+    "description": "This is the demo edition, offering sandbox play and part of the campaign. The developer describes a simple economic strategy game without microtransactions; offline and single-player are store labels.",
+    "note": "Based on the developer’s store listing, not an independent playtest. Session length, difficulty, pause behavior, and daily-task pressure have not been verified.",
+    "tags": [
+      "Economic strategy",
+      "Free demo",
+      "No microtransactions",
+      "Offline",
+      "Single player",
+      "Abstract",
+      "Free download",
+      "Android"
+    ],
+    "price": "Free download",
+    "priceValue": 0.0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "yiotro",
+    "ads": null,
+    "inAppPurchases": false,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=yio.tro.achikaps&hl=en&gl=US",
+    "fetchedAt": "2026-10-12T05:05:54.478230+00:00",
+    "sourceDate": "2026-10-12",
+    "region": "US",
+    "language": "English",
+    "evidence": [
+      {
+        "tag": "Economic strategy",
+        "basis": "Editorial mapping of listing",
+        "excerpt": "economic strategy"
+      },
+      {
+        "tag": "Free demo",
+        "basis": "Editorial mapping of listing",
+        "excerpt": "demo version"
+      },
+      {
+        "tag": "No microtransactions",
+        "basis": "Editorial mapping of listing",
+        "excerpt": "without microtransactions"
+      },
+      {
+        "tag": "Offline",
+        "basis": "Google Play listing",
+        "excerpt": "Offline"
+      },
+      {
+        "tag": "Single player",
+        "basis": "Google Play listing",
+        "excerpt": "Single player"
+      },
+      {
+        "tag": "Abstract",
+        "basis": "Google Play listing",
+        "excerpt": "Abstract"
+      },
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "ANDROID"
+      }
+    ],
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/Z4vDCnM0ibn_xhkYWjh8oLsaHpTzxJ9HeTlANWGAJ8F0EGFSlBtSRUvau3DfsIW1mx3BMEexmIKpjyjDnl7istE",
+    "artDisclaimer": "Original editorial illustration, not a game screenshot."
+  },
+  {
+    "id": "age.of.civilizations2.jakowski.lukasz",
+    "title": "Age of History II",
+    "subtitle": "Shape borders through diplomacy and military tactics.",
+    "genre": "Grand strategy",
+    "world": "Across history",
+    "art": "japan",
+    "color": "#7f947c",
+    "description": "Lead civilizations through historical and custom scenarios. The developer describes diplomacy, peace treaties, a scenario editor, and a timeline stretching from early civilization into the future. Availability on a listing is not a device compatibility guarantee.",
+    "note": "Based on the developer’s store listing, not an independent playtest. Session length, difficulty, pause behavior, and daily-task pressure have not been verified.",
+    "tags": [
+      "Grand strategy",
+      "Ancient",
+      "Future",
+      "Politics",
+      "Warfare",
+      "Single player",
+      "Realistic",
+      "Paid download",
+      "Android"
+    ],
+    "price": "Paid download",
+    "priceValue": 4.99,
+    "priceCurrency": "USD",
+    "priceDisplay": "US$4.99",
+    "developer": "Łukasz Jakowski",
+    "ads": null,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=age.of.civilizations2.jakowski.lukasz&hl=en&gl=US",
+    "fetchedAt": "2026-10-12T05:05:55.557362+00:00",
+    "sourceDate": "2026-10-12",
+    "region": "US",
+    "language": "English",
+    "evidence": [
+      {
+        "tag": "Grand strategy",
+        "basis": "Editorial mapping of listing",
+        "excerpt": "grand strategy"
+      },
+      {
+        "tag": "Ancient",
+        "basis": "Editorial mapping of listing",
+        "excerpt": "dawn of civilization"
+      },
+      {
+        "tag": "Future",
+        "basis": "Editorial mapping of listing",
+        "excerpt": "far future"
+      },
+      {
+        "tag": "Politics",
+        "basis": "Editorial mapping of listing",
+        "excerpt": "diplomacy"
+      },
+      {
+        "tag": "Warfare",
+        "basis": "Editorial mapping of listing",
+        "excerpt": "military tactics"
+      },
+      {
+        "tag": "Single player",
+        "basis": "Google Play listing",
+        "excerpt": "Single player"
+      },
+      {
+        "tag": "Realistic",
+        "basis": "Google Play listing",
+        "excerpt": "Realistic"
+      },
+      {
+        "tag": "Paid download",
+        "basis": "Google Play price",
+        "excerpt": "USD 4.99"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "ANDROID"
+      }
+    ],
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/IUCLPg4K4FUAoLDl6ocEQ6VUS_pnvE_lR88Xxqk_0hmE2kPBacMcGT6GL3KfPsjDUeSRbecSjfkdsNoGu7L7",
+    "artDisclaimer": "Original editorial illustration, not a game screenshot."
+  },
+  {
+    "id": "com.ironhidegames.android.kingdomrush",
+    "title": "Kingdom Rush Tower Defense TD",
+    "subtitle": "Defend a fantasy kingdom with towers and heroes.",
+    "genre": "Tower defense",
+    "world": "Medieval fantasy",
+    "art": "castle",
+    "color": "#7f947c",
+    "description": "Build and upgrade defenses against fantasy enemies. The developer explicitly describes offline play and cartoon battles. Google Play marks this free-download version as containing ads and in-app purchases.",
+    "note": "Based on the developer’s store listing, not an independent playtest. Session length, difficulty, pause behavior, and daily-task pressure have not been verified.",
+    "tags": [
+      "Tower defense",
+      "Fantasy",
+      "Medieval",
+      "Cartoon",
+      "Warfare",
+      "Offline",
+      "Single player",
+      "Stylized",
+      "Free download",
+      "Android",
+      "Contains ads",
+      "In-app purchases"
+    ],
+    "price": "Free download",
+    "priceValue": 0.0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Ironhide Games",
+    "ads": true,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.ironhidegames.android.kingdomrush&hl=en&gl=US",
+    "fetchedAt": "2026-10-12T05:05:55.042407+00:00",
+    "sourceDate": "2026-10-12",
+    "region": "US",
+    "language": "English",
+    "evidence": [
+      {
+        "tag": "Tower defense",
+        "basis": "Editorial mapping of listing",
+        "excerpt": "tower defense"
+      },
+      {
+        "tag": "Fantasy",
+        "basis": "Editorial mapping of listing",
+        "excerpt": "orcs"
+      },
+      {
+        "tag": "Medieval",
+        "basis": "Editorial mapping of listing",
+        "excerpt": "Medieval"
+      },
+      {
+        "tag": "Cartoon",
+        "basis": "Editorial mapping of listing",
+        "excerpt": "cartoon"
+      },
+      {
+        "tag": "Warfare",
+        "basis": "Editorial mapping of listing",
+        "excerpt": "battles"
+      },
+      {
+        "tag": "Offline",
+        "basis": "Google Play listing",
+        "excerpt": "Offline"
+      },
+      {
+        "tag": "Single player",
+        "basis": "Google Play listing",
+        "excerpt": "Single player"
+      },
+      {
+        "tag": "Stylized",
+        "basis": "Google Play listing",
+        "excerpt": "Stylized"
+      },
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "ANDROID"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      }
+    ],
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/d7w1fnJLgVVooMXo6R5yr9RaWuLV6NdyZ_oFuJv9AAN3aAta8kzAE-VzJYS1CL2Pl5DCcX1b9-d981PdMnzQHw",
+    "artDisclaimer": "Original editorial illustration, not a game screenshot."
+  }
+]
