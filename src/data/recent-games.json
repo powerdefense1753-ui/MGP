@@ -6150,6 +6150,66 @@
     "iconSourceUrl": "https://play-lh.googleusercontent.com/pHEtAQ6-0hjqY4zHkAwC6FPiCRXhQ3bxNbSa6P-cCyUrJd2wCCSHy1WGbGHIZvA7XZII31gFwWKOE-sCATdcsA"
   },
   {
+    "id": "com.novanext.spaceswarm.survivortd",
+    "title": "Space Swarm: Survivor TD",
+    "subtitle": "Defend Earth from alien swarms! Build orbital turrets & upgrade sci-fi weapons.",
+    "description": "Defend Earth from alien swarms! Build orbital turrets & upgrade sci-fi weapons.",
+    "overviewEn": "Defend Earth from alien swarms! Build orbital turrets & upgrade sci-fi weapons.",
+    "genre": "Strategy",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "In-app purchases"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "NovaNext",
+    "ads": true,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.novanext.spaceswarm.survivortd&hl=en&gl=US",
+    "fetchedAt": "2026-10-14T04:07:15.778Z",
+    "sourceDate": "2026-10-14",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-08-23",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Aug 23, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.novanext.spaceswarm.survivortd&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/O0_bcgTUR65S2hF34wX8YWozxMXuTZfGa62ggEsHhxgRZ-ZQqs3vNnEbyz90vKzrDK9IOvHF2fth9XSjYkX1Dg"
+  },
+  {
     "id": "com.openmindworld.whitetempledominion",
     "title": "화이트 템플: 도미니언 프로토콜",
     "subtitle": "A strategy simulation where you command White Temple agents and troops to unify 30 cities",
@@ -13924,6 +13984,60 @@
     "catalog": "recent",
     "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
     "iconSourceUrl": "https://play-lh.googleusercontent.com/m0TTv9CmmPw-Etu52xekigIGa2PIhPa-M8o-bqnYrMwDy7ZQ6J-DDrlp5HA2r5VBLi5WjWuQFnbUsl4SAB2eLA"
+  },
+  {
+    "id": "com.blindsidedgames.pulsecitadel",
+    "title": "Pulse Citadel",
+    "subtitle": "Automated combat powers a hand-built grid. Route Charge and wake the Citadel.",
+    "description": "Automated combat powers a hand-built grid. Route Charge and wake the Citadel.",
+    "overviewEn": "Automated combat powers a hand-built grid. Route Charge and wake the Citadel.",
+    "genre": "Strategy",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "In-app purchases"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "BlindsidedGames",
+    "ads": null,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.blindsidedgames.pulsecitadel&hl=en&gl=US",
+    "fetchedAt": "2026-10-14T04:08:47.939Z",
+    "sourceDate": "2026-10-14",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-06-15",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Jun 15, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.blindsidedgames.pulsecitadel&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/rd7SJ1DW5MznQdtJuiI__qpRnNk-F3WavuPRM18RyFUl91TuZzodSJTxZFnkABFYQoOvH5Cl4dSO_i6iGsXXVg"
   },
   {
     "id": "com.xxxxgame.castlesiegemaster",
@@ -30688,6 +30802,84 @@
     "catalog": "recent",
     "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
     "iconSourceUrl": "https://play-lh.googleusercontent.com/oDBMMWA_e1ziq2-I3u9NEPRGXtS39NeSlSoxfhIj92fqyaMbvrWUXxnPptmayWH50hznZKtXvTTiOOZ3TLvtBQ"
+  },
+  {
+    "id": "com.traverse.zhfx.en.gp",
+    "title": "Dragon Fever TD!",
+    "subtitle": "Dragon Onslaught Incoming — An Addictively Fun Tower Defense",
+    "description": "Dragon Onslaught Incoming — An Addictively Fun Tower Defense",
+    "overviewEn": "Dragon Onslaught Incoming — An Addictively Fun Tower Defense",
+    "genre": "Tower defense",
+    "world": "",
+    "tags": [
+      "Tower defense",
+      "Single player",
+      "Stylized",
+      "Free download",
+      "Android",
+      "Contains ads",
+      "In-app purchases"
+    ],
+    "evidence": [
+      {
+        "tag": "Tower defense",
+        "basis": "Google Play category label mapping",
+        "excerpt": "Tower defense"
+      },
+      {
+        "tag": "Single player",
+        "basis": "Google Play category label mapping",
+        "excerpt": "Single player"
+      },
+      {
+        "tag": "Stylized",
+        "basis": "Google Play category label mapping",
+        "excerpt": "Stylized"
+      },
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Wonder Game Inc.",
+    "ads": true,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.traverse.zhfx.en.gp&hl=en&gl=US",
+    "fetchedAt": "2026-10-14T05:22:07.345Z",
+    "sourceDate": "2026-10-14",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2025-11-13",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Nov 13, 2025",
+      "url": "https://play.google.com/store/apps/details?id=com.traverse.zhfx.en.gp&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/_JQXxYgC5egW1MygJHVvMUVHopHK8rpHRl8YJpyEFpkmeDjf3HQrM2HFqjRV0c4AXHi4vz3D8XkS-srv0MGcUQ"
   },
   {
     "id": "com.LeapStudeio.BambooFortress",
@@ -50926,6 +51118,54 @@
     "catalog": "recent",
     "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
     "iconSourceUrl": "https://play-lh.googleusercontent.com/DLZoUzQORtVCLKic7zfzEw5HE_LTjQ2P5eWO0X2vkxT8DD8Ge4pjwZWgjGz49luhVZsDYVqF3kbl1cyMfcfC-9g"
+  },
+  {
+    "id": "com.blindsidedgames.idledysonswarmnanite",
+    "title": "Idle Dyson Swarm: Nanite",
+    "subtitle": "Swarms of nanites are what you desire, Build up your army and watch them inspire",
+    "description": "Swarms of nanites are what you desire, Build up your army and watch them inspire",
+    "overviewEn": "Swarms of nanites are what you desire, Build up your army and watch them inspire",
+    "genre": "Strategy",
+    "world": "",
+    "tags": [
+      "Paid download",
+      "Android"
+    ],
+    "evidence": [
+      {
+        "tag": "Paid download",
+        "basis": "Google Play price",
+        "excerpt": "USD 3.49"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      }
+    ],
+    "price": "Paid download",
+    "priceValue": 3.49,
+    "priceCurrency": "USD",
+    "priceDisplay": "US$3.49",
+    "developer": "BlindsidedGames",
+    "ads": null,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.blindsidedgames.idledysonswarmnanite&hl=en&gl=US",
+    "fetchedAt": "2026-10-14T04:07:17.423Z",
+    "sourceDate": "2026-10-14",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2024-10-22",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Oct 22, 2024",
+      "url": "https://play.google.com/store/apps/details?id=com.blindsidedgames.idledysonswarmnanite&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/LW1GsUhmeGIVK3X6uuzTqptsJeEW8yhFjo67WJghNrZk8zLNeUUSrHhywEh4Tqc4lnolKZ4bPMfJLCwUtrvRzQ"
   },
   {
     "id": "studio.powerplay.tycoonwrapper",

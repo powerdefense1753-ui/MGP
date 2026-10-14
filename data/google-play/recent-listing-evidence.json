@@ -5341,6 +5341,62 @@
     "url": "https://play.google.com/store/apps/details?id=com.castlestormers.game&hl=en&gl=US",
     "fetchedAt": "2026-10-12T08:33:17.992Z"
   },
+  "com.novanext.spaceswarm.survivortd": {
+    "appId": "com.novanext.spaceswarm.survivortd",
+    "title": "Space Swarm: Survivor TD",
+    "summary": "Defend Earth from alien swarms! Build orbital turrets &amp; upgrade sci-fi weapons.",
+    "installs": "100+",
+    "minInstalls": 100,
+    "score": null,
+    "ratings": null,
+    "price": 0,
+    "free": true,
+    "currency": "USD",
+    "priceText": "Free",
+    "offersIAP": true,
+    "adSupported": true,
+    "developer": "NovaNext",
+    "developerId": "NovaNext",
+    "developerInternalID": "NovaNext",
+    "genre": "Strategy",
+    "genreId": "GAME_STRATEGY",
+    "categories": [
+      {
+        "name": "Strategy",
+        "id": "GAME_STRATEGY"
+      }
+    ],
+    "icon": "https://play-lh.googleusercontent.com/O0_bcgTUR65S2hF34wX8YWozxMXuTZfGa62ggEsHhxgRZ-ZQqs3vNnEbyz90vKzrDK9IOvHF2fth9XSjYkX1Dg",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/5tnKGmxIZV3FRetDYl549VToKzd1sz3pJ7LJYDC6_7wJtz0lHVbR8bbC_hs6WMxfeZ539HtBipmtZvz_50RPiA",
+      "https://play-lh.googleusercontent.com/h5knkItU_siZd82pNTidxLqEsk0MlITID485mapnzW71nJR0VBjL092qSf1mcoYiEN-oQxoXV8phkxIz4DHFXyY",
+      "https://play-lh.googleusercontent.com/bbn-JXbvnXkLBAdw1It3QaO80PK6fZtErxktyA71wAU1NUAO2jI6ekbJOn25iZd4mDNvGsFQSBBwXcfpFAtg",
+      "https://play-lh.googleusercontent.com/ql21yIjrhuhXclJ2u9AQbVRO2yg1rstZsIRJTjPLreNisDq6cpTD56l_q7PrjwbmW21Ty9h1FOsD9TAxKyOoBQ",
+      "https://play-lh.googleusercontent.com/x6SUOXXEgw6iXq2v2lE28HytdCKcmeSqpRRRzxHlooVHMJqQSdYU0pnw-_5-8TKioPuj6kK7wqZBLBE6WB_wtA",
+      "https://play-lh.googleusercontent.com/W8rWdRs8STUIcwf2itRGH5pNor1kWUtCwQav8EbNDPx7d1MS1gIBNI3HG9yAuNnX-w0UrXilXwR-9kjQXIdQGg",
+      "https://play-lh.googleusercontent.com/0vbh-YtecGx4sYj7R3yRUxTznAGPFL4z3MDcnzxoKDXjxYb0Yrjplxfzyov1Sz__OTFvexczWj1urSUGn6No66g",
+      "https://play-lh.googleusercontent.com/FXxW5uSvzQlQlapysitkenXQZZPKNRg_yurW28Km_SVoKC7lU0IMweNEElp9hwHpVaXB5BvkIimW84YwUd3s9ws",
+      "https://play-lh.googleusercontent.com/lJnjQeo8pAk_MDnlCV_BztHFMqo9cvXrM7RAqCcbjewcMZBmvu9oKQH6iyh0pu3YdtJAAM4ngl4Ac2L8T5loqQ",
+      "https://play-lh.googleusercontent.com/Eu4-KGBG_YJcWYTjiIkEucMWMFsMsYfSbGkJgLwLFz_vH15i8dLh_I58A3e0FtFiD17zyfSuuYn639RAf5Od0g",
+      "https://play-lh.googleusercontent.com/CEBYhZ610rBd2Lk_zspnRy0Ie6WtBx1-S555gzqQiPQCDwnrHumMhzuHBKroyDWMtynUu6mDBJh5feWYJ2NL",
+      "https://play-lh.googleusercontent.com/AAJ1QjkLVYRgfO_xBTeSg6EzqiExV1KEjq5GpZoi11E5Y2E4zkZ3jC9Slb9LeXCNWhqNe4auxcpycGoTw5YlYg",
+      "https://play-lh.googleusercontent.com/E_-cSmnDAqvdw56vc8-Zrm9TtCDz_t54sumJBgTa1oq-AMcJBoTyjOF_H7VNnYYhYpTjn68B9vuaHD32mVrm9A",
+      "https://play-lh.googleusercontent.com/KS82qAFJFDSk-d3Sbn5iF7zm_ExYz1hpg_hn8rUM5NuGpztf5B7AXEP8dSASMGq0FYJ1wx3a58_Z7WjKLyZ0",
+      "https://play-lh.googleusercontent.com/_-FAvcPvJDzRa_ikHsCY2KqP3p__Auw3MUEurvOG6MDH6SKED8WA8oRQEIlegstQ1gUpyCf-heZ5dzmNj4uAv3g",
+      "https://play-lh.googleusercontent.com/E_-cSmnDAqvdw56vc8-Zrm9TtCDz_t54sumJBgTa1oq-AMcJBoTyjOF_H7VNnYYhYpTjn68B9vuaHD32mVrm9A",
+      "https://play-lh.googleusercontent.com/KS82qAFJFDSk-d3Sbn5iF7zm_ExYz1hpg_hn8rUM5NuGpztf5B7AXEP8dSASMGq0FYJ1wx3a58_Z7WjKLyZ0",
+      "https://play-lh.googleusercontent.com/AAJ1QjkLVYRgfO_xBTeSg6EzqiExV1KEjq5GpZoi11E5Y2E4zkZ3jC9Slb9LeXCNWhqNe4auxcpycGoTw5YlYg",
+      "https://play-lh.googleusercontent.com/CEBYhZ610rBd2Lk_zspnRy0Ie6WtBx1-S555gzqQiPQCDwnrHumMhzuHBKroyDWMtynUu6mDBJh5feWYJ2NL",
+      "https://play-lh.googleusercontent.com/Eu4-KGBG_YJcWYTjiIkEucMWMFsMsYfSbGkJgLwLFz_vH15i8dLh_I58A3e0FtFiD17zyfSuuYn639RAf5Od0g",
+      "https://play-lh.googleusercontent.com/lJnjQeo8pAk_MDnlCV_BztHFMqo9cvXrM7RAqCcbjewcMZBmvu9oKQH6iyh0pu3YdtJAAM4ngl4Ac2L8T5loqQ"
+    ],
+    "released": "Aug 23, 2026",
+    "updated": 1789439991000,
+    "preregister": false,
+    "earlyAccessEnabled": false,
+    "url": "https://play.google.com/store/apps/details?id=com.novanext.spaceswarm.survivortd&hl=en&gl=US",
+    "fetchedAt": "2026-10-14T04:07:15.778Z"
+  },
   "com.openmindworld.whitetempledominion": {
     "appId": "com.openmindworld.whitetempledominion",
     "title": "화이트 템플: 도미니언 프로토콜",
@@ -12229,6 +12285,64 @@
     "earlyAccessEnabled": false,
     "url": "https://play.google.com/store/apps/details?id=com.TeamSparta.MadDefense&hl=en&gl=US",
     "fetchedAt": "2026-10-12T07:44:56.101Z"
+  },
+  "com.blindsidedgames.pulsecitadel": {
+    "appId": "com.blindsidedgames.pulsecitadel",
+    "title": "Pulse Citadel",
+    "summary": "Automated combat powers a hand-built grid. Route Charge and wake the Citadel.",
+    "installs": "1,000+",
+    "minInstalls": 1000,
+    "score": 3.875,
+    "ratings": 17,
+    "price": 0,
+    "free": true,
+    "currency": "USD",
+    "priceText": "Free",
+    "offersIAP": true,
+    "adSupported": false,
+    "developer": "BlindsidedGames",
+    "developerId": "8315705273233616064",
+    "developerInternalID": "8315705273233616064",
+    "genre": "Strategy",
+    "genreId": "GAME_STRATEGY",
+    "categories": [
+      {
+        "name": "Strategy",
+        "id": "GAME_STRATEGY"
+      }
+    ],
+    "icon": "https://play-lh.googleusercontent.com/rd7SJ1DW5MznQdtJuiI__qpRnNk-F3WavuPRM18RyFUl91TuZzodSJTxZFnkABFYQoOvH5Cl4dSO_i6iGsXXVg",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/Yr9hkFZOAp3_jejmOA6pPE7Bdzcm2n5MdWErfXeeyRbq5lpWNy9Byk-mA_oFi67xpypc7otbvhYDHU1oJR-dHQ",
+      "https://play-lh.googleusercontent.com/WXWfDVdN3tigTavX9bwgSEt5P1hQImZhKX-6vkFhTRBDW-y2zjemrPKbG2xz7p95tkx4fHHsT-rIYPYpHBFg",
+      "https://play-lh.googleusercontent.com/lQXX19rfb902N42iKSioQYDn0uJhWB0kvoKp-XxzhsAwoaRHp3UoFxfqC0GpNZZInxjzMOyya23rQFzaUOe0xg",
+      "https://play-lh.googleusercontent.com/erx7TXbGAlG8TcNupx7K3lNjX1zCXqDu0DZsDnbvZ5ncZzOugkigoVWlALif15YZIWP8XO--iKCqIVIX2EsL",
+      "https://play-lh.googleusercontent.com/Kp8soyxRGPv8UTMePDU3qjFSYCPsgBserBf6Uk6UvfhO1OSf28SWeNI5OpPgY7kJFjKbUSVEGTEDtWdNI5FX2Q",
+      "https://play-lh.googleusercontent.com/fiNjdC9OhqpPmyZBG1EARC-F-UNUlVvMYg-1HZzt_PtE4H8AwFJYOdbfj1iV4zuF6squoMc6Mt7yAOjv9_MXMg",
+      "https://play-lh.googleusercontent.com/SmuID3keQvm8UrdbZtZb8bT1s2Mw3abn7708xeiFzYnJYmzu8OkFER9HKvd_WHDlZbrR5vMRwHS7_Yy_C5EBYQ",
+      "https://play-lh.googleusercontent.com/1MpPIgu_-BoL6V7XA3o-Spr0Ip2kYgWFK0JzLMVojOhS8BSIWGMveV6sEBzS60LKVrPs-E-acarGYwb0LvawIA",
+      "https://play-lh.googleusercontent.com/a0HRY9tGzgvEGmkIaPG1HWCsUhgouYC9asE2EzNJpQUQrMJAoIiYPGSDLplJTbCAF6A8K-pSdw7mFGtXX9fo3fo",
+      "https://play-lh.googleusercontent.com/x2W9HGw-khn5Hd9UiHay6Y7sI3KHsvZSQDf1G6Dwm9EFSPKBzFr1T5GiAleyIdYL_-PsQWgtN9wMr7UY3WThAg",
+      "https://play-lh.googleusercontent.com/c_FjVYyTf4zUNzyY20JQHVtw4WMc6296Om-btYweVVSqlG92lAam-T5ZyK1t0Msb559LzSRBlL5-vm8AY45Har0",
+      "https://play-lh.googleusercontent.com/PCzyWTOObUWNY5P_zzq9ZC1LT5as-zpyCMBlTyjiJJbKkMm5Gf7zNm6Cb2MPVQQ5G0ZPpNPzfXu_u6s-b7bOfSQ",
+      "https://play-lh.googleusercontent.com/0qAaVENrA07bQtZxQZWiY1mtAO1AG0hqP0NFuzCrvNPgDqqGRqcL7o0KfGvd50PpXQlXk8cjETpZJ5OUEqcCJw",
+      "https://play-lh.googleusercontent.com/seHkSWp-9I-9QpG8Q_JjiBqfKGLhfsdBJYBwyS5Jnh9G8IvSU0VbvYVNgXTloFsJTc_mZ3qZlccfhRkZR3EsZrA",
+      "https://play-lh.googleusercontent.com/A7KSLCMGDhHVjSzC5k2HOIdyVZoqsBa4NhljZkK8jb8SRtMPNXkFVVl_po0vN4JXczpdQ00laPDrSPk66q1JIA",
+      "https://play-lh.googleusercontent.com/x2W9HGw-khn5Hd9UiHay6Y7sI3KHsvZSQDf1G6Dwm9EFSPKBzFr1T5GiAleyIdYL_-PsQWgtN9wMr7UY3WThAg",
+      "https://play-lh.googleusercontent.com/a0HRY9tGzgvEGmkIaPG1HWCsUhgouYC9asE2EzNJpQUQrMJAoIiYPGSDLplJTbCAF6A8K-pSdw7mFGtXX9fo3fo",
+      "https://play-lh.googleusercontent.com/1MpPIgu_-BoL6V7XA3o-Spr0Ip2kYgWFK0JzLMVojOhS8BSIWGMveV6sEBzS60LKVrPs-E-acarGYwb0LvawIA",
+      "https://play-lh.googleusercontent.com/c_FjVYyTf4zUNzyY20JQHVtw4WMc6296Om-btYweVVSqlG92lAam-T5ZyK1t0Msb559LzSRBlL5-vm8AY45Har0",
+      "https://play-lh.googleusercontent.com/PCzyWTOObUWNY5P_zzq9ZC1LT5as-zpyCMBlTyjiJJbKkMm5Gf7zNm6Cb2MPVQQ5G0ZPpNPzfXu_u6s-b7bOfSQ",
+      "https://play-lh.googleusercontent.com/0qAaVENrA07bQtZxQZWiY1mtAO1AG0hqP0NFuzCrvNPgDqqGRqcL7o0KfGvd50PpXQlXk8cjETpZJ5OUEqcCJw",
+      "https://play-lh.googleusercontent.com/A7KSLCMGDhHVjSzC5k2HOIdyVZoqsBa4NhljZkK8jb8SRtMPNXkFVVl_po0vN4JXczpdQ00laPDrSPk66q1JIA",
+      "https://play-lh.googleusercontent.com/seHkSWp-9I-9QpG8Q_JjiBqfKGLhfsdBJYBwyS5Jnh9G8IvSU0VbvYVNgXTloFsJTc_mZ3qZlccfhRkZR3EsZrA"
+    ],
+    "released": "Jun 15, 2026",
+    "updated": 1782015238000,
+    "preregister": false,
+    "earlyAccessEnabled": false,
+    "url": "https://play.google.com/store/apps/details?id=com.blindsidedgames.pulsecitadel&hl=en&gl=US",
+    "fetchedAt": "2026-10-14T04:08:47.939Z"
   },
   "com.xxxxgame.castlesiegemaster": {
     "appId": "com.xxxxgame.castlesiegemaster",
@@ -27297,6 +27411,67 @@
     "earlyAccessEnabled": false,
     "url": "https://play.google.com/store/apps/details?id=fi.Pepperbox.DiceOfKalma&hl=en&gl=US",
     "fetchedAt": "2026-10-12T08:18:47.954Z"
+  },
+  "com.traverse.zhfx.en.gp": {
+    "appId": "com.traverse.zhfx.en.gp",
+    "title": "Dragon Fever TD!",
+    "summary": "Dragon Onslaught Incoming — An Addictively Fun Tower Defense",
+    "installs": "500,000+",
+    "minInstalls": 500000,
+    "score": 4.151515,
+    "ratings": 21996,
+    "price": 0,
+    "free": true,
+    "currency": "USD",
+    "priceText": "Free",
+    "offersIAP": true,
+    "adSupported": true,
+    "developer": "Wonder Game Inc.",
+    "developerId": "6109727420380587100",
+    "developerInternalID": "6109727420380587100",
+    "genre": "Strategy",
+    "genreId": "GAME_STRATEGY",
+    "categories": [
+      {
+        "name": "Strategy",
+        "id": "GAME_STRATEGY"
+      },
+      {
+        "name": "Tower defense",
+        "id": null
+      },
+      {
+        "name": "Single player",
+        "id": null
+      },
+      {
+        "name": "Stylized",
+        "id": null
+      },
+      {
+        "name": "Immersive",
+        "id": null
+      }
+    ],
+    "icon": "https://play-lh.googleusercontent.com/_JQXxYgC5egW1MygJHVvMUVHopHK8rpHRl8YJpyEFpkmeDjf3HQrM2HFqjRV0c4AXHi4vz3D8XkS-srv0MGcUQ",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/VR8y3L1aXJCUel6HeSFWhz7aJMCeeCA6jqLipsYHxF9LE-GR-oOnDIxI-9wSWlbZkUw6zVBuu67MkrauNbFSHg",
+      "https://play-lh.googleusercontent.com/TtDDOe_I9cDvZYiHYiYnTxj5t6udCyAallkmzyoBTBBVLcwHEpJ5iAi8S3BzwHaHfqTpyDigTii6by2gPFABwaM",
+      "https://play-lh.googleusercontent.com/QHQgklL_sMsY43t965gHESk-Si1wOYSBc19kdNXXFrVddopsHWSDKeMm3FCwj2FQMIWvksMMpY9JrNgDi39KgZE",
+      "https://play-lh.googleusercontent.com/ReEQ9NEkEUQ1KINW20_wPJwT-BASueVj95tTzRTFHLCeqIB17_c7fNZBqo-exGT893I-RNbbkGXtw0kAUQLh_w",
+      "https://play-lh.googleusercontent.com/dxy7uYSXwHbDOMaUfoN1EoqNubY2LaYyG2feMmXwh9pJq4JdlgDQRXhe1sKzZwIPbkVwdu5T6tnWaI09B8pSqQ",
+      "https://play-lh.googleusercontent.com/VR8y3L1aXJCUel6HeSFWhz7aJMCeeCA6jqLipsYHxF9LE-GR-oOnDIxI-9wSWlbZkUw6zVBuu67MkrauNbFSHg",
+      "https://play-lh.googleusercontent.com/TtDDOe_I9cDvZYiHYiYnTxj5t6udCyAallkmzyoBTBBVLcwHEpJ5iAi8S3BzwHaHfqTpyDigTii6by2gPFABwaM",
+      "https://play-lh.googleusercontent.com/QHQgklL_sMsY43t965gHESk-Si1wOYSBc19kdNXXFrVddopsHWSDKeMm3FCwj2FQMIWvksMMpY9JrNgDi39KgZE",
+      "https://play-lh.googleusercontent.com/ReEQ9NEkEUQ1KINW20_wPJwT-BASueVj95tTzRTFHLCeqIB17_c7fNZBqo-exGT893I-RNbbkGXtw0kAUQLh_w",
+      "https://play-lh.googleusercontent.com/dxy7uYSXwHbDOMaUfoN1EoqNubY2LaYyG2feMmXwh9pJq4JdlgDQRXhe1sKzZwIPbkVwdu5T6tnWaI09B8pSqQ"
+    ],
+    "released": "Nov 13, 2025",
+    "updated": 1789976360000,
+    "preregister": false,
+    "earlyAccessEnabled": false,
+    "url": "https://play.google.com/store/apps/details?id=com.traverse.zhfx.en.gp&hl=en&gl=US",
+    "fetchedAt": "2026-10-14T05:22:07.345Z"
   },
   "com.LeapStudeio.BambooFortress": {
     "appId": "com.LeapStudeio.BambooFortress",
@@ -46456,6 +46631,62 @@
     "earlyAccessEnabled": false,
     "url": "https://play.google.com/store/apps/details?id=com.outerdawn.grimguard&hl=en&gl=US",
     "fetchedAt": "2026-10-12T07:22:51.715Z"
+  },
+  "com.blindsidedgames.idledysonswarmnanite": {
+    "appId": "com.blindsidedgames.idledysonswarmnanite",
+    "title": "Idle Dyson Swarm: Nanite",
+    "summary": "Swarms of nanites are what you desire, Build up your army and watch them inspire",
+    "installs": "1,000+",
+    "minInstalls": 1000,
+    "score": 4.230769,
+    "ratings": 30,
+    "price": 3.49,
+    "free": false,
+    "currency": "USD",
+    "priceText": "$3.49",
+    "offersIAP": false,
+    "adSupported": false,
+    "developer": "BlindsidedGames",
+    "developerId": "8315705273233616064",
+    "developerInternalID": "8315705273233616064",
+    "genre": "Strategy",
+    "genreId": "GAME_STRATEGY",
+    "categories": [
+      {
+        "name": "Strategy",
+        "id": "GAME_STRATEGY"
+      }
+    ],
+    "icon": "https://play-lh.googleusercontent.com/LW1GsUhmeGIVK3X6uuzTqptsJeEW8yhFjo67WJghNrZk8zLNeUUSrHhywEh4Tqc4lnolKZ4bPMfJLCwUtrvRzQ",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/j3TB8bvRe8fgnKcDLYHTEcGdjqIEyTn5yHqCcNLsW-yCpIrfw1Vt-gz7Hfb0UTgIOUg-R7jFwb2rr0jkDBZ629A",
+      "https://play-lh.googleusercontent.com/5qGSC0uxQIb_riPQYylffBUc4GPTdnr8quzv40peYqgdsApfhxV4G_1YD2fqe3OUhFjHEdjw-BwJWQaKBssSoQ",
+      "https://play-lh.googleusercontent.com/IM6yJtVhBZx0BcV-3qO3GSTvht7V054SXzgzs5cC5c7o6jz5KVP3gHwE-KldbAfPHQK5Gb9jaOZQYd6P6zbXcw",
+      "https://play-lh.googleusercontent.com/AogFUQaLULU4prm7Vj1-mv2cIofuSd9ZhBKRgdGcIQZnhRfKlpIvFW85xJN5aILywpN0bqkrINshNPiUWy61Uk0",
+      "https://play-lh.googleusercontent.com/Lh1HultBkV1NdFlIRn9u1H_KbGGUEMbt8ZgBmWoBfzF4q7-931JttVwpMsaSyqTRfLeyDxggiiWony2n07skYw",
+      "https://play-lh.googleusercontent.com/EDT6eOXaxpDc88jA_NfmY4vV8x-wcp_yy4_IWwcBWFpO6oy4FH9xCDtlt4Sl7Z--W5D1CtNcEwWpcKnQejo2Tw",
+      "https://play-lh.googleusercontent.com/6OAusTnw8k68HtnBYh0srLUmwZoThXfwSTPgQCMx_CqzMky8zY4ejD9dvAX_fodCdMu9MgMorM13oy86eafqW30",
+      "https://play-lh.googleusercontent.com/j3TB8bvRe8fgnKcDLYHTEcGdjqIEyTn5yHqCcNLsW-yCpIrfw1Vt-gz7Hfb0UTgIOUg-R7jFwb2rr0jkDBZ629A",
+      "https://play-lh.googleusercontent.com/5qGSC0uxQIb_riPQYylffBUc4GPTdnr8quzv40peYqgdsApfhxV4G_1YD2fqe3OUhFjHEdjw-BwJWQaKBssSoQ",
+      "https://play-lh.googleusercontent.com/IM6yJtVhBZx0BcV-3qO3GSTvht7V054SXzgzs5cC5c7o6jz5KVP3gHwE-KldbAfPHQK5Gb9jaOZQYd6P6zbXcw",
+      "https://play-lh.googleusercontent.com/AogFUQaLULU4prm7Vj1-mv2cIofuSd9ZhBKRgdGcIQZnhRfKlpIvFW85xJN5aILywpN0bqkrINshNPiUWy61Uk0",
+      "https://play-lh.googleusercontent.com/Lh1HultBkV1NdFlIRn9u1H_KbGGUEMbt8ZgBmWoBfzF4q7-931JttVwpMsaSyqTRfLeyDxggiiWony2n07skYw",
+      "https://play-lh.googleusercontent.com/EDT6eOXaxpDc88jA_NfmY4vV8x-wcp_yy4_IWwcBWFpO6oy4FH9xCDtlt4Sl7Z--W5D1CtNcEwWpcKnQejo2Tw",
+      "https://play-lh.googleusercontent.com/6OAusTnw8k68HtnBYh0srLUmwZoThXfwSTPgQCMx_CqzMky8zY4ejD9dvAX_fodCdMu9MgMorM13oy86eafqW30",
+      "https://play-lh.googleusercontent.com/j3TB8bvRe8fgnKcDLYHTEcGdjqIEyTn5yHqCcNLsW-yCpIrfw1Vt-gz7Hfb0UTgIOUg-R7jFwb2rr0jkDBZ629A",
+      "https://play-lh.googleusercontent.com/5qGSC0uxQIb_riPQYylffBUc4GPTdnr8quzv40peYqgdsApfhxV4G_1YD2fqe3OUhFjHEdjw-BwJWQaKBssSoQ",
+      "https://play-lh.googleusercontent.com/IM6yJtVhBZx0BcV-3qO3GSTvht7V054SXzgzs5cC5c7o6jz5KVP3gHwE-KldbAfPHQK5Gb9jaOZQYd6P6zbXcw",
+      "https://play-lh.googleusercontent.com/AogFUQaLULU4prm7Vj1-mv2cIofuSd9ZhBKRgdGcIQZnhRfKlpIvFW85xJN5aILywpN0bqkrINshNPiUWy61Uk0",
+      "https://play-lh.googleusercontent.com/Lh1HultBkV1NdFlIRn9u1H_KbGGUEMbt8ZgBmWoBfzF4q7-931JttVwpMsaSyqTRfLeyDxggiiWony2n07skYw",
+      "https://play-lh.googleusercontent.com/EDT6eOXaxpDc88jA_NfmY4vV8x-wcp_yy4_IWwcBWFpO6oy4FH9xCDtlt4Sl7Z--W5D1CtNcEwWpcKnQejo2Tw",
+      "https://play-lh.googleusercontent.com/6OAusTnw8k68HtnBYh0srLUmwZoThXfwSTPgQCMx_CqzMky8zY4ejD9dvAX_fodCdMu9MgMorM13oy86eafqW30"
+    ],
+    "released": "Oct 22, 2024",
+    "updated": 1781221519000,
+    "preregister": false,
+    "earlyAccessEnabled": false,
+    "url": "https://play.google.com/store/apps/details?id=com.blindsidedgames.idledysonswarmnanite&hl=en&gl=US",
+    "fetchedAt": "2026-10-14T04:07:17.423Z"
   },
   "studio.powerplay.tycoonwrapper": {
     "appId": "studio.powerplay.tycoonwrapper",
