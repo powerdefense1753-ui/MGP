@@ -13,3 +13,11 @@ This is an explicit, small seed import of 11 US-English Android strategy listing
 - The image CDN is now accessible. The table uses 11 official icons and 22 screenshots fetched directly from their listing URLs, stored in public/play-media. Original editorial illustrations are no longer used by the UI.
 
 Adding a game requires a valid package ID, a successful source fetch, and reviewed mapping evidence. Refresh failure leaves the prior published catalog in place; raw snapshots may have been partially refreshed, so do not run curation after a failed fetch without investigating.
+
+## Recent-release expansion
+
+The catalog now also imports `recent-games.json` and `recent-details.json`; the original curated files remain separate. See `recent-scan-audit.json` for the exact queries, candidate decisions, release evidence and media errors, and `recent-listing-evidence.json` for accepted listing facts. The window is 2024-10-12 through 2026-10-12 inclusive, using the Google Play Released on field and GAME_STRATEGY category. Unknown release dates, preregistrations and other categories are excluded. Search/chart coverage is bounded by public Google Play results and is not exhaustive.
+
+New records use official category labels and explicit developer-summary phrases for tag mapping, with the supporting text retained. Missing ad/IAP labels stay unknown. Their descriptions are developer English originals. No user-review summary is generated for these records. Source ratings may be null. Images are obtained from the listing's Google CDN with aspect ratio preserved; both the requested image URL and the listing's original image URL are stored. Cached snapshots allow inspection and reruns; `data:scan` reuses the work cache, so a fresh scan requires a fresh cache.
+
+截图按 US/en 商店清单完整收录，按图片原始地址去重，保留商店顺序。已有缓存继续使用，新增图片通过 Google Play CDN 按需加载（需要联网），避免磁盘不足；新增游戏导入也使用相同规则。`node scripts/sync-screenshots.mjs` 可在采集进程停止后同步现有目录截图，来源记录在 screenshot-evidence.json。

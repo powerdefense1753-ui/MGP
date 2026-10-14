@@ -1,0 +1,20 @@
+import gplay from 'google-play-scraper';
+import fs from 'node:fs/promises';
+const dir='work/play-crawler';
+await fs.mkdir(dir,{recursive:true});
+let writes=Promise.resolve();
+const persist=(path,data)=>{const body=JSON.stringify(data,null,2);writes=writes.then(()=>fs.writeFile(path,body));return writes;};
+const opts={lang:'en',country:'us',requestOptions:{timeout:{request:25000},retry:{limit:1}}};
+const terms=['Total War','Kingdom Rush','new strategy games','new RTS games','offline tower defence','turn based tactics','diplomacy strategy','World War strategy','Japanese strategy','viking strategy','naval strategy','mech strategy','robot strategy','empire strategy','strategy 2025','strategy 2026','siege strategy','castle strategy','roguelike strategy','tactical deckbuilder','strategy games','new strategy games 2024','new strategy games 2025','new strategy games 2026','turn based strategy','real time strategy','RTS','4X strategy','grand strategy','tower defense','new tower defense','city builder','kingdom strategy','war strategy','military strategy','civilization strategy','space strategy','offline strategy','premium strategy','indie strategy','tactical strategy','economic strategy','survival strategy','Three Kingdoms strategy','medieval strategy','fantasy strategy','zombie strategy','auto chess','base building strategy','deckbuilding strategy'];
+const read=async(p,d)=>JSON.parse(await fs.readFile(p,'utf8').catch(e=>{if(e.code==='ENOENT')return JSON.stringify(d);throw e;}));
+const candidates=await read(dir+'/candidates.json',{}), log=await read(dir+'/discovery.json',[]);
+const save=async()=>{await persist(dir+'/candidates.json',candidates);await persist(dir+'/discovery.json',log);};
+async function pool(items,fn){let i=0;await Promise.all(Array.from({length:3},async()=>{while(i<items.length){await fn(items[i++]);await new Promise(r=>setTimeout(r,350));}}));}
+function add(apps,via){for(const a of apps){if(!a.appId)continue;candidates[a.appId]??={id:a.appId,title:a.title,discoveredVia:[]};if(!candidates[a.appId].discoveredVia.includes(via))candidates[a.appId].discoveredVia.push(via);}}
+const jobs=[...terms.map(term=>({type:'search',term})),...['TOP_FREE','TOP_PAID'].map(collection=>({type:'list',collection}))];
+await pool(jobs,async j=>{const key=JSON.stringify(j);if(log.some(x=>x.key===key&&!x.error))return;try{const apps=await gplay[j.type]({...opts,...j,category:'GAME_STRATEGY',num:j.type==='list'?500:250});add(apps,key);log.push({key,count:apps.length,fetchedAt:new Date().toISOString()});console.log('discovered',key,apps.length,'unique',Object.keys(candidates).length);}catch(e){log.push({key,error:e.message});console.log('discovery error',key,e.message);}await save();});
+const snapshots=await read(dir+'/snapshots.json',{}), failures=await read(dir+'/failures.json',{});
+const fields=['appId','title','description','summary','installs','minInstalls','score','ratings','price','free','currency','priceText','offersIAP','adSupported','developer','genre','genreId','categories','icon','screenshots','released','updated','preregister','earlyAccessEnabled'];
+let count=0;
+await pool(Object.keys(candidates).filter(id=>!snapshots[id]),async id=>{try{const a=await gplay.app({...opts,appId:id});snapshots[id]=Object.fromEntries(fields.map(k=>[k,a[k]??null]));snapshots[id].fetchedAt=new Date().toISOString();snapshots[id].url=`https://play.google.com/store/apps/details?id=${encodeURIComponent(id)}&hl=en&gl=US`;delete failures[id];}catch(e){failures[id]={message:e.message,at:new Date().toISOString()};}count++;if(count%20===0)console.log('checked',count,'/',Object.keys(candidates).length,'valid',Object.values(snapshots).filter(a=>a.genreId==='GAME_STRATEGY'&&Date.parse(a.released)>=Date.parse('2024-10-12')&&Date.parse(a.released)<=Date.parse('2026-10-12')).length);await persist(dir+'/snapshots.json',snapshots);await persist(dir+'/failures.json',failures);});
+console.log('DONE',Object.keys(snapshots).length,'snapshots;',Object.keys(failures).length,'failures');

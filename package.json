@@ -7,12 +7,17 @@
     "dev": "vite --host 0.0.0.0",
     "build": "vite build && node scripts/standalone.mjs",
     "preview": "vite preview --host 0.0.0.0",
-    "test": "node --test src/discovery.test.js",
+    "test": "node --test src/discovery.test.js scripts/play-import.test.mjs scripts/play-frontier.test.mjs src/i18n.test.js src/content-i18n.test.js scripts/game-categories.test.mjs",
     "test:e2e": "playwright test",
     "data:fetch": "python scripts/fetch-google-play.py",
     "data:curate": "python scripts/curate-google-play.py",
     "data:refresh": "npm run data:fetch && npm run data:curate",
-    "data:details": "python scripts/fetch-play-details.py"
+    "data:details": "python scripts/fetch-play-details.py",
+    "data:scan": "node scripts/scan-google-play.mjs",
+    "data:import-recent": "node scripts/import-recent-games.mjs",
+    "data:expand": "node scripts/expand-google-play.mjs",
+    "data:translate": "node scripts/translate-content.mjs",
+    "data:puzzles": "node scripts/scan-puzzle-games.mjs"
   },
   "dependencies": {
     "lucide-react": "^0.468.0",
@@ -21,6 +26,7 @@
   },
   "devDependencies": {
     "@playwright/test": "^1.64.0",
+    "google-play-scraper": "10.1.3",
     "vite": "^6.1.0"
   }
 }

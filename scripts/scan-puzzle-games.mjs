@@ -1,0 +1,22 @@
+import {spawnSync} from 'node:child_process';import fs from 'node:fs/promises';import gplay from 'google-play-scraper';
+import {categoryEligibility,gameplayCategories} from './game-categories.mjs';
+import {buildGame,WINDOW} from './play-import.mjs';import {allScreenshots} from './play-screenshots.mjs';
+const dir='work/puzzle-crawler';await fs.mkdir(dir,{recursive:true});
+const read=async(p,f)=>JSON.parse(await fs.readFile(p,'utf8').catch(e=>{if(e.code==='ENOENT')return JSON.stringify(f);throw e;}));
+const write=async(p,v)=>{await fs.writeFile(p+'.tmp',JSON.stringify(v,null,2));await fs.rename(p+'.tmp',p);};
+const lock=dir+'/lock.json',old=await read(lock,null);if(old){let alive=false;try{process.kill(old.pid,0);alive=true;}catch{}if(alive)throw Error('Puzzle crawler active');await fs.unlink(lock);}
+await fs.writeFile(lock,JSON.stringify({pid:process.pid}),{flag:'wx'});
+const snapshots=await read(dir+'/snapshots.json',{}),queue=await read(dir+'/queue.json',{}),searches=await read(dir+'/searches.json',{});
+const options={lang:'en',country:'us',requestOptions:{timeout:{request:20000},retry:{limit:0}}};
+async function checkpoint(){await write(dir+'/snapshots.json',snapshots);await write(dir+'/queue.json',queue);await write(dir+'/searches.json',searches);}
+async function publish(){const games=[],details={};for(const a of Object.values(snapshots)){if(!categoryEligibility(a))continue;const ev=gameplayCategories(a),g=buildGame(a);g.categories=ev.filter(e=>e.category!=='strategy').map(e=>e.category);g.categoryEvidence=ev;g.genre=g.categories.includes('match3')?'Match-3':'Merge';g.note='Gameplay classification from official developer text; no independent playtest.';games.push(g);details[g.id]={id:g.id,url:g.sourceUrl,fetchedAt:g.fetchedAt,rating:a.score>0?a.score:null,ratingCount:a.ratings??null,reviews:[],reviewStatus:'not-collected',screenshots:allScreenshots(a.screenshots||[]),icon:a.icon?{localPath:a.icon,sourceUrl:a.icon}:null};}await write('src/data/puzzle-games.json',games);await write('src/data/puzzle-details.json',details);await write(dir+'/status.json',{pid:process.pid,window:WINDOW,published:games.length,checked:Object.keys(snapshots).length,pending:Object.values(queue).filter(x=>!x.done).length,exhaustive:false,updatedAt:new Date().toISOString()});const check=spawnSync(process.execPath,['--test','scripts/game-categories.test.mjs','src/discovery.test.js','src/i18n.test.js','src/content-i18n.test.js'],{encoding:'utf8'});if(check.status!==0)throw Error('Published data validation failed: '+check.stdout);console.log('PUBLISHED PUZZLES',games.length);}
+try{
+ for(const a of Object.values(snapshots).filter(categoryEligibility)){
+  for(const kind of ['similar','developer']){const key=kind+':'+a.appId;if(searches[key])continue;
+   let apps;try{apps=kind==='similar'?await gplay.similar({...options,appId:a.appId,num:250}):await gplay.developer({...options,devId:a.developerInternalID||a.developerId,num:10000});}catch(e){if(e.status!==404&&!(kind==='similar'&&e instanceof TypeError&&e.stack?.includes('parseSimilarApps')))throw e;searches[key]={at:new Date().toISOString(),status:e.status===404?'unavailable':'parser-failed',error:e.message};await checkpoint();continue;}
+   for(const x of apps)if(!snapshots[x.appId])queue[x.appId]??={id:x.appId,via:key,done:false};searches[key]={at:new Date().toISOString(),results:apps.length};await checkpoint();
+  }
+ }
+ for(const term of ['match 3 games','match three puzzles','new match 3 2025','new match 3 2026','merge games','merge puzzle','merge two items','merge dragons','new merge 2025','new merge 2026']){if(searches[term])continue;const apps=await gplay.search({...options,term,num:250});for(const a of apps)queue[a.appId]??={id:a.appId,via:'Google Play search:'+term,done:false};searches[term]={at:new Date().toISOString(),results:apps.length};await checkpoint();}
+ while(Object.values(queue).some(t=>!t.done)){const task=Object.values(queue).find(t=>!t.done);try{const a=await gplay.app({...options,appId:task.id});snapshots[a.appId]={...a,url:'https://play.google.com/store/apps/details?id='+a.appId+'&hl=en&gl=US',fetchedAt:new Date().toISOString(),discoveredVia:task.via};task.done=true;}catch(e){if(/429|403/.test(e.message))throw e;task.error=e.message;task.done=true;}await checkpoint();if(Object.values(queue).filter(x=>x.done).length%25===0)await publish();}await publish();
+}catch(e){await write(dir+'/failure.json',{at:new Date().toISOString(),message:e.message});throw e;}finally{await fs.unlink(lock).catch(()=>{});}

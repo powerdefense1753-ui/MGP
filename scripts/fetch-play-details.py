@@ -1,4 +1,4 @@
-"""Fetch public listing ratings, displayed review samples, and two official screenshots per game."""
+"""Fetch public listing ratings, displayed review samples, and all official screenshots per game."""
 import sys,pathlib,json,urllib.request,datetime,concurrent.futures,base64,re,hashlib
 ROOT=pathlib.Path(__file__).resolve().parents[1]
 sys.path.insert(0,str(ROOT/'.python-deps'))
@@ -29,7 +29,7 @@ def get(g):
    reviews.append({'id':hashlib.sha256(text.encode()).hexdigest()[:16],'text':text,'date':date.get_text(' ',strip=True) if date else None,'stars':stars.get('aria-label') if stars else None})
  if not reviews:raise ValueError(g['id']+' no readable user reviews; inspect markup')
  screenshots=[]
- for im in soup.select('img[data-screenshot-index]')[:2]:
+ for im in soup.select('img[data-screenshot-index]'):
   url=im.get('srcset','').split(' ')[0] or im['src'];screenshots.append(media(url))
  if len(screenshots)<2:raise ValueError(g['id']+' missing screenshots')
  icon=media(ld['image']+'=w96-h96')

@@ -1,0 +1,24 @@
+{
+  "from": "2024-10-12",
+  "to": "2026-10-12",
+  "country": "US",
+  "language": "en",
+  "candidates": 9035,
+  "checked": 9030,
+  "included": 825,
+  "retainedOriginals": 11,
+  "decisions": {
+    "outside-window": 1283,
+    "included": 825,
+    "existing-curated": 11,
+    "not-strategy": 6796,
+    "unknown-release": 103,
+    "preregistration": 12,
+    "fetch-failed": 5
+  },
+  "discoveryQueries": 10074,
+  "completedAt": "2026-10-14T01:21:08.084Z",
+  "imageFailures": 0,
+  "exhaustive": false,
+  "method": "US-English public Google Play Strategy charts, keyword searches, recommendation links and developer catalogs; first release from Released on, not Updated on. Search and chart results are capped by Google Play. No claim of complete coverage."
+}

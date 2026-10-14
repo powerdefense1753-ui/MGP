@@ -1,0 +1,12 @@
+import curatedGames from './data/google-play.json' with {type:'json'};
+import recentGames from './data/recent-games.json' with {type:'json'};
+import curatedDetails from './data/play-details.json' with {type:'json'};
+import recentDetails from './data/recent-details.json' with {type:'json'};
+import puzzleGames from './data/puzzle-games.json' with {type:'json'};
+import puzzleDetails from './data/puzzle-details.json' with {type:'json'};
+export {default as coverage} from './data/scan-coverage.json' with {type:'json'};
+const curatedIds=new Set(curatedGames.map(g=>g.id));
+const base=[...curatedGames,...recentGames.filter(g=>!curatedIds.has(g.id))];
+const puzzles=new Map(puzzleGames.map(g=>[g.id,g]));
+export const games=[...base.map(g=>({...g,categories:[...new Set(['strategy',...(puzzles.get(g.id)?.categories||[])])]})),...puzzleGames.filter(g=>!base.some(b=>b.id===g.id))];
+export const details={...puzzleDetails,...recentDetails,...curatedDetails};

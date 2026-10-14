@@ -6,3 +6,11 @@ dist/
 .python-deps/
 __pycache__/
 *.pyc
+
+# Local crawl state, reports, credentials and generated test artifacts
+work/
+outputs/
+test-results/
+playwright-report/
+.env
+.env.*
