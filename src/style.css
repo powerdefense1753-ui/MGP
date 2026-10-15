@@ -78,3 +78,5 @@
 .gallery-prev,.gallery-next{z-index:2;min-width:44px;min-height:44px;touch-action:manipulation}.full-screenshot{min-width:0;pointer-events:none}
 
 .screenshot-limit{margin:0;padding:10px 20px;font-size:13.2px;color:#64755d;background:#f3f6ee}
+
+.gallery-prev,.gallery-next{background:#30483d;border:1px solid #8ba296;color:#fff;width:48px;height:48px;cursor:pointer}.gallery-prev:hover,.gallery-next:hover{background:#486454;color:#fff}.gallery-chevron{display:block;width:13px;height:13px;border-top:3px solid currentColor;border-right:3px solid currentColor;pointer-events:none}.gallery-chevron-left{transform:rotate(-135deg);margin-left:5px}.gallery-chevron-right{transform:rotate(45deg);margin-right:5px}

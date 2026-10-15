@@ -70366,5 +70366,87 @@
         "basis": "Official developer gameplay text"
       }
     ]
+  },
+  {
+    "minInstalls": 10000,
+    "installEvidence": {
+      "minInstalls": 10000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.neongame.marble.orb.shooter&hl=en&gl=US",
+      "fetchedAt": "2026-10-15T06:07:10.141Z"
+    },
+    "id": "com.neongame.marble.orb.shooter",
+    "title": "Marble Orb Shooter",
+    "subtitle": "Match-3 marble shooter. Blast colored orbs offline and climb the leaderboards.",
+    "description": "Match-3 marble shooter. Blast colored orbs offline and climb the leaderboards.",
+    "overviewEn": "Match-3 marble shooter. Blast colored orbs offline and climb the leaderboards.",
+    "genre": "Match-3",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "In-app purchases",
+      "Match-3"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      },
+      {
+        "tag": "Match-3",
+        "excerpt": "Match-3",
+        "basis": "Official developer gameplay text"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Neon Game",
+    "ads": true,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.neongame.marble.orb.shooter&hl=en&gl=US",
+    "fetchedAt": "2026-10-15T06:07:10.141Z",
+    "sourceDate": "2026-10-15",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-06-09",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Jun 9, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.neongame.marble.orb.shooter&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/jv_G2GvIDSTttD4YwTHA9tCD3r6ERbuMuDXsb6pQEqsFQIkCJ2zHs6iNne88wbW7ni0744oZa0c-AnlK0Brn2S4",
+    "categories": [
+      "match3"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "match3",
+        "excerpt": "Match-3",
+        "basis": "Official developer gameplay text"
+      }
+    ]
   }
 ]
