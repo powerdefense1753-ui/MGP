@@ -1,3 +1,4 @@
+import screenshotSupplements from './data/screenshot-supplements.json' with {type:'json'};
 import storeMetrics from './data/store-metrics.json' with {type:'json'};
 import hyperGames from './data/hypercasual-games.json' with {type:'json'};
 import hyperDetails from './data/hypercasual-details.json' with {type:'json'};
@@ -14,4 +15,5 @@ const puzzles=new Map(puzzleGames.map(g=>[g.id,g]));
 const initialGames=[...base.map(g=>({...g,categories:[...new Set(['strategy',...(puzzles.get(g.id)?.categories||[])])]})),...puzzleGames.filter(g=>!base.some(b=>b.id===g.id))];
 const merged=new Map();for(const g of [...initialGames,...hyperGames]){const prev=merged.get(g.id);merged.set(g.id,prev?{...prev,categories:[...new Set([...prev.categories,...g.categories])],tags:[...new Set([...prev.tags,...g.tags])],evidence:[...prev.evidence,...g.evidence]}:g);}for(const g of puzzleGames){const target=merged.get(g.id);target.tags=[...new Set([...target.tags,...g.tags])];target.evidence=[...target.evidence,...g.evidence.filter(e=>!target.evidence.some(x=>x.tag===e.tag&&x.excerpt===e.excerpt))];}
 export const games=[...merged.values()].map(g=>({...g,minInstalls:g.minInstalls??storeMetrics[g.id]?.minInstalls??null,installEvidence:g.installEvidence??storeMetrics[g.id]??null}));
-export const details={...hyperDetails,...puzzleDetails,...recentDetails,...curatedDetails};
+const baseDetails={...hyperDetails,...puzzleDetails,...recentDetails,...curatedDetails};
+export const details=Object.fromEntries(Object.entries(baseDetails).map(([id,d])=>[id,screenshotSupplements[id]?.screenshots.length>d.screenshots.length?{...d,screenshots:screenshotSupplements[id].screenshots,screenshotEvidence:screenshotSupplements[id]}:d]));

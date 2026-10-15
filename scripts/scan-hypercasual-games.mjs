@@ -1,5 +1,6 @@
 import {spawnSync} from 'node:child_process';import fs from 'node:fs/promises';import gplay from 'google-play-scraper';
 import {hypercasualEligibility,gameplayCategories,gameplayTags} from './game-categories.mjs';
+import {developerKey} from './play-frontier.mjs';
 import {buildGame,WINDOW} from './play-import.mjs';import {allScreenshots} from './play-screenshots.mjs';
 const dir='work/hypercasual-crawler';await fs.mkdir(dir,{recursive:true});
 const read=async(p,f)=>JSON.parse(await fs.readFile(p,'utf8').catch(e=>{if(e.code==='ENOENT')return JSON.stringify(f);throw e;}));
@@ -13,7 +14,7 @@ async function publish(){const games=[],details={};for(const a of Object.values(
 try{
  for(const a of Object.values(snapshots).filter(hypercasualEligibility)){
   for(const kind of ['similar','developer']){const key=kind+':'+a.appId;if(searches[key])continue;
-   let apps;try{apps=kind==='similar'?await gplay.similar({...options,appId:a.appId,num:250}):await gplay.developer({...options,devId:a.developerInternalID||a.developerId,num:10000});}catch(e){if(e.status!==404&&!(kind==='similar'&&e instanceof TypeError&&e.stack?.includes('parseSimilarApps')))throw e;searches[key]={at:new Date().toISOString(),status:e.status===404?'unavailable':'parser-failed',error:e.message};await checkpoint();continue;}
+   let apps;try{apps=kind==='similar'?await gplay.similar({...options,appId:a.appId,num:250}):await gplay.developer({...options,devId:developerKey(a),num:10000});}catch(e){if(e.status!==404&&!(kind==='similar'&&e instanceof TypeError&&e.stack?.includes('parseSimilarApps')))throw e;searches[key]={at:new Date().toISOString(),status:e.status===404?'unavailable':'parser-failed',error:e.message};await checkpoint();continue;}
    for(const x of apps)if(!snapshots[x.appId])queue[x.appId]??={id:x.appId,via:key,done:false};searches[key]={at:new Date().toISOString(),results:apps.length};await checkpoint();
   }
  }

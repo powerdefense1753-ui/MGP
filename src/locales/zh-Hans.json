@@ -182,5 +182,6 @@
   "Minimum downloads": "最低下载量",
   "Google Play install lower bound; unknown values excluded when filtering.": "采用 Google Play 安装量下限；开启筛选时排除未知数据。",
   "Oldest release": "首发时间从旧到新",
-  "Release date unknown": "上线时间未知"
+  "Release date unknown": "上线时间未知",
+  "Official listing has fewer than 5 screenshots.": "官方商店提供的截图不足 5 张，已展示全部。"
 }
