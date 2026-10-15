@@ -333,5 +333,40 @@
       "localPath": "https://play-lh.googleusercontent.com/NrYjUykCqIIxASZMk8FAD4ffQV2wuXsyX09-0g2ekyBYVnrDqKl7CDh_U2EASXgpB0nmE9jtADA7lX0v1cWJ",
       "sourceUrl": "https://play-lh.googleusercontent.com/NrYjUykCqIIxASZMk8FAD4ffQV2wuXsyX09-0g2ekyBYVnrDqKl7CDh_U2EASXgpB0nmE9jtADA7lX0v1cWJ"
     }
+  },
+  "com.kivaro.zombie.warriors": {
+    "id": "com.kivaro.zombie.warriors",
+    "url": "https://play.google.com/store/apps/details?id=com.kivaro.zombie.warriors&hl=en&gl=US",
+    "fetchedAt": "2026-10-15T02:30:38.870Z",
+    "rating": null,
+    "ratingCount": null,
+    "reviews": [],
+    "reviewStatus": "not-collected",
+    "screenshots": [
+      {
+        "sourceUrl": "https://play-lh.googleusercontent.com/LlgaUz2EJVsJkurg4wOFhrpoJaaTuBHctq7YgRT_7rV5Q7vgj1I4xgHhNv2RTsWc18khuIxw_eASubfUKETo8vg",
+        "displayUrl": "https://play-lh.googleusercontent.com/LlgaUz2EJVsJkurg4wOFhrpoJaaTuBHctq7YgRT_7rV5Q7vgj1I4xgHhNv2RTsWc18khuIxw_eASubfUKETo8vg=w1280",
+        "storage": "remote"
+      },
+      {
+        "sourceUrl": "https://play-lh.googleusercontent.com/0VPW9Fqu_HyncSZranridfelnzkjvqHaVOD70hhIttA-qHA_vhXUX7uYjkZbfmpLnWKFXAhuYesZnzA4iRV5",
+        "displayUrl": "https://play-lh.googleusercontent.com/0VPW9Fqu_HyncSZranridfelnzkjvqHaVOD70hhIttA-qHA_vhXUX7uYjkZbfmpLnWKFXAhuYesZnzA4iRV5=w1280",
+        "storage": "remote"
+      },
+      {
+        "sourceUrl": "https://play-lh.googleusercontent.com/DJJvMHyuF_4pq4UXw4iYHyFQjKDr7chp0kvUgDmHmDQvPX-EcgSgEhUcWFQ3Ia8P5MT4qLQoRBaO09U8vFsufw",
+        "displayUrl": "https://play-lh.googleusercontent.com/DJJvMHyuF_4pq4UXw4iYHyFQjKDr7chp0kvUgDmHmDQvPX-EcgSgEhUcWFQ3Ia8P5MT4qLQoRBaO09U8vFsufw=w1280",
+        "storage": "remote"
+      },
+      {
+        "sourceUrl": "https://play-lh.googleusercontent.com/XiceXy0QZ_Byfps1a7BI2EDfIJvZmCUFU1_1nO308OVWW5zkOeEwNQIHh3HhsB3dXYu6pqK76HR7XslY5eEe",
+        "displayUrl": "https://play-lh.googleusercontent.com/XiceXy0QZ_Byfps1a7BI2EDfIJvZmCUFU1_1nO308OVWW5zkOeEwNQIHh3HhsB3dXYu6pqK76HR7XslY5eEe=w1280",
+        "storage": "remote"
+      }
+    ],
+    "icon": {
+      "localPath": "https://play-lh.googleusercontent.com/qTNoKcI066of5nwJOZXNajLJ0jTytaBVp0wcnExLpknL8_WiRueiI9_ZQ_JlD4PQE0Qf7iNY9ewfS63HS1wJnFk",
+      "sourceUrl": "https://play-lh.googleusercontent.com/qTNoKcI066of5nwJOZXNajLJ0jTytaBVp0wcnExLpknL8_WiRueiI9_ZQ_JlD4PQE0Qf7iNY9ewfS63HS1wJnFk"
+    }
   }
 }

@@ -548,5 +548,81 @@
         "basis": "Official developer gameplay text"
       }
     ]
+  },
+  {
+    "minInstalls": 100,
+    "installEvidence": {
+      "minInstalls": 100,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.kivaro.zombie.warriors&hl=en&gl=US",
+      "fetchedAt": "2026-10-15T02:30:38.870Z"
+    },
+    "id": "com.kivaro.zombie.warriors",
+    "title": "Circle dodge",
+    "subtitle": "Dodge the saws, jump between circles, and test your reflexes in endless fun!",
+    "description": "Dodge the saws, jump between circles, and test your reflexes in endless fun!",
+    "overviewEn": "Dodge the saws, jump between circles, and test your reflexes in endless fun!",
+    "genre": "Hypercasual",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "In-app purchases"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Pulse8 L.L.C-FZ",
+    "ads": true,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.kivaro.zombie.warriors&hl=en&gl=US",
+    "fetchedAt": "2026-10-15T02:30:38.870Z",
+    "sourceDate": "2026-10-15",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2025-08-27",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Aug 27, 2025",
+      "url": "https://play.google.com/store/apps/details?id=com.kivaro.zombie.warriors&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/qTNoKcI066of5nwJOZXNajLJ0jTytaBVp0wcnExLpknL8_WiRueiI9_ZQ_JlD4PQE0Qf7iNY9ewfS63HS1wJnFk",
+    "categories": [
+      "hypercasual"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "hypercasual",
+        "excerpt": "hyper-casual",
+        "basis": "Official developer gameplay text"
+      }
+    ]
   }
 ]
