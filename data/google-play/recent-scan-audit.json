@@ -4,21 +4,21 @@
     "to": "2026-10-12",
     "country": "US",
     "language": "en",
-    "candidates": 9061,
-    "checked": 9056,
-    "included": 829,
+    "candidates": 9183,
+    "checked": 9178,
+    "included": 832,
     "retainedOriginals": 11,
     "decisions": {
-      "outside-window": 1284,
-      "included": 829,
+      "outside-window": 1291,
+      "included": 832,
       "existing-curated": 11,
-      "not-strategy": 6817,
-      "unknown-release": 103,
+      "not-strategy": 6923,
+      "unknown-release": 109,
       "preregistration": 12,
       "fetch-failed": 5
     },
-    "discoveryQueries": 10108,
-    "completedAt": "2026-10-14T05:22:13.345Z",
+    "discoveryQueries": 10240,
+    "completedAt": "2026-10-14T13:59:09.920Z",
     "imageFailures": 0,
     "exhaustive": false,
     "method": "US-English public Google Play Strategy charts, keyword searches, recommendation links and developer catalogs; first release from Released on, not Updated on. Search and chart results are capped by Google Play. No claim of complete coverage."
@@ -50563,6 +50563,666 @@
       "key": "{\"type\":\"app\",\"id\":\"com.puzzle.bxgw.an\"}",
       "count": 0,
       "fetchedAt": "2026-10-14T05:22:10.352Z"
+    },
+    {
+      "key": "{\"type\":\"search\",\"id\":\"strategy firefighter rescue dispatch\"}",
+      "count": 30,
+      "fetchedAt": "2026-10-14T13:10:18.263Z"
+    },
+    {
+      "key": "{\"type\":\"search\",\"id\":\"strategy railroad tycoon logistics\"}",
+      "count": 11,
+      "fetchedAt": "2026-10-14T13:10:18.419Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.gss.firefighte.rescue.game\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-14T13:10:20.712Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.uuyu.imafiremannew\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-14T13:10:20.717Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.hq.firefighter.emergency.game\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-14T13:10:20.794Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.shockwavegames.emergency.rescue.service\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-14T13:10:22.751Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.YovoGames.Firefighter\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-14T13:10:22.755Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.k3games.firerescue.free\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-14T13:10:22.760Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.EmergencyGames.CityFirefighterHeroes\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-14T13:10:24.416Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.miracle.firetruck.rescue\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-14T13:10:24.422Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.batcave.firefighter.rescue.simulator.game\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-14T13:10:24.425Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.t134games.emergency.fire.rescue.truck.driving.games\"}",
+      "count": 12,
+      "fetchedAt": "2026-10-14T13:10:26.569Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"de.ssncomputer.EmergencyRescueForce.Firefighter.mobile\"}",
+      "count": 12,
+      "fetchedAt": "2026-10-14T13:10:26.573Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.forqan.tech.Fireman\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-14T13:10:26.577Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.cargoteleport.firefighter1\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-14T13:10:28.187Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.pickle.FireTruckFirefighterSquad\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-14T13:10:28.217Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.qunix.firefighter.game\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-14T13:10:28.220Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.granjuegos.firefighters.city.fire.rescue\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-14T13:10:30.046Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.idle.firefighter.simulator\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-14T13:10:30.050Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.firerescuefitness.train.own\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-14T13:10:30.054Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.educastudio.marbelfiretruck\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-14T13:10:32.055Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.mini.firefighter.rescue.games\"}",
+      "count": 6,
+      "fetchedAt": "2026-10-14T13:10:32.111Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.batoki.kids.toddlers.firefightersFireRescue\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-14T13:10:32.117Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.aleosapps.QuizzAppFireFighter\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-14T13:10:34.075Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"net.firecu.sfcu2\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-14T13:10:34.078Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"org.ifsta.arff6th\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-14T13:10:34.085Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.arcane.firefighter\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-14T13:10:35.675Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.cargoteleport.firefighter2\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-14T13:10:35.686Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.builditgames.fireinc\"}",
+      "count": 8,
+      "fetchedAt": "2026-10-14T13:10:35.706Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.AKTEPE.logisticKing\"}",
+      "count": 6,
+      "fetchedAt": "2026-10-14T13:10:37.836Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.logitycoon.logitycoon\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-14T13:10:37.841Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.gameyogi.passengerpioneer\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-14T13:10:37.846Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.idle.railway.tycoon\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-14T13:10:39.514Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.IntechStudio.DungeonMagicMaster\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-14T13:10:39.520Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.tgames.police.chase.drive.games\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-14T13:10:39.522Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.tgames.snipper.mission.game.shooting\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-14T13:10:40.867Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.tgames.army.transport.games.transporta\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-14T13:10:40.881Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.tgames.bike.stunts.gt.games\"}",
+      "count": 12,
+      "fetchedAt": "2026-10-14T13:10:41.022Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.dominigames.mtr5.free2play\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-14T13:10:42.646Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.direwolfdigital.wingsofglory\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-14T13:10:42.706Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.tgames.virtual.mother.sim.games\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-14T13:10:42.726Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"de.ssncomputer.city.sniper.game.shoot.mobile\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-14T13:10:44.529Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"de.ssncomputer.atmrobbery.free.thief.cash.bank.mobile\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-14T13:10:44.532Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"de.sssncomputer.stadsass\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-14T13:10:44.536Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"de.ssncomputer.crazychase\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-14T13:10:46.374Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"de.ssncomputer.helixjump\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-14T13:10:46.379Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"de.ssncomputers.touchdownrun.americanfootball.Nfl.mobile\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-14T13:10:46.382Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.minimax.crazy.taxi.driver.pranks\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-14T13:10:48.073Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.mini.deadly.tsunami.escape.survival\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-14T13:10:48.076Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.mini.scary.shawarma.horror.game\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-14T13:10:48.091Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.mini.donkey.prank.simulator.game\"}",
+      "count": 12,
+      "fetchedAt": "2026-10-14T13:10:49.997Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.mini.soccer.football.managers\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-14T13:10:50.000Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.gbs.ropehero.rescue.game\"}",
+      "count": 12,
+      "fetchedAt": "2026-10-14T13:10:50.008Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.builditgames.zombiestreets\"}",
+      "count": 9,
+      "fetchedAt": "2026-10-14T13:10:51.779Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.builditgames.magicstreets\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-14T13:10:51.805Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.builditgames.policeinc\"}",
+      "count": 9,
+      "fetchedAt": "2026-10-14T13:10:51.833Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.smgstudio.thumbdrift\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-14T13:11:15.530Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.turborilla.MadSkillsMotocross2\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-14T13:11:15.684Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.ratrodstudio.snowparty2\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-14T13:11:15.694Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.renderedideas.streetfight\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-14T13:11:17.970Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.starplay.spider.fighter3d\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-14T13:11:17.974Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.gbs.miami.gangster.city.crime\"}",
+      "count": 6,
+      "fetchedAt": "2026-10-14T13:11:17.979Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.longgammagames.elementra.pvp.rpg\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-14T13:11:19.585Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.duoduo.games.police\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-14T13:11:20.151Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"se.filimundus.littlepolice\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-14T13:11:20.173Z"
+    },
+    {
+      "key": "{\"type\":\"developer\",\"id\":\"T134GAMER\"}",
+      "count": 10,
+      "fetchedAt": "2026-10-14T13:11:22.298Z"
+    },
+    {
+      "key": "{\"type\":\"developer\",\"id\":\"9177390780491964987\"}",
+      "count": 10,
+      "fetchedAt": "2026-10-14T13:11:22.299Z"
+    },
+    {
+      "key": "{\"type\":\"developer\",\"id\":\"Game Blaze Studios\"}",
+      "count": 10,
+      "fetchedAt": "2026-10-14T13:11:22.312Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.t134.games.car.driving.city.racing.games\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-14T13:11:23.552Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.Tgamer.scary.survival.horror.clown.games\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-14T13:11:23.566Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"de.ssncomputer.gkyiv\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-14T13:11:23.606Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"de.ssncomputer.rls\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-14T13:11:25.694Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.minimax.miami.gangster.crime.sim\"}",
+      "count": 6,
+      "fetchedAt": "2026-10-14T13:11:25.703Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.SSNComputer.RTSGame\"}",
+      "count": 12,
+      "fetchedAt": "2026-10-14T13:11:25.717Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.minimax.bike.driving.game\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-14T13:11:27.831Z"
+    },
+    {
+      "key": "{\"type\":\"developer\",\"id\":\"7528182243914062100\"}",
+      "count": 1,
+      "fetchedAt": "2026-10-14T13:11:28.042Z"
+    },
+    {
+      "key": "{\"type\":\"developer\",\"id\":\"7330635347286712602\"}",
+      "count": 4,
+      "fetchedAt": "2026-10-14T13:11:28.045Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.SomeCompany.Idletruckcityminertycoon\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-14T13:12:22.303Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.tgames.real.crime.gt.games\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-14T13:12:22.795Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"net.kamptner.sunsetracer\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-14T13:12:22.945Z"
+    },
+    {
+      "key": "{\"type\":\"search\",\"id\":\"strategy hospital emergency disaster\"}",
+      "count": 30,
+      "fetchedAt": "2026-10-14T13:58:28.885Z"
+    },
+    {
+      "key": "{\"type\":\"search\",\"id\":\"strategy desert water settlement\"}",
+      "count": 30,
+      "fetchedAt": "2026-10-14T13:58:29.409Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.ifirstaid\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-14T13:58:31.368Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.unbound.android.ubdn\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-14T13:58:31.374Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.hippo_kids_games.emergency_hospital.doctor_injection\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-14T13:58:31.899Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.asfcreations.survivalist\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-14T13:58:33.676Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"kr.go.nema.disasteralert_eng\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-14T13:58:33.707Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"disasterAlert.PDC\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-14T13:58:33.713Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.digitaldisastermanagment\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-14T13:58:36.186Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.medpresso.Lonestar.emergmed\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-14T13:58:36.191Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.medpresso.Lonestar.detemerg\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-14T13:58:36.195Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"org.ifrc.epidemics.twa\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-14T13:58:38.188Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.hltcorp.emergencynursing\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-14T13:58:38.528Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.roblox.client\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-14T13:58:38.534Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.praezisus.readykit\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-14T13:58:40.629Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.unbound.android.ub5el\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-14T13:58:40.635Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"gov.fema.mobile.android\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-14T13:58:40.926Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.unbound.android.ubemi\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-14T13:58:42.979Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"mobi.firedepartment\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-14T13:58:42.984Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.cube.arc.fa\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-14T13:58:43.177Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.ats.ihkw\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-14T13:58:45.260Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.rermedapps.emergencymedicine\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-14T13:58:45.270Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.codigames.idle.hospital.empire.tycoon\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-14T13:58:45.284Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.medpresso.Lonestar.emoncall\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-14T13:58:47.122Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"gov.nih.nlm.erg2012\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-14T13:58:47.131Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.mal92.emergencyprocedures\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-14T13:58:47.426Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"io.settlemate.app\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-14T13:58:49.440Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.weatheralerts.weather_alerts\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-14T13:58:49.460Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"ru.DmitryLomakin.ReanimationInc\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-14T13:58:49.755Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.trickytribe.tinkerisland2\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-14T13:58:51.921Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.ctugames.km2\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-14T13:58:51.927Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"epic.mychart.android\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-14T13:58:51.938Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.buffstudio.stillpoint\"}",
+      "count": 12,
+      "fetchedAt": "2026-10-14T13:58:53.794Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.chucklefish.stardewvalley\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-14T13:58:53.800Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.idlesettlement.app\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-14T13:58:53.809Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.buffstudio.skel.defense.dungeon.roguelike\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-14T13:58:56.156Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.buffstudio.luciddream\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-14T13:58:56.191Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.buffstudio.uwofficefree\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-14T13:58:56.230Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.buffstudio.howtoget.espers.paid\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-14T13:58:58.045Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.yellowpop.google.paint\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-14T13:58:58.215Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.buffstudio.stillpoint.paid\"}",
+      "count": 12,
+      "fetchedAt": "2026-10-14T13:58:58.222Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.appsir.puzzlingpeaksgame\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-14T13:59:00.382Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.buffstudio.astory.acompany.novel.adventure.story.games\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-14T13:59:00.387Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.buffstudio.sevendays\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-14T13:59:00.392Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.buffstudio.argo.choice.visual.novel.adventure.story.games\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-14T13:59:02.214Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.eighthfloor.charmandclue2.premium\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-14T13:59:02.217Z"
+    },
+    {
+      "key": "{\"type\":\"developer\",\"id\":\"6321876234276229665\"}",
+      "count": 10,
+      "fetchedAt": "2026-10-14T13:59:02.528Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.snowgames.seoulexorcist1111\"}",
+      "count": 12,
+      "fetchedAt": "2026-10-14T13:59:04.497Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.buffstudio.aos.block.crazy.defense\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-14T13:59:04.500Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.buffstudio.aos.neko.restaurant\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-14T13:59:04.887Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.TrueSoft.DevilHunter_Android\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-14T13:59:06.645Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.gsm.overdrivepremium\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-14T13:59:06.682Z"
     }
   ],
   "candidates": [
@@ -51880,7 +52540,8 @@
         "search:squad base capture strategy",
         "search:weekly war seasons strategy",
         "search:galaxy turn based diplomacy",
-        "related:com.easytech.ggphd"
+        "related:com.easytech.ggphd",
+        "search:strategy desert water settlement"
       ]
     },
     {
@@ -51981,7 +52642,8 @@
         "search:wasteland convoy strategy",
         "search:asymmetric siege strategy",
         "search:strategy steampunk automaton",
-        "search:strategy railway supply defense"
+        "search:strategy railway supply defense",
+        "search:strategy desert water settlement"
       ]
     },
     {
@@ -52089,7 +52751,8 @@
         "related:com.shevelev.trench_warfare",
         "search:text based grand strategy",
         "search:colonial trade independence strategy",
-        "search:geopolitical grand strategy MMO"
+        "search:geopolitical grand strategy MMO",
+        "search:strategy desert water settlement"
       ]
     },
     {
@@ -52270,7 +52933,8 @@
         "search:game strategi",
         "search:text based grand strategy",
         "search:weekly war seasons strategy",
-        "search:asymmetric siege strategy"
+        "search:asymmetric siege strategy",
+        "related:com.builditgames.zombiestreets"
       ]
     },
     {
@@ -52340,7 +53004,8 @@
         "search:Strategie Spiele",
         "search:jogos de estratégia",
         "search:game strategi",
-        "search:frozen kingdom strategy"
+        "search:frozen kingdom strategy",
+        "search:strategy desert water settlement"
       ]
     },
     {
@@ -52812,7 +53477,8 @@
         "search:strategy dice tower defense",
         "search:strategy vampire castle defense",
         "search:strategy fungal colony defense",
-        "search:strategy siege trebuchet castle"
+        "search:strategy siege trebuchet castle",
+        "search:strategy desert water settlement"
       ]
     },
     {
@@ -53877,7 +54543,8 @@
         "related:com.dalhwa.tachine.defense",
         "related:com.warpact.rts",
         "related:com.Eventyol.Sinanium2",
-        "related:org.riseintime.riseintime"
+        "related:org.riseintime.riseintime",
+        "related:com.builditgames.fireinc"
       ]
     },
     {
@@ -53918,7 +54585,9 @@
         "related:pn.games.dune",
         "related:com.otgs.forttd2",
         "related:com.warpact.rts",
-        "search:strategy steampunk automaton"
+        "search:strategy steampunk automaton",
+        "related:com.builditgames.fireinc",
+        "related:com.SSNComputer.RTSGame"
       ]
     },
     {
@@ -54036,7 +54705,8 @@
         "search:submarine mine naval strategy",
         "search:tanks warships base RTS",
         "search:strategy supply line logistics war",
-        "search:strategy ocean submarine tactics"
+        "search:strategy ocean submarine tactics",
+        "search:strategy desert water settlement"
       ]
     },
     {
@@ -54469,7 +55139,8 @@
         "related:com.funplus.kingofavalon",
         "search:strategy island",
         "search:jogos de estratégia",
-        "related:com.seaofconquest.gpru"
+        "related:com.seaofconquest.gpru",
+        "search:strategy desert water settlement"
       ]
     },
     {
@@ -54798,7 +55469,8 @@
         "search:colonial trade independence strategy",
         "search:strategy steampunk automaton",
         "search:strategy supply line logistics war",
-        "search:strategy ocean submarine tactics"
+        "search:strategy ocean submarine tactics",
+        "search:strategy desert water settlement"
       ]
     },
     {
@@ -55035,7 +55707,8 @@
         "related:com.shevelev.trench_warfare",
         "related:com.pandorio.trenchwar",
         "related:com.polareg.twa",
-        "related:com.easytech.ggphd"
+        "related:com.easytech.ggphd",
+        "search:strategy desert water settlement"
       ]
     },
     {
@@ -55201,7 +55874,8 @@
         "search:frozen kingdom strategy",
         "search:alien invasion tower defense",
         "search:fairy kingdom tower defense",
-        "search:strategy vampire castle defense"
+        "search:strategy vampire castle defense",
+        "search:strategy desert water settlement"
       ]
     },
     {
@@ -55535,7 +56209,8 @@
         "search:strategy vampire castle defense",
         "search:strategy fungal colony defense",
         "related:com.JessGames.rw4",
-        "search:strategy drone swarm defense"
+        "search:strategy drone swarm defense",
+        "search:strategy desert water settlement"
       ]
     },
     {
@@ -55655,7 +56330,8 @@
         "search:forest crafting tower defense",
         "related:com.superantstudios.hivefront",
         "search:strategy fungal colony defense",
-        "related:net.ekgames.elroi"
+        "related:net.ekgames.elroi",
+        "search:strategy desert water settlement"
       ]
     },
     {
@@ -55770,7 +56446,8 @@
         "search:strategy vampire castle defense",
         "search:strategy fungal colony defense",
         "related:com.TibetanLiss.pd3",
-        "related:com.JessGames.rw3"
+        "related:com.JessGames.rw3",
+        "search:strategy desert water settlement"
       ]
     },
     {
@@ -55884,7 +56561,8 @@
         "search:strategy dice tower defense",
         "search:strategy vampire castle defense",
         "related:com.JessGames.rw4",
-        "search:strategy drone swarm defense"
+        "search:strategy drone swarm defense",
+        "search:strategy desert water settlement"
       ]
     },
     {
@@ -56330,7 +57008,8 @@
         "developer:6605125519975771237",
         "search:city building 2025",
         "search:city building 2026",
-        "search:hex city empire builder"
+        "search:hex city empire builder",
+        "search:strategy hospital emergency disaster"
       ]
     },
     {
@@ -56778,7 +57457,8 @@
         "search:siege engine castle tactics",
         "search:strategy dice tower defense",
         "search:strategy steampunk automaton",
-        "search:strategy vampire castle defense"
+        "search:strategy vampire castle defense",
+        "search:strategy desert water settlement"
       ]
     },
     {
@@ -59216,7 +59896,8 @@
         "search:dark fantasy grand strategy",
         "search:orbital logistics strategy",
         "search:strategy drone swarm defense",
-        "search:strategy railway supply defense"
+        "search:strategy railway supply defense",
+        "search:strategy desert water settlement"
       ]
     },
     {
@@ -59368,7 +60049,8 @@
         "developer:6495839531482132954",
         "related:com.starryskygames.chessgunner",
         "search:social deduction strategy",
-        "related:com.genetix.simpletower"
+        "related:com.genetix.simpletower",
+        "related:com.buffstudio.stillpoint"
       ]
     },
     {
@@ -59974,7 +60656,8 @@
         "related:com.yottagames.gameofmafia",
         "related:com.yottagames.mafiawar",
         "related:com.elex.twdsaw.gp",
-        "search:jogos de estratégia"
+        "search:jogos de estratégia",
+        "search:strategy desert water settlement"
       ]
     },
     {
@@ -60919,7 +61602,8 @@
         "related:com.warlet.theamericancivilwar",
         "search:revolutionary war strategy",
         "search:medieval castle capture RTS",
-        "related:com.OneOcean.TopMobile"
+        "related:com.OneOcean.TopMobile",
+        "search:strategy desert water settlement"
       ]
     },
     {
@@ -61587,7 +62271,8 @@
         "related:com.kingsgroup.sos",
         "developer:LIFE GAME PTE. LTD.",
         "search:jogos de estratégia",
-        "search:squad base capture strategy"
+        "search:squad base capture strategy",
+        "search:strategy desert water settlement"
       ]
     },
     {
@@ -62917,7 +63602,8 @@
         "related:com.playdigious.northgard",
         "related:com.PlausibleConcept.BadNorthFull",
         "related:valsar.dungeonwarfare2",
-        "search:frozen kingdom strategy"
+        "search:frozen kingdom strategy",
+        "related:com.buffstudio.stillpoint"
       ]
     },
     {
@@ -64082,7 +64768,8 @@
         "related:com.pixelfederation.ts3.train.station.evolution.building.manager.tycoon.simulator",
         "related:air.com.PixelFederation.EmporeaGame",
         "search:strategy train",
-        "search:strategy railway supply defense"
+        "search:strategy railway supply defense",
+        "search:strategy railroad tycoon logistics"
       ]
     },
     {
@@ -65997,7 +66684,8 @@
         "search:western tower defense",
         "search:open world zombie tower defense",
         "search:ghost tower defense",
-        "search:strategy fungal colony defense"
+        "search:strategy fungal colony defense",
+        "related:com.builditgames.zombiestreets"
       ]
     },
     {
@@ -67336,7 +68024,9 @@
         "related:com.Eventyol.Sinanium2",
         "related:com.warlight",
         "search:orbital fleet command strategy",
-        "related:com.easytech.ggphd"
+        "related:com.easytech.ggphd",
+        "related:com.t134games.emergency.fire.rescue.truck.driving.games",
+        "related:com.builditgames.fireinc"
       ]
     },
     {
@@ -71228,7 +71918,8 @@
         "related:com.Ion.RetroTD",
         "related:com.medu.neon.castledefense.idlerpg",
         "related:com.AntiBoundGames.CannonWreck",
-        "related:com.stormholdstudios.stormhold"
+        "related:com.stormholdstudios.stormhold",
+        "related:com.buffstudio.stillpoint"
       ]
     },
     {
@@ -71681,7 +72372,8 @@
         "related:com.dustlands.android",
         "related:com.doomsday.shelter11",
         "related:com.kingsgroup.ww2",
-        "related:com.gameturn.aow"
+        "related:com.gameturn.aow",
+        "related:com.builditgames.zombiestreets"
       ]
     },
     {
@@ -73781,7 +74473,8 @@
         "related:com.game.top.hero.survival.war",
         "related:com.itcgamestudio.backpackapocalypse.merge.war.battle.brawl",
         "related:com.mobsmile.slimedefense",
-        "related:com.CrazySeven.warriorMaster"
+        "related:com.CrazySeven.warriorMaster",
+        "related:com.SSNComputer.RTSGame"
       ]
     },
     {
@@ -75859,7 +76552,8 @@
         "related:com.indieben.broadside",
         "related:com.paradyme.mobrush",
         "related:com.cjump.emergency.dispatcher.police.simulator.games",
-        "related:com.warpact.rts"
+        "related:com.warpact.rts",
+        "related:com.builditgames.fireinc"
       ]
     },
     {
@@ -75887,7 +76581,8 @@
       "discoveredVia": [
         "related:com.moonlifegp.v3",
         "related:com.hnugzgamez.NozieTDXL",
-        "developer:5380111779574433130"
+        "developer:5380111779574433130",
+        "related:com.builditgames.zombiestreets"
       ]
     },
     {
@@ -76665,7 +77360,8 @@
         "related:com.binbibong.pixelwarriors",
         "related:com.CrazySeven.shamanFury",
         "related:org.privatesub.app.planetarybattle",
-        "related:com.AppleJuiceGames.TowerSiegeCastleDefenseTD"
+        "related:com.AppleJuiceGames.TowerSiegeCastleDefenseTD",
+        "related:com.SSNComputer.RTSGame"
       ]
     },
     {
@@ -77127,7 +77823,8 @@
         "related:com.RobinhoodStudio.RealmShield",
         "related:com.unicostudio.minerfighters",
         "related:com.warvik.warriors.tower.defense.td.games.strategy.age.of.war.tiny.mini.we.are.base.rush",
-        "related:com.superantstudios.hivefront"
+        "related:com.superantstudios.hivefront",
+        "related:com.SSNComputer.RTSGame"
       ]
     },
     {
@@ -77372,7 +78069,8 @@
         "related:com.castlecannonade.game",
         "related:com.datasakura.mergegolfdefence",
         "related:com.RobinhoodStudio.RealmShield",
-        "related:com.AppleJuiceGames.TowerSiegeCastleDefenseTD"
+        "related:com.AppleJuiceGames.TowerSiegeCastleDefenseTD",
+        "related:com.SSNComputer.RTSGame"
       ]
     },
     {
@@ -77746,7 +78444,8 @@
         "related:com.raid.kingdom.capture",
         "related:com.gcl.fire.truck.rescue.sim",
         "search:strategy submarine convoy",
-        "search:strategy ocean submarine tactics"
+        "search:strategy ocean submarine tactics",
+        "related:de.ssncomputer.EmergencyRescueForce.Firefighter.mobile"
       ]
     },
     {
@@ -78237,7 +78936,8 @@
         "related:yio.tro.opacha",
         "related:net.argongames.minitd2",
         "related:com.swordreforged.allaboardthetraindefenseexpress",
-        "related:com.WaffleStackStudio.TowerBall"
+        "related:com.WaffleStackStudio.TowerBall",
+        "related:com.buffstudio.stillpoint"
       ]
     },
     {
@@ -78479,7 +79179,8 @@
       "url": "https://play.google.com/store/apps/details?id=com.playchocolate.WildZombieWest&hl=en&gl=US",
       "discoveredVia": [
         "related:com.stereo7games.lastdaydefense",
-        "related:com.catstudio.zombiewar1"
+        "related:com.catstudio.zombiewar1",
+        "related:com.builditgames.zombiestreets"
       ]
     },
     {
@@ -79347,7 +80048,8 @@
         "related:com.TNTExplosionGames.TinyWarriors",
         "related:com.ATOMGAMES.BoW",
         "related:com.superplusgames.tower",
-        "related:net.ekgames.elroi"
+        "related:net.ekgames.elroi",
+        "related:com.SSNComputer.RTSGame"
       ]
     },
     {
@@ -79665,7 +80367,8 @@
         "related:com.pandorio.trenchwar",
         "related:com.Eventyol.Sinanium2",
         "related:org.riseintime.riseintime",
-        "related:com.Troopers.t.gp"
+        "related:com.Troopers.t.gp",
+        "related:com.t134games.emergency.fire.rescue.truck.driving.games"
       ]
     },
     {
@@ -79835,7 +80538,8 @@
         "related:com.popve.dicevmonster",
         "related:com.blackhammer.castledefense",
         "related:com.owlottergames.nekomancer",
-        "related:com.genetix.simpletower"
+        "related:com.genetix.simpletower",
+        "related:com.buffstudio.stillpoint"
       ]
     },
     {
@@ -81633,7 +82337,8 @@
         "related:com.youarethezombies.reverse.towerdefense",
         "related:com.humanx.games.starshipmercsautobattle",
         "related:com.gentledoggames.basedefense",
-        "related:com.pythogen.swarm"
+        "related:com.pythogen.swarm",
+        "related:com.builditgames.fireinc"
       ]
     },
     {
@@ -82341,7 +83046,8 @@
         "related:com.pandorio.trenchwar",
         "related:com.warlight",
         "related:com.bigbang.magiccastle",
-        "related:com.easytech.ggphd"
+        "related:com.easytech.ggphd",
+        "related:de.ssncomputer.EmergencyRescueForce.Firefighter.mobile"
       ]
     },
     {
@@ -82552,7 +83258,8 @@
       "discoveredVia": [
         "related:com.BlueHeartGames.Dunlight",
         "related:com.qcplay.slimegogogo",
-        "related:com.qxgame.ghard"
+        "related:com.qxgame.ghard",
+        "related:com.buffstudio.stillpoint"
       ]
     },
     {
@@ -82579,7 +83286,9 @@
         "related:com.soulgamesstudio.heroes",
         "related:com.heromobile.soh",
         "related:com.kingsgroup.dcdly",
-        "related:com.nvsgames.snap"
+        "related:com.nvsgames.snap",
+        "related:com.mini.donkey.prank.simulator.game",
+        "related:com.gbs.ropehero.rescue.game"
       ]
     },
     {
@@ -83130,7 +83839,9 @@
         "related:com.traviangames.travianlegendsmobile",
         "related:com.traviangames.traviankingdoms",
         "search:strategy train",
-        "related:com.train.king.tycoon.transport.simulator"
+        "related:com.train.king.tycoon.transport.simulator",
+        "search:strategy railroad tycoon logistics",
+        "related:com.AKTEPE.logisticKing"
       ]
     },
     {
@@ -83242,7 +83953,9 @@
         "related:com.plarium.military",
         "developer:Hero Mobile Games",
         "related:com.naomicsoft.herowarsdefense",
-        "related:com.zts.ageoffantasy"
+        "related:com.zts.ageoffantasy",
+        "related:com.mini.donkey.prank.simulator.game",
+        "related:com.gbs.ropehero.rescue.game"
       ]
     },
     {
@@ -84175,7 +84888,8 @@
       "url": "https://play.google.com/store/apps/details?id=com.TsunoaGames.KatanaDragonFull&hl=en&gl=US",
       "discoveredVia": [
         "related:com.beyzanuryildiz.shapetactics",
-        "related:com.bscotch.hmd"
+        "related:com.bscotch.hmd",
+        "related:com.snowgames.seoulexorcist1111"
       ]
     },
     {
@@ -84879,7 +85593,8 @@
       "discoveredVia": [
         "related:com.fantasyflightgames.BattleLore",
         "related:com.pixelbite.xwt",
-        "developer:6991001366548054138"
+        "developer:6991001366548054138",
+        "related:com.builditgames.policeinc"
       ]
     },
     {
@@ -85146,7 +85861,8 @@
         "related:com.train.king.tycoon.transport.simulator",
         "related:com.deckeleven.railroads",
         "related:com.nosixfive.train",
-        "related:com.okasoft.tinytrains"
+        "related:com.okasoft.tinytrains",
+        "search:strategy railroad tycoon logistics"
       ]
     },
     {
@@ -85306,7 +86022,8 @@
       "url": "https://play.google.com/store/apps/details?id=com.stickman.dragon.pvp.online&hl=en&gl=US",
       "discoveredVia": [
         "related:com.heromobile.soh",
-        "related:com.naomicsoft.herowarsdefense"
+        "related:com.naomicsoft.herowarsdefense",
+        "related:com.gbs.ropehero.rescue.game"
       ]
     },
     {
@@ -85318,7 +86035,8 @@
       "genreId": "GAME_ACTION",
       "url": "https://play.google.com/store/apps/details?id=com.shadowbattle.overdrive.legend&hl=en&gl=US",
       "discoveredVia": [
-        "related:com.heromobile.soh"
+        "related:com.heromobile.soh",
+        "related:com.gbs.ropehero.rescue.game"
       ]
     },
     {
@@ -88949,7 +89667,8 @@
       "discoveredVia": [
         "related:com.snailgamesusa.conquest2",
         "developer:Snail Games USA Inc",
-        "related:com.szqdgames.threekd"
+        "related:com.szqdgames.threekd",
+        "related:com.snowgames.seoulexorcist1111"
       ]
     },
     {
@@ -95160,7 +95879,8 @@
       "discoveredVia": [
         "developer:Feral Interactive",
         "search:strategy train",
-        "search:strategy railway supply defense"
+        "search:strategy railway supply defense",
+        "search:strategy railroad tycoon logistics"
       ]
     },
     {
@@ -96075,7 +96795,8 @@
         "related:com.longtech.lastwars.southEastAsia.gp",
         "related:com.kingsgroup.ss.xiaomi",
         "related:com.noxgroup.game.android.townsurvivor",
-        "related:com.hauntedgrove.mihuan"
+        "related:com.hauntedgrove.mihuan",
+        "related:com.builditgames.zombiestreets"
       ]
     },
     {
@@ -96860,7 +97581,8 @@
         "related:com.kabam.evd",
         "related:com.hg.spellforce",
         "related:com.M.E.DI.THEROMANS",
-        "related:com.ornely.wizard"
+        "related:com.ornely.wizard",
+        "related:com.snowgames.seoulexorcist1111"
       ]
     },
     {
@@ -101552,7 +102274,8 @@
       "genreId": "GAME_SIMULATION",
       "url": "https://play.google.com/store/apps/details?id=io.whitesharx.moon&hl=en&gl=US",
       "discoveredVia": [
-        "related:com.Eclipse.Neuphoria"
+        "related:com.Eclipse.Neuphoria",
+        "search:strategy desert water settlement"
       ]
     },
     {
@@ -105016,7 +105739,8 @@
         "related:com.trophygames.energymanager",
         "developer:4957026383745143548",
         "related:com.ssi.indian.tractor.games.farming",
-        "related:com.vg.chained.prado.jeep.drive"
+        "related:com.vg.chained.prado.jeep.drive",
+        "related:com.AKTEPE.logisticKing"
       ]
     },
     {
@@ -105033,7 +105757,9 @@
         "related:com.rarebyte.emop",
         "developer:9190650635741968936",
         "related:tycoon.building.simulator.games.aldagames.com",
-        "search:emergency dispatch strategy"
+        "search:emergency dispatch strategy",
+        "search:strategy firefighter rescue dispatch",
+        "search:strategy hospital emergency disaster"
       ]
     },
     {
@@ -105208,7 +105934,8 @@
         "related:com.ti.police.Simulator.Car.Game",
         "search:emergency dispatch strategy",
         "related:com.bridgeups.gasstation.simulator.games",
-        "related:com.gcl.fire.truck.rescue.sim"
+        "related:com.gcl.fire.truck.rescue.sim",
+        "related:de.ssncomputer.EmergencyRescueForce.Firefighter.mobile"
       ]
     },
     {
@@ -105223,7 +105950,9 @@
         "related:com.sgs.emhq.android",
         "related:com.rarebyte.emop",
         "developer:9190650635741968936",
-        "search:emergency dispatch strategy"
+        "search:emergency dispatch strategy",
+        "search:strategy firefighter rescue dispatch",
+        "search:strategy hospital emergency disaster"
       ]
     },
     {
@@ -105249,7 +105978,8 @@
         "search:strategy train",
         "search:strategy empire builder",
         "search:hex city empire builder",
-        "search:strategy railway supply defense"
+        "search:strategy railway supply defense",
+        "search:strategy railroad tycoon logistics"
       ]
     },
     {
@@ -105411,7 +106141,8 @@
       "genreId": "GAME_SIMULATION",
       "url": "https://play.google.com/store/apps/details?id=com.astragon.cs2016&hl=en&gl=US",
       "discoveredVia": [
-        "related:fi.bongames.transitking"
+        "related:fi.bongames.transitking",
+        "related:com.AKTEPE.logisticKing"
       ]
     },
     {
@@ -105478,7 +106209,8 @@
         "related:com.promotionsoftware.emergencymobile",
         "related:com.rarebyte.emop",
         "related:com.ti.police.Simulator.Car.Game",
-        "related:oxiwyle.allcountriessimulatorsecond"
+        "related:oxiwyle.allcountriessimulatorsecond",
+        "related:com.builditgames.policeinc"
       ]
     },
     {
@@ -105492,7 +106224,8 @@
       "discoveredVia": [
         "related:com.promotionsoftware.emergencymobile",
         "related:com.rarebyte.emop",
-        "related:com.gcl.fire.truck.rescue.sim"
+        "related:com.gcl.fire.truck.rescue.sim",
+        "related:de.ssncomputer.EmergencyRescueForce.Firefighter.mobile"
       ]
     },
     {
@@ -109587,7 +110320,8 @@
       "discoveredVia": [
         "related:com.ti.police.car.simulator.police.game.police.carchase.police.car.driving",
         "related:com.ti.police.car.simulator.police.car.chase.police.game.police.car.driving",
-        "related:com.ssi.police.chase.simulator"
+        "related:com.ssi.police.chase.simulator",
+        "related:com.builditgames.policeinc"
       ]
     },
     {
@@ -109617,7 +110351,8 @@
       "discoveredVia": [
         "related:com.ti.police.car.simulator.police.game.police.carchase.police.car.driving",
         "related:com.gp30.uspolicecars.transport.truck",
-        "related:com.cjump.emergency.dispatcher.police.simulator.games"
+        "related:com.cjump.emergency.dispatcher.police.simulator.games",
+        "search:strategy firefighter rescue dispatch"
       ]
     },
     {
@@ -110126,7 +110861,8 @@
       "url": "https://play.google.com/store/apps/details?id=com.fsg.dt3&hl=en&gl=US",
       "discoveredVia": [
         "related:com.ti.open.world.car.game.car.driving.game",
-        "related:com.cloudworth.japanww2"
+        "related:com.cloudworth.japanww2",
+        "related:com.tgames.bike.stunts.gt.games"
       ]
     },
     {
@@ -110225,7 +110961,8 @@
       "url": "https://play.google.com/store/apps/details?id=com.imayi.dinoword&hl=en&gl=US",
       "discoveredVia": [
         "related:com.ti.rescuehelicopterflightrescuesimulator",
-        "related:com.JessGames.rw1"
+        "related:com.JessGames.rw1",
+        "related:de.ssncomputer.EmergencyRescueForce.Firefighter.mobile"
       ]
     },
     {
@@ -114286,7 +115023,8 @@
       "genreId": "GAME_ACTION",
       "url": "https://play.google.com/store/apps/details?id=com.stickman.heroes.battle.of.warriors.stickmanwarriors&hl=en&gl=US",
       "discoveredVia": [
-        "related:com.naomicsoft.herowarsdefense"
+        "related:com.naomicsoft.herowarsdefense",
+        "related:com.mini.donkey.prank.simulator.game"
       ]
     },
     {
@@ -117474,7 +118212,8 @@
       "url": "https://play.google.com/store/apps/details?id=com.hb.airplaneinc&hl=en&gl=US",
       "discoveredVia": [
         "related:com.rsgapps.nightclub.empire.tycoon",
-        "related:com.gcl.fire.truck.rescue.sim"
+        "related:com.gcl.fire.truck.rescue.sim",
+        "related:de.ssncomputer.EmergencyRescueForce.Firefighter.mobile"
       ]
     },
     {
@@ -120769,7 +121508,8 @@
       "url": "https://play.google.com/store/apps/details?id=com.bethsoft.falloutshelter&hl=en&gl=US",
       "discoveredVia": [
         "related:com.mobirate.DeadAheadTactics",
-        "related:com.nextgames.android.twd"
+        "related:com.nextgames.android.twd",
+        "search:strategy desert water settlement"
       ]
     },
     {
@@ -122926,7 +123666,8 @@
       "genreId": "GAME_ACTION",
       "url": "https://play.google.com/store/apps/details?id=com.starplay.spider.fighter.openworld&hl=en&gl=US",
       "discoveredVia": [
-        "related:com.tap4fun.ape.gplay"
+        "related:com.tap4fun.ape.gplay",
+        "related:com.mini.donkey.prank.simulator.game"
       ]
     },
     {
@@ -125806,7 +126547,8 @@
       "genreId": "GAME_ROLE_PLAYING",
       "url": "https://play.google.com/store/apps/details?id=air.com.kintogames.bitDungeonIII&hl=en&gl=US",
       "discoveredVia": [
-        "related:com.talentvsai1a1"
+        "related:com.talentvsai1a1",
+        "related:com.buffstudio.stillpoint.paid"
       ]
     },
     {
@@ -126941,7 +127683,8 @@
       "genreId": "GAME_ACTION",
       "url": "https://play.google.com/store/apps/details?id=com.kiloo.stormblades&hl=en&gl=US",
       "discoveredVia": [
-        "related:com.kanoapps.vc"
+        "related:com.kanoapps.vc",
+        "related:com.gbs.ropehero.rescue.game"
       ]
     },
     {
@@ -129886,7 +130629,8 @@
       "genreId": "GAME_SIMULATION",
       "url": "https://play.google.com/store/apps/details?id=com.pearlgames.villagecityislandsim&hl=en&gl=US",
       "discoveredVia": [
-        "search:city building 2026"
+        "search:city building 2026",
+        "search:strategy desert water settlement"
       ]
     },
     {
@@ -131362,7 +132106,8 @@
       "genreId": "GAME_STRATEGY",
       "url": "https://play.google.com/store/apps/details?id=com.train.king.tycoon.transport.simulator&hl=en&gl=US",
       "discoveredVia": [
-        "search:strategy train"
+        "search:strategy train",
+        "search:strategy railroad tycoon logistics"
       ]
     },
     {
@@ -131510,7 +132255,8 @@
       "genreId": "GAME_CASUAL",
       "url": "https://play.google.com/store/apps/details?id=com.nimblebit.pockettrains&hl=en&gl=US",
       "discoveredVia": [
-        "search:strategy train"
+        "search:strategy train",
+        "search:strategy railroad tycoon logistics"
       ]
     },
     {
@@ -141378,7 +142124,8 @@
       "genreId": "GAME_ACTION",
       "url": "https://play.google.com/store/apps/details?id=com.rkgames.smashywanted&hl=en&gl=US",
       "discoveredVia": [
-        "related:com.Ion.StickmanWar"
+        "related:com.Ion.StickmanWar",
+        "related:com.builditgames.policeinc"
       ]
     },
     {
@@ -141524,7 +142271,8 @@
       "genreId": "GAME_ADVENTURE",
       "url": "https://play.google.com/store/apps/details?id=com.fivebn.nym2.full&hl=en&gl=US",
       "discoveredVia": [
-        "related:com.dyhd.slg01.pennew"
+        "related:com.dyhd.slg01.pennew",
+        "related:com.t134games.emergency.fire.rescue.truck.driving.games"
       ]
     },
     {
@@ -155684,7 +156432,8 @@
       "genreId": "GAME_ROLE_PLAYING",
       "url": "https://play.google.com/store/apps/details?id=com.playbrew.tanks&hl=en&gl=US",
       "discoveredVia": [
-        "search:tank idle defense crafting"
+        "search:tank idle defense crafting",
+        "search:strategy desert water settlement"
       ]
     },
     {
@@ -156094,7 +156843,8 @@
       "discoveredVia": [
         "related:com.foreverplane.tankstd",
         "related:com.CTSGames.PocketSpaceFactory",
-        "related:com.astragon.howl"
+        "related:com.astragon.howl",
+        "related:com.AKTEPE.logisticKing"
       ]
     },
     {
@@ -166990,7 +167740,8 @@
       "genreId": "GAME_PUZZLE",
       "url": "https://play.google.com/store/apps/details?id=com.the10tons.azkend_2&hl=en&gl=US",
       "discoveredVia": [
-        "related:com.paradyme.mobrush"
+        "related:com.paradyme.mobrush",
+        "related:com.t134games.emergency.fire.rescue.truck.driving.games"
       ]
     },
     {
@@ -168628,7 +169379,8 @@
       "url": "https://play.google.com/store/apps/details?id=com.astragon.cs4.full&hl=en&gl=US",
       "discoveredVia": [
         "related:com.astragon.howl",
-        "developer:6880843692150926521"
+        "developer:6880843692150926521",
+        "related:com.AKTEPE.logisticKing"
       ]
     },
     {
@@ -170708,7 +171460,8 @@
       "genreId": "BOOKS_AND_REFERENCE",
       "url": "https://play.google.com/store/apps/details?id=org.scemd.app&hl=en&gl=US",
       "discoveredVia": [
-        "search:emergency dispatch strategy"
+        "search:emergency dispatch strategy",
+        "search:strategy hospital emergency disaster"
       ]
     },
     {
@@ -171159,7 +171912,8 @@
       "genreId": "GAME_RACING",
       "url": "https://play.google.com/store/apps/details?id=com.topfreegames.bikeraceproworld&hl=en&gl=US",
       "discoveredVia": [
-        "related:com.cjump.kite.flying.sim.games"
+        "related:com.cjump.kite.flying.sim.games",
+        "related:com.tgames.bike.stunts.gt.games"
       ]
     },
     {
@@ -183186,6 +183940,1558 @@
       "discoveredVia": [
         "related:com.traverse.zhfx.en.gp",
         "developer:6109727420380587100"
+      ]
+    },
+    {
+      "id": "com.uuyu.imafiremannew",
+      "title": "I'm Fireman: Rescue Simulator",
+      "decision": "not-strategy",
+      "released": "Sep 1, 2023",
+      "genre": "Casual",
+      "genreId": "GAME_CASUAL",
+      "url": "https://play.google.com/store/apps/details?id=com.uuyu.imafiremannew&hl=en&gl=US",
+      "discoveredVia": [
+        "search:strategy firefighter rescue dispatch"
+      ]
+    },
+    {
+      "id": "com.gss.firefighte.rescue.game",
+      "title": "Fire Truck Rescue Firefighter",
+      "decision": "not-strategy",
+      "released": "Jun 18, 2025",
+      "genre": "Role Playing",
+      "genreId": "GAME_ROLE_PLAYING",
+      "url": "https://play.google.com/store/apps/details?id=com.gss.firefighte.rescue.game&hl=en&gl=US",
+      "discoveredVia": [
+        "search:strategy firefighter rescue dispatch"
+      ]
+    },
+    {
+      "id": "com.hq.firefighter.emergency.game",
+      "title": "Firefighter Rescue Truck Game",
+      "decision": "not-strategy",
+      "released": "Jun 28, 2023",
+      "genre": "Role Playing",
+      "genreId": "GAME_ROLE_PLAYING",
+      "url": "https://play.google.com/store/apps/details?id=com.hq.firefighter.emergency.game&hl=en&gl=US",
+      "discoveredVia": [
+        "search:strategy firefighter rescue dispatch"
+      ]
+    },
+    {
+      "id": "com.YovoGames.Firefighter",
+      "title": "Firefighters - Rescue Patrol",
+      "decision": "not-strategy",
+      "released": "Sep 29, 2017",
+      "genre": "Adventure",
+      "genreId": "GAME_ADVENTURE",
+      "url": "https://play.google.com/store/apps/details?id=com.YovoGames.Firefighter&hl=en&gl=US",
+      "discoveredVia": [
+        "search:strategy firefighter rescue dispatch"
+      ]
+    },
+    {
+      "id": "com.k3games.firerescue.free",
+      "title": "Fireman!",
+      "decision": "not-strategy",
+      "released": "Jul 13, 2016",
+      "genre": "Arcade",
+      "genreId": "GAME_ARCADE",
+      "url": "https://play.google.com/store/apps/details?id=com.k3games.firerescue.free&hl=en&gl=US",
+      "discoveredVia": [
+        "search:strategy firefighter rescue dispatch"
+      ]
+    },
+    {
+      "id": "com.shockwavegames.emergency.rescue.service",
+      "title": "Emergency Firefighter Police",
+      "decision": "not-strategy",
+      "released": "Sep 27, 2019",
+      "genre": "Simulation",
+      "genreId": "GAME_SIMULATION",
+      "url": "https://play.google.com/store/apps/details?id=com.shockwavegames.emergency.rescue.service&hl=en&gl=US",
+      "discoveredVia": [
+        "search:strategy firefighter rescue dispatch"
+      ]
+    },
+    {
+      "id": "com.EmergencyGames.CityFirefighterHeroes",
+      "title": "City Firefighter Heroes 3D",
+      "decision": "not-strategy",
+      "released": "Feb 10, 2021",
+      "genre": "Action",
+      "genreId": "GAME_ACTION",
+      "url": "https://play.google.com/store/apps/details?id=com.EmergencyGames.CityFirefighterHeroes&hl=en&gl=US",
+      "discoveredVia": [
+        "search:strategy firefighter rescue dispatch"
+      ]
+    },
+    {
+      "id": "com.miracle.firetruck.rescue",
+      "title": "Fire Truck: Firefighter Rescue",
+      "decision": "not-strategy",
+      "released": null,
+      "genre": "Simulation",
+      "genreId": "GAME_SIMULATION",
+      "url": "https://play.google.com/store/apps/details?id=com.miracle.firetruck.rescue&hl=en&gl=US",
+      "discoveredVia": [
+        "search:strategy firefighter rescue dispatch"
+      ]
+    },
+    {
+      "id": "com.batcave.firefighter.rescue.simulator.game",
+      "title": "Firefighter Rescue Simulator",
+      "decision": "not-strategy",
+      "released": null,
+      "genre": "Simulation",
+      "genreId": "GAME_SIMULATION",
+      "url": "https://play.google.com/store/apps/details?id=com.batcave.firefighter.rescue.simulator.game&hl=en&gl=US",
+      "discoveredVia": [
+        "search:strategy firefighter rescue dispatch"
+      ]
+    },
+    {
+      "id": "com.forqan.tech.Fireman",
+      "title": "Kids Firefighter Truck Games",
+      "decision": "not-strategy",
+      "released": "Jun 24, 2020",
+      "genre": "Role Playing",
+      "genreId": "GAME_ROLE_PLAYING",
+      "url": "https://play.google.com/store/apps/details?id=com.forqan.tech.Fireman&hl=en&gl=US",
+      "discoveredVia": [
+        "search:strategy firefighter rescue dispatch"
+      ]
+    },
+    {
+      "id": "de.ssncomputer.EmergencyRescueForce.Firefighter.mobile",
+      "title": "Emergency Rescue Force: Heroes",
+      "decision": "outside-window",
+      "released": "Dec 13, 2023",
+      "genre": "Strategy",
+      "genreId": "GAME_STRATEGY",
+      "url": "https://play.google.com/store/apps/details?id=de.ssncomputer.EmergencyRescueForce.Firefighter.mobile&hl=en&gl=US",
+      "discoveredVia": [
+        "search:strategy firefighter rescue dispatch",
+        "developer:9177390780491964987",
+        "related:com.SSNComputer.RTSGame"
+      ]
+    },
+    {
+      "id": "com.t134games.emergency.fire.rescue.truck.driving.games",
+      "title": "Fireman Rescue Truck Simulator",
+      "decision": "unknown-release",
+      "released": null,
+      "genre": "Strategy",
+      "genreId": "GAME_STRATEGY",
+      "url": "https://play.google.com/store/apps/details?id=com.t134games.emergency.fire.rescue.truck.driving.games&hl=en&gl=US",
+      "discoveredVia": [
+        "search:strategy firefighter rescue dispatch",
+        "developer:T134GAMER"
+      ]
+    },
+    {
+      "id": "com.pickle.FireTruckFirefighterSquad",
+      "title": "Fire Truck Firefighter Squad",
+      "decision": "not-strategy",
+      "released": "Apr 24, 2026",
+      "genre": "Action",
+      "genreId": "GAME_ACTION",
+      "url": "https://play.google.com/store/apps/details?id=com.pickle.FireTruckFirefighterSquad&hl=en&gl=US",
+      "discoveredVia": [
+        "search:strategy firefighter rescue dispatch"
+      ]
+    },
+    {
+      "id": "com.qunix.firefighter.game",
+      "title": "Us Firefighter City Rescue Sim",
+      "decision": "not-strategy",
+      "released": "Jan 16, 2026",
+      "genre": "Role Playing",
+      "genreId": "GAME_ROLE_PLAYING",
+      "url": "https://play.google.com/store/apps/details?id=com.qunix.firefighter.game&hl=en&gl=US",
+      "discoveredVia": [
+        "search:strategy firefighter rescue dispatch"
+      ]
+    },
+    {
+      "id": "com.cargoteleport.firefighter1",
+      "title": "Firefighter I Test Prep",
+      "decision": "not-strategy",
+      "released": "Sep 29, 2025",
+      "genre": "Education",
+      "genreId": "EDUCATION",
+      "url": "https://play.google.com/store/apps/details?id=com.cargoteleport.firefighter1&hl=en&gl=US",
+      "discoveredVia": [
+        "search:strategy firefighter rescue dispatch"
+      ]
+    },
+    {
+      "id": "com.idle.firefighter.simulator",
+      "title": "Firefighter Simulator",
+      "decision": "not-strategy",
+      "released": "Nov 24, 2021",
+      "genre": "Casual",
+      "genreId": "GAME_CASUAL",
+      "url": "https://play.google.com/store/apps/details?id=com.idle.firefighter.simulator&hl=en&gl=US",
+      "discoveredVia": [
+        "search:strategy firefighter rescue dispatch"
+      ]
+    },
+    {
+      "id": "com.granjuegos.firefighters.city.fire.rescue",
+      "title": "Firefighters City Fire Rescue",
+      "decision": "not-strategy",
+      "released": "Jul 25, 2019",
+      "genre": "Casual",
+      "genreId": "GAME_CASUAL",
+      "url": "https://play.google.com/store/apps/details?id=com.granjuegos.firefighters.city.fire.rescue&hl=en&gl=US",
+      "discoveredVia": [
+        "search:strategy firefighter rescue dispatch"
+      ]
+    },
+    {
+      "id": "com.firerescuefitness.train.own",
+      "title": "Fire Rescue Fitness",
+      "decision": "not-strategy",
+      "released": "Nov 10, 2021",
+      "genre": "Health & Fitness",
+      "genreId": "HEALTH_AND_FITNESS",
+      "url": "https://play.google.com/store/apps/details?id=com.firerescuefitness.train.own&hl=en&gl=US",
+      "discoveredVia": [
+        "search:strategy firefighter rescue dispatch"
+      ]
+    },
+    {
+      "id": "com.educastudio.marbelfiretruck",
+      "title": "Marbel Firefighters Kid Heroes",
+      "decision": "not-strategy",
+      "released": "Aug 23, 2017",
+      "genre": "Educational",
+      "genreId": "GAME_EDUCATIONAL",
+      "url": "https://play.google.com/store/apps/details?id=com.educastudio.marbelfiretruck&hl=en&gl=US",
+      "discoveredVia": [
+        "search:strategy firefighter rescue dispatch"
+      ]
+    },
+    {
+      "id": "com.batoki.kids.toddlers.firefightersFireRescue",
+      "title": "Firefighters Fire Rescue Kids",
+      "decision": "not-strategy",
+      "released": "Jan 25, 2019",
+      "genre": "Educational",
+      "genreId": "GAME_EDUCATIONAL",
+      "url": "https://play.google.com/store/apps/details?id=com.batoki.kids.toddlers.firefightersFireRescue&hl=en&gl=US",
+      "discoveredVia": [
+        "search:strategy firefighter rescue dispatch"
+      ]
+    },
+    {
+      "id": "com.mini.firefighter.rescue.games",
+      "title": "Firefighter Rescue: Fire Truck",
+      "decision": "unknown-release",
+      "released": null,
+      "genre": "Strategy",
+      "genreId": "GAME_STRATEGY",
+      "url": "https://play.google.com/store/apps/details?id=com.mini.firefighter.rescue.games&hl=en&gl=US",
+      "discoveredVia": [
+        "search:strategy firefighter rescue dispatch",
+        "developer:Game Blaze Studios"
+      ]
+    },
+    {
+      "id": "org.ifsta.arff6th",
+      "title": "IFSTA Aircraft Rescue 6",
+      "decision": "not-strategy",
+      "released": "Nov 30, 2022",
+      "genre": "Education",
+      "genreId": "EDUCATION",
+      "url": "https://play.google.com/store/apps/details?id=org.ifsta.arff6th&hl=en&gl=US",
+      "discoveredVia": [
+        "search:strategy firefighter rescue dispatch"
+      ]
+    },
+    {
+      "id": "net.firecu.sfcu2",
+      "title": "Spokane Firefighters CU",
+      "decision": "not-strategy",
+      "released": "Dec 18, 2024",
+      "genre": "Finance",
+      "genreId": "FINANCE",
+      "url": "https://play.google.com/store/apps/details?id=net.firecu.sfcu2&hl=en&gl=US",
+      "discoveredVia": [
+        "search:strategy firefighter rescue dispatch"
+      ]
+    },
+    {
+      "id": "com.aleosapps.QuizzAppFireFighter",
+      "title": "FireFighter I & II EXAM PREP",
+      "decision": "not-strategy",
+      "released": "Aug 13, 2025",
+      "genre": "Education",
+      "genreId": "EDUCATION",
+      "url": "https://play.google.com/store/apps/details?id=com.aleosapps.QuizzAppFireFighter&hl=en&gl=US",
+      "discoveredVia": [
+        "search:strategy firefighter rescue dispatch"
+      ]
+    },
+    {
+      "id": "com.builditgames.fireinc",
+      "title": "Fire Inc: Classic fire station",
+      "decision": "outside-window",
+      "released": "Jun 30, 2019",
+      "genre": "Strategy",
+      "genreId": "GAME_STRATEGY",
+      "url": "https://play.google.com/store/apps/details?id=com.builditgames.fireinc&hl=en&gl=US",
+      "discoveredVia": [
+        "search:strategy firefighter rescue dispatch",
+        "related:com.builditgames.zombiestreets",
+        "related:com.builditgames.policeinc",
+        "developer:7330635347286712602"
+      ]
+    },
+    {
+      "id": "com.arcane.firefighter",
+      "title": "FireFighter Rescue 2D Game",
+      "decision": "not-strategy",
+      "released": "Aug 23, 2024",
+      "genre": "Role Playing",
+      "genreId": "GAME_ROLE_PLAYING",
+      "url": "https://play.google.com/store/apps/details?id=com.arcane.firefighter&hl=en&gl=US",
+      "discoveredVia": [
+        "search:strategy firefighter rescue dispatch"
+      ]
+    },
+    {
+      "id": "com.cargoteleport.firefighter2",
+      "title": "Firefighter II Test Prep",
+      "decision": "not-strategy",
+      "released": "Dec 21, 2025",
+      "genre": "Education",
+      "genreId": "EDUCATION",
+      "url": "https://play.google.com/store/apps/details?id=com.cargoteleport.firefighter2&hl=en&gl=US",
+      "discoveredVia": [
+        "search:strategy firefighter rescue dispatch"
+      ]
+    },
+    {
+      "id": "com.logitycoon.logitycoon",
+      "title": "LogiTycoon - Transport Game",
+      "decision": "not-strategy",
+      "released": "Jan 30, 2018",
+      "genre": "Simulation",
+      "genreId": "GAME_SIMULATION",
+      "url": "https://play.google.com/store/apps/details?id=com.logitycoon.logitycoon&hl=en&gl=US",
+      "discoveredVia": [
+        "search:strategy railroad tycoon logistics"
+      ]
+    },
+    {
+      "id": "com.gameyogi.passengerpioneer",
+      "title": "Railway Tycoon Adventure",
+      "decision": "not-strategy",
+      "released": "Sep 29, 2023",
+      "genre": "Role Playing",
+      "genreId": "GAME_ROLE_PLAYING",
+      "url": "https://play.google.com/store/apps/details?id=com.gameyogi.passengerpioneer&hl=en&gl=US",
+      "discoveredVia": [
+        "search:strategy railroad tycoon logistics"
+      ]
+    },
+    {
+      "id": "com.AKTEPE.logisticKing",
+      "title": "Logistic King",
+      "decision": "outside-window",
+      "released": "Apr 12, 2022",
+      "genre": "Strategy",
+      "genreId": "GAME_STRATEGY",
+      "url": "https://play.google.com/store/apps/details?id=com.AKTEPE.logisticKing&hl=en&gl=US",
+      "discoveredVia": [
+        "search:strategy railroad tycoon logistics",
+        "developer:7528182243914062100"
+      ]
+    },
+    {
+      "id": "com.idle.railway.tycoon",
+      "title": "Railway Tycoon",
+      "decision": "not-strategy",
+      "released": "Jan 14, 2022",
+      "genre": "Casual",
+      "genreId": "GAME_CASUAL",
+      "url": "https://play.google.com/store/apps/details?id=com.idle.railway.tycoon&hl=en&gl=US",
+      "discoveredVia": [
+        "search:strategy railroad tycoon logistics"
+      ]
+    },
+    {
+      "id": "com.IntechStudio.DungeonMagicMaster",
+      "title": "Mob Hit Fighting games",
+      "decision": "not-strategy",
+      "released": "Feb 22, 2024",
+      "genre": "Action",
+      "genreId": "GAME_ACTION",
+      "url": "https://play.google.com/store/apps/details?id=com.IntechStudio.DungeonMagicMaster&hl=en&gl=US",
+      "discoveredVia": [
+        "related:com.t134games.emergency.fire.rescue.truck.driving.games",
+        "related:com.tgames.bike.stunts.gt.games",
+        "developer:T134GAMER"
+      ]
+    },
+    {
+      "id": "com.tgames.police.chase.drive.games",
+      "title": "Police Car Chase Thief Games",
+      "decision": "not-strategy",
+      "released": "Jun 7, 2023",
+      "genre": "Role Playing",
+      "genreId": "GAME_ROLE_PLAYING",
+      "url": "https://play.google.com/store/apps/details?id=com.tgames.police.chase.drive.games&hl=en&gl=US",
+      "discoveredVia": [
+        "related:com.t134games.emergency.fire.rescue.truck.driving.games",
+        "related:com.tgames.bike.stunts.gt.games",
+        "developer:T134GAMER"
+      ]
+    },
+    {
+      "id": "com.tgames.bike.stunts.gt.games",
+      "title": "Bike Race Motorcycle Games 3D",
+      "decision": "outside-window",
+      "released": "Feb 10, 2023",
+      "genre": "Strategy",
+      "genreId": "GAME_STRATEGY",
+      "url": "https://play.google.com/store/apps/details?id=com.tgames.bike.stunts.gt.games&hl=en&gl=US",
+      "discoveredVia": [
+        "related:com.t134games.emergency.fire.rescue.truck.driving.games",
+        "developer:T134GAMER"
+      ]
+    },
+    {
+      "id": "com.tgames.snipper.mission.game.shooting",
+      "title": "Sniper Shooting FPS Commando",
+      "decision": "not-strategy",
+      "released": "Dec 1, 2022",
+      "genre": "Action",
+      "genreId": "GAME_ACTION",
+      "url": "https://play.google.com/store/apps/details?id=com.tgames.snipper.mission.game.shooting&hl=en&gl=US",
+      "discoveredVia": [
+        "related:com.t134games.emergency.fire.rescue.truck.driving.games",
+        "related:com.tgames.bike.stunts.gt.games",
+        "developer:T134GAMER"
+      ]
+    },
+    {
+      "id": "com.tgames.army.transport.games.transporta",
+      "title": "Army Vehicle Transport 3D Game",
+      "decision": "not-strategy",
+      "released": "Oct 5, 2022",
+      "genre": "Adventure",
+      "genreId": "GAME_ADVENTURE",
+      "url": "https://play.google.com/store/apps/details?id=com.tgames.army.transport.games.transporta&hl=en&gl=US",
+      "discoveredVia": [
+        "related:com.t134games.emergency.fire.rescue.truck.driving.games",
+        "related:com.tgames.bike.stunts.gt.games",
+        "developer:T134GAMER"
+      ]
+    },
+    {
+      "id": "com.tgames.virtual.mother.sim.games",
+      "title": "Mother Simulator: Mom Pregnant",
+      "decision": "not-strategy",
+      "released": "Sep 21, 2022",
+      "genre": "Role Playing",
+      "genreId": "GAME_ROLE_PLAYING",
+      "url": "https://play.google.com/store/apps/details?id=com.tgames.virtual.mother.sim.games&hl=en&gl=US",
+      "discoveredVia": [
+        "related:com.t134games.emergency.fire.rescue.truck.driving.games",
+        "related:com.tgames.bike.stunts.gt.games",
+        "developer:T134GAMER"
+      ]
+    },
+    {
+      "id": "com.direwolfdigital.wingsofglory",
+      "title": "Wings of Glory",
+      "decision": "not-strategy",
+      "released": "Jul 7, 2022",
+      "genre": "Board",
+      "genreId": "GAME_BOARD",
+      "url": "https://play.google.com/store/apps/details?id=com.direwolfdigital.wingsofglory&hl=en&gl=US",
+      "discoveredVia": [
+        "related:com.t134games.emergency.fire.rescue.truck.driving.games"
+      ]
+    },
+    {
+      "id": "com.dominigames.mtr5.free2play",
+      "title": "Mystical Riddles: Portrait f2p",
+      "decision": "not-strategy",
+      "released": "Sep 10, 2024",
+      "genre": "Puzzle",
+      "genreId": "GAME_PUZZLE",
+      "url": "https://play.google.com/store/apps/details?id=com.dominigames.mtr5.free2play&hl=en&gl=US",
+      "discoveredVia": [
+        "related:com.t134games.emergency.fire.rescue.truck.driving.games"
+      ]
+    },
+    {
+      "id": "de.sssncomputer.stadsass",
+      "title": "Company Service World",
+      "decision": "not-strategy",
+      "released": "Jul 21, 2025",
+      "genre": "Productivity",
+      "genreId": "PRODUCTIVITY",
+      "url": "https://play.google.com/store/apps/details?id=de.sssncomputer.stadsass&hl=en&gl=US",
+      "discoveredVia": [
+        "related:de.ssncomputer.EmergencyRescueForce.Firefighter.mobile",
+        "developer:9177390780491964987",
+        "related:com.SSNComputer.RTSGame"
+      ]
+    },
+    {
+      "id": "de.ssncomputer.atmrobbery.free.thief.cash.bank.mobile",
+      "title": "ATM Robbery: Pipe Blast & Cash",
+      "decision": "not-strategy",
+      "released": "Jan 31, 2025",
+      "genre": "Action",
+      "genreId": "GAME_ACTION",
+      "url": "https://play.google.com/store/apps/details?id=de.ssncomputer.atmrobbery.free.thief.cash.bank.mobile&hl=en&gl=US",
+      "discoveredVia": [
+        "related:de.ssncomputer.EmergencyRescueForce.Firefighter.mobile",
+        "developer:9177390780491964987",
+        "related:com.SSNComputer.RTSGame"
+      ]
+    },
+    {
+      "id": "de.ssncomputer.city.sniper.game.shoot.mobile",
+      "title": "Rogue Sniper: Revenge Shooting",
+      "decision": "not-strategy",
+      "released": "Feb 21, 2024",
+      "genre": "Action",
+      "genreId": "GAME_ACTION",
+      "url": "https://play.google.com/store/apps/details?id=de.ssncomputer.city.sniper.game.shoot.mobile&hl=en&gl=US",
+      "discoveredVia": [
+        "related:de.ssncomputer.EmergencyRescueForce.Firefighter.mobile",
+        "developer:9177390780491964987",
+        "related:com.SSNComputer.RTSGame"
+      ]
+    },
+    {
+      "id": "de.ssncomputers.touchdownrun.americanfootball.Nfl.mobile",
+      "title": "TouchDown Run: Domination",
+      "decision": "not-strategy",
+      "released": "Dec 9, 2023",
+      "genre": "Sports",
+      "genreId": "GAME_SPORTS",
+      "url": "https://play.google.com/store/apps/details?id=de.ssncomputers.touchdownrun.americanfootball.Nfl.mobile&hl=en&gl=US",
+      "discoveredVia": [
+        "related:de.ssncomputer.EmergencyRescueForce.Firefighter.mobile",
+        "developer:9177390780491964987",
+        "related:com.SSNComputer.RTSGame"
+      ]
+    },
+    {
+      "id": "de.ssncomputer.helixjump",
+      "title": "Ball Twisting : Tower blasting",
+      "decision": "not-strategy",
+      "released": "Aug 18, 2022",
+      "genre": "Casual",
+      "genreId": "GAME_CASUAL",
+      "url": "https://play.google.com/store/apps/details?id=de.ssncomputer.helixjump&hl=en&gl=US",
+      "discoveredVia": [
+        "related:de.ssncomputer.EmergencyRescueForce.Firefighter.mobile",
+        "developer:9177390780491964987",
+        "related:com.SSNComputer.RTSGame"
+      ]
+    },
+    {
+      "id": "de.ssncomputer.crazychase",
+      "title": "Outlaw Chase: Police Pursuit",
+      "decision": "not-strategy",
+      "released": "Aug 17, 2022",
+      "genre": "Racing",
+      "genreId": "GAME_RACING",
+      "url": "https://play.google.com/store/apps/details?id=de.ssncomputer.crazychase&hl=en&gl=US",
+      "discoveredVia": [
+        "related:de.ssncomputer.EmergencyRescueForce.Firefighter.mobile",
+        "developer:9177390780491964987"
+      ]
+    },
+    {
+      "id": "com.mini.deadly.tsunami.escape.survival",
+      "title": "Deadly Tsunami Escape Survival",
+      "decision": "not-strategy",
+      "released": null,
+      "genre": "Adventure",
+      "genreId": "GAME_ADVENTURE",
+      "url": "https://play.google.com/store/apps/details?id=com.mini.deadly.tsunami.escape.survival&hl=en&gl=US",
+      "discoveredVia": [
+        "related:com.mini.firefighter.rescue.games",
+        "related:com.mini.donkey.prank.simulator.game",
+        "related:com.gbs.ropehero.rescue.game",
+        "related:com.gbs.miami.gangster.city.crime",
+        "developer:Game Blaze Studios",
+        "related:com.minimax.miami.gangster.crime.sim"
+      ]
+    },
+    {
+      "id": "com.mini.scary.shawarma.horror.game",
+      "title": "Scary Food Shawarma Game",
+      "decision": "not-strategy",
+      "released": null,
+      "genre": "Simulation",
+      "genreId": "GAME_SIMULATION",
+      "url": "https://play.google.com/store/apps/details?id=com.mini.scary.shawarma.horror.game&hl=en&gl=US",
+      "discoveredVia": [
+        "related:com.mini.firefighter.rescue.games",
+        "related:com.mini.donkey.prank.simulator.game",
+        "related:com.gbs.ropehero.rescue.game",
+        "related:com.gbs.miami.gangster.city.crime",
+        "developer:Game Blaze Studios",
+        "related:com.minimax.miami.gangster.crime.sim"
+      ]
+    },
+    {
+      "id": "com.minimax.crazy.taxi.driver.pranks",
+      "title": "Crazy Taxi Driver Prankster 3D",
+      "decision": "not-strategy",
+      "released": null,
+      "genre": "Simulation",
+      "genreId": "GAME_SIMULATION",
+      "url": "https://play.google.com/store/apps/details?id=com.minimax.crazy.taxi.driver.pranks&hl=en&gl=US",
+      "discoveredVia": [
+        "related:com.mini.firefighter.rescue.games",
+        "related:com.mini.donkey.prank.simulator.game",
+        "related:com.gbs.ropehero.rescue.game",
+        "related:com.gbs.miami.gangster.city.crime",
+        "developer:Game Blaze Studios",
+        "related:com.minimax.miami.gangster.crime.sim"
+      ]
+    },
+    {
+      "id": "com.mini.soccer.football.managers",
+      "title": "Soccer Manager Football Game",
+      "decision": "not-strategy",
+      "released": null,
+      "genre": "Sports",
+      "genreId": "GAME_SPORTS",
+      "url": "https://play.google.com/store/apps/details?id=com.mini.soccer.football.managers&hl=en&gl=US",
+      "discoveredVia": [
+        "related:com.mini.firefighter.rescue.games",
+        "related:com.mini.donkey.prank.simulator.game",
+        "related:com.gbs.ropehero.rescue.game",
+        "related:com.gbs.miami.gangster.city.crime",
+        "developer:Game Blaze Studios",
+        "related:com.minimax.miami.gangster.crime.sim"
+      ]
+    },
+    {
+      "id": "com.gbs.ropehero.rescue.game",
+      "title": "Spider Rope Hero Rescue Man",
+      "decision": "unknown-release",
+      "released": null,
+      "genre": "Strategy",
+      "genreId": "GAME_STRATEGY",
+      "url": "https://play.google.com/store/apps/details?id=com.gbs.ropehero.rescue.game&hl=en&gl=US",
+      "discoveredVia": [
+        "related:com.mini.firefighter.rescue.games",
+        "related:com.mini.donkey.prank.simulator.game",
+        "related:com.gbs.miami.gangster.city.crime",
+        "developer:Game Blaze Studios",
+        "related:com.minimax.miami.gangster.crime.sim"
+      ]
+    },
+    {
+      "id": "com.mini.donkey.prank.simulator.game",
+      "title": "Rope Hero Rescue – Gangster 3D",
+      "decision": "unknown-release",
+      "released": null,
+      "genre": "Strategy",
+      "genreId": "GAME_STRATEGY",
+      "url": "https://play.google.com/store/apps/details?id=com.mini.donkey.prank.simulator.game&hl=en&gl=US",
+      "discoveredVia": [
+        "related:com.mini.firefighter.rescue.games",
+        "related:com.gbs.ropehero.rescue.game",
+        "related:com.gbs.miami.gangster.city.crime",
+        "developer:Game Blaze Studios",
+        "related:com.minimax.miami.gangster.crime.sim"
+      ]
+    },
+    {
+      "id": "com.builditgames.zombiestreets",
+      "title": "Zombie Streets: Undead shooter",
+      "decision": "outside-window",
+      "released": "May 14, 2024",
+      "genre": "Strategy",
+      "genreId": "GAME_STRATEGY",
+      "url": "https://play.google.com/store/apps/details?id=com.builditgames.zombiestreets&hl=en&gl=US",
+      "discoveredVia": [
+        "related:com.builditgames.fireinc",
+        "related:com.builditgames.policeinc",
+        "developer:7330635347286712602"
+      ]
+    },
+    {
+      "id": "com.builditgames.magicstreets",
+      "title": "Magic Streets: GPS Fantasy RPG",
+      "decision": "not-strategy",
+      "released": "Feb 9, 2020",
+      "genre": "Role Playing",
+      "genreId": "GAME_ROLE_PLAYING",
+      "url": "https://play.google.com/store/apps/details?id=com.builditgames.magicstreets&hl=en&gl=US",
+      "discoveredVia": [
+        "related:com.builditgames.fireinc",
+        "related:com.builditgames.zombiestreets",
+        "related:com.builditgames.policeinc",
+        "developer:7330635347286712602"
+      ]
+    },
+    {
+      "id": "com.builditgames.policeinc",
+      "title": "Police Inc: Tycoon police stat",
+      "decision": "outside-window",
+      "released": "Jan 29, 2019",
+      "genre": "Strategy",
+      "genreId": "GAME_STRATEGY",
+      "url": "https://play.google.com/store/apps/details?id=com.builditgames.policeinc&hl=en&gl=US",
+      "discoveredVia": [
+        "related:com.builditgames.fireinc",
+        "related:com.builditgames.zombiestreets",
+        "developer:7330635347286712602"
+      ]
+    },
+    {
+      "id": "com.SomeCompany.Idletruckcityminertycoon",
+      "title": "Idle Mining Tycoon: Industry",
+      "decision": "not-strategy",
+      "released": "Dec 24, 2024",
+      "genre": "Simulation",
+      "genreId": "GAME_SIMULATION",
+      "url": "https://play.google.com/store/apps/details?id=com.SomeCompany.Idletruckcityminertycoon&hl=en&gl=US",
+      "discoveredVia": [
+        "related:com.AKTEPE.logisticKing"
+      ]
+    },
+    {
+      "id": "com.tgames.real.crime.gt.games",
+      "title": "Gangster Vegas Theft Auto Game",
+      "decision": "not-strategy",
+      "released": "Aug 6, 2022",
+      "genre": "Role Playing",
+      "genreId": "GAME_ROLE_PLAYING",
+      "url": "https://play.google.com/store/apps/details?id=com.tgames.real.crime.gt.games&hl=en&gl=US",
+      "discoveredVia": [
+        "related:com.tgames.bike.stunts.gt.games",
+        "developer:T134GAMER"
+      ]
+    },
+    {
+      "id": "net.kamptner.sunsetracer",
+      "title": "Sunset Bike Racer - Motocross",
+      "decision": "not-strategy",
+      "released": "Mar 23, 2016",
+      "genre": "Racing",
+      "genreId": "GAME_RACING",
+      "url": "https://play.google.com/store/apps/details?id=net.kamptner.sunsetracer&hl=en&gl=US",
+      "discoveredVia": [
+        "related:com.tgames.bike.stunts.gt.games"
+      ]
+    },
+    {
+      "id": "com.smgstudio.thumbdrift",
+      "title": "Thumb Drift Fast Furious Cars",
+      "decision": "not-strategy",
+      "released": "Mar 2, 2016",
+      "genre": "Racing",
+      "genreId": "GAME_RACING",
+      "url": "https://play.google.com/store/apps/details?id=com.smgstudio.thumbdrift&hl=en&gl=US",
+      "discoveredVia": [
+        "related:com.tgames.bike.stunts.gt.games"
+      ]
+    },
+    {
+      "id": "com.turborilla.MadSkillsMotocross2",
+      "title": "Mad Skills Motocross 2",
+      "decision": "not-strategy",
+      "released": "Feb 19, 2014",
+      "genre": "Racing",
+      "genreId": "GAME_RACING",
+      "url": "https://play.google.com/store/apps/details?id=com.turborilla.MadSkillsMotocross2&hl=en&gl=US",
+      "discoveredVia": [
+        "related:com.tgames.bike.stunts.gt.games"
+      ]
+    },
+    {
+      "id": "com.ratrodstudio.snowparty2",
+      "title": "Snowboard Party World Tour Pro",
+      "decision": "not-strategy",
+      "released": "Dec 2, 2015",
+      "genre": "Sports",
+      "genreId": "GAME_SPORTS",
+      "url": "https://play.google.com/store/apps/details?id=com.ratrodstudio.snowparty2&hl=en&gl=US",
+      "discoveredVia": [
+        "related:com.tgames.bike.stunts.gt.games"
+      ]
+    },
+    {
+      "id": "com.gbs.miami.gangster.city.crime",
+      "title": "Miami Gangster - City Crime 3D",
+      "decision": "unknown-release",
+      "released": null,
+      "genre": "Strategy",
+      "genreId": "GAME_STRATEGY",
+      "url": "https://play.google.com/store/apps/details?id=com.gbs.miami.gangster.city.crime&hl=en&gl=US",
+      "discoveredVia": [
+        "related:com.mini.donkey.prank.simulator.game",
+        "related:com.gbs.ropehero.rescue.game",
+        "developer:Game Blaze Studios"
+      ]
+    },
+    {
+      "id": "com.starplay.spider.fighter3d",
+      "title": "Spider Fighter 2",
+      "decision": "not-strategy",
+      "released": "May 9, 2022",
+      "genre": "Action",
+      "genreId": "GAME_ACTION",
+      "url": "https://play.google.com/store/apps/details?id=com.starplay.spider.fighter3d&hl=en&gl=US",
+      "discoveredVia": [
+        "related:com.mini.donkey.prank.simulator.game"
+      ]
+    },
+    {
+      "id": "com.renderedideas.streetfight",
+      "title": "Street Fight",
+      "decision": "not-strategy",
+      "released": "May 29, 2023",
+      "genre": "Action",
+      "genreId": "GAME_ACTION",
+      "url": "https://play.google.com/store/apps/details?id=com.renderedideas.streetfight&hl=en&gl=US",
+      "discoveredVia": [
+        "related:com.mini.donkey.prank.simulator.game"
+      ]
+    },
+    {
+      "id": "com.longgammagames.elementra.pvp.rpg",
+      "title": "Elementra: The Sundered World",
+      "decision": "not-strategy",
+      "released": "Oct 17, 2025",
+      "genre": "Role Playing",
+      "genreId": "GAME_ROLE_PLAYING",
+      "url": "https://play.google.com/store/apps/details?id=com.longgammagames.elementra.pvp.rpg&hl=en&gl=US",
+      "discoveredVia": [
+        "related:com.gbs.ropehero.rescue.game"
+      ]
+    },
+    {
+      "id": "com.duoduo.games.police",
+      "title": "Police RPG：DuDu Games",
+      "decision": "not-strategy",
+      "released": "Apr 7, 2022",
+      "genre": "Educational",
+      "genreId": "GAME_EDUCATIONAL",
+      "url": "https://play.google.com/store/apps/details?id=com.duoduo.games.police&hl=en&gl=US",
+      "discoveredVia": [
+        "related:com.builditgames.policeinc"
+      ]
+    },
+    {
+      "id": "se.filimundus.littlepolice",
+      "title": "Little Police",
+      "decision": "not-strategy",
+      "released": "Dec 6, 2017",
+      "genre": "Educational",
+      "genreId": "GAME_EDUCATIONAL",
+      "url": "https://play.google.com/store/apps/details?id=se.filimundus.littlepolice&hl=en&gl=US",
+      "discoveredVia": [
+        "related:com.builditgames.policeinc"
+      ]
+    },
+    {
+      "id": "com.Tgamer.scary.survival.horror.clown.games",
+      "title": "Scary Horror Escape Games",
+      "decision": "not-strategy",
+      "released": "Jun 29, 2022",
+      "genre": "Role Playing",
+      "genreId": "GAME_ROLE_PLAYING",
+      "url": "https://play.google.com/store/apps/details?id=com.Tgamer.scary.survival.horror.clown.games&hl=en&gl=US",
+      "discoveredVia": [
+        "developer:T134GAMER"
+      ]
+    },
+    {
+      "id": "com.t134.games.car.driving.city.racing.games",
+      "title": "Real Car Driving Car Simulator",
+      "decision": "not-strategy",
+      "released": null,
+      "genre": "Racing",
+      "genreId": "GAME_RACING",
+      "url": "https://play.google.com/store/apps/details?id=com.t134.games.car.driving.city.racing.games&hl=en&gl=US",
+      "discoveredVia": [
+        "developer:T134GAMER"
+      ]
+    },
+    {
+      "id": "de.ssncomputer.gkyiv",
+      "title": "Modern Sky Combat: Fighter Jet",
+      "decision": "not-strategy",
+      "released": "Mar 19, 2022",
+      "genre": "Action",
+      "genreId": "GAME_ACTION",
+      "url": "https://play.google.com/store/apps/details?id=de.ssncomputer.gkyiv&hl=en&gl=US",
+      "discoveredVia": [
+        "developer:9177390780491964987"
+      ]
+    },
+    {
+      "id": "de.ssncomputer.rls",
+      "title": "Emergency Rescue: Save Lives",
+      "decision": "not-strategy",
+      "released": "Dec 28, 2021",
+      "genre": "Simulation",
+      "genreId": "GAME_SIMULATION",
+      "url": "https://play.google.com/store/apps/details?id=de.ssncomputer.rls&hl=en&gl=US",
+      "discoveredVia": [
+        "developer:9177390780491964987"
+      ]
+    },
+    {
+      "id": "com.SSNComputer.RTSGame",
+      "title": "Battle of Fortresses: TD Games",
+      "decision": "outside-window",
+      "released": "Dec 27, 2021",
+      "genre": "Strategy",
+      "genreId": "GAME_STRATEGY",
+      "url": "https://play.google.com/store/apps/details?id=com.SSNComputer.RTSGame&hl=en&gl=US",
+      "discoveredVia": [
+        "developer:9177390780491964987"
+      ]
+    },
+    {
+      "id": "com.minimax.miami.gangster.crime.sim",
+      "title": "Miami Gangster Crime Simulator",
+      "decision": "unknown-release",
+      "released": null,
+      "genre": "Strategy",
+      "genreId": "GAME_STRATEGY",
+      "url": "https://play.google.com/store/apps/details?id=com.minimax.miami.gangster.crime.sim&hl=en&gl=US",
+      "discoveredVia": [
+        "developer:Game Blaze Studios"
+      ]
+    },
+    {
+      "id": "com.minimax.bike.driving.game",
+      "title": "Indian Bike Driving Sim 3D",
+      "decision": "not-strategy",
+      "released": null,
+      "genre": "Simulation",
+      "genreId": "GAME_SIMULATION",
+      "url": "https://play.google.com/store/apps/details?id=com.minimax.bike.driving.game&hl=en&gl=US",
+      "discoveredVia": [
+        "developer:Game Blaze Studios"
+      ]
+    },
+    {
+      "id": "com.unbound.android.ubdn",
+      "title": "Disaster Nursing",
+      "decision": "not-strategy",
+      "released": "Nov 30, 2015",
+      "genre": "Medical",
+      "genreId": "MEDICAL",
+      "url": "https://play.google.com/store/apps/details?id=com.unbound.android.ubdn&hl=en&gl=US",
+      "discoveredVia": [
+        "search:strategy hospital emergency disaster"
+      ]
+    },
+    {
+      "id": "com.ifirstaid",
+      "title": "iFirstAid",
+      "decision": "not-strategy",
+      "released": "May 10, 2017",
+      "genre": "Health & Fitness",
+      "genreId": "HEALTH_AND_FITNESS",
+      "url": "https://play.google.com/store/apps/details?id=com.ifirstaid&hl=en&gl=US",
+      "discoveredVia": [
+        "search:strategy hospital emergency disaster"
+      ]
+    },
+    {
+      "id": "com.hippo_kids_games.emergency_hospital.doctor_injection",
+      "title": "Emergency Hospital: Injection",
+      "decision": "not-strategy",
+      "released": "Aug 27, 2018",
+      "genre": "Casual",
+      "genreId": "GAME_CASUAL",
+      "url": "https://play.google.com/store/apps/details?id=com.hippo_kids_games.emergency_hospital.doctor_injection&hl=en&gl=US",
+      "discoveredVia": [
+        "search:strategy hospital emergency disaster"
+      ]
+    },
+    {
+      "id": "kr.go.nema.disasteralert_eng",
+      "title": "(Old)Emergency Ready App",
+      "decision": "not-strategy",
+      "released": "Feb 20, 2014",
+      "genre": "Lifestyle",
+      "genreId": "LIFESTYLE",
+      "url": "https://play.google.com/store/apps/details?id=kr.go.nema.disasteralert_eng&hl=en&gl=US",
+      "discoveredVia": [
+        "search:strategy hospital emergency disaster"
+      ]
+    },
+    {
+      "id": "com.asfcreations.survivalist",
+      "title": "Survivalist Emergency Planner",
+      "decision": "not-strategy",
+      "released": "Nov 6, 2025",
+      "genre": "Lifestyle",
+      "genreId": "LIFESTYLE",
+      "url": "https://play.google.com/store/apps/details?id=com.asfcreations.survivalist&hl=en&gl=US",
+      "discoveredVia": [
+        "search:strategy hospital emergency disaster"
+      ]
+    },
+    {
+      "id": "disasterAlert.PDC",
+      "title": "Disaster Alert",
+      "decision": "not-strategy",
+      "released": "Feb 23, 2011",
+      "genre": "Weather",
+      "genreId": "WEATHER",
+      "url": "https://play.google.com/store/apps/details?id=disasterAlert.PDC&hl=en&gl=US",
+      "discoveredVia": [
+        "search:strategy hospital emergency disaster"
+      ]
+    },
+    {
+      "id": "com.digitaldisastermanagment",
+      "title": "Digital Disaster Compensation",
+      "decision": "not-strategy",
+      "released": "Aug 18, 2025",
+      "genre": "Productivity",
+      "genreId": "PRODUCTIVITY",
+      "url": "https://play.google.com/store/apps/details?id=com.digitaldisastermanagment&hl=en&gl=US",
+      "discoveredVia": [
+        "search:strategy hospital emergency disaster"
+      ]
+    },
+    {
+      "id": "com.medpresso.Lonestar.detemerg",
+      "title": "Hospital Emergency Medical HBK",
+      "decision": "not-strategy",
+      "released": "Feb 5, 2026",
+      "genre": "Medical",
+      "genreId": "MEDICAL",
+      "url": "https://play.google.com/store/apps/details?id=com.medpresso.Lonestar.detemerg&hl=en&gl=US",
+      "discoveredVia": [
+        "search:strategy hospital emergency disaster"
+      ]
+    },
+    {
+      "id": "com.medpresso.Lonestar.emergmed",
+      "title": "Tintinalli's Emergency Med Man",
+      "decision": "not-strategy",
+      "released": "Jun 6, 2018",
+      "genre": "Medical",
+      "genreId": "MEDICAL",
+      "url": "https://play.google.com/store/apps/details?id=com.medpresso.Lonestar.emergmed&hl=en&gl=US",
+      "discoveredVia": [
+        "search:strategy hospital emergency disaster"
+      ]
+    },
+    {
+      "id": "com.roblox.client",
+      "title": "Roblox",
+      "decision": "not-strategy",
+      "released": "Jul 15, 2014",
+      "genre": "Adventure",
+      "genreId": "GAME_ADVENTURE",
+      "url": "https://play.google.com/store/apps/details?id=com.roblox.client&hl=en&gl=US",
+      "discoveredVia": [
+        "search:strategy hospital emergency disaster"
+      ]
+    },
+    {
+      "id": "org.ifrc.epidemics.twa",
+      "title": "Epidemic Control Toolkit",
+      "decision": "not-strategy",
+      "released": "Sep 23, 2022",
+      "genre": "Education",
+      "genreId": "EDUCATION",
+      "url": "https://play.google.com/store/apps/details?id=org.ifrc.epidemics.twa&hl=en&gl=US",
+      "discoveredVia": [
+        "search:strategy hospital emergency disaster"
+      ]
+    },
+    {
+      "id": "com.hltcorp.emergencynursing",
+      "title": "Emergency Nurse Essentials",
+      "decision": "not-strategy",
+      "released": "Dec 20, 2016",
+      "genre": "Education",
+      "genreId": "EDUCATION",
+      "url": "https://play.google.com/store/apps/details?id=com.hltcorp.emergencynursing&hl=en&gl=US",
+      "discoveredVia": [
+        "search:strategy hospital emergency disaster"
+      ]
+    },
+    {
+      "id": "com.praezisus.readykit",
+      "title": "Ready Kit - Emergency Planner",
+      "decision": "not-strategy",
+      "released": "Nov 8, 2025",
+      "genre": "Tools",
+      "genreId": "TOOLS",
+      "url": "https://play.google.com/store/apps/details?id=com.praezisus.readykit&hl=en&gl=US",
+      "discoveredVia": [
+        "search:strategy hospital emergency disaster"
+      ]
+    },
+    {
+      "id": "com.unbound.android.ub5el",
+      "title": "5-Minute Emergency Consult",
+      "decision": "not-strategy",
+      "released": "Aug 28, 2014",
+      "genre": "Medical",
+      "genreId": "MEDICAL",
+      "url": "https://play.google.com/store/apps/details?id=com.unbound.android.ub5el&hl=en&gl=US",
+      "discoveredVia": [
+        "search:strategy hospital emergency disaster"
+      ]
+    },
+    {
+      "id": "gov.fema.mobile.android",
+      "title": "FEMA",
+      "decision": "not-strategy",
+      "released": "Aug 24, 2011",
+      "genre": "Weather",
+      "genreId": "WEATHER",
+      "url": "https://play.google.com/store/apps/details?id=gov.fema.mobile.android&hl=en&gl=US",
+      "discoveredVia": [
+        "search:strategy hospital emergency disaster"
+      ]
+    },
+    {
+      "id": "mobi.firedepartment",
+      "title": "PulsePoint Respond",
+      "decision": "not-strategy",
+      "released": "Dec 22, 2011",
+      "genre": "Medical",
+      "genreId": "MEDICAL",
+      "url": "https://play.google.com/store/apps/details?id=mobi.firedepartment&hl=en&gl=US",
+      "discoveredVia": [
+        "search:strategy hospital emergency disaster"
+      ]
+    },
+    {
+      "id": "com.unbound.android.ubemi",
+      "title": "Emergency Central",
+      "decision": "not-strategy",
+      "released": "Apr 19, 2013",
+      "genre": "Medical",
+      "genreId": "MEDICAL",
+      "url": "https://play.google.com/store/apps/details?id=com.unbound.android.ubemi&hl=en&gl=US",
+      "discoveredVia": [
+        "search:strategy hospital emergency disaster"
+      ]
+    },
+    {
+      "id": "com.cube.arc.fa",
+      "title": "First Aid: American Red Cross",
+      "decision": "not-strategy",
+      "released": "Jun 13, 2012",
+      "genre": "Health & Fitness",
+      "genreId": "HEALTH_AND_FITNESS",
+      "url": "https://play.google.com/store/apps/details?id=com.cube.arc.fa&hl=en&gl=US",
+      "discoveredVia": [
+        "search:strategy hospital emergency disaster"
+      ]
+    },
+    {
+      "id": "com.codigames.idle.hospital.empire.tycoon",
+      "title": "Hospital Empire Tycoon - Idle",
+      "decision": "not-strategy",
+      "released": "Mar 9, 2022",
+      "genre": "Simulation",
+      "genreId": "GAME_SIMULATION",
+      "url": "https://play.google.com/store/apps/details?id=com.codigames.idle.hospital.empire.tycoon&hl=en&gl=US",
+      "discoveredVia": [
+        "search:strategy hospital emergency disaster"
+      ]
+    },
+    {
+      "id": "com.ats.ihkw",
+      "title": "International Hospital",
+      "decision": "not-strategy",
+      "released": "Jan 25, 2023",
+      "genre": "Medical",
+      "genreId": "MEDICAL",
+      "url": "https://play.google.com/store/apps/details?id=com.ats.ihkw&hl=en&gl=US",
+      "discoveredVia": [
+        "search:strategy hospital emergency disaster"
+      ]
+    },
+    {
+      "id": "com.rermedapps.emergencymedicine",
+      "title": "Emergency Medicine Guide",
+      "decision": "not-strategy",
+      "released": "Apr 27, 2026",
+      "genre": "Medical",
+      "genreId": "MEDICAL",
+      "url": "https://play.google.com/store/apps/details?id=com.rermedapps.emergencymedicine&hl=en&gl=US",
+      "discoveredVia": [
+        "search:strategy hospital emergency disaster"
+      ]
+    },
+    {
+      "id": "com.medpresso.Lonestar.emoncall",
+      "title": "Emergency Medicine On Call",
+      "decision": "not-strategy",
+      "released": "Jul 9, 2017",
+      "genre": "Medical",
+      "genreId": "MEDICAL",
+      "url": "https://play.google.com/store/apps/details?id=com.medpresso.Lonestar.emoncall&hl=en&gl=US",
+      "discoveredVia": [
+        "search:strategy hospital emergency disaster"
+      ]
+    },
+    {
+      "id": "gov.nih.nlm.erg2012",
+      "title": "ERG for Android",
+      "decision": "not-strategy",
+      "released": "Jan 8, 2013",
+      "genre": "Medical",
+      "genreId": "MEDICAL",
+      "url": "https://play.google.com/store/apps/details?id=gov.nih.nlm.erg2012&hl=en&gl=US",
+      "discoveredVia": [
+        "search:strategy hospital emergency disaster"
+      ]
+    },
+    {
+      "id": "com.mal92.emergencyprocedures",
+      "title": "Emergency Procedures",
+      "decision": "not-strategy",
+      "released": "Feb 20, 2023",
+      "genre": "Medical",
+      "genreId": "MEDICAL",
+      "url": "https://play.google.com/store/apps/details?id=com.mal92.emergencyprocedures&hl=en&gl=US",
+      "discoveredVia": [
+        "search:strategy hospital emergency disaster"
+      ]
+    },
+    {
+      "id": "ru.DmitryLomakin.ReanimationInc",
+      "title": "Doctor 911 Hospital Simulator",
+      "decision": "not-strategy",
+      "released": "Mar 27, 2019",
+      "genre": "Simulation",
+      "genreId": "GAME_SIMULATION",
+      "url": "https://play.google.com/store/apps/details?id=ru.DmitryLomakin.ReanimationInc&hl=en&gl=US",
+      "discoveredVia": [
+        "search:strategy hospital emergency disaster"
+      ]
+    },
+    {
+      "id": "com.weatheralerts.weather_alerts",
+      "title": "GeoWeather - Disaster Alerts",
+      "decision": "not-strategy",
+      "released": "Jul 16, 2025",
+      "genre": "Weather",
+      "genreId": "WEATHER",
+      "url": "https://play.google.com/store/apps/details?id=com.weatheralerts.weather_alerts&hl=en&gl=US",
+      "discoveredVia": [
+        "search:strategy hospital emergency disaster"
+      ]
+    },
+    {
+      "id": "io.settlemate.app",
+      "title": "Settlemate",
+      "decision": "not-strategy",
+      "released": "Jul 17, 2025",
+      "genre": "Finance",
+      "genreId": "FINANCE",
+      "url": "https://play.google.com/store/apps/details?id=io.settlemate.app&hl=en&gl=US",
+      "discoveredVia": [
+        "search:strategy desert water settlement"
+      ]
+    },
+    {
+      "id": "com.ctugames.km2",
+      "title": "The Wild Darkness",
+      "decision": "not-strategy",
+      "released": "May 11, 2020",
+      "genre": "Role Playing",
+      "genreId": "GAME_ROLE_PLAYING",
+      "url": "https://play.google.com/store/apps/details?id=com.ctugames.km2&hl=en&gl=US",
+      "discoveredVia": [
+        "search:strategy desert water settlement"
+      ]
+    },
+    {
+      "id": "epic.mychart.android",
+      "title": "MyChart",
+      "decision": "not-strategy",
+      "released": "Oct 31, 2011",
+      "genre": "Medical",
+      "genreId": "MEDICAL",
+      "url": "https://play.google.com/store/apps/details?id=epic.mychart.android&hl=en&gl=US",
+      "discoveredVia": [
+        "search:strategy desert water settlement"
+      ]
+    },
+    {
+      "id": "com.trickytribe.tinkerisland2",
+      "title": "Tinker Island 2",
+      "decision": "not-strategy",
+      "released": "Feb 4, 2022",
+      "genre": "Adventure",
+      "genreId": "GAME_ADVENTURE",
+      "url": "https://play.google.com/store/apps/details?id=com.trickytribe.tinkerisland2&hl=en&gl=US",
+      "discoveredVia": [
+        "search:strategy desert water settlement"
+      ]
+    },
+    {
+      "id": "com.chucklefish.stardewvalley",
+      "title": "Stardew Valley",
+      "decision": "not-strategy",
+      "released": "Mar 13, 2019",
+      "genre": "Role Playing",
+      "genreId": "GAME_ROLE_PLAYING",
+      "url": "https://play.google.com/store/apps/details?id=com.chucklefish.stardewvalley&hl=en&gl=US",
+      "discoveredVia": [
+        "search:strategy desert water settlement"
+      ]
+    },
+    {
+      "id": "com.buffstudio.stillpoint",
+      "title": "Stillpoint!: Minimal Defense",
+      "decision": "included",
+      "released": "May 17, 2026",
+      "genre": "Strategy",
+      "genreId": "GAME_STRATEGY",
+      "url": "https://play.google.com/store/apps/details?id=com.buffstudio.stillpoint&hl=en&gl=US",
+      "discoveredVia": [
+        "search:strategy desert water settlement",
+        "related:com.buffstudio.stillpoint.paid",
+        "developer:6321876234276229665",
+        "related:com.snowgames.seoulexorcist1111"
+      ]
+    },
+    {
+      "id": "com.idlesettlement.app",
+      "title": "Idle Settlement",
+      "decision": "not-strategy",
+      "released": "Mar 27, 2026",
+      "genre": "Simulation",
+      "genreId": "GAME_SIMULATION",
+      "url": "https://play.google.com/store/apps/details?id=com.idlesettlement.app&hl=en&gl=US",
+      "discoveredVia": [
+        "search:strategy desert water settlement"
+      ]
+    },
+    {
+      "id": "com.buffstudio.skel.defense.dungeon.roguelike",
+      "title": "Skel and Defense",
+      "decision": "not-strategy",
+      "released": "May 6, 2024",
+      "genre": "Role Playing",
+      "genreId": "GAME_ROLE_PLAYING",
+      "url": "https://play.google.com/store/apps/details?id=com.buffstudio.skel.defense.dungeon.roguelike&hl=en&gl=US",
+      "discoveredVia": [
+        "related:com.buffstudio.stillpoint",
+        "related:com.buffstudio.stillpoint.paid",
+        "developer:6321876234276229665",
+        "related:com.snowgames.seoulexorcist1111"
+      ]
+    },
+    {
+      "id": "com.buffstudio.luciddream",
+      "title": "Romantic HOLIC: Otome game",
+      "decision": "not-strategy",
+      "released": "Jun 14, 2021",
+      "genre": "Simulation",
+      "genreId": "GAME_SIMULATION",
+      "url": "https://play.google.com/store/apps/details?id=com.buffstudio.luciddream&hl=en&gl=US",
+      "discoveredVia": [
+        "related:com.buffstudio.stillpoint",
+        "related:com.buffstudio.stillpoint.paid",
+        "developer:6321876234276229665",
+        "related:com.snowgames.seoulexorcist1111"
+      ]
+    },
+    {
+      "id": "com.buffstudio.uwofficefree",
+      "title": "Underworld Office: Story game",
+      "decision": "not-strategy",
+      "released": "Nov 10, 2020",
+      "genre": "Adventure",
+      "genreId": "GAME_ADVENTURE",
+      "url": "https://play.google.com/store/apps/details?id=com.buffstudio.uwofficefree&hl=en&gl=US",
+      "discoveredVia": [
+        "related:com.buffstudio.stillpoint",
+        "related:com.buffstudio.stillpoint.paid",
+        "developer:6321876234276229665",
+        "related:com.snowgames.seoulexorcist1111"
+      ]
+    },
+    {
+      "id": "com.buffstudio.howtoget.espers.paid",
+      "title": "How to Get Espers: Story Game",
+      "decision": "not-strategy",
+      "released": "Oct 1, 2026",
+      "genre": "Adventure",
+      "genreId": "GAME_ADVENTURE",
+      "url": "https://play.google.com/store/apps/details?id=com.buffstudio.howtoget.espers.paid&hl=en&gl=US",
+      "discoveredVia": [
+        "related:com.buffstudio.stillpoint",
+        "related:com.buffstudio.stillpoint.paid",
+        "developer:6321876234276229665",
+        "related:com.snowgames.seoulexorcist1111"
+      ]
+    },
+    {
+      "id": "com.buffstudio.stillpoint.paid",
+      "title": "Stillpoint: Minimal Defense",
+      "decision": "included",
+      "released": "Jun 2, 2026",
+      "genre": "Strategy",
+      "genreId": "GAME_STRATEGY",
+      "url": "https://play.google.com/store/apps/details?id=com.buffstudio.stillpoint.paid&hl=en&gl=US",
+      "discoveredVia": [
+        "related:com.buffstudio.stillpoint",
+        "developer:6321876234276229665",
+        "related:com.snowgames.seoulexorcist1111"
+      ]
+    },
+    {
+      "id": "com.yellowpop.google.paint",
+      "title": "Pa!nt: Color Puzzle",
+      "decision": "not-strategy",
+      "released": "Nov 18, 2025",
+      "genre": "Puzzle",
+      "genreId": "GAME_PUZZLE",
+      "url": "https://play.google.com/store/apps/details?id=com.yellowpop.google.paint&hl=en&gl=US",
+      "discoveredVia": [
+        "related:com.buffstudio.stillpoint",
+        "related:com.buffstudio.stillpoint.paid",
+        "developer:6321876234276229665"
+      ]
+    },
+    {
+      "id": "com.appsir.puzzlingpeaksgame",
+      "title": "Puzzling Peaks EXE",
+      "decision": "not-strategy",
+      "released": "Nov 30, 2020",
+      "genre": "Puzzle",
+      "genreId": "GAME_PUZZLE",
+      "url": "https://play.google.com/store/apps/details?id=com.appsir.puzzlingpeaksgame&hl=en&gl=US",
+      "discoveredVia": [
+        "related:com.buffstudio.stillpoint.paid"
+      ]
+    },
+    {
+      "id": "com.buffstudio.astory.acompany.novel.adventure.story.games",
+      "title": "A Story of A Company",
+      "decision": "not-strategy",
+      "released": "Jun 6, 2022",
+      "genre": "Adventure",
+      "genreId": "GAME_ADVENTURE",
+      "url": "https://play.google.com/store/apps/details?id=com.buffstudio.astory.acompany.novel.adventure.story.games&hl=en&gl=US",
+      "discoveredVia": [
+        "related:com.buffstudio.stillpoint.paid"
+      ]
+    },
+    {
+      "id": "com.buffstudio.sevendays",
+      "title": "7Days: Offline Mystery Story",
+      "decision": "not-strategy",
+      "released": "Dec 3, 2018",
+      "genre": "Adventure",
+      "genreId": "GAME_ADVENTURE",
+      "url": "https://play.google.com/store/apps/details?id=com.buffstudio.sevendays&hl=en&gl=US",
+      "discoveredVia": [
+        "related:com.buffstudio.stillpoint.paid",
+        "related:com.snowgames.seoulexorcist1111"
+      ]
+    },
+    {
+      "id": "com.eighthfloor.charmandclue2.premium",
+      "title": "Charm&Clue 2",
+      "decision": "not-strategy",
+      "released": "Apr 16, 2026",
+      "genre": "Casual",
+      "genreId": "GAME_CASUAL",
+      "url": "https://play.google.com/store/apps/details?id=com.eighthfloor.charmandclue2.premium&hl=en&gl=US",
+      "discoveredVia": [
+        "related:com.buffstudio.stillpoint.paid"
+      ]
+    },
+    {
+      "id": "com.buffstudio.argo.choice.visual.novel.adventure.story.games",
+      "title": "Argo's Choice: Offline Game",
+      "decision": "not-strategy",
+      "released": "May 10, 2021",
+      "genre": "Adventure",
+      "genreId": "GAME_ADVENTURE",
+      "url": "https://play.google.com/store/apps/details?id=com.buffstudio.argo.choice.visual.novel.adventure.story.games&hl=en&gl=US",
+      "discoveredVia": [
+        "related:com.buffstudio.stillpoint.paid"
+      ]
+    },
+    {
+      "id": "com.buffstudio.aos.block.crazy.defense",
+      "title": "Hero Blasters: Defense",
+      "decision": "not-strategy",
+      "released": "Jan 25, 2026",
+      "genre": "Simulation",
+      "genreId": "GAME_SIMULATION",
+      "url": "https://play.google.com/store/apps/details?id=com.buffstudio.aos.block.crazy.defense&hl=en&gl=US",
+      "discoveredVia": [
+        "developer:6321876234276229665"
+      ]
+    },
+    {
+      "id": "com.snowgames.seoulexorcist1111",
+      "title": "Seoul Exorcist 1111",
+      "decision": "included",
+      "released": "Sep 9, 2025",
+      "genre": "Strategy",
+      "genreId": "GAME_STRATEGY",
+      "url": "https://play.google.com/store/apps/details?id=com.snowgames.seoulexorcist1111&hl=en&gl=US",
+      "discoveredVia": [
+        "developer:6321876234276229665"
+      ]
+    },
+    {
+      "id": "com.buffstudio.aos.neko.restaurant",
+      "title": "Neko Restaurant : Cat Tycoon",
+      "decision": "not-strategy",
+      "released": "Feb 24, 2025",
+      "genre": "Simulation",
+      "genreId": "GAME_SIMULATION",
+      "url": "https://play.google.com/store/apps/details?id=com.buffstudio.aos.neko.restaurant&hl=en&gl=US",
+      "discoveredVia": [
+        "developer:6321876234276229665"
+      ]
+    },
+    {
+      "id": "com.TrueSoft.DevilHunter_Android",
+      "title": "Devil Slayer",
+      "decision": "not-strategy",
+      "released": "Feb 5, 2024",
+      "genre": "Role Playing",
+      "genreId": "GAME_ROLE_PLAYING",
+      "url": "https://play.google.com/store/apps/details?id=com.TrueSoft.DevilHunter_Android&hl=en&gl=US",
+      "discoveredVia": [
+        "related:com.snowgames.seoulexorcist1111"
+      ]
+    },
+    {
+      "id": "com.gsm.overdrivepremium",
+      "title": "Overdrive Premium",
+      "decision": "not-strategy",
+      "released": "Jan 29, 2019",
+      "genre": "Action",
+      "genreId": "GAME_ACTION",
+      "url": "https://play.google.com/store/apps/details?id=com.gsm.overdrivepremium&hl=en&gl=US",
+      "discoveredVia": [
+        "related:com.snowgames.seoulexorcist1111"
       ]
     }
   ],

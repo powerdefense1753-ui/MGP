@@ -1,1 +1,552 @@
-[]
+[
+  {
+    "minInstalls": 50,
+    "installEvidence": {
+      "minInstalls": 50,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.sand.cut&hl=en&gl=US",
+      "fetchedAt": "2026-10-14T12:38:43.286Z"
+    },
+    "id": "com.sand.cut",
+    "title": "Sand Cut",
+    "subtitle": "Saw pixel art into sand and fill the buckets in this addictive puzzle game!",
+    "description": "Saw pixel art into sand and fill the buckets in this addictive puzzle game!",
+    "overviewEn": "Saw pixel art into sand and fill the buckets in this addictive puzzle game!",
+    "genre": "Hypercasual",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Milkshake Play",
+    "ads": true,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.sand.cut&hl=en&gl=US",
+    "fetchedAt": "2026-10-14T12:38:43.286Z",
+    "sourceDate": "2026-10-14",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-09-16",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Sep 16, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.sand.cut&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/nldk2KdZJzp97ZY632ecPMAS783a4SLP7ncCBO5ow-fJIIA2SnXxXwWI7vDk7i30gwljmsj6rYNwyhl8aD81sg",
+    "categories": [
+      "hypercasual"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "hypercasual",
+        "excerpt": "hypercasual",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 5,
+    "installEvidence": {
+      "minInstalls": 5,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.ravendewdev.tapthefake&hl=en&gl=US",
+      "fetchedAt": "2026-10-14T12:38:45.892Z"
+    },
+    "id": "com.ravendewdev.tapthefake",
+    "title": "Tap The Fake: Reflex Game",
+    "subtitle": "Spot the fake fast, survive insane levels, and test your reflex speed.",
+    "description": "Spot the fake fast, survive insane levels, and test your reflex speed.",
+    "overviewEn": "Spot the fake fast, survive insane levels, and test your reflex speed.",
+    "genre": "Hypercasual",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "Tap gameplay"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "Tap gameplay",
+        "excerpt": "one-tap",
+        "basis": "Official developer gameplay text"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Job Bridge",
+    "ads": true,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.ravendewdev.tapthefake&hl=en&gl=US",
+    "fetchedAt": "2026-10-14T12:38:45.892Z",
+    "sourceDate": "2026-10-14",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-06-07",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Jun 7, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.ravendewdev.tapthefake&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/toN3UvH2OcYYRIez6QQmLo6RHc--IfL5d3Z3oemL7fQhLLwGYvLr8QZRge9hF1_VJBKeCIZl_uSotsFuPrEpJFI",
+    "categories": [
+      "hypercasual"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "hypercasual",
+        "excerpt": "hypercasual",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 10,
+    "installEvidence": {
+      "minInstalls": 10,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.luiscaballero.bounceroyale&hl=en&gl=US",
+      "fetchedAt": "2026-10-14T12:38:47.682Z"
+    },
+    "id": "com.luiscaballero.bounceroyale",
+    "title": "Bounce Royale: Jump & VS",
+    "subtitle": "Bounce, dodge & survive! Unlock epic skins and compete in the online VS Mode.",
+    "description": "Bounce, dodge & survive! Unlock epic skins and compete in the online VS Mode.",
+    "overviewEn": "Bounce, dodge & survive! Unlock epic skins and compete in the online VS Mode.",
+    "genre": "Hypercasual",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "In-app purchases",
+      "Tap gameplay"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      },
+      {
+        "tag": "Tap gameplay",
+        "excerpt": "one-tap",
+        "basis": "Official developer gameplay text"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "llCaballeroll",
+    "ads": true,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.luiscaballero.bounceroyale&hl=en&gl=US",
+    "fetchedAt": "2026-10-14T12:38:47.682Z",
+    "sourceDate": "2026-10-14",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-03-31",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Mar 31, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.luiscaballero.bounceroyale&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/RLURGtEiByK5ms53rzYJMoBReom6YgvpBhX6Fy5yYr4SZDl1BwJWzbPwJjYkkFj1vR2eL5t25Dyjes5iqa16dg",
+    "categories": [
+      "hypercasual"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "hypercasual",
+        "excerpt": "Hypercasual",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 10,
+    "installEvidence": {
+      "minInstalls": 10,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.shayona.neoncrowdrunner&hl=en&gl=US",
+      "fetchedAt": "2026-10-14T12:38:49.601Z"
+    },
+    "id": "com.shayona.neoncrowdrunner",
+    "title": "Neon Crowd Runner",
+    "subtitle": "Run, dodge & grow your neon crowd! Addictive hypercasual arcade runner.",
+    "description": "Run, dodge & grow your neon crowd! Addictive hypercasual arcade runner.",
+    "overviewEn": "Run, dodge & grow your neon crowd! Addictive hypercasual arcade runner.",
+    "genre": "Hypercasual",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "In-app purchases",
+      "Runner",
+      "Tap gameplay"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      },
+      {
+        "tag": "Runner",
+        "excerpt": "Runner",
+        "basis": "Official developer gameplay text"
+      },
+      {
+        "tag": "Tap gameplay",
+        "excerpt": "tap to",
+        "basis": "Official developer gameplay text"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Darwin Hubs",
+    "ads": true,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.shayona.neoncrowdrunner&hl=en&gl=US",
+    "fetchedAt": "2026-10-14T12:38:49.601Z",
+    "sourceDate": "2026-10-14",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-07-07",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Jul 7, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.shayona.neoncrowdrunner&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/PcPqXPQQT9XZXwc56LM8Z4GgeLuFgUOksHRUKmNj6jDJ2pGZlK3YOmTtoehw6sr2lYUPCP3ofsNAq-h6iOV8NQ",
+    "categories": [
+      "hypercasual"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "hypercasual",
+        "excerpt": "hypercasual",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 100,
+    "installEvidence": {
+      "minInstalls": 100,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.Play3.SmashRunner&hl=en&gl=US",
+      "fetchedAt": "2026-10-14T12:38:51.091Z"
+    },
+    "id": "com.Play3.SmashRunner",
+    "title": "Smash Runner",
+    "subtitle": "Dash, smash, and run! Break obstacles and collect power-ups in Smash Runner!",
+    "description": "Dash, smash, and run! Break obstacles and collect power-ups in Smash Runner!",
+    "overviewEn": "Dash, smash, and run! Break obstacles and collect power-ups in Smash Runner!",
+    "genre": "Hypercasual",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "Runner",
+      "Tap gameplay"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "Runner",
+        "excerpt": "Runner",
+        "basis": "Official developer gameplay text"
+      },
+      {
+        "tag": "Tap gameplay",
+        "excerpt": "tap to",
+        "basis": "Official developer gameplay text"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Luvaci Interactive",
+    "ads": true,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.Play3.SmashRunner&hl=en&gl=US",
+    "fetchedAt": "2026-10-14T12:38:51.091Z",
+    "sourceDate": "2026-10-14",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2025-11-21",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Nov 21, 2025",
+      "url": "https://play.google.com/store/apps/details?id=com.Play3.SmashRunner&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/YfIxqAf7cAenb7dH0xsFaB6RgWhluB1NAP6WwGp4PNo8Xz9VDEiawojK9ZWDgRikO7RN5t6ooab94lDHy-qfqg",
+    "categories": [
+      "hypercasual"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "hypercasual",
+        "excerpt": "hypercasual",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 10,
+    "installEvidence": {
+      "minInstalls": 10,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.Pixelesthe.ShootySlime&hl=en&gl=US",
+      "fetchedAt": "2026-10-14T12:39:05.318Z"
+    },
+    "id": "com.Pixelesthe.ShootySlime",
+    "title": "Shooty Slime",
+    "subtitle": "Dive into the exciting, a simple yet addictive hypercasual game!",
+    "description": "Dive into the exciting, a simple yet addictive hypercasual game!",
+    "overviewEn": "Dive into the exciting, a simple yet addictive hypercasual game!",
+    "genre": "Hypercasual",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "Tap gameplay"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "Tap gameplay",
+        "excerpt": "one-tap",
+        "basis": "Official developer gameplay text"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Pixelesthe",
+    "ads": true,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.Pixelesthe.ShootySlime&hl=en&gl=US",
+    "fetchedAt": "2026-10-14T12:39:05.318Z",
+    "sourceDate": "2026-10-14",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2025-01-15",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Jan 15, 2025",
+      "url": "https://play.google.com/store/apps/details?id=com.Pixelesthe.ShootySlime&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/3_9owGyAipmqM0aTzjnui8-esmhFMI-xJgS5g9P43Ex8BKyapqAKQUz_eZYXuldx7Gwr-JJrPX9gZ3zGKziV",
+    "categories": [
+      "hypercasual"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "hypercasual",
+        "excerpt": "hypercasual",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 10,
+    "installEvidence": {
+      "minInstalls": 10,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.wildFlower.slice3d&hl=en&gl=US",
+      "fetchedAt": "2026-10-14T14:30:11.670Z"
+    },
+    "id": "com.wildFlower.slice3d",
+    "title": "Flip & Slice 3D",
+    "subtitle": "Flip the knife, slice everything in your path, and become the Slice Master 3D!",
+    "description": "Flip the knife, slice everything in your path, and become the Slice Master 3D!",
+    "overviewEn": "Flip the knife, slice everything in your path, and become the Slice Master 3D!",
+    "genre": "Hypercasual",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "Tap gameplay"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "Tap gameplay",
+        "excerpt": "Tap to",
+        "basis": "Official developer gameplay text"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "appArena",
+    "ads": true,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.wildFlower.slice3d&hl=en&gl=US",
+    "fetchedAt": "2026-10-14T14:30:11.670Z",
+    "sourceDate": "2026-10-14",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-09-04",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Sep 4, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.wildFlower.slice3d&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/NrYjUykCqIIxASZMk8FAD4ffQV2wuXsyX09-0g2ekyBYVnrDqKl7CDh_U2EASXgpB0nmE9jtADA7lX0v1cWJ",
+    "categories": [
+      "hypercasual"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "hypercasual",
+        "excerpt": "hypercasual",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  }
+]

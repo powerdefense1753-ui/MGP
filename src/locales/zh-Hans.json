@@ -175,5 +175,11 @@
   "Bubble shooter": "泡泡消除",
   "Merge-2": "二合一",
   "Merge-3": "三合一",
-  "Number merge": "数字合成"
+  "Number merge": "数字合成",
+  "Rating & downloads": "评分与下载量",
+  "Minimum rating": "最低评分",
+  "Any rating": "不限评分",
+  "Minimum downloads": "最低下载量",
+  "Google Play install lower bound; unknown values excluded when filtering.": "采用 Google Play 安装量下限；开启筛选时排除未知数据。",
+  "Oldest release": "首发时间从旧到新"
 }
