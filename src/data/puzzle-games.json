@@ -70448,5 +70448,405 @@
         "basis": "Official developer gameplay text"
       }
     ]
+  },
+  {
+    "minInstalls": 100000,
+    "installEvidence": {
+      "minInstalls": 100000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.zenjoy.tour&hl=en&gl=US",
+      "fetchedAt": "2026-10-15T06:14:25.821Z"
+    },
+    "id": "com.zenjoy.tour",
+    "title": "My Journey - Puzzles & Stories",
+    "subtitle": "Solve match-3 puzzles and uncover the mystery with Olivia along her journey!",
+    "description": "Solve match-3 puzzles and uncover the mystery with Olivia along her journey!",
+    "overviewEn": "Solve match-3 puzzles and uncover the mystery with Olivia along her journey!",
+    "genre": "Match-3",
+    "world": "",
+    "tags": [
+      "Single player",
+      "Stylized",
+      "Offline",
+      "Free download",
+      "Android",
+      "Contains ads",
+      "In-app purchases",
+      "Match-3",
+      "+ Dress-up",
+      "+ Story",
+      "+ Exploration"
+    ],
+    "evidence": [
+      {
+        "tag": "Single player",
+        "basis": "Google Play category label mapping",
+        "excerpt": "Single player"
+      },
+      {
+        "tag": "Stylized",
+        "basis": "Google Play category label mapping",
+        "excerpt": "Stylized"
+      },
+      {
+        "tag": "Offline",
+        "basis": "Google Play category label mapping",
+        "excerpt": "Offline"
+      },
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      },
+      {
+        "tag": "Match-3",
+        "excerpt": "match-3",
+        "basis": "Official developer gameplay text"
+      },
+      {
+        "tag": "+ Dress-up",
+        "excerpt": "makeover",
+        "basis": "Official developer gameplay text"
+      },
+      {
+        "tag": "+ Story",
+        "excerpt": "uncover the mystery",
+        "basis": "Official developer gameplay text"
+      },
+      {
+        "tag": "+ Exploration",
+        "excerpt": "Explore other destinations around the world",
+        "basis": "Official developer gameplay text"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "ZenLife Games Ltd",
+    "ads": true,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.zenjoy.tour&hl=en&gl=US",
+    "fetchedAt": "2026-10-15T06:14:25.821Z",
+    "sourceDate": "2026-10-15",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-04-15",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Apr 15, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.zenjoy.tour&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/8ihJqkTuiSXpI3euyUoHs0SO6lld4JGiz-xliSdq6h0hD5EIrFcIGpLGgvIH248TdF0uU7a37N5dNv-jXnyt",
+    "categories": [
+      "match3",
+      "merge"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "match3",
+        "excerpt": "match-3",
+        "basis": "Official developer gameplay text"
+      },
+      {
+        "category": "merge",
+        "excerpt": "merge game",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 10000,
+    "installEvidence": {
+      "minInstalls": 10000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.game.merge.flavor.decor&hl=en&gl=US",
+      "fetchedAt": "2026-10-15T06:14:32.384Z"
+    },
+    "id": "com.game.merge.flavor.decor",
+    "title": "Merge Flavor: Decor Restaurant",
+    "subtitle": "Merge food puzzles & decorate the wonderful kitchen into a culinary masterpiece!",
+    "description": "Merge food puzzles & decorate the wonderful kitchen into a culinary masterpiece!",
+    "overviewEn": "Merge food puzzles & decorate the wonderful kitchen into a culinary masterpiece!",
+    "genre": "Merge",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "In-app purchases",
+      "+ Renovation"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      },
+      {
+        "tag": "+ Renovation",
+        "excerpt": "decorate",
+        "basis": "Official developer gameplay text"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "TAAP GAME STUDIO",
+    "ads": true,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.game.merge.flavor.decor&hl=en&gl=US",
+    "fetchedAt": "2026-10-15T06:14:32.384Z",
+    "sourceDate": "2026-10-15",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2025-01-20",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Jan 20, 2025",
+      "url": "https://play.google.com/store/apps/details?id=com.game.merge.flavor.decor&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/mvfyr8Ou3ZPgq7rtPqGmzGl8SYRlGoJ2KU2e7RKabcD49kYlu2l5XmlnqWjt_U64comkZ_8lv1LaexZW_exkrg",
+    "categories": [
+      "merge"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "merge",
+        "excerpt": "Merge Flavor- Decor Restaurant\" and aid Ema in matching",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 100000,
+    "installEvidence": {
+      "minInstalls": 100000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=jigsaw.home.story.solitaire.puzzle.renovate.life&hl=en&gl=US",
+      "fetchedAt": "2026-10-15T07:30:18.652Z"
+    },
+    "id": "jigsaw.home.story.solitaire.puzzle.renovate.life",
+    "title": "Her Jigsaw Story",
+    "subtitle": "Merge & split jigsaw pieces to help her Reborn",
+    "description": "Merge & split jigsaw pieces to help her Reborn",
+    "overviewEn": "Merge & split jigsaw pieces to help her Reborn",
+    "genre": "Merge",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "+ Story"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "+ Story",
+        "excerpt": "Experience an emotional story",
+        "basis": "Official developer gameplay text"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "RED INFINITY LIMITED - STORY",
+    "ads": true,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=jigsaw.home.story.solitaire.puzzle.renovate.life&hl=en&gl=US",
+    "fetchedAt": "2026-10-15T07:30:18.652Z",
+    "sourceDate": "2026-10-15",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-06-04",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Jun 4, 2026",
+      "url": "https://play.google.com/store/apps/details?id=jigsaw.home.story.solitaire.puzzle.renovate.life&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/cCtNUmUFW8oIe6vjGIhLSwxkWF0e_hJFSDJxCMLoF8GL1AxKZ11xzOJqeoeEiJMfMFlQjNhE247CXnoxSf_n5vg",
+    "categories": [
+      "merge"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "merge",
+        "excerpt": "Merge &amp; split jigsaw pieces",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 100000,
+    "installEvidence": {
+      "minInstalls": 100000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.tilestory.puzzle.silversky&hl=en&gl=US",
+      "fetchedAt": "2026-10-15T07:30:20.596Z"
+    },
+    "id": "com.tilestory.puzzle.silversky",
+    "title": "Family Life: Match Story",
+    "subtitle": "Story, match and renovation",
+    "description": "Story, match and renovation",
+    "overviewEn": "Story, match and renovation",
+    "genre": "Match-3",
+    "world": "",
+    "tags": [
+      "Single player",
+      "Stylized",
+      "Offline",
+      "Free download",
+      "Android",
+      "Contains ads",
+      "In-app purchases",
+      "Match-3",
+      "Triple matching",
+      "+ Renovation",
+      "+ Story"
+    ],
+    "evidence": [
+      {
+        "tag": "Single player",
+        "basis": "Google Play category label mapping",
+        "excerpt": "Single player"
+      },
+      {
+        "tag": "Stylized",
+        "basis": "Google Play category label mapping",
+        "excerpt": "Stylized"
+      },
+      {
+        "tag": "Offline",
+        "basis": "Google Play category label mapping",
+        "excerpt": "Offline"
+      },
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      },
+      {
+        "tag": "Match-3",
+        "excerpt": "match three",
+        "basis": "Official developer gameplay text"
+      },
+      {
+        "tag": "Triple matching",
+        "excerpt": "match three identical",
+        "basis": "Official developer gameplay text"
+      },
+      {
+        "tag": "+ Renovation",
+        "excerpt": "renovation",
+        "basis": "Official developer gameplay text"
+      },
+      {
+        "tag": "+ Story",
+        "excerpt": "experience multiple stories",
+        "basis": "Official developer gameplay text"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "RED INFINITY LIMITED - STORY",
+    "ads": true,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.tilestory.puzzle.silversky&hl=en&gl=US",
+    "fetchedAt": "2026-10-15T07:30:20.596Z",
+    "sourceDate": "2026-10-15",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2024-10-28",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Oct 28, 2024",
+      "url": "https://play.google.com/store/apps/details?id=com.tilestory.puzzle.silversky&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/3iCyJrdfsxblBr7grYWY9Tex78vpnmh4mgkVO3FZ7DXLjJkDegrhzMyPcTWDoycf1s1N2vA_nBblo39r-daa",
+    "categories": [
+      "match3"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "match3",
+        "excerpt": "match three",
+        "basis": "Official developer gameplay text"
+      }
+    ]
   }
 ]
