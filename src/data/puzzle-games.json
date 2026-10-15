@@ -69790,5 +69790,581 @@
         "basis": "Official developer gameplay text"
       }
     ]
+  },
+  {
+    "minInstalls": 100000,
+    "installEvidence": {
+      "minInstalls": 100000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.sortingstore.goods.sort.matching.puzzle&hl=en&gl=US",
+      "fetchedAt": "2026-10-15T02:35:05.901Z"
+    },
+    "id": "com.sortingstore.goods.sort.matching.puzzle",
+    "title": "Sorting Store - Goods Puzzle",
+    "subtitle": "Match and sort items, organize shelves, and master the ultimate goods puzzle!",
+    "description": "Match and sort items, organize shelves, and master the ultimate goods puzzle!",
+    "overviewEn": "Match and sort items, organize shelves, and master the ultimate goods puzzle!",
+    "genre": "Match-3",
+    "world": "",
+    "tags": [
+      "Single player",
+      "Stylized",
+      "Offline",
+      "Free download",
+      "Android",
+      "Contains ads",
+      "In-app purchases",
+      "Match-3",
+      "Triple matching",
+      "Sorting"
+    ],
+    "evidence": [
+      {
+        "tag": "Single player",
+        "basis": "Google Play category label mapping",
+        "excerpt": "Single player"
+      },
+      {
+        "tag": "Stylized",
+        "basis": "Google Play category label mapping",
+        "excerpt": "Stylized"
+      },
+      {
+        "tag": "Offline",
+        "basis": "Google Play category label mapping",
+        "excerpt": "Offline"
+      },
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      },
+      {
+        "tag": "Match-3",
+        "excerpt": "match-3",
+        "basis": "Official developer gameplay text"
+      },
+      {
+        "tag": "Triple matching",
+        "excerpt": "Triple Match",
+        "basis": "Official developer gameplay text"
+      },
+      {
+        "tag": "Sorting",
+        "excerpt": "Sorting",
+        "basis": "Official developer gameplay text"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Gamoper",
+    "ads": true,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.sortingstore.goods.sort.matching.puzzle&hl=en&gl=US",
+    "fetchedAt": "2026-10-15T02:35:05.901Z",
+    "sourceDate": "2026-10-15",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2025-05-09",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "May 9, 2025",
+      "url": "https://play.google.com/store/apps/details?id=com.sortingstore.goods.sort.matching.puzzle&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/_xpPc-C4Zwyg5vgZ3svq4qEAKK0jj5G6lao43uVuvKHJylSEL-cK490v0rCP5z-8mSfpY7uKwA57QerEVNBU0A",
+    "categories": [
+      "match3"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "match3",
+        "excerpt": "match-3",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 10000,
+    "installEvidence": {
+      "minInstalls": 10000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.larasjourney3.game&hl=en&gl=US",
+      "fetchedAt": "2026-10-15T03:40:13.879Z"
+    },
+    "id": "com.larasjourney3.game",
+    "title": "Lara's Journey: Match 3 Puzzle",
+    "subtitle": "Go on an epic treasure hunt with a fresh match-3 adventure and power-ups!",
+    "description": "Go on an epic treasure hunt with a fresh match-3 adventure and power-ups!",
+    "overviewEn": "Go on an epic treasure hunt with a fresh match-3 adventure and power-ups!",
+    "genre": "Match-3",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "In-app purchases",
+      "Match-3"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      },
+      {
+        "tag": "Match-3",
+        "excerpt": "Match 3",
+        "basis": "Official developer gameplay text"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Puzzle Drama",
+    "ads": null,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.larasjourney3.game&hl=en&gl=US",
+    "fetchedAt": "2026-10-15T03:40:13.879Z",
+    "sourceDate": "2026-10-15",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2025-01-18",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Jan 18, 2025",
+      "url": "https://play.google.com/store/apps/details?id=com.larasjourney3.game&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/spAir4-kI4QMaYiquDykT1CpnvyX_pOXJuN8xG68KFF_x1buiH3HQxyqXnZy4ydGxDNj6OoXZ00DYjNGd2Y_qg",
+    "categories": [
+      "match3"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "match3",
+        "excerpt": "Match 3",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 10000,
+    "installEvidence": {
+      "minInstalls": 10000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.Dekovir.MirrorBlast&hl=en&gl=US",
+      "fetchedAt": "2026-10-15T03:55:17.782Z"
+    },
+    "id": "com.Dekovir.MirrorBlast",
+    "title": "Mirror Blast: Match 3 RPG",
+    "subtitle": "Match 3 RPG: heroes on battlefield, PvP battles, 16-player tournament",
+    "description": "Match 3 RPG: heroes on battlefield, PvP battles, 16-player tournament",
+    "overviewEn": "Match 3 RPG: heroes on battlefield, PvP battles, 16-player tournament",
+    "genre": "Match-3",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "In-app purchases",
+      "Match-3",
+      "+ Combat",
+      "+ Exploration"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      },
+      {
+        "tag": "Match-3",
+        "excerpt": "Match 3",
+        "basis": "Official developer gameplay text"
+      },
+      {
+        "tag": "+ Combat",
+        "excerpt": "defeat powerful bosses",
+        "basis": "Official developer gameplay text"
+      },
+      {
+        "tag": "+ Exploration",
+        "excerpt": "explore fantasy lands",
+        "basis": "Official developer gameplay text"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Dekovir Ltd",
+    "ads": true,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.Dekovir.MirrorBlast&hl=en&gl=US",
+    "fetchedAt": "2026-10-15T03:55:17.782Z",
+    "sourceDate": "2026-10-15",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2025-11-02",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Nov 2, 2025",
+      "url": "https://play.google.com/store/apps/details?id=com.Dekovir.MirrorBlast&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/xbM5NYGOKvqVOFSQiTBHjDOgqcyoLeqpj1DUwftFbQL7fvq116R76ttdT6r6bWX5NQR6q27oWJE-xCv5cq2bFRA",
+    "categories": [
+      "match3"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "match3",
+        "excerpt": "Match 3",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 50000,
+    "installEvidence": {
+      "minInstalls": 50000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.v2r.CatHomeMatch&hl=en&gl=US",
+      "fetchedAt": "2026-10-15T05:10:19.900Z"
+    },
+    "id": "com.v2r.CatHomeMatch",
+    "title": "Cat Home Match",
+    "subtitle": "Collect adorable cats and decorate cozy homes in this Match-3 puzzle adventure!",
+    "description": "Collect adorable cats and decorate cozy homes in this Match-3 puzzle adventure!",
+    "overviewEn": "Collect adorable cats and decorate cozy homes in this Match-3 puzzle adventure!",
+    "genre": "Match-3",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "In-app purchases",
+      "Match-3",
+      "+ Building",
+      "+ Renovation"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      },
+      {
+        "tag": "Match-3",
+        "excerpt": "Match-3",
+        "basis": "Official developer gameplay text"
+      },
+      {
+        "tag": "+ Building",
+        "excerpt": "building a wonderful home",
+        "basis": "Official developer gameplay text"
+      },
+      {
+        "tag": "+ Renovation",
+        "excerpt": "decorate",
+        "basis": "Official developer gameplay text"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "V2R",
+    "ads": true,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.v2r.CatHomeMatch&hl=en&gl=US",
+    "fetchedAt": "2026-10-15T05:10:19.900Z",
+    "sourceDate": "2026-10-15",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-08-28",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Aug 28, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.v2r.CatHomeMatch&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/6E_PyMA7PECy1eUnvN4-Vg1JMF7a6xyqe2wPweeMYzqP9_hB_-rgjk9C5u0lj7B7ASp_f5ZthgR5BcMb9-fr",
+    "categories": [
+      "match3"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "match3",
+        "excerpt": "Match-3",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 100000,
+    "installEvidence": {
+      "minInstalls": 100000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.v2r.AbyssWorld&hl=en&gl=US",
+      "fetchedAt": "2026-10-15T05:10:25.574Z"
+    },
+    "id": "com.v2r.AbyssWorld",
+    "title": "Abyss World",
+    "subtitle": "Build a beautiful underwater city and create your own ocean paradise!",
+    "description": "Build a beautiful underwater city and create your own ocean paradise!",
+    "overviewEn": "Build a beautiful underwater city and create your own ocean paradise!",
+    "genre": "Match-3",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "In-app purchases",
+      "Match-3",
+      "+ Building",
+      "+ Story"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      },
+      {
+        "tag": "Match-3",
+        "excerpt": "Match-3",
+        "basis": "Official developer gameplay text"
+      },
+      {
+        "tag": "+ Building",
+        "excerpt": "Build a beautiful underwater city",
+        "basis": "Official developer gameplay text"
+      },
+      {
+        "tag": "+ Story",
+        "excerpt": "uncover their stories",
+        "basis": "Official developer gameplay text"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "V2R",
+    "ads": true,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.v2r.AbyssWorld&hl=en&gl=US",
+    "fetchedAt": "2026-10-15T05:10:25.574Z",
+    "sourceDate": "2026-10-15",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-06-10",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Jun 10, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.v2r.AbyssWorld&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/moL5A372bcdXpZIbvgbHeEhOTOFu6OouePd2B6-gaDKWkWKm_po97oknjFCPTGsc4VbyeMk8zBIfATJMVlL_nA",
+    "categories": [
+      "match3"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "match3",
+        "excerpt": "Match-3",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 100000,
+    "installEvidence": {
+      "minInstalls": 100000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.candy.smash.mania.match.gp&hl=en&gl=US",
+      "fetchedAt": "2026-10-15T05:25:42.133Z"
+    },
+    "id": "com.candy.smash.mania.match.gp",
+    "title": "Candy Smash Mania 2",
+    "subtitle": "Match-3 fun! Smash candies, use power-ups, beat levels. Fast & addictive!",
+    "description": "Match-3 fun! Smash candies, use power-ups, beat levels. Fast & addictive!",
+    "overviewEn": "Match-3 fun! Smash candies, use power-ups, beat levels. Fast & addictive!",
+    "genre": "Match-3",
+    "world": "",
+    "tags": [
+      "Single player",
+      "Stylized",
+      "Offline",
+      "Free download",
+      "Android",
+      "Contains ads",
+      "In-app purchases",
+      "Match-3",
+      "+ Exploration"
+    ],
+    "evidence": [
+      {
+        "tag": "Single player",
+        "basis": "Google Play category label mapping",
+        "excerpt": "Single player"
+      },
+      {
+        "tag": "Stylized",
+        "basis": "Google Play category label mapping",
+        "excerpt": "Stylized"
+      },
+      {
+        "tag": "Offline",
+        "basis": "Google Play category label mapping",
+        "excerpt": "Offline"
+      },
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      },
+      {
+        "tag": "Match-3",
+        "excerpt": "Match-3",
+        "basis": "Official developer gameplay text"
+      },
+      {
+        "tag": "+ Exploration",
+        "excerpt": "Explore a vibrant world",
+        "basis": "Official developer gameplay text"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "gameone",
+    "ads": true,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.candy.smash.mania.match.gp&hl=en&gl=US",
+    "fetchedAt": "2026-10-15T05:25:42.133Z",
+    "sourceDate": "2026-10-15",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-05-22",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "May 22, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.candy.smash.mania.match.gp&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/qjlJ-Jem6xyOw1JrhWrCK8LJVKHIYfSrFKa2eTuvEsIcRP52uSudHe6wdqkWs1m_LWHvnku38ciJpceGdWpF",
+    "categories": [
+      "match3"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "match3",
+        "excerpt": "Match-3",
+        "basis": "Official developer gameplay text"
+      }
+    ]
   }
 ]

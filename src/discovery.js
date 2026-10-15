@@ -11,7 +11,7 @@ export const groups = [
 ];
 groups.push({id:'combination',name:'Gameplay combination',tags:['Pure gameplay','+ Building','+ Renovation','+ Dress-up','+ Management','+ Story','+ Combat','+ Exploration','+ Collection & raising']},{id:'casual-mechanics',name:'Play style',tags:['Runner','Stacking','Sorting','Physics puzzle','Tap gameplay','Match-3','Triple matching','Bubble shooter','Merge-2','Merge-3','Number merge']});
 export const games = realGames;
-export function discover(catalog,{query='',filters={},sort='match',savedOnly=false,saved=[],recentOnly=false,minRating=0,minDownloads=0,metrics={}}={}){
+export function discover(catalog,{query='',filters={},sort='release',savedOnly=false,saved=[],recentOnly=false,minRating=0,minDownloads=0,metrics={}}={}){
  const must=Object.keys(filters).filter(t=>filters[t]==='must');
  const avoid=Object.keys(filters).filter(t=>filters[t]==='avoid');
  const prefer=Object.keys(filters).filter(t=>filters[t]==='prefer');

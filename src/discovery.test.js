@@ -8,7 +8,7 @@ test('all hard conditions apply together and documented exclusions are removed',
  assert.ok(r.length>0);assert.ok(r.every(g=>g.tags.includes('Turn-based')&&g.tags.includes('Offline')&&!g.tags.includes('Roman')));
 });
 test('preferences rank matches without excluding alternatives',()=>{
- const r=discover(games,{filters:{'Chinese':'prefer'}});
+ const r=discover(games,{filters:{'Chinese':'prefer'},sort:'match'});
  assert.equal(r.length,games.length);assert.equal(r[0].id,'com.longyoug.hmby');assert.deepEqual(r[0].matches,['Chinese']);assert.ok(r.at(-1).missing.includes('Chinese'));
 });
 test('unsupported hard combinations remain empty',()=>{assert.equal(discover(games,{filters:{'Roman':'must','Chinese':'must'}}).length,0)});

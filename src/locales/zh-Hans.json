@@ -28,12 +28,12 @@
   "Best fit": "匹配优先",
   "Highest rating": "评分优先",
   "Lowest price": "价格从低到高",
-  "Newest release": "首发时间从新到旧",
+  "Newest release": "最新上线",
   "Name A–Z": "名称 A–Z",
   "Clear filters": "清除筛选",
   "Game list": "游戏列表",
   "Icon unavailable": "暂无图标",
-  "Released": "首发",
+  "Released": "上线时间",
   "Save": "收藏",
   "ratings": "个评分",
   "Store aggregate": "商店总评分",
@@ -181,5 +181,6 @@
   "Any rating": "不限评分",
   "Minimum downloads": "最低下载量",
   "Google Play install lower bound; unknown values excluded when filtering.": "采用 Google Play 安装量下限；开启筛选时排除未知数据。",
-  "Oldest release": "首发时间从旧到新"
+  "Oldest release": "首发时间从旧到新",
+  "Release date unknown": "上线时间未知"
 }
