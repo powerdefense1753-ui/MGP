@@ -368,5 +368,55 @@
       "localPath": "https://play-lh.googleusercontent.com/qTNoKcI066of5nwJOZXNajLJ0jTytaBVp0wcnExLpknL8_WiRueiI9_ZQ_JlD4PQE0Qf7iNY9ewfS63HS1wJnFk",
       "sourceUrl": "https://play-lh.googleusercontent.com/qTNoKcI066of5nwJOZXNajLJ0jTytaBVp0wcnExLpknL8_WiRueiI9_ZQ_JlD4PQE0Qf7iNY9ewfS63HS1wJnFk"
     }
+  },
+  "com.jumpypals.app": {
+    "id": "com.jumpypals.app",
+    "url": "https://play.google.com/store/apps/details?id=com.jumpypals.app&hl=en&gl=US",
+    "fetchedAt": "2026-10-15T08:41:21.434Z",
+    "rating": null,
+    "ratingCount": null,
+    "reviews": [],
+    "reviewStatus": "not-collected",
+    "screenshots": [
+      {
+        "sourceUrl": "https://play-lh.googleusercontent.com/NzW6qSXSFllu1VS7OXAAikwY_vHTlqN3M33VT4TJOiDeX-Pj2h2v4UfLpCE2qd8A5Xd2ZwE9NfA52fcbOQcSRw",
+        "displayUrl": "https://play-lh.googleusercontent.com/NzW6qSXSFllu1VS7OXAAikwY_vHTlqN3M33VT4TJOiDeX-Pj2h2v4UfLpCE2qd8A5Xd2ZwE9NfA52fcbOQcSRw=w1280",
+        "storage": "remote"
+      },
+      {
+        "sourceUrl": "https://play-lh.googleusercontent.com/CyKmd79eJhYLVIoTKn-cfAaoQsi6zmyBK6-W_kK30o_r9P9PH383GksHfFStTsDa__8mhs-M_J_n7ttIdwYa",
+        "displayUrl": "https://play-lh.googleusercontent.com/CyKmd79eJhYLVIoTKn-cfAaoQsi6zmyBK6-W_kK30o_r9P9PH383GksHfFStTsDa__8mhs-M_J_n7ttIdwYa=w1280",
+        "storage": "remote"
+      },
+      {
+        "sourceUrl": "https://play-lh.googleusercontent.com/24IUi_Zc0SFjDrWKEt3iYa95JjfwJq0VlaKt0U3IazmLxKz4yzqJREyE8p3VzOsqEzuZldWg_C9sOyhRliYo",
+        "displayUrl": "https://play-lh.googleusercontent.com/24IUi_Zc0SFjDrWKEt3iYa95JjfwJq0VlaKt0U3IazmLxKz4yzqJREyE8p3VzOsqEzuZldWg_C9sOyhRliYo=w1280",
+        "storage": "remote"
+      },
+      {
+        "sourceUrl": "https://play-lh.googleusercontent.com/e3eyEj21HK1PzEcIDLCKBUb_TH8BGgDP5GFDNflfSLSjo8F37os6irNVXdJKx0XkxKn94u-7AW3d7kmlNQej",
+        "displayUrl": "https://play-lh.googleusercontent.com/e3eyEj21HK1PzEcIDLCKBUb_TH8BGgDP5GFDNflfSLSjo8F37os6irNVXdJKx0XkxKn94u-7AW3d7kmlNQej=w1280",
+        "storage": "remote"
+      },
+      {
+        "sourceUrl": "https://play-lh.googleusercontent.com/m_-cz86rxu5VzfBg-9spUlEzrJU1NjS7GS41MT43xA_svQJnyPWUwvfUzGQBxeuo4K_3vnFEuWJvT65JLZ5CEA",
+        "displayUrl": "https://play-lh.googleusercontent.com/m_-cz86rxu5VzfBg-9spUlEzrJU1NjS7GS41MT43xA_svQJnyPWUwvfUzGQBxeuo4K_3vnFEuWJvT65JLZ5CEA=w1280",
+        "storage": "remote"
+      },
+      {
+        "sourceUrl": "https://play-lh.googleusercontent.com/WmwUUpzPwKpjfwjDEG5esZgx4DO6qOcKt62d1at2wYaWluMFhzZ7LJqn6lKoNZb9sJ51OJ5u1NHoHr-XGV0i",
+        "displayUrl": "https://play-lh.googleusercontent.com/WmwUUpzPwKpjfwjDEG5esZgx4DO6qOcKt62d1at2wYaWluMFhzZ7LJqn6lKoNZb9sJ51OJ5u1NHoHr-XGV0i=w1280",
+        "storage": "remote"
+      },
+      {
+        "sourceUrl": "https://play-lh.googleusercontent.com/tcqSs77Uq2b6R8vyQQXQEjzECkqFeVHaZkCauXMTXRZnMb0MkZ9cwsrH61s7xLOkkSVgALK10ZL9KDRCTV28Eow",
+        "displayUrl": "https://play-lh.googleusercontent.com/tcqSs77Uq2b6R8vyQQXQEjzECkqFeVHaZkCauXMTXRZnMb0MkZ9cwsrH61s7xLOkkSVgALK10ZL9KDRCTV28Eow=w1280",
+        "storage": "remote"
+      }
+    ],
+    "icon": {
+      "localPath": "https://play-lh.googleusercontent.com/vHBYnoy5-FLI_Vj5TI0GPFydFGZJjFsIYLRTxxIrp6nsgSGmZleHkrZF8lhLJ22ds25_g1IHqF5i8MXLo4mD_9o",
+      "sourceUrl": "https://play-lh.googleusercontent.com/vHBYnoy5-FLI_Vj5TI0GPFydFGZJjFsIYLRTxxIrp6nsgSGmZleHkrZF8lhLJ22ds25_g1IHqF5i8MXLo4mD_9o"
+    }
   }
 }

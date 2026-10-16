@@ -624,5 +624,87 @@
         "basis": "Official developer gameplay text"
       }
     ]
+  },
+  {
+    "minInstalls": 1000,
+    "installEvidence": {
+      "minInstalls": 1000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.jumpypals.app&hl=en&gl=US",
+      "fetchedAt": "2026-10-15T08:41:21.434Z"
+    },
+    "id": "com.jumpypals.app",
+    "title": "Jumpy Pals: Endless Jumper",
+    "subtitle": "Tap, jump & dodge! Climb leaderboards, collect 151+ cute pals. Play offline!",
+    "description": "Tap, jump & dodge! Climb leaderboards, collect 151+ cute pals. Play offline!",
+    "overviewEn": "Tap, jump & dodge! Climb leaderboards, collect 151+ cute pals. Play offline!",
+    "genre": "Hypercasual",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "In-app purchases",
+      "Tap gameplay"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      },
+      {
+        "tag": "Tap gameplay",
+        "excerpt": "Tap to",
+        "basis": "Official developer gameplay text"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Blink & Play",
+    "ads": true,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.jumpypals.app&hl=en&gl=US",
+    "fetchedAt": "2026-10-15T08:41:21.434Z",
+    "sourceDate": "2026-10-15",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-06-26",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Jun 26, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.jumpypals.app&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/vHBYnoy5-FLI_Vj5TI0GPFydFGZJjFsIYLRTxxIrp6nsgSGmZleHkrZF8lhLJ22ds25_g1IHqF5i8MXLo4mD_9o",
+    "categories": [
+      "hypercasual"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "hypercasual",
+        "excerpt": "hyper-casual",
+        "basis": "Official developer gameplay text"
+      }
+    ]
   }
 ]
