@@ -76334,5 +76334,151 @@
         "basis": "Official developer gameplay text"
       }
     ]
+  },
+  {
+    "minInstalls": 10000,
+    "installEvidence": {
+      "minInstalls": 10000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.flowlynxa.mevorqa.trail&hl=en&gl=US",
+      "fetchedAt": "2026-10-16T07:28:29.071Z"
+    },
+    "id": "com.flowlynxa.mevorqa.trail",
+    "title": "Deer pairing: forwarding",
+    "subtitle": "Come and rescue the fawn trapped in the snow!",
+    "description": "Come and rescue the fawn trapped in the snow!",
+    "overviewEn": "Come and rescue the fawn trapped in the snow!",
+    "genre": "Match-3",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "Match-3"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "Match-3",
+        "excerpt": "match-3",
+        "basis": "Official developer gameplay text"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Lingu Dev",
+    "ads": true,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.flowlynxa.mevorqa.trail&hl=en&gl=US",
+    "fetchedAt": "2026-10-16T07:28:29.071Z",
+    "sourceDate": "2026-10-16",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-01-04",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Jan 4, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.flowlynxa.mevorqa.trail&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/VoSFM0EM5mf7NklkE8kIsNyOLg8C13vkzaTfRl4RvH-sNBEb9LBdol-t27sTA_KWQfXBgraZEDWlK6vuIx_-",
+    "categories": [
+      "match3"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "match3",
+        "excerpt": "match-3",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 10000,
+    "installEvidence": {
+      "minInstalls": 10000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.goldleaf.entertainment.lab&hl=en&gl=US",
+      "fetchedAt": "2026-10-16T07:28:31.368Z"
+    },
+    "id": "com.goldleaf.entertainment.lab",
+    "title": "Animal Pairing Upgrade",
+    "subtitle": "This is a gift for you who yearn for the ocean.",
+    "description": "This is a gift for you who yearn for the ocean.",
+    "overviewEn": "This is a gift for you who yearn for the ocean.",
+    "genre": "Merge",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Lingu Dev",
+    "ads": true,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.goldleaf.entertainment.lab&hl=en&gl=US",
+    "fetchedAt": "2026-10-16T07:28:31.368Z",
+    "sourceDate": "2026-10-16",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-01-04",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Jan 4, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.goldleaf.entertainment.lab&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/3p5gNcjYFmg7HP3m9b4evVdvBpoN7UTG8fMSSDBwp3QpP16UNDVpPb8siWTWsMR0ZVmLF64gf_TDBbFDjX_vuA",
+    "categories": [
+      "merge"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "merge",
+        "excerpt": "merge game",
+        "basis": "Official developer gameplay text"
+      }
+    ]
   }
 ]
