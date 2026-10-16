@@ -7,7 +7,7 @@
     "dev": "vite --host 0.0.0.0",
     "build": "vite build && node scripts/standalone.mjs",
     "preview": "vite preview --host 0.0.0.0",
-    "test": "node --test src/discovery.test.js scripts/play-import.test.mjs scripts/play-frontier.test.mjs src/i18n.test.js src/content-i18n.test.js scripts/game-categories.test.mjs scripts/gameplay-tags.test.mjs src/image-preview.test.js src/metric-filters.test.js src/community-api.test.js",
+    "test": "node --test src/discovery.test.js scripts/play-import.test.mjs scripts/play-frontier.test.mjs src/i18n.test.js src/content-i18n.test.js scripts/game-categories.test.mjs scripts/gameplay-tags.test.mjs src/image-preview.test.js src/metric-filters.test.js src/community-api.test.js infrastructure/community-gateway/gateway.test.mjs supabase/functions/submit-message/gateway-identity.test.mjs",
     "test:e2e": "playwright test",
     "data:fetch": "python scripts/fetch-google-play.py",
     "data:curate": "python scripts/curate-google-play.py",

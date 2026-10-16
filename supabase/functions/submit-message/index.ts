@@ -1,3 +1,4 @@
+import { gatewayIdentity } from './gateway-identity.js';
 import { createClient } from 'npm:@supabase/supabase-js@2';
 const origin='https://findcoolgame.com';
 const headers={'Access-Control-Allow-Origin':origin,'Access-Control-Allow-Headers':'apikey, authorization, content-type','Access-Control-Allow-Methods':'POST, OPTIONS','Content-Type':'application/json','Vary':'Origin'};
@@ -13,7 +14,8 @@ Deno.serve(async req=>{
  if(!['comment','feedback'].includes(x.kind)||body.length<3||body.length>2000||nickname.length>40)return reply(400,'invalid');
  const game=x.kind==='comment'&&typeof x.game_id==='string'?x.game_id:null;
  if(x.kind==='comment'&&(!game||!/^[a-zA-Z0-9_.-]{1,200}$/.test(game)))return reply(400,'invalid');
- const ip=req.headers.get('x-forwarded-for')?.split(',')[0]?.trim();
+ const gatewaySecret=Deno.env.get('COMMUNITY_GATEWAY_SECRET');
+ const ip=gatewaySecret?await gatewayIdentity(req.headers,raw,gatewaySecret):req.headers.get('x-forwarded-for')?.split(',')[0]?.trim();
  if(!ip)return reply(503,'unavailable');
  const salt=Deno.env.get('COMMUNITY_RATE_SALT');if(!salt)return reply(503,'unavailable');
  const digest=await crypto.subtle.digest('SHA-256',new TextEncoder().encode(salt+':'+ip));
@@ -24,3 +26,4 @@ Deno.serve(async req=>{
  return saved.error?reply(503,'unavailable'):reply(201);
  }catch{return reply(400,'invalid');}
 });
+

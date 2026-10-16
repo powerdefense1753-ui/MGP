@@ -6,7 +6,15 @@ export const validateMessage=x=>{
 };
 export function communityClient({url,key},fetcher=fetch){
  if(!url||!key)return null;
- const request=async(path,options={},token=key)=>{const r=await fetcher(url+path,{...options,headers:{apikey:key,Authorization:'Bearer '+token,'Content-Type':'application/json',...options.headers}});const x=await r.json().catch(()=>null);if(!r.ok)throw Error(r.status===429?'rate_limited':r.status===401||r.status===403?'unauthorized':'unavailable');return x;};
+ const request=async(path,options={},token=key)=>{
+  const controller=new AbortController(),timer=setTimeout(()=>controller.abort(),15000);
+  try{
+   const r=await fetcher(url+path,{...options,signal:controller.signal,headers:{apikey:key,Authorization:'Bearer '+token,'Content-Type':'application/json',...options.headers}});
+   const x=await r.json().catch(()=>null);
+   if(!r.ok)throw Error(r.status===429?'rate_limited':r.status===401||r.status===403||x?.error_code==='invalid_credentials'?'unauthorized':'unavailable');
+   return x;
+  }catch(e){throw Error(['rate_limited','unauthorized'].includes(e.message)?e.message:'unavailable')}finally{clearTimeout(timer)}
+ };
  return {
   comments:game=>request('/rest/v1/community_messages?select=id,nickname,body,created_at&kind=eq.comment&status=eq.approved&game_id=eq.'+encodeURIComponent(game)+'&order=created_at.desc&limit=50'),
   submit:input=>request('/functions/v1/submit-message',{method:'POST',body:JSON.stringify({...input,...validateMessage(input)})}),
@@ -17,3 +25,4 @@ export function communityClient({url,key},fetcher=fetch){
   logout:token=>request('/auth/v1/logout',{method:'POST'},token)
  };
 }
+
