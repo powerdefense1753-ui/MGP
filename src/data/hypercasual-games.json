@@ -1864,5 +1864,227 @@
         "basis": "Official developer gameplay text"
       }
     ]
+  },
+  {
+    "minInstalls": 10,
+    "installEvidence": {
+      "minInstalls": 10,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.crowdrunner.app&hl=en&gl=US",
+      "fetchedAt": "2026-10-16T12:07:37.168Z"
+    },
+    "id": "com.crowdrunner.app",
+    "title": "Crowd Runner",
+    "subtitle": "Grow your crowd, pass gates, dodge hazards, and smash the castle!",
+    "description": "Grow your crowd, pass gates, dodge hazards, and smash the castle!",
+    "overviewEn": "Grow your crowd, pass gates, dodge hazards, and smash the castle!",
+    "genre": "Hypercasual",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "Runner"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "Runner",
+        "excerpt": "Runner",
+        "basis": "Official developer gameplay text"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Core Logic Studio",
+    "ads": true,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.crowdrunner.app&hl=en&gl=US",
+    "fetchedAt": "2026-10-16T12:07:37.168Z",
+    "sourceDate": "2026-10-16",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-09-10",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Sep 10, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.crowdrunner.app&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/ihM0Jfr2XLv-Oj6dev0jLPoM_fsuOpUYRoSH6lqZhwZIYXC9a4Xwzv7FFcHY0F3hhipXIOEmmvQeOoKm85Jp3aI",
+    "categories": [
+      "hypercasual"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "hypercasual",
+        "excerpt": "hypercasual",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 100000,
+    "installEvidence": {
+      "minInstalls": 100000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=skeerollmasters.ball.arcadegame&hl=en&gl=US",
+      "fetchedAt": "2026-10-16T12:07:38.808Z"
+    },
+    "id": "skeerollmasters.ball.arcadegame",
+    "title": "Roll Masters - by Skee-Ball®",
+    "subtitle": "Official Skee-Ball® Game - Roll The Ball And Play Against Others Worldwide",
+    "description": "Official Skee-Ball® Game - Roll The Ball And Play Against Others Worldwide",
+    "overviewEn": "Official Skee-Ball® Game - Roll The Ball And Play Against Others Worldwide",
+    "genre": "Hypercasual",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "In-app purchases"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Liberty Pixel",
+    "ads": true,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=skeerollmasters.ball.arcadegame&hl=en&gl=US",
+    "fetchedAt": "2026-10-16T12:07:38.808Z",
+    "sourceDate": "2026-10-16",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2025-11-21",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Nov 21, 2025",
+      "url": "https://play.google.com/store/apps/details?id=skeerollmasters.ball.arcadegame&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/41FIvfjTkUaBiKjILAk9bClrt67mOR_-DvUkynA4PT1nk2rbh7BIJrHT-A56W-SJQhgHOcV1lwAPTz5N8dk9w14",
+    "categories": [
+      "hypercasual"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "hypercasual",
+        "excerpt": "Hyper Casual",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 100,
+    "installEvidence": {
+      "minInstalls": 100,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.bitthebee.game&hl=en&gl=US",
+      "fetchedAt": "2026-10-16T12:10:18.429Z"
+    },
+    "id": "com.bitthebee.game",
+    "title": "Bit The Bee",
+    "subtitle": "Can you trap the bee in one square? Fill the space before it escapes!",
+    "description": "Can you trap the bee in one square? Fill the space before it escapes!",
+    "overviewEn": "Can you trap the bee in one square? Fill the space before it escapes!",
+    "genre": "Hypercasual",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Liberty Pixel",
+    "ads": true,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.bitthebee.game&hl=en&gl=US",
+    "fetchedAt": "2026-10-16T12:10:18.429Z",
+    "sourceDate": "2026-10-16",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-03-21",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Mar 21, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.bitthebee.game&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/hyDwJhG3H-UOvOu-Br45YrAlz1sN2fuWoHPgYHhKwIL4k32xXeRQdVj7q6hmw--XJzpNPOulDAxDxr9s4ulH",
+    "categories": [
+      "hypercasual"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "hypercasual",
+        "excerpt": "hyper casual",
+        "basis": "Official developer gameplay text"
+      }
+    ]
   }
 ]
