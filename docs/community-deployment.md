@@ -6,7 +6,7 @@ The website remains on GitHub Pages. Supabase provides the private database, Aut
 1. Create a Supabase project in the owner's account. Apply `supabase/migrations/202610160001_community.sql` in SQL Editor.
 2. Deploy `supabase/functions/submit-message/index.ts` as the `submit-message` Edge Function. Keep JWT verification on when using the legacy anon JWT key. Set `COMMUNITY_RATE_SALT` to a random secret in function secrets. Built-in SUPABASE_URL and SUPABASE_SERVICE_ROLE_KEY stay server-side.
 3. Create the moderator's Auth user through the dashboard invite flow. The owner sets their own password. Add that user's UUID to `public.community_moderators` using SQL Editor. Do not expose this operation to anonymous or ordinary authenticated users. Disable public user signups if they are not needed.
-4. Set local build variables `VITE_COMMUNITY_URL=https://PROJECT.supabase.co` and `VITE_COMMUNITY_ANON_KEY=LEGACY_ANON_JWT`. This is a public restricted client key, not a service key. Build only after the project is ready.
+4. Set local build variables `VITE_COMMUNITY_URL=https://api.findcoolgame.com` and `VITE_COMMUNITY_ANON_KEY=LEGACY_ANON_JWT`. This is a public restricted client key, not a service key. Build only after the project is ready.
 5. The moderation page is `https://findcoolgame.com/#moderation`. Access control is database RLS, not the URL. Session access tokens remain in memory and expire normally; reload requires login again.
 
 ## Validation before publication
@@ -30,9 +30,14 @@ Live console checks: submission 201; immediate repeat 429; moderator approval ex
 Local production configuration is in ignored `.env.local`; only the public anon key is used in the browser.
 Current-network limitation: both Node/PowerShell and Edge report connection reset for the project `supabase.co` endpoint, while the Supabase dashboard function tester succeeds. Direct visitor submission and moderator browser sign-in could not be verified from this network. Do not report these as fully verified.
 
-## Connection repair gateway (prepared, not deployed)
+## Connection repair gateway
 2026-10-16 diagnosis: project DNS resolves to Cloudflare addresses; TCP/TLS handshake to project API resets before HTTP/authentication. Dashboard management and its function tester work. Node, Windows curl and Edge independently reproduce the reset. Exact network policy source is not proven.
 Owner approved a free Vercel gateway at api.findcoolgame.com. Pending owner Vercel signup/terms and domain access.
 Deploy `infrastructure/community-gateway` as a separate Vercel project (Other framework, no build step). Environment: SUPABASE_URL (fixed project URL), SUPABASE_ANON_KEY (public client key), COMMUNITY_GATEWAY_SECRET (random shared server-only HMAC key). No service-role key is required by the gateway. Set the same gateway secret in the Supabase function only after deploying its updated index.ts and gateway-identity.js. When that secret is set, unsigned submissions fail closed.
 Gateway allows only existing community REST/Auth/function routes and methods. It retains end-user bearer tokens and relies on RLS. No request bodies, passwords or tokens are logged by application code; provider access logs remain subject to provider retention. Vercel overwrites X-Forwarded-For; the gateway signs that IP, timestamp and body digest. Backend accepts only valid signatures within 60 seconds, preserving per-client rate limits. No proxy trust in caller-provided identity headers.
 Configure DNS using the actual Vercel domain verification instructions (do not guess record values); leave website apex unchanged. Verify TLS, CORS, signed submission 201/429, anonymous isolation and owner login from the affected network before switching VITE_COMMUNITY_URL. Do not claim the prepared gateway fixes connectivity until these live checks pass.
+
+
+## Completed verification (2026-10-16)
+Free Vercel Hobby project findcoolgame-community-api is active under pu-172b. api.findcoolgame.com has A 76.76.21.21 and valid HTTPS. Updated Supabase function and matching server-only signature secret are active. The website now builds against https://api.findcoolgame.com.
+From the previously failing network: public comments GET 200, signed submission 201, immediate duplicate 429. Real website feedback submitted successfully; owner logged into /#moderation and loaded private feedback. A game comment was submitted, hidden while pending, approved through the owner UI, then rendered publicly as plain text including literal HTML tags. Exact test records were archived. 44 automated tests pass. Source repair commit f88e813, Pages release 11677fc451bbb858c1206ed73a1a0d8e6523840d. The original supabase.co route may remain unreachable directly; clients must use the verified API domain. No paid add-on was enabled.
