@@ -76480,5 +76480,421 @@
         "basis": "Official developer gameplay text"
       }
     ]
+  },
+  {
+    "minInstalls": 10000,
+    "installEvidence": {
+      "minInstalls": 10000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=popblock.puzzle.match3game&hl=en&gl=US",
+      "fetchedAt": "2026-10-16T07:51:47.639Z"
+    },
+    "id": "popblock.puzzle.match3game",
+    "title": "Crazy Pop Blast",
+    "subtitle": "Pop, match & play hundreds of exciting puzzle blast levels!",
+    "description": "Pop, match & play hundreds of exciting puzzle blast levels!",
+    "overviewEn": "Pop, match & play hundreds of exciting puzzle blast levels!",
+    "genre": "Match-3",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "In-app purchases",
+      "Match-3"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      },
+      {
+        "tag": "Match-3",
+        "excerpt": "match 3",
+        "basis": "Official developer gameplay text"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "NBapps Inc.",
+    "ads": true,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=popblock.puzzle.match3game&hl=en&gl=US",
+    "fetchedAt": "2026-10-16T07:51:47.639Z",
+    "sourceDate": "2026-10-16",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2025-09-01",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Sep 1, 2025",
+      "url": "https://play.google.com/store/apps/details?id=popblock.puzzle.match3game&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/H29gkp5jHKZAaNiHJUCBq6f7wb6T49xr5ZO44zsiEtz14cDTNROxvZxjiInx9ewE2gz52G7ix1AkA_h_i4kqDg",
+    "categories": [
+      "match3"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "match3",
+        "excerpt": "match 3",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 100,
+    "installEvidence": {
+      "minInstalls": 100,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.playmotional.sticker&hl=en&gl=US",
+      "fetchedAt": "2026-10-16T08:06:51.319Z"
+    },
+    "id": "com.playmotional.sticker",
+    "title": "Merge sticker madness",
+    "subtitle": "Merge cute stickers, collect sets, and unlock magical surprises!",
+    "description": "Merge cute stickers, collect sets, and unlock magical surprises!",
+    "overviewEn": "Merge cute stickers, collect sets, and unlock magical surprises!",
+    "genre": "Merge",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "In-app purchases"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Mint Сandy Games",
+    "ads": true,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.playmotional.sticker&hl=en&gl=US",
+    "fetchedAt": "2026-10-16T08:06:51.319Z",
+    "sourceDate": "2026-10-16",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2025-11-27",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Nov 27, 2025",
+      "url": "https://play.google.com/store/apps/details?id=com.playmotional.sticker&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/dcsqKVlzvIqiXB7Xv10DXS6H6rTEBlhH51PxITRa0KuqEFoqSyzhEre0fO6Hq8T7Z502p4PqqnVGVCtGHtgNtA",
+    "categories": [
+      "merge"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "merge",
+        "excerpt": "merge puzzle",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 50,
+    "installEvidence": {
+      "minInstalls": 50,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.eidoloncorp.gastrotown&hl=en&gl=US",
+      "fetchedAt": "2026-10-16T08:22:05.388Z"
+    },
+    "id": "com.eidoloncorp.gastrotown",
+    "title": "Gastro Town",
+    "subtitle": "Merge, match-3, global flavors, and cozy adventure",
+    "description": "Merge, match-3, global flavors, and cozy adventure",
+    "overviewEn": "Merge, match-3, global flavors, and cozy adventure",
+    "genre": "Match-3",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "In-app purchases",
+      "Match-3"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      },
+      {
+        "tag": "Match-3",
+        "excerpt": "match-3",
+        "basis": "Official developer gameplay text"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Eidolon Cyprus LTD",
+    "ads": null,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.eidoloncorp.gastrotown&hl=en&gl=US",
+    "fetchedAt": "2026-10-16T08:22:05.388Z",
+    "sourceDate": "2026-10-16",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-10-02",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Oct 2, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.eidoloncorp.gastrotown&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/lJhDM9WN1DHUCysTDbZslERMFQF4daxj9wYsrgRwYQGPjFts6Fr6evaJUln1xgjVzo9vl696uQqqWSMCR8fsJg",
+    "categories": [
+      "match3"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "match3",
+        "excerpt": "match-3",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 1000,
+    "installEvidence": {
+      "minInstalls": 1000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.eidoloncorp.lamplighter&hl=en&gl=US",
+      "fetchedAt": "2026-10-16T08:22:06.314Z"
+    },
+    "id": "com.eidoloncorp.lamplighter",
+    "title": "Lamplighter",
+    "subtitle": "Fight the darkness. Bring back the light",
+    "description": "Fight the darkness. Bring back the light",
+    "overviewEn": "Fight the darkness. Bring back the light",
+    "genre": "Merge",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "In-app purchases",
+      "Merge-3"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      },
+      {
+        "tag": "Merge-3",
+        "excerpt": "merge-3",
+        "basis": "Official developer gameplay text"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Eidolon Cyprus LTD",
+    "ads": true,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.eidoloncorp.lamplighter&hl=en&gl=US",
+    "fetchedAt": "2026-10-16T08:22:06.314Z",
+    "sourceDate": "2026-10-16",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-05-06",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "May 6, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.eidoloncorp.lamplighter&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/2yksLZayiuNzz1GuTBwMB49Bez-0-5nbz5mEEws_8_RNB3GQsTUtBNMVYoPh9ewkD73maxnH92CjRAlsYSfj7w",
+    "categories": [
+      "merge"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "merge",
+        "excerpt": "merge-3 journey where every item you combine",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 50000,
+    "installEvidence": {
+      "minInstalls": 50000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.ig.fish.up.match&hl=en&gl=US",
+      "fetchedAt": "2026-10-16T10:06:36.449Z"
+    },
+    "id": "com.ig.fish.up.match",
+    "title": "Fish Up!",
+    "subtitle": "Sort, match 3 & collect cute fish in this relaxing ocean puzzle game!",
+    "description": "Sort, match 3 & collect cute fish in this relaxing ocean puzzle game!",
+    "overviewEn": "Sort, match 3 & collect cute fish in this relaxing ocean puzzle game!",
+    "genre": "Match-3",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "In-app purchases",
+      "Match-3",
+      "+ Renovation",
+      "+ Collection & raising",
+      "Sorting"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      },
+      {
+        "tag": "Match-3",
+        "excerpt": "match 3",
+        "basis": "Official developer gameplay text"
+      },
+      {
+        "tag": "+ Renovation",
+        "excerpt": "decorations",
+        "basis": "Official developer gameplay text"
+      },
+      {
+        "tag": "+ Collection & raising",
+        "excerpt": "collect adorable sea creatures",
+        "basis": "Official developer gameplay text"
+      },
+      {
+        "tag": "Sorting",
+        "excerpt": "Sort",
+        "basis": "Official developer gameplay text"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "iKame Games - Zego Studio",
+    "ads": true,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.ig.fish.up.match&hl=en&gl=US",
+    "fetchedAt": "2026-10-16T10:06:36.449Z",
+    "sourceDate": "2026-10-16",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-09-26",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Sep 26, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.ig.fish.up.match&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/85SukbJ62DsoXImdemoNNQ51cM_B_GvAekBo1RJQHMT0m2fGNQ8gSmqQJUdRiLYyyNuVVQJnqoxgSJxTrp3N",
+    "categories": [
+      "match3"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "match3",
+        "excerpt": "match 3",
+        "basis": "Official developer gameplay text"
+      }
+    ]
   }
 ]
