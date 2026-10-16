@@ -1,3 +1,4 @@
+export const WEBSITE_COMMENT_ID='website-experience';
 export const validateMessage=x=>{
  const body=typeof x.body==='string'?x.body.trim():'';
  const nickname=typeof x.nickname==='string'?x.nickname.trim():'';
@@ -16,7 +17,8 @@ export function communityClient({url,key},fetcher=fetch){
   }catch(e){throw Error(['rate_limited','unauthorized'].includes(e.message)?e.message:'unavailable')}finally{clearTimeout(timer)}
  };
  return {
-  comments:game=>request('/rest/v1/community_messages?select=id,nickname,body,created_at&kind=eq.comment&status=eq.approved&game_id=eq.'+encodeURIComponent(game)+'&order=created_at.desc&limit=50'),
+  websiteComments:()=>request('/rest/v1/community_messages?select=id,nickname,body,created_at&kind=eq.comment&status=eq.approved&game_id=eq.'+WEBSITE_COMMENT_ID+'&order=created_at.desc&limit=50'),
+  submitWebsiteComment:input=>request('/functions/v1/submit-message',{method:'POST',body:JSON.stringify({...input,...validateMessage(input),kind:'comment',game_id:WEBSITE_COMMENT_ID})}),
   submit:input=>request('/functions/v1/submit-message',{method:'POST',body:JSON.stringify({...input,...validateMessage(input)})}),
   login:(email,password)=>request('/auth/v1/token?grant_type=password',{method:'POST',body:JSON.stringify({email,password})}),
   membership:token=>request('/rest/v1/community_moderators?select=user_id',{},token),
