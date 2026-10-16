@@ -706,5 +706,1163 @@
         "basis": "Official developer gameplay text"
       }
     ]
+  },
+  {
+    "minInstalls": 50,
+    "installEvidence": {
+      "minInstalls": 50,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.tumua.hanhtrinh&hl=en&gl=US",
+      "fetchedAt": "2026-10-16T10:48:31.917Z"
+    },
+    "id": "com.tumua.hanhtrinh",
+    "title": "Hyper-Casual",
+    "subtitle": "Fly through 4 seasons, dodge enemies, and evolve into a legendary Phoenix",
+    "description": "Fly through 4 seasons, dodge enemies, and evolve into a legendary Phoenix",
+    "overviewEn": "Fly through 4 seasons, dodge enemies, and evolve into a legendary Phoenix",
+    "genre": "Hypercasual",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "Runner",
+      "Tap gameplay"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "Runner",
+        "excerpt": "runner",
+        "basis": "Official developer gameplay text"
+      },
+      {
+        "tag": "Tap gameplay",
+        "excerpt": "One-tap",
+        "basis": "Official developer gameplay text"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Merge Life Studio",
+    "ads": true,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.tumua.hanhtrinh&hl=en&gl=US",
+    "fetchedAt": "2026-10-16T10:48:31.917Z",
+    "sourceDate": "2026-10-16",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-02-10",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Feb 10, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.tumua.hanhtrinh&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/AEiscextGt_OAtjQ6avvIWhOaDPJJVT-6ohDkHEFssSWz96zDeW05L_OJbzEHnGyUDQ5LFLOD4fN4j699lM",
+    "categories": [
+      "hypercasual"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "hypercasual",
+        "excerpt": "Hyper-Casual",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 100,
+    "installEvidence": {
+      "minInstalls": 100,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.asghar.onetapjump&hl=en&gl=US",
+      "fetchedAt": "2026-10-16T10:48:35.124Z"
+    },
+    "id": "com.asghar.onetapjump",
+    "title": "One Tap Jump",
+    "subtitle": "A fun, endless hyper-casual jumping game Tap to jump dodge the pipes and survive",
+    "description": "A fun, endless hyper-casual jumping game Tap to jump dodge the pipes and survive",
+    "overviewEn": "A fun, endless hyper-casual jumping game Tap to jump dodge the pipes and survive",
+    "genre": "Hypercasual",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "Tap gameplay"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "Tap gameplay",
+        "excerpt": "One Tap",
+        "basis": "Official developer gameplay text"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Digi Works",
+    "ads": true,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.asghar.onetapjump&hl=en&gl=US",
+    "fetchedAt": "2026-10-16T10:48:35.124Z",
+    "sourceDate": "2026-10-16",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-07-01",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Jul 1, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.asghar.onetapjump&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/muQLz_5Mt9ig8efZJjH8HTp83h3hcI5otkCMxUtiWoXunQ9Y1QJISZOo3XBWZ7QJRw-nHe6KA2IvqxUzVBUV3w",
+    "categories": [
+      "hypercasual"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "hypercasual",
+        "excerpt": "hyper-casual",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 1000,
+    "installEvidence": {
+      "minInstalls": 1000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.ErbeyStudios.StackUp&hl=en&gl=US",
+      "fetchedAt": "2026-10-16T10:48:47.647Z"
+    },
+    "id": "com.ErbeyStudios.StackUp",
+    "title": "Stack Up!",
+    "subtitle": "Stack it up! Build the tallest rainbow tower in this minimalist zen challenge.",
+    "description": "Stack it up! Build the tallest rainbow tower in this minimalist zen challenge.",
+    "overviewEn": "Stack it up! Build the tallest rainbow tower in this minimalist zen challenge.",
+    "genre": "Hypercasual",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "Stacking",
+      "Physics puzzle",
+      "Tap gameplay"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "Stacking",
+        "excerpt": "Stack",
+        "basis": "Official developer gameplay text"
+      },
+      {
+        "tag": "Physics puzzle",
+        "excerpt": "physics-based",
+        "basis": "Official developer gameplay text"
+      },
+      {
+        "tag": "Tap gameplay",
+        "excerpt": "one-tap",
+        "basis": "Official developer gameplay text"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Erbey Studios",
+    "ads": true,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.ErbeyStudios.StackUp&hl=en&gl=US",
+    "fetchedAt": "2026-10-16T10:48:47.647Z",
+    "sourceDate": "2026-10-16",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-03-31",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Mar 31, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.ErbeyStudios.StackUp&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/ISvkg8CGmczoJiZydKFauPTdxWh1FC5drVC-hIuYkx9ONxOTQzUsmN4zYToPRUZG5R59ZDH1igCTVpbLSQWIveY",
+    "categories": [
+      "hypercasual"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "hypercasual",
+        "excerpt": "hyper-casual",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 100,
+    "installEvidence": {
+      "minInstalls": 100,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.whiteshrimp.sushiloop&hl=en&gl=US",
+      "fetchedAt": "2026-10-16T11:00:53.181Z"
+    },
+    "id": "com.whiteshrimp.sushiloop",
+    "title": "Sushi Loop",
+    "subtitle": "Tap sushi on the belt, match orders, and run the ultimate sushi bar!",
+    "description": "Tap sushi on the belt, match orders, and run the ultimate sushi bar!",
+    "overviewEn": "Tap sushi on the belt, match orders, and run the ultimate sushi bar!",
+    "genre": "Hypercasual",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "jennywhiteshrimp",
+    "ads": true,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.whiteshrimp.sushiloop&hl=en&gl=US",
+    "fetchedAt": "2026-10-16T11:00:53.181Z",
+    "sourceDate": "2026-10-16",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-06-29",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Jun 29, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.whiteshrimp.sushiloop&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/Ci8g8Q5bTwZkOi5-tlvlpbo6cJ-VKLyPhSslkjO5HcY8J0ZUYOfupU01fp6l9AevGoBNHPpDp01ks0xEtt9xlU0",
+    "categories": [
+      "hypercasual"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "hypercasual",
+        "excerpt": "hyper-casual",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 1000,
+    "installEvidence": {
+      "minInstalls": 1000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.TheGameWise.CornZonePro&hl=en&gl=US",
+      "fetchedAt": "2026-10-16T11:03:39.703Z"
+    },
+    "id": "com.TheGameWise.CornZonePro",
+    "title": "CornZone Pro",
+    "subtitle": "Swipe to toss bags, score perfect shots & play 2-player cornhole offline!",
+    "description": "Swipe to toss bags, score perfect shots & play 2-player cornhole offline!",
+    "overviewEn": "Swipe to toss bags, score perfect shots & play 2-player cornhole offline!",
+    "genre": "Hypercasual",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "In-app purchases"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Game Wise",
+    "ads": true,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.TheGameWise.CornZonePro&hl=en&gl=US",
+    "fetchedAt": "2026-10-16T11:03:39.703Z",
+    "sourceDate": "2026-10-16",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2025-10-02",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Oct 2, 2025",
+      "url": "https://play.google.com/store/apps/details?id=com.TheGameWise.CornZonePro&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/rmwfNOrap5bdG8nT0MCgV7i86r_w1su6_iHraXU6qpMg3Iz5-N6hXFBzRjNbJAGxK06AfpN0w2BuS8wfxiZ-lA",
+    "categories": [
+      "hypercasual"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "hypercasual",
+        "excerpt": "hyper casual",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 1000,
+    "installEvidence": {
+      "minInstalls": 1000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.TheGameWise.DriftShift&hl=en&gl=US",
+      "fetchedAt": "2026-10-16T11:03:42.561Z"
+    },
+    "id": "com.TheGameWise.DriftShift",
+    "title": "Drift Shift",
+    "subtitle": "Master the Drift. Minimize the Attempts. Conquer the Track.",
+    "description": "Master the Drift. Minimize the Attempts. Conquer the Track.",
+    "overviewEn": "Master the Drift. Minimize the Attempts. Conquer the Track.",
+    "genre": "Hypercasual",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "In-app purchases",
+      "Physics puzzle",
+      "Tap gameplay"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      },
+      {
+        "tag": "Physics puzzle",
+        "excerpt": "physics-based",
+        "basis": "Official developer gameplay text"
+      },
+      {
+        "tag": "Tap gameplay",
+        "excerpt": "One-Tap",
+        "basis": "Official developer gameplay text"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Game Wise",
+    "ads": true,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.TheGameWise.DriftShift&hl=en&gl=US",
+    "fetchedAt": "2026-10-16T11:03:42.561Z",
+    "sourceDate": "2026-10-16",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-03-31",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Mar 31, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.TheGameWise.DriftShift&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/J7U8QajVeHhL80c6EzDN-YZ7FY7BQV27mMUkZK7KkN3gAjUhojDRB7wQbH1ztAusa3IADwZllupB7jbxgHefbQg",
+    "categories": [
+      "hypercasual"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "hypercasual",
+        "excerpt": "hyper-casual",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 1000,
+    "installEvidence": {
+      "minInstalls": 1000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.TheGameWise.ArcticWaddle&hl=en&gl=US",
+      "fetchedAt": "2026-10-16T11:03:42.975Z"
+    },
+    "id": "com.TheGameWise.ArcticWaddle",
+    "title": "Arctic Waddle: Slice Puzzle",
+    "subtitle": "Relaxing ice-slicing puzzle. Save penguins with smart, satisfying cuts!",
+    "description": "Relaxing ice-slicing puzzle. Save penguins with smart, satisfying cuts!",
+    "overviewEn": "Relaxing ice-slicing puzzle. Save penguins with smart, satisfying cuts!",
+    "genre": "Hypercasual",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "In-app purchases"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Game Wise",
+    "ads": true,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.TheGameWise.ArcticWaddle&hl=en&gl=US",
+    "fetchedAt": "2026-10-16T11:03:42.975Z",
+    "sourceDate": "2026-10-16",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-03-31",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Mar 31, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.TheGameWise.ArcticWaddle&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/CpScyWkCyo8-RYMPWkU7wLihQgq5ZMzd2QU8dxae3gRQMHJxvRZZfeQgO-FaIjHa7Nob1CSTgcrTNp_0QGwxqCQ",
+    "categories": [
+      "hypercasual"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "hypercasual",
+        "excerpt": "hyper casual",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 10000,
+    "installEvidence": {
+      "minInstalls": 10000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.tarkinstudios.arrowpuzzle&hl=en&gl=US",
+      "fetchedAt": "2026-10-16T11:05:02.806Z"
+    },
+    "id": "com.tarkinstudios.arrowpuzzle",
+    "title": "Arrow Path - Logic Puzzle",
+    "subtitle": "Build arrow paths, follow directions and solve clean logic boards.",
+    "description": "Build arrow paths, follow directions and solve clean logic boards.",
+    "overviewEn": "Build arrow paths, follow directions and solve clean logic boards.",
+    "genre": "Hypercasual",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "In-app purchases"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Tarkin Games",
+    "ads": true,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.tarkinstudios.arrowpuzzle&hl=en&gl=US",
+    "fetchedAt": "2026-10-16T11:05:02.806Z",
+    "sourceDate": "2026-10-16",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-05-19",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "May 19, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.tarkinstudios.arrowpuzzle&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/HX5M9j-qMQJI80ToAtcpkeE2jn1p4Mj9vNBQ6U19kv9QpmdwnqOmqIJQbzSNWN195vQi5_sI17IOndL-NaZlrUI",
+    "categories": [
+      "hypercasual"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "hypercasual",
+        "excerpt": "hypercasual",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 1000,
+    "installEvidence": {
+      "minInstalls": 1000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.doubleugames.ng.bf&hl=en&gl=US",
+      "fetchedAt": "2026-10-16T11:09:09.691Z"
+    },
+    "id": "com.doubleugames.ng.bf",
+    "title": "Bison Blast",
+    "subtitle": "Place totems and release the bison to crash colorful pixel blocks!",
+    "description": "Place totems and release the bison to crash colorful pixel blocks!",
+    "overviewEn": "Place totems and release the bison to crash colorful pixel blocks!",
+    "genre": "Hypercasual",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "In-app purchases"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Kite Games AS",
+    "ads": true,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.doubleugames.ng.bf&hl=en&gl=US",
+    "fetchedAt": "2026-10-16T11:09:09.691Z",
+    "sourceDate": "2026-10-16",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-05-28",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "May 28, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.doubleugames.ng.bf&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/9onblIloP2tKAGgS466YtEc4AKCKdMzcKjFYtJQBl8717ka-XIa1IPVpJBUgCU8UdE-C3LE6acC539fLGNZcVD4",
+    "categories": [
+      "hypercasual"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "hypercasual",
+        "excerpt": "hyper-casual",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 10000,
+    "installEvidence": {
+      "minInstalls": 10000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.TheoreticalStudio.PhoneFlip&hl=en&gl=US",
+      "fetchedAt": "2026-10-16T11:09:12.318Z"
+    },
+    "id": "com.TheoreticalStudio.PhoneFlip",
+    "title": "Phone Flip Challenge",
+    "subtitle": "Arcade time killer, spin and catch your phone in this real physics challenge",
+    "description": "Arcade time killer, spin and catch your phone in this real physics challenge",
+    "overviewEn": "Arcade time killer, spin and catch your phone in this real physics challenge",
+    "genre": "Hypercasual",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "In-app purchases",
+      "Physics puzzle"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      },
+      {
+        "tag": "Physics puzzle",
+        "excerpt": "physics based",
+        "basis": "Official developer gameplay text"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Theoretical Studio, TOO",
+    "ads": null,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.TheoreticalStudio.PhoneFlip&hl=en&gl=US",
+    "fetchedAt": "2026-10-16T11:09:12.318Z",
+    "sourceDate": "2026-10-16",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2025-10-01",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Oct 1, 2025",
+      "url": "https://play.google.com/store/apps/details?id=com.TheoreticalStudio.PhoneFlip&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/NcHuZO4aBs4oFXiRi8EqDk-zGmWdfjmv_BkxVoFw0-XiDOz0y42A0-VR5O6JRjxkAphCnngwPQXre140hNRr",
+    "categories": [
+      "hypercasual"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "hypercasual",
+        "excerpt": "hypercasual",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 1000000,
+    "installEvidence": {
+      "minInstalls": 1000000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.weegoon.grabcrazy&hl=en&gl=US",
+      "fetchedAt": "2026-10-16T11:09:15.239Z"
+    },
+    "id": "com.weegoon.grabcrazy",
+    "title": "Grab Crazy",
+    "subtitle": "Grab, Stretch, and Solve Every Crazy Puzzle!",
+    "description": "Grab, Stretch, and Solve Every Crazy Puzzle!",
+    "overviewEn": "Grab, Stretch, and Solve Every Crazy Puzzle!",
+    "genre": "Hypercasual",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "In-app purchases"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "WEEGOON",
+    "ads": true,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.weegoon.grabcrazy&hl=en&gl=US",
+    "fetchedAt": "2026-10-16T11:09:15.239Z",
+    "sourceDate": "2026-10-16",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2025-07-22",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Jul 22, 2025",
+      "url": "https://play.google.com/store/apps/details?id=com.weegoon.grabcrazy&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/Q_Gc-OnQXYZpfyh1wqLN-M0OvJeLEsfFRjAXFXxkSr5iOUkLOgRelhy5RjeDasQAKsXtdUYu1gnH4KbOW7N9",
+    "categories": [
+      "hypercasual"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "hypercasual",
+        "excerpt": "hypercasual",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 100,
+    "installEvidence": {
+      "minInstalls": 100,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.tazkan.popcornsort&hl=en&gl=US",
+      "fetchedAt": "2026-10-16T11:22:45.603Z"
+    },
+    "id": "com.tazkan.popcornsort",
+    "title": "Popcorn Sort",
+    "subtitle": "Sort colorful popcorn, serve customers, and complete fun puzzle levels!",
+    "description": "Sort colorful popcorn, serve customers, and complete fun puzzle levels!",
+    "overviewEn": "Sort colorful popcorn, serve customers, and complete fun puzzle levels!",
+    "genre": "Hypercasual",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "Sorting"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "Sorting",
+        "excerpt": "Sort",
+        "basis": "Official developer gameplay text"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Tazkan Games",
+    "ads": true,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.tazkan.popcornsort&hl=en&gl=US",
+    "fetchedAt": "2026-10-16T11:22:45.603Z",
+    "sourceDate": "2026-10-16",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-06-30",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Jun 30, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.tazkan.popcornsort&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/oHulvmRNC-A3eU4vI7edLoqhFGErtAdb5n0bUJ9eDAIG81cSnHC7W9wKGLdqfIs7xfYTbMuatubvsDU6xyUbFBw",
+    "categories": [
+      "hypercasual"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "hypercasual",
+        "excerpt": "hypercasual",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 100,
+    "installEvidence": {
+      "minInstalls": 100,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.tazkan.snakejam3d&hl=en&gl=US",
+      "fetchedAt": "2026-10-16T11:22:46.763Z"
+    },
+    "id": "com.tazkan.snakejam3d",
+    "title": "Snake Jam 3D : Puzzle Game",
+    "subtitle": "Guide color snakes into matching holes. Solve smart 3D jam puzzles",
+    "description": "Guide color snakes into matching holes. Solve smart 3D jam puzzles",
+    "overviewEn": "Guide color snakes into matching holes. Solve smart 3D jam puzzles",
+    "genre": "Hypercasual",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Tazkan Games",
+    "ads": true,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.tazkan.snakejam3d&hl=en&gl=US",
+    "fetchedAt": "2026-10-16T11:22:46.763Z",
+    "sourceDate": "2026-10-16",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-06-20",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Jun 20, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.tazkan.snakejam3d&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/WPeFjfjAFFRe4Ht26vfxQauZx6XQzFNVUuogzUug7q3GHgNWG-1sU9q6ylFP3RpcFHkBNn1QJXD8HGqcyLkTMYU",
+    "categories": [
+      "hypercasual"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "hypercasual",
+        "excerpt": "hyper-casual",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 100,
+    "installEvidence": {
+      "minInstalls": 100,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.tazkan.rocketfactory&hl=en&gl=US",
+      "fetchedAt": "2026-10-16T11:22:47.165Z"
+    },
+    "id": "com.tazkan.rocketfactory",
+    "title": "Rocket Factory",
+    "subtitle": "Build rocket parts, assemble rockets factory and launch them into space.",
+    "description": "Build rocket parts, assemble rockets factory and launch them into space.",
+    "overviewEn": "Build rocket parts, assemble rockets factory and launch them into space.",
+    "genre": "Hypercasual",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Tazkan Games",
+    "ads": true,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.tazkan.rocketfactory&hl=en&gl=US",
+    "fetchedAt": "2026-10-16T11:22:47.165Z",
+    "sourceDate": "2026-10-16",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-06-17",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Jun 17, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.tazkan.rocketfactory&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/JswTc-KGfI7oMG7dS-zWbwq4MVOXszyu8YEiAtoZiR8C4xlpwbLtuhjupapbAvgwB5L8kkB-sPlsWIihLJ1U",
+    "categories": [
+      "hypercasual"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "hypercasual",
+        "excerpt": "hyper-casual",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 10000,
+    "installEvidence": {
+      "minInstalls": 10000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.thread.loop&hl=en&gl=US",
+      "fetchedAt": "2026-10-16T11:23:22.582Z"
+    },
+    "id": "com.thread.loop",
+    "title": "Thread Loop",
+    "subtitle": "The colorful sorting puzzle",
+    "description": "The colorful sorting puzzle",
+    "overviewEn": "The colorful sorting puzzle",
+    "genre": "Hypercasual",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "In-app purchases",
+      "Sorting"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      },
+      {
+        "tag": "Sorting",
+        "excerpt": "sorting",
+        "basis": "Official developer gameplay text"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "AISolutionSmart",
+    "ads": true,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.thread.loop&hl=en&gl=US",
+    "fetchedAt": "2026-10-16T11:23:22.582Z",
+    "sourceDate": "2026-10-16",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-05-07",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "May 7, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.thread.loop&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/iv0yh_YWDm4n9QmuWglp2EqXw4IxjaZg0-MobaoSz_YkVWCTtLSbaWH0228W1VCHW6ITJWtXtMVs2KDyg8gE1Mg",
+    "categories": [
+      "hypercasual"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "hypercasual",
+        "excerpt": "hyper-casual",
+        "basis": "Official developer gameplay text"
+      }
+    ]
   }
 ]
