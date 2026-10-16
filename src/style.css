@@ -80,3 +80,5 @@
 .screenshot-limit{margin:0;padding:10px 20px;font-size:13.2px;color:#64755d;background:#f3f6ee}
 
 .gallery-prev,.gallery-next{background:#30483d;border:1px solid #8ba296;color:#fff;width:48px;height:48px;cursor:pointer}.gallery-prev:hover,.gallery-next:hover{background:#486454;color:#fff}.gallery-chevron{display:block;width:13px;height:13px;border-top:3px solid currentColor;border-right:3px solid currentColor;pointer-events:none}.gallery-chevron-left{transform:rotate(-135deg);margin-left:5px}.gallery-chevron-right{transform:rotate(45deg);margin-right:5px}
+/* Keep rating and download controls compact within the filter sidebar. */
+.metric-filters{gap:8px;padding:12px 0;font-size:13px;line-height:1.45}.metric-filters h3{font-size:12px;line-height:1.4;margin:0 0 2px}.metric-filters label{font-size:13px;white-space:nowrap;justify-content:flex-start}.metric-filters select{flex:1;min-width:0;font-size:12px;padding:6px}.metric-filters input[type=number]{font-size:13px;padding:7px}.metric-filters small{font-size:11px}
