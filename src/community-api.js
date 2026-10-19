@@ -24,6 +24,7 @@ export function communityClient({url,key},fetcher=fetch){
   membership:token=>request('/rest/v1/community_moderators?select=user_id',{},token),
   pending:token=>request('/rest/v1/community_messages?select=*&status=eq.pending&order=created_at.asc&limit=100',{},token),
   moderate:(id,status,token)=>{if(!['approved','rejected'].includes(status))throw Error('invalid');return request('/rest/v1/community_messages?id=eq.'+encodeURIComponent(id),{method:'PATCH',body:JSON.stringify({status}),headers:{Prefer:'return=representation'}},token);},
+  usageSummary:(days,token)=>request('/rest/v1/rpc/usage_summary',{method:'POST',body:JSON.stringify({p_days:days})},token),
   logout:token=>request('/auth/v1/logout',{method:'POST'},token)
  };
 }
