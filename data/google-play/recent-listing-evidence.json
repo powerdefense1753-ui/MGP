@@ -472,6 +472,49 @@
     "url": "https://play.google.com/store/apps/details?id=com.corepuzzle.game&hl=en&gl=US",
     "fetchedAt": "2026-10-12T08:53:24.070Z"
   },
+  "com.QuanticBit.OutOfTurn": {
+    "appId": "com.QuanticBit.OutOfTurn",
+    "title": "Out of Turn: Roguelike",
+    "summary": "A turn-based card roguelike where you bend the turn order.",
+    "installs": "0+",
+    "minInstalls": 0,
+    "score": null,
+    "ratings": null,
+    "price": 0.05,
+    "free": false,
+    "currency": "USD",
+    "priceText": "$0.05",
+    "offersIAP": false,
+    "adSupported": false,
+    "developer": "Quantic Bit",
+    "developerId": "7659489793755917149",
+    "developerInternalID": "7659489793755917149",
+    "genre": "Strategy",
+    "genreId": "GAME_STRATEGY",
+    "categories": [
+      {
+        "name": "Strategy",
+        "id": "GAME_STRATEGY"
+      }
+    ],
+    "icon": "https://play-lh.googleusercontent.com/o-XJKCHClvRuj_o6TkZLjDn0LC8RHmthxIxBbihOUqk4DJIBbEwzAI6C37ayvCurVlDtggbWp4jmfn84DR3n9A",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/IZP-aFE5q_JOkmdVi_ptbTFwcgnWMLLBriDS12lhEjfJvPctMV9VsCZ2n8c-6dYvRZRQJUBrpiMlOuY_Yto6gRI",
+      "https://play-lh.googleusercontent.com/6zkOD3Tlha9uOueFZBhHYs14L9fX2VJ2esOhAUHi_xfPrGDt6bqaBUMz3VXtC--MRONgAUQ-PSaZSdjRQJZEjQ",
+      "https://play-lh.googleusercontent.com/oYo42vsvew5OxHfJiFwCVz7A93T-BnMzkrcskjSdMmwerJVe3spo5jKeGWUH-_3iV563X7B6uUJ2WPe9UHUS",
+      "https://play-lh.googleusercontent.com/viGiJrqcGYN3pJS7lO0SPV3cMyuWsh3BilpnD6r2IIjV00oa5SpKfQuV23yB-iYbvpeh5NraiNAxbScjTikoew",
+      "https://play-lh.googleusercontent.com/QcUsIOOzerkg0tBkIwJKTTEBS6e7EGc6XkU56e7i8M_N_VuEov3fbTTYsItCV9DbkQ6PeXGy9tQL2jLoX4cWpw",
+      "https://play-lh.googleusercontent.com/HSJaRFNH3uMyGng2qG7dgNnmyRyLY4IhSHuEdslOzbpFWiIqk7dhDOcaiZbb51c8SBzDTTmVrWfZh8W3_gd0qg",
+      "https://play-lh.googleusercontent.com/R1gkkz5mcqy9zSNyeDWCspCYYgZ9f5tnN9odl38sgWLGae5ZfAxify08MMmXPMIGT0TK3Mf92HsM6MAG5t2lFTQ",
+      "https://play-lh.googleusercontent.com/x9n7C_oSyn1CP0yvztkIk6TIpqFIGHdkwgjrI810b4R01x9XPcj3sDsmyUlBNeTLfLaHGy62LiA1WHbVolKl"
+    ],
+    "released": "Oct 6, 2026",
+    "updated": 1791299357000,
+    "preregister": false,
+    "earlyAccessEnabled": false,
+    "url": "https://play.google.com/store/apps/details?id=com.QuanticBit.OutOfTurn&hl=en&gl=US",
+    "fetchedAt": "2026-10-19T05:38:28.684Z"
+  },
   "com.space.quest": {
     "appId": "com.space.quest",
     "title": "Space Quest: idle RPG",
@@ -3988,6 +4031,53 @@
     "earlyAccessEnabled": false,
     "url": "https://play.google.com/store/apps/details?id=com.coffeeinside.onetower&hl=en&gl=US",
     "fetchedAt": "2026-10-19T02:34:18.685Z"
+  },
+  "com.heartcore.drawbusters": {
+    "appId": "com.heartcore.drawbusters",
+    "title": "Draw Busters",
+    "summary": "Draw flight paths, dominate air combat strategy PvP battles!",
+    "installs": "100+",
+    "minInstalls": 100,
+    "score": null,
+    "ratings": null,
+    "price": 0,
+    "free": true,
+    "currency": "USD",
+    "priceText": "Free",
+    "offersIAP": false,
+    "adSupported": false,
+    "developer": "Spirit Bomb - Heartcore Games",
+    "developerId": "5149128342327483848",
+    "developerInternalID": "5149128342327483848",
+    "genre": "Strategy",
+    "genreId": "GAME_STRATEGY",
+    "categories": [
+      {
+        "name": "Strategy",
+        "id": "GAME_STRATEGY"
+      }
+    ],
+    "icon": "https://play-lh.googleusercontent.com/Tn37OFTKJyCDbndVncczVo765VdNgN8u9myvHrRlephUC-JdMDLb-IpcGB2NteqnhU6h3kWNjY2ga5fgAEhI",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/GlAVlcgFj60MwHHCr8aBvWqOn4pLBukYjqW8lKH1S2X9-xrfB-Ni_bQ5-iPdN9ZVX9OZp1R2OLmj9_Ot9Fo4TQ",
+      "https://play-lh.googleusercontent.com/1B-uUAABragEbtNUh7-O7BIbYJ_XDD9wqV6Ky94R9TTi6yTIbzw4sGW0bKBDbuwjOKFJa2t0Pc174xxPaJpHqg",
+      "https://play-lh.googleusercontent.com/7M22afOTdrU2eUunMVqXk3oq2gX2CgX8juhJN_HT9rgI5tmrlvyyhGUlBXHmlH5BaqADqOXSuCtLcULkgnY-zg",
+      "https://play-lh.googleusercontent.com/YND9mg9S1zmiYqKJHJBZsajQasPGJMtJInwRDgBTw3ouz4_akINCJoryBAGNBAuPsviXILtoBC2qAEmbEAKdeQ",
+      "https://play-lh.googleusercontent.com/GlAVlcgFj60MwHHCr8aBvWqOn4pLBukYjqW8lKH1S2X9-xrfB-Ni_bQ5-iPdN9ZVX9OZp1R2OLmj9_Ot9Fo4TQ",
+      "https://play-lh.googleusercontent.com/1B-uUAABragEbtNUh7-O7BIbYJ_XDD9wqV6Ky94R9TTi6yTIbzw4sGW0bKBDbuwjOKFJa2t0Pc174xxPaJpHqg",
+      "https://play-lh.googleusercontent.com/7M22afOTdrU2eUunMVqXk3oq2gX2CgX8juhJN_HT9rgI5tmrlvyyhGUlBXHmlH5BaqADqOXSuCtLcULkgnY-zg",
+      "https://play-lh.googleusercontent.com/YND9mg9S1zmiYqKJHJBZsajQasPGJMtJInwRDgBTw3ouz4_akINCJoryBAGNBAuPsviXILtoBC2qAEmbEAKdeQ",
+      "https://play-lh.googleusercontent.com/GlAVlcgFj60MwHHCr8aBvWqOn4pLBukYjqW8lKH1S2X9-xrfB-Ni_bQ5-iPdN9ZVX9OZp1R2OLmj9_Ot9Fo4TQ",
+      "https://play-lh.googleusercontent.com/1B-uUAABragEbtNUh7-O7BIbYJ_XDD9wqV6Ky94R9TTi6yTIbzw4sGW0bKBDbuwjOKFJa2t0Pc174xxPaJpHqg",
+      "https://play-lh.googleusercontent.com/7M22afOTdrU2eUunMVqXk3oq2gX2CgX8juhJN_HT9rgI5tmrlvyyhGUlBXHmlH5BaqADqOXSuCtLcULkgnY-zg",
+      "https://play-lh.googleusercontent.com/YND9mg9S1zmiYqKJHJBZsajQasPGJMtJInwRDgBTw3ouz4_akINCJoryBAGNBAuPsviXILtoBC2qAEmbEAKdeQ"
+    ],
+    "released": "Sep 11, 2026",
+    "updated": 1789130938000,
+    "preregister": false,
+    "earlyAccessEnabled": false,
+    "url": "https://play.google.com/store/apps/details?id=com.heartcore.drawbusters&hl=en&gl=US",
+    "fetchedAt": "2026-10-19T05:23:02.185Z"
   },
   "swarmfever.tower.game.freetato": {
     "appId": "swarmfever.tower.game.freetato",
@@ -10036,6 +10126,48 @@
     "url": "https://play.google.com/store/apps/details?id=com.sh.police.chase.cop.car.driving&hl=en&gl=US",
     "fetchedAt": "2026-10-12T08:23:58.191Z"
   },
+  "com.larks.x11.gplay": {
+    "appId": "com.larks.x11.gplay",
+    "title": "Snowy Survivor",
+    "summary": "In a frozen wasteland, build shelter and fight off brutal raiders",
+    "installs": "10,000+",
+    "minInstalls": 10000,
+    "score": 2.6285715,
+    "ratings": 35,
+    "price": 0,
+    "free": true,
+    "currency": "USD",
+    "priceText": "Free",
+    "offersIAP": true,
+    "adSupported": false,
+    "developer": "Larks Holding Limited",
+    "developerId": "Larks+Holding+Limited",
+    "developerInternalID": "Larks+Holding+Limited",
+    "genre": "Strategy",
+    "genreId": "GAME_STRATEGY",
+    "categories": [
+      {
+        "name": "Strategy",
+        "id": "GAME_STRATEGY"
+      }
+    ],
+    "icon": "https://play-lh.googleusercontent.com/QPQLlfD5Du3jpBtsXsbacn5P3PID5v58uVBQw2mQu0bCzy-L7JZXLuFq1pJN27AfMp6zrWMjvZAORvMsvumb",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/rDVDs8tZLDiC5JRT3FrdoQrKxuHl_KP-Ri7uY36uV3NlX_DeUAEHW7uJc2i4Raor4weEMCQYXG_BNCyxADN19Q",
+      "https://play-lh.googleusercontent.com/atvlQXmVlPzFPLfIqcLmoP9-b2CokixywLXLTAXTjBelTBIyg5-gDcRpKMaOUtT4Sv7bipe99rfRfNf2KpKo",
+      "https://play-lh.googleusercontent.com/JKU6rp2CmPhEBYWqSyRTmXjWgljFMgz6RRkuv7HlPKsjC5bXiXebXUDmQhTzgOd2FT81v6DLDDP4CW3UqsjVsg",
+      "https://play-lh.googleusercontent.com/5ZcuH58lUxthWFOW6C7W8P1GTI_x7zi92rb_fiTkZqDPlfBgOJmybIQtwj76ev6iEqLFwdMxGoQCD0sP8J5z",
+      "https://play-lh.googleusercontent.com/4yge-DTFgnGgorhM3OmME-L6f0RB8I4c_f_lT2C4Iw-scSVo5ggI9DJhyfulEJecD2TROXBFy4AL9vm7N_gb9Q",
+      "https://play-lh.googleusercontent.com/dHpbBs7XLm6UjwWH5gyouXjD45boJjgN2flQgvgKzSgr5gnqynShMqww-gg-PYYTjuI5dJoj8f9aaBynXOsm",
+      "https://play-lh.googleusercontent.com/d-PURaiDeKivR7rGRVze80tkkQfFgT8ir5Fm_eP5zChcgZsSsY64gK41MuiTvbHg6FJi-7EYAZS0LejXPO6euA"
+    ],
+    "released": "Jul 20, 2026",
+    "updated": 1789718177000,
+    "preregister": false,
+    "earlyAccessEnabled": false,
+    "url": "https://play.google.com/store/apps/details?id=com.larks.x11.gplay&hl=en&gl=US",
+    "fetchedAt": "2026-10-19T05:38:03.197Z"
+  },
   "com.whaleplays.summonlord": {
     "appId": "com.whaleplays.summonlord",
     "title": "Summon Lord",
@@ -13251,6 +13383,47 @@
     "url": "https://play.google.com/store/apps/details?id=com.pandorio.foresttd&hl=en&gl=US",
     "fetchedAt": "2026-10-13T04:55:50.047Z"
   },
+  "com.forjaiapps.jogodopedreiro": {
+    "appId": "com.forjaiapps.jogodopedreiro",
+    "title": "Jogo do Pedreiro",
+    "summary": "The Bricklayer Game is based on strategy, puzzles, and logic.",
+    "installs": "0+",
+    "minInstalls": 0,
+    "score": null,
+    "ratings": null,
+    "price": 0.49,
+    "free": false,
+    "currency": "USD",
+    "priceText": "$0.49",
+    "offersIAP": false,
+    "adSupported": false,
+    "developer": "Ziga Sistemas",
+    "developerId": "7550300307515144592",
+    "developerInternalID": "7550300307515144592",
+    "genre": "Strategy",
+    "genreId": "GAME_STRATEGY",
+    "categories": [
+      {
+        "name": "Strategy",
+        "id": "GAME_STRATEGY"
+      }
+    ],
+    "icon": "https://play-lh.googleusercontent.com/KnpHSOydhOHJJkhtbfbLVe54qeoDoGLVFgGSjiYxLW8w5CGO5tPzdTV6jCgcuYuDS4HzVHlPQvYLR8KiFAIf",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/ye5LSO33nYSpWLlfys6e_SuvqU5iZvuqI_JX2qpDYQVOY3MwoED7hG6Ev1g6Hc8iIxe79M-3TheXWT2PF-lrvw",
+      "https://play-lh.googleusercontent.com/naMMkAdjC095ilHC4ME4KpOov_sCBObPiKoLpvdH5YlyNU2YdvtXM7ZPT70zIec-V2RwIcDJNWfSPLVR2F949JI",
+      "https://play-lh.googleusercontent.com/crQ2Prjgil2lVcMFJWyGMsquayzBoxnksx7xjVW3i6qV-PqX7QxFtmResRkg3liOLacAhZljszoXppRwVtH2Sw",
+      "https://play-lh.googleusercontent.com/yMNd1NPL9LkSDwIG-UhBHUQvrqeASkaAG4UxXlz0W-AtHSuJA8AQ8YPLyPkuFpQHCYFxFqrz2Ef0nlzc0CK3MA",
+      "https://play-lh.googleusercontent.com/QVrG1NPAbY7ztG5c_qhEtRi-jjsqf3lwdzVczGnYO4GnE2xfd8a2-wfJyxGZWJoVVfEmqjaBTsci0VexNO6urTE",
+      "https://play-lh.googleusercontent.com/LvlRdyir_u4OKQMcNQXzVNq-hBeNsf-uxNwyYRTW9V5gvooFSV5NXoNWR1W3MZmR4S8aCdrGJT1kpllOcxGz6A"
+    ],
+    "released": "Jun 18, 2026",
+    "updated": 1782046519000,
+    "preregister": false,
+    "earlyAccessEnabled": false,
+    "url": "https://play.google.com/store/apps/details?id=com.forjaiapps.jogodopedreiro&hl=en&gl=US",
+    "fetchedAt": "2026-10-19T05:24:07.421Z"
+  },
   "merge.battle.arena.magnus": {
     "appId": "merge.battle.arena.magnus",
     "title": "Magnus: Merge Arena PvP Battle",
@@ -13624,6 +13797,47 @@
     "earlyAccessEnabled": false,
     "url": "https://play.google.com/store/apps/details?id=com.TeamSparta.MadDefense&hl=en&gl=US",
     "fetchedAt": "2026-10-12T07:44:56.101Z"
+  },
+  "com.a3.tavernlegendmj1.googleplay": {
+    "appId": "com.a3.tavernlegendmj1.googleplay",
+    "title": "Last Siren: Tavern Rise",
+    "summary": "\"Last Siren: Tavern Rise\" is a game you run a tavern with many beautiful women",
+    "installs": "1,000+",
+    "minInstalls": 1000,
+    "score": 4.282051,
+    "ratings": 88,
+    "price": 0,
+    "free": true,
+    "currency": "USD",
+    "priceText": "Free",
+    "offersIAP": true,
+    "adSupported": false,
+    "developer": "Larks Holding Limited",
+    "developerId": "Larks+Holding+Limited",
+    "developerInternalID": "Larks+Holding+Limited",
+    "genre": "Strategy",
+    "genreId": "GAME_STRATEGY",
+    "categories": [
+      {
+        "name": "Strategy",
+        "id": "GAME_STRATEGY"
+      }
+    ],
+    "icon": "https://play-lh.googleusercontent.com/ye5hYczGcgKU87P8rReDZeLRhQU_H2CZzpengosdLQZh7aHhSk1YsxySQM5w20TAk0xzhIAEkGpZumGB8FrVnw",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/68BNKdX28BUseoYkL060j0fjJgTusMRL_s_HdrTTw5ZvaeJUUjM50TxS9q38LPxwMsQt5xwh93dImvNJbhLLXw",
+      "https://play-lh.googleusercontent.com/JHwb-A_tUySLsz_KXv3QMpeGDtka14VRybe8OJcHYaDxiiwe9oQsCuCehsJedpVDBnMTGglH1JhVIq6s5thY",
+      "https://play-lh.googleusercontent.com/yUHbJnx3sciSml1get2j63INHvy85dqf5An43R91r4W9cZHGWSmZRXpvU2BbwWCGQd9qfyK3PisaEUyMjSrN6xc",
+      "https://play-lh.googleusercontent.com/nWQ0AWv6UrPBK2qOeHp0Rka5T883FgP-y_vC4x_EN06ugjtoOp3JGMN_UmldlSlBg5DOh58U149azCD9WaBtXw",
+      "https://play-lh.googleusercontent.com/SGn2aJR4OCIvLz-O0EJ0b4IqhTWmCVeYZuKEBmhY6G-iZfVU3SmHtdY2y9gW3CJpNm3oevOKwu9PjBQOHrlGXg",
+      "https://play-lh.googleusercontent.com/xJM5MufDnIQj1ebeyKX-fpJxxM-BkJDopDgwa6wNz9alwco1XN7xQKDkkyts6vBqyRNjauk5ffGiBOALpFSmGQ"
+    ],
+    "released": "Jun 15, 2026",
+    "updated": 1783079926000,
+    "preregister": false,
+    "earlyAccessEnabled": false,
+    "url": "https://play.google.com/store/apps/details?id=com.a3.tavernlegendmj1.googleplay&hl=en&gl=US",
+    "fetchedAt": "2026-10-19T05:38:03.193Z"
   },
   "com.blindsidedgames.pulsecitadel": {
     "appId": "com.blindsidedgames.pulsecitadel",
@@ -22965,6 +23179,49 @@
     "url": "https://play.google.com/store/apps/details?id=com.neutrinogamingstudios.galacticconquest&hl=en&gl=US",
     "fetchedAt": "2026-10-13T10:05:36.079Z"
   },
+  "com.starship.sector": {
+    "appId": "com.starship.sector",
+    "title": "Starship Sector: Void War",
+    "summary": "Command your fleet, outsmart the AI, and conquer the sector in this tactical sim",
+    "installs": "50+",
+    "minInstalls": 50,
+    "score": null,
+    "ratings": null,
+    "price": 0,
+    "free": true,
+    "currency": "USD",
+    "priceText": "Free",
+    "offersIAP": true,
+    "adSupported": false,
+    "developer": "WhatItIs Android Apps",
+    "developerId": "7965087501872970413",
+    "developerInternalID": "7965087501872970413",
+    "genre": "Strategy",
+    "genreId": "GAME_STRATEGY",
+    "categories": [
+      {
+        "name": "Strategy",
+        "id": "GAME_STRATEGY"
+      }
+    ],
+    "icon": "https://play-lh.googleusercontent.com/Yz2xvh2erBF8kufRDytzqORW2WcgE_21z2UCMXl5EmORENCUDifaOK-Yep3Wwi-McIAqkRrcMODUWRdSWo-NJRg",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/fUVXNtp2OHjWldw7Kwnci3mQg37H3ijbf-3TEne1gAfaiCRFyoFPu2rYxfU6d9DQEYtTcd2DrFnMZCgN7XCqww",
+      "https://play-lh.googleusercontent.com/HddvxbRKtm0TwLiMOA-wqO2jVI9sQ8ysqX3C5KeNGxAGBIBN6B3iJrDlsWy0_zsC3o3918egoT2YQbe1eVl7kA",
+      "https://play-lh.googleusercontent.com/YF3SahBBVCgEMlFTHF0GJ3mKJS-DIQ0DR9q72JYDWguIxRx2_dJkcHybUGb3ZvkXp1Lbtc8GfMyJbfRmCe5u",
+      "https://play-lh.googleusercontent.com/a-n-ymiP04Z_nYE1lxLu9F1SKKJQ7z-sQr9zJ0EFf1ktdHtYYclahsBsHVN--t1E4f40usI3IBHMaZmyr0LQSw",
+      "https://play-lh.googleusercontent.com/K6rO7gblXGdSIdWbYIoq2sfGmdcXY2J7FdPMhlY-VauwHHDbNNr92S8UhxTUMOg828OTDgBe-R5TLORbKIzL24k",
+      "https://play-lh.googleusercontent.com/7VnyY7PUhCeh7eSCbmmYb34k_Yvb5YC6UkeFgvx3pIjFgnfICXOoVs18cLRUsceoo0vI4xPEHKVFNjVGBIVCoPk",
+      "https://play-lh.googleusercontent.com/MIJVWLcw-jzfarmUtrfnkebPFa2oA-l2dY3ScxEGuimX_pjbXKEHeA9ef5HuJTLT__z5vUN-bTWFxPjLIYI8gA",
+      "https://play-lh.googleusercontent.com/_YzWvtJwLkuZ1j4Fd3nUek_NLLIFqFiaAvV_F_-Avf_46SQOos4xgKcxcY9mwLboArSaXImIw72s4SwWfYX9TjE"
+    ],
+    "released": "Mar 7, 2026",
+    "updated": 1773113989000,
+    "preregister": false,
+    "earlyAccessEnabled": false,
+    "url": "https://play.google.com/store/apps/details?id=com.starship.sector&hl=en&gl=US",
+    "fetchedAt": "2026-10-19T05:24:04.090Z"
+  },
   "com.castlecannonade.game": {
     "appId": "com.castlecannonade.game",
     "title": "Castle Cannonade",
@@ -23264,6 +23521,46 @@
     "earlyAccessEnabled": false,
     "url": "https://play.google.com/store/apps/details?id=ar.com.formanek.squarewars.free&hl=en&gl=US",
     "fetchedAt": "2026-10-12T10:27:55.463Z"
+  },
+  "com.larks.bw2.googleplay": {
+    "appId": "com.larks.bw2.googleplay",
+    "title": "Silent Shield: Survival",
+    "summary": "Silent Shield: Survival is a war and survival game set on an alien planet.",
+    "installs": "10,000+",
+    "minInstalls": 10000,
+    "score": 2.12,
+    "ratings": 26,
+    "price": 0,
+    "free": true,
+    "currency": "USD",
+    "priceText": "Free",
+    "offersIAP": true,
+    "adSupported": false,
+    "developer": "Larks Holding Limited",
+    "developerId": "Larks+Holding+Limited",
+    "developerInternalID": "Larks+Holding+Limited",
+    "genre": "Strategy",
+    "genreId": "GAME_STRATEGY",
+    "categories": [
+      {
+        "name": "Strategy",
+        "id": "GAME_STRATEGY"
+      }
+    ],
+    "icon": "https://play-lh.googleusercontent.com/8eUPXZ93UtKWOxVhr36LHCWTCwFofhh5yYNZ8VxXTZDkuIqCgn7YQ6GqHs0ARCf1HNfnb-Cl1LzRhR2S8GIi-4Q",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/ucNOuFcbg1Rt_xB5Xe7LJ0CVUzKSAaod0el_xwuozz4sugT3C-8qG9qqkrWhYYbdwuVFaGuf3FWp82ew8gjq",
+      "https://play-lh.googleusercontent.com/fnZDSg8IWJ9CP36BSe78Ga4s_Ub7g5lhKlaLbbkTrs_Yf1hlrBw62TbV55WPucm-pAGep0z4wp0ui4euPtdscw",
+      "https://play-lh.googleusercontent.com/6_esdu1i1tVxpZJ5tLPBgj2eevpYeK5xW8uOmf3OQC9IAGamVUtZAwiRDSuF8V6pOVhoVdIu5QvNr1XCOXVqgA",
+      "https://play-lh.googleusercontent.com/Y7jbxOFKVu225RJLKVMNF392xyikK-aXmDCVEaDf6bp8eIU2EN_baVqzXP64DBPg5vc2dwO_57QkSp9QtYDk",
+      "https://play-lh.googleusercontent.com/uDXQXQM960rQZ3oL3JMWq_6n_5v1QvrkhD1fERBIoKeVCP-mZKecF4nEii0nh2Zr-v1z7xcu97GNVcn5s5LqUUs"
+    ],
+    "released": "Mar 4, 2026",
+    "updated": 1775111964000,
+    "preregister": false,
+    "earlyAccessEnabled": false,
+    "url": "https://play.google.com/store/apps/details?id=com.larks.bw2.googleplay&hl=en&gl=US",
+    "fetchedAt": "2026-10-19T05:38:08.087Z"
   },
   "com.cparjun34.turn": {
     "appId": "com.cparjun34.turn",
@@ -44955,6 +45252,46 @@
     "url": "https://play.google.com/store/apps/details?id=com.oxiwyle.premium20century2&hl=en&gl=US",
     "fetchedAt": "2026-10-12T08:10:51.812Z"
   },
+  "com.larks.x6.gplay": {
+    "appId": "com.larks.x6.gplay",
+    "title": "Uninvited Guest: The Knocking",
+    "summary": "The Deceptive Silence: Someone is at the door.",
+    "installs": "10,000+",
+    "minInstalls": 10000,
+    "score": 2.2673268,
+    "ratings": 132,
+    "price": 0,
+    "free": true,
+    "currency": "USD",
+    "priceText": "Free",
+    "offersIAP": true,
+    "adSupported": false,
+    "developer": "Larks Holding Limited",
+    "developerId": "Larks+Holding+Limited",
+    "developerInternalID": "Larks+Holding+Limited",
+    "genre": "Strategy",
+    "genreId": "GAME_STRATEGY",
+    "categories": [
+      {
+        "name": "Strategy",
+        "id": "GAME_STRATEGY"
+      }
+    ],
+    "icon": "https://play-lh.googleusercontent.com/wLT9yUoYhZbURVf9EN9VtU7qm0m3shkrI4FgYLOhGWP9cmpuEIZdvrRavRXgoInPkVOAX9QTNf0zr4OYwUH3mw",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/CrQVlXn5V1_2ebW6SOUzDwtEhWXOZXThyu8kj64ZjG44BVMeNfCg2EEhL7aKDMlR2fJovyzsTliY3iyL8p7C7w",
+      "https://play-lh.googleusercontent.com/NCl2KwrMTs1sTv1WRHrz-gQbmELenrtCXwcrWCVPIi7x-bvmQ5mEIrCYCci34dq5jmlawqfw0Yg3qSZ_rmcaoA",
+      "https://play-lh.googleusercontent.com/mfamyFmzs3PEglGaoZ0fjyCArpD_IZfUnrluzcZH0mXL2vPVVjOoIh6CMYx9s5LKnS5IziQlGEzenFhEPVWIMqk",
+      "https://play-lh.googleusercontent.com/HI_8-e1HqFAXr8kG1cLBXhZPLrZWgrsY6vnw6fktH2iWHsCidWfDa__aA0PEfjZP49A-KjnjZIjbZ_eS3FAjiw",
+      "https://play-lh.googleusercontent.com/YDa1dZ6YLHBGIqA00sibB8Ovj-br7iCMPKPdQdO0qBQUtYJpvwhHNm-R6f_27_6Vy6voov3CN33bfbrxkF2H"
+    ],
+    "released": "Feb 23, 2025",
+    "updated": 1776904120000,
+    "preregister": false,
+    "earlyAccessEnabled": false,
+    "url": "https://play.google.com/store/apps/details?id=com.larks.x6.gplay&hl=en&gl=US",
+    "fetchedAt": "2026-10-19T05:38:06.470Z"
+  },
   "idle.world.war.dictators": {
     "appId": "idle.world.war.dictators",
     "title": "Country Balls: State Takeover",
@@ -46675,6 +47012,46 @@
     "earlyAccessEnabled": false,
     "url": "https://play.google.com/store/apps/details?id=com.CrazySeven.MergeWeapon&hl=en&gl=US",
     "fetchedAt": "2026-10-13T02:25:52.196Z"
+  },
+  "com.abi.tap.block.out": {
+    "appId": "com.abi.tap.block.out",
+    "title": "Tap Block Out",
+    "summary": "Let's challenge. Tap block out, clear level, and enjoy unpuzzle blocks game.",
+    "installs": "100,000+",
+    "minInstalls": 100000,
+    "score": 4.5707316,
+    "ratings": 6624,
+    "price": 0,
+    "free": true,
+    "currency": "USD",
+    "priceText": "Free",
+    "offersIAP": true,
+    "adSupported": true,
+    "developer": "ABI GAMES PTE. LTD.",
+    "developerId": "ABI+GAMES+PTE.+LTD.",
+    "developerInternalID": "ABI+GAMES+PTE.+LTD.",
+    "genre": "Strategy",
+    "genreId": "GAME_STRATEGY",
+    "categories": [
+      {
+        "name": "Strategy",
+        "id": "GAME_STRATEGY"
+      }
+    ],
+    "icon": "https://play-lh.googleusercontent.com/Adik39tm1em4HTfOaIgWD4O1NTTXXY3w8diuWTXEHneSRiCcm2pstMYTqmBL7-f_rZ8XSMyY9Cn4jjtGaMds",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/3__L9JjsESBMdWo03KQFoVruMSjPUuryu6P0hHaVWVquD-1oCY1seOIAxBkrGNqkLSIhoRdtzAQsL9hSpCHO4w",
+      "https://play-lh.googleusercontent.com/UH-IyFo4znSvMtG81WWPTDEk1mewin97dHQF_-RIrvUtgsnj_zBCc4VSj5bbvuBBkpGrvFw_31iQRx_QkGhnhA",
+      "https://play-lh.googleusercontent.com/yEJR109uJ7cg9v86MQmvQf4UTeNHGzYeXiQcT33lk0F0VR0NhtCEf5Mx-8r0yDx7tj1P0Ipz2omTaoCdq-FL3w",
+      "https://play-lh.googleusercontent.com/v9zPOx42v9v3WBmPkat3gUCJpfMj-0e3P1pFCTojq3pb0PaqqcR3DI1JnLtp5nYxAII8_vE1PDffHjz-dcRO",
+      "https://play-lh.googleusercontent.com/hBgMU7Z2O8h4dTPJEumFmyRiZs2bsoQWNILBKNh4r8ZuauLNQ0rmLPdVHWbXMBZqmWIkLYC_AEJ2vJDZyjmqHBk"
+    ],
+    "released": "Jan 14, 2025",
+    "updated": 1769678926000,
+    "preregister": false,
+    "earlyAccessEnabled": false,
+    "url": "https://play.google.com/store/apps/details?id=com.abi.tap.block.out&hl=en&gl=US",
+    "fetchedAt": "2026-10-19T05:23:27.843Z"
   },
   "com.ig.cannon.heroes": {
     "appId": "com.ig.cannon.heroes",

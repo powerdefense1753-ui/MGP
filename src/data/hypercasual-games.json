@@ -2928,5 +2928,607 @@
         "basis": "Official developer gameplay text"
       }
     ]
+  },
+  {
+    "minInstalls": 500,
+    "installEvidence": {
+      "minInstalls": 500,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.allvarity.piratecannon&hl=en&gl=US",
+      "fetchedAt": "2026-10-19T03:53:14.801Z"
+    },
+    "id": "com.allvarity.piratecannon",
+    "title": "Pirate Cannon: Ball Blast",
+    "subtitle": "Hyper Casual Cannon Shooting Game with a nice pirate theme",
+    "description": "Hyper Casual Cannon Shooting Game with a nice pirate theme",
+    "overviewEn": "Hyper Casual Cannon Shooting Game with a nice pirate theme",
+    "genre": "Hypercasual",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "In-app purchases",
+      "+ Exploration"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      },
+      {
+        "tag": "+ Exploration",
+        "excerpt": "Explore Exotic Islands: Journey through a world",
+        "basis": "Official developer gameplay text"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "AllVarity Studio",
+    "ads": true,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.allvarity.piratecannon&hl=en&gl=US",
+    "fetchedAt": "2026-10-19T03:53:14.801Z",
+    "sourceDate": "2026-10-19",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2025-10-31",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Oct 31, 2025",
+      "url": "https://play.google.com/store/apps/details?id=com.allvarity.piratecannon&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/LksfPcoVRnjZ3on39EF0wYtjK5ro7wv50RVXmorecRkrAZqetFzAz_FiWsCPIkDPOi6R7ZbIM9yKb55N12PzKg",
+    "categories": [
+      "hypercasual"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "hypercasual",
+        "excerpt": "Hyper Casual",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 1000,
+    "installEvidence": {
+      "minInstalls": 1000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.rm.gs.ballblastgame&hl=en&gl=US",
+      "fetchedAt": "2026-10-19T03:53:20.166Z"
+    },
+    "id": "com.rm.gs.ballblastgame",
+    "title": "Ball Blast: Cannon Master",
+    "subtitle": "Shoot balls upgrade your cannon, dodge attacks, and enjoy endless ball blast fun",
+    "description": "Shoot balls upgrade your cannon, dodge attacks, and enjoy endless ball blast fun",
+    "overviewEn": "Shoot balls upgrade your cannon, dodge attacks, and enjoy endless ball blast fun",
+    "genre": "Hypercasual",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "GAMING SCOPE",
+    "ads": true,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.rm.gs.ballblastgame&hl=en&gl=US",
+    "fetchedAt": "2026-10-19T03:53:20.166Z",
+    "sourceDate": "2026-10-19",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-06-10",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Jun 10, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.rm.gs.ballblastgame&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/sG2ErDxAm9YUkagPxuNP5ZJKWBIDqSezAbuRLyKOP2j7vGXX94hooi_TqZPEdFAGYheDNgqcIAdUuGHYw8uuNA",
+    "categories": [
+      "hypercasual"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "hypercasual",
+        "excerpt": "Hyper Casual",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 1000000,
+    "installEvidence": {
+      "minInstalls": 1000000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.snow.race.run.push.gam&hl=en&gl=US",
+      "fetchedAt": "2026-10-19T03:53:42.672Z"
+    },
+    "id": "com.snow.race.run.push.gam",
+    "title": "Snow Race",
+    "subtitle": "Roll the biggest snowball to build your bridge and outrun rivals!",
+    "description": "Roll the biggest snowball to build your bridge and outrun rivals!",
+    "overviewEn": "Roll the biggest snowball to build your bridge and outrun rivals!",
+    "genre": "Hypercasual",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Techno Arshad Zen",
+    "ads": true,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.snow.race.run.push.gam&hl=en&gl=US",
+    "fetchedAt": "2026-10-19T03:53:42.672Z",
+    "sourceDate": "2026-10-19",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-09-03",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Sep 3, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.snow.race.run.push.gam&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/aRstgaSbbV_c6Pfor5JEB-mZwLiWUTuqebMermIQbVZL5QD_gew3wOFspsjnNqWV5WgQBRhW7zg9kiKMmkAqfg",
+    "categories": [
+      "hypercasual"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "hypercasual",
+        "excerpt": "hyper-casual",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 10,
+    "installEvidence": {
+      "minInstalls": 10,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.ayushbhalerao.fruitslice&hl=en&gl=US",
+      "fetchedAt": "2026-10-19T03:53:47.483Z"
+    },
+    "id": "com.ayushbhalerao.fruitslice",
+    "title": "Fruit Slice",
+    "subtitle": "Slice falling fruits, chase high scores, and enjoy fast arcade action!",
+    "description": "Slice falling fruits, chase high scores, and enjoy fast arcade action!",
+    "overviewEn": "Slice falling fruits, chase high scores, and enjoy fast arcade action!",
+    "genre": "Hypercasual",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Ayush01",
+    "ads": true,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.ayushbhalerao.fruitslice&hl=en&gl=US",
+    "fetchedAt": "2026-10-19T03:53:47.483Z",
+    "sourceDate": "2026-10-19",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-09-16",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Sep 16, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.ayushbhalerao.fruitslice&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/SEBC0_-cZ2bmuLc8EMUjyelwTNMy6CkQRD8M79z64pPhv3u63feNMFwvkwYlrI_4DLJnaPfS_C8-gJWeYrFX",
+    "categories": [
+      "hypercasual"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "hypercasual",
+        "excerpt": "hyper-casual",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 10,
+    "installEvidence": {
+      "minInstalls": 10,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.baralamit.stackjump&hl=en&gl=US",
+      "fetchedAt": "2026-10-19T04:07:15.369Z"
+    },
+    "id": "com.baralamit.stackjump",
+    "title": "Stack Jump",
+    "subtitle": "Stack blocks perfectly in this addictive arcade jump challenge game!",
+    "description": "Stack blocks perfectly in this addictive arcade jump challenge game!",
+    "overviewEn": "Stack blocks perfectly in this addictive arcade jump challenge game!",
+    "genre": "Hypercasual",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "Stacking",
+      "Tap gameplay"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "Stacking",
+        "excerpt": "Stack",
+        "basis": "Official developer gameplay text"
+      },
+      {
+        "tag": "Tap gameplay",
+        "excerpt": "Tap to",
+        "basis": "Official developer gameplay text"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Amit Baral",
+    "ads": true,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.baralamit.stackjump&hl=en&gl=US",
+    "fetchedAt": "2026-10-19T04:07:15.369Z",
+    "sourceDate": "2026-10-19",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-05-28",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "May 28, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.baralamit.stackjump&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/bTfEDrKDkks_T_VdqgqPx1hoOS28gUNu0CON4WR7wThUynlTLRLdj3YuenvhBrtB_yCP_K0_zTFomMhv-0unm6A",
+    "categories": [
+      "hypercasual"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "hypercasual",
+        "excerpt": "Hyper casual",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 10,
+    "installEvidence": {
+      "minInstalls": 10,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.xmyaoyao.jumptiles&hl=en&gl=US",
+      "fetchedAt": "2026-10-19T04:13:45.144Z"
+    },
+    "id": "com.xmyaoyao.jumptiles",
+    "title": "Jump",
+    "subtitle": "A super casual jump game!",
+    "description": "A super casual jump game!",
+    "overviewEn": "A super casual jump game!",
+    "genre": "Hypercasual",
+    "world": "",
+    "tags": [
+      "Paid download",
+      "Android",
+      "Tap gameplay"
+    ],
+    "evidence": [
+      {
+        "tag": "Paid download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0.99"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Tap gameplay",
+        "excerpt": "one-tap",
+        "basis": "Official developer gameplay text"
+      }
+    ],
+    "price": "Paid download",
+    "priceValue": 0.99,
+    "priceCurrency": "USD",
+    "priceDisplay": "US$0.99",
+    "developer": "Xiamen Yaoyao Technology Co., Ltd.",
+    "ads": null,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.xmyaoyao.jumptiles&hl=en&gl=US",
+    "fetchedAt": "2026-10-19T04:13:45.144Z",
+    "sourceDate": "2026-10-19",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-03-18",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Mar 18, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.xmyaoyao.jumptiles&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/3dto1DcMTSnI7byc7SoqvhtK1_IXFPkMqcIvvBoUvdEqsXIhYpOJbYkJb4gNdPqa-wARtp19J1akinqQc6ChQA",
+    "categories": [
+      "hypercasual"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "hypercasual",
+        "excerpt": "hyper-casual",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 5,
+    "installEvidence": {
+      "minInstalls": 5,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.xmyaoyao.HyperTapTower&hl=en&gl=US",
+      "fetchedAt": "2026-10-19T04:13:59.480Z"
+    },
+    "id": "com.xmyaoyao.HyperTapTower",
+    "title": "Hyper Tap Tower:Stack Master",
+    "subtitle": "Beat high scores, challenge friends, and become the ultimate Stack Master!",
+    "description": "Beat high scores, challenge friends, and become the ultimate Stack Master!",
+    "overviewEn": "Beat high scores, challenge friends, and become the ultimate Stack Master!",
+    "genre": "Hypercasual",
+    "world": "",
+    "tags": [
+      "Paid download",
+      "Android",
+      "Stacking",
+      "Tap gameplay"
+    ],
+    "evidence": [
+      {
+        "tag": "Paid download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0.99"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Stacking",
+        "excerpt": "Stack",
+        "basis": "Official developer gameplay text"
+      },
+      {
+        "tag": "Tap gameplay",
+        "excerpt": "tap to",
+        "basis": "Official developer gameplay text"
+      }
+    ],
+    "price": "Paid download",
+    "priceValue": 0.99,
+    "priceCurrency": "USD",
+    "priceDisplay": "US$0.99",
+    "developer": "Xiamen Yaoyao Technology Co., Ltd.",
+    "ads": null,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.xmyaoyao.HyperTapTower&hl=en&gl=US",
+    "fetchedAt": "2026-10-19T04:13:59.480Z",
+    "sourceDate": "2026-10-19",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-03-16",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Mar 16, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.xmyaoyao.HyperTapTower&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/-33Ctdofd3Idrpcn0AsXSVh-Kk0mFO5fr-Phwv5WoRXkF0yia2P_hPViPv-swl604YocgMAvWzeqMfCavZS9TQ",
+    "categories": [
+      "hypercasual"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "hypercasual",
+        "excerpt": "hyper-casual",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 5000,
+    "installEvidence": {
+      "minInstalls": 5000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.colorbounce.ringmaster&hl=en&gl=US",
+      "fetchedAt": "2026-10-19T04:39:19.465Z"
+    },
+    "id": "com.colorbounce.ringmaster",
+    "title": "Bounce Rush: Color Ball Blast",
+    "subtitle": "Tap to Bounce, match colors, and blast rings in this offline endless arcade game",
+    "description": "Tap to Bounce, match colors, and blast rings in this offline endless arcade game",
+    "overviewEn": "Tap to Bounce, match colors, and blast rings in this offline endless arcade game",
+    "genre": "Hypercasual",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "Runner",
+      "Tap gameplay"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "Runner",
+        "excerpt": "Runner",
+        "basis": "Official developer gameplay text"
+      },
+      {
+        "tag": "Tap gameplay",
+        "excerpt": "Tap to",
+        "basis": "Official developer gameplay text"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "The Fashion Bon",
+    "ads": true,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.colorbounce.ringmaster&hl=en&gl=US",
+    "fetchedAt": "2026-10-19T04:39:19.465Z",
+    "sourceDate": "2026-10-19",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-06-05",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Jun 5, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.colorbounce.ringmaster&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/c0QjA6dOQCCG1X51fvqFxd-hevo2zqh3Dh73GFckIgMOW6gM8Ucd2XNJjaJYm3F5dnLNtFFyAyHJATtBjPLx",
+    "categories": [
+      "hypercasual"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "hypercasual",
+        "excerpt": "hyper casual",
+        "basis": "Official developer gameplay text"
+      }
+    ]
   }
 ]

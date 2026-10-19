@@ -603,6 +603,66 @@
     "minInstalls": 0,
     "installEvidence": {
       "minInstalls": 0,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.QuanticBit.OutOfTurn&hl=en&gl=US",
+      "fetchedAt": "2026-10-19T05:38:28.684Z"
+    },
+    "id": "com.QuanticBit.OutOfTurn",
+    "title": "Out of Turn: Roguelike",
+    "subtitle": "A turn-based card roguelike where you bend the turn order.",
+    "description": "A turn-based card roguelike where you bend the turn order.",
+    "overviewEn": "A turn-based card roguelike where you bend the turn order.",
+    "genre": "Turn-based",
+    "world": "",
+    "tags": [
+      "Turn-based",
+      "Paid download",
+      "Android"
+    ],
+    "evidence": [
+      {
+        "tag": "Turn-based",
+        "basis": "Developer summary keyword mapping",
+        "excerpt": "A turn-based card roguelike where you bend the turn order."
+      },
+      {
+        "tag": "Paid download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0.05"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      }
+    ],
+    "price": "Paid download",
+    "priceValue": 0.05,
+    "priceCurrency": "USD",
+    "priceDisplay": "US$0.05",
+    "developer": "Quantic Bit",
+    "ads": null,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.QuanticBit.OutOfTurn&hl=en&gl=US",
+    "fetchedAt": "2026-10-19T05:38:28.684Z",
+    "sourceDate": "2026-10-19",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-10-06",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Oct 6, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.QuanticBit.OutOfTurn&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/o-XJKCHClvRuj_o6TkZLjDn0LC8RHmthxIxBbihOUqk4DJIBbEwzAI6C37ayvCurVlDtggbWp4jmfn84DR3n9A"
+  },
+  {
+    "minInstalls": 0,
+    "installEvidence": {
+      "minInstalls": 0,
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.space.quest&hl=en&gl=US",
       "fetchedAt": "2026-10-12T12:56:32.140Z"
     },
@@ -5068,6 +5128,60 @@
     "catalog": "recent",
     "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
     "iconSourceUrl": "https://play-lh.googleusercontent.com/BwlbXXvcdgEnDKcbg8XhKO8YUJagelWEuPMEfgcoXgVAvFjEQ31DRnPekVCm0RiX-kbiTB1oN9YOB-YKzPWi"
+  },
+  {
+    "minInstalls": 100,
+    "installEvidence": {
+      "minInstalls": 100,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.heartcore.drawbusters&hl=en&gl=US",
+      "fetchedAt": "2026-10-19T05:23:02.185Z"
+    },
+    "id": "com.heartcore.drawbusters",
+    "title": "Draw Busters",
+    "subtitle": "Draw flight paths, dominate air combat strategy PvP battles!",
+    "description": "Draw flight paths, dominate air combat strategy PvP battles!",
+    "overviewEn": "Draw flight paths, dominate air combat strategy PvP battles!",
+    "genre": "Strategy",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Spirit Bomb - Heartcore Games",
+    "ads": null,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.heartcore.drawbusters&hl=en&gl=US",
+    "fetchedAt": "2026-10-19T05:23:02.185Z",
+    "sourceDate": "2026-10-19",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-09-11",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Sep 11, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.heartcore.drawbusters&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/Tn37OFTKJyCDbndVncczVo765VdNgN8u9myvHrRlephUC-JdMDLb-IpcGB2NteqnhU6h3kWNjY2ga5fgAEhI"
   },
   {
     "minInstalls": 0,
@@ -12780,6 +12894,66 @@
     "iconSourceUrl": "https://play-lh.googleusercontent.com/UPzwV9xB2BTdZ3BMUYeeBELsA87tO_kTmr8ldz4lfO7uM9xoyTbOLjmVGiCGWTGwHidH3--jwCVHHfhECw7vZg"
   },
   {
+    "minInstalls": 10000,
+    "installEvidence": {
+      "minInstalls": 10000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.larks.x11.gplay&hl=en&gl=US",
+      "fetchedAt": "2026-10-19T05:38:03.197Z"
+    },
+    "id": "com.larks.x11.gplay",
+    "title": "Snowy Survivor",
+    "subtitle": "In a frozen wasteland, build shelter and fight off brutal raiders",
+    "description": "In a frozen wasteland, build shelter and fight off brutal raiders",
+    "overviewEn": "In a frozen wasteland, build shelter and fight off brutal raiders",
+    "genre": "Strategy",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "In-app purchases"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Larks Holding Limited",
+    "ads": null,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.larks.x11.gplay&hl=en&gl=US",
+    "fetchedAt": "2026-10-19T05:38:03.197Z",
+    "sourceDate": "2026-10-19",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-07-20",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Jul 20, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.larks.x11.gplay&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/QPQLlfD5Du3jpBtsXsbacn5P3PID5v58uVBQw2mQu0bCzy-L7JZXLuFq1pJN27AfMp6zrWMjvZAORvMsvumb"
+  },
+  {
     "minInstalls": 1000,
     "installEvidence": {
       "minInstalls": 1000,
@@ -16728,6 +16902,60 @@
     "iconSourceUrl": "https://play-lh.googleusercontent.com/Lq44dBrCPhmHwMAFxmp9cDagMcNN5Be1-JLW-wUw07131Bea038rRTfTXPq01uUmtonIEbpBa9mZaKNtO98jXHU"
   },
   {
+    "minInstalls": 0,
+    "installEvidence": {
+      "minInstalls": 0,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.forjaiapps.jogodopedreiro&hl=en&gl=US",
+      "fetchedAt": "2026-10-19T05:24:07.421Z"
+    },
+    "id": "com.forjaiapps.jogodopedreiro",
+    "title": "Jogo do Pedreiro",
+    "subtitle": "The Bricklayer Game is based on strategy, puzzles, and logic.",
+    "description": "The Bricklayer Game is based on strategy, puzzles, and logic.",
+    "overviewEn": "The Bricklayer Game is based on strategy, puzzles, and logic.",
+    "genre": "Strategy",
+    "world": "",
+    "tags": [
+      "Paid download",
+      "Android"
+    ],
+    "evidence": [
+      {
+        "tag": "Paid download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0.49"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      }
+    ],
+    "price": "Paid download",
+    "priceValue": 0.49,
+    "priceCurrency": "USD",
+    "priceDisplay": "US$0.49",
+    "developer": "Ziga Sistemas",
+    "ads": null,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.forjaiapps.jogodopedreiro&hl=en&gl=US",
+    "fetchedAt": "2026-10-19T05:24:07.421Z",
+    "sourceDate": "2026-10-19",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-06-18",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Jun 18, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.forjaiapps.jogodopedreiro&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/KnpHSOydhOHJJkhtbfbLVe54qeoDoGLVFgGSjiYxLW8w5CGO5tPzdTV6jCgcuYuDS4HzVHlPQvYLR8KiFAIf"
+  },
+  {
     "minInstalls": 100000,
     "installEvidence": {
       "minInstalls": 100000,
@@ -17224,6 +17452,66 @@
     "catalog": "recent",
     "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
     "iconSourceUrl": "https://play-lh.googleusercontent.com/m0TTv9CmmPw-Etu52xekigIGa2PIhPa-M8o-bqnYrMwDy7ZQ6J-DDrlp5HA2r5VBLi5WjWuQFnbUsl4SAB2eLA"
+  },
+  {
+    "minInstalls": 1000,
+    "installEvidence": {
+      "minInstalls": 1000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.a3.tavernlegendmj1.googleplay&hl=en&gl=US",
+      "fetchedAt": "2026-10-19T05:38:03.193Z"
+    },
+    "id": "com.a3.tavernlegendmj1.googleplay",
+    "title": "Last Siren: Tavern Rise",
+    "subtitle": "\"Last Siren: Tavern Rise\" is a game you run a tavern with many beautiful women",
+    "description": "\"Last Siren: Tavern Rise\" is a game you run a tavern with many beautiful women",
+    "overviewEn": "\"Last Siren: Tavern Rise\" is a game you run a tavern with many beautiful women",
+    "genre": "Strategy",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "In-app purchases"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Larks Holding Limited",
+    "ads": null,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.a3.tavernlegendmj1.googleplay&hl=en&gl=US",
+    "fetchedAt": "2026-10-19T05:38:03.193Z",
+    "sourceDate": "2026-10-19",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-06-15",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Jun 15, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.a3.tavernlegendmj1.googleplay&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/ye5hYczGcgKU87P8rReDZeLRhQU_H2CZzpengosdLQZh7aHhSk1YsxySQM5w20TAk0xzhIAEkGpZumGB8FrVnw"
   },
   {
     "minInstalls": 1000,
@@ -28692,6 +28980,66 @@
     "iconSourceUrl": "https://play-lh.googleusercontent.com/1agmD2dU128GHoADvsFeBlmA0oyjjKmbz2C0UoQcJDBFnNVgYDAsLDPbhbEcpafiLfyb1JKk0ByECNSsr5Sn"
   },
   {
+    "minInstalls": 50,
+    "installEvidence": {
+      "minInstalls": 50,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.starship.sector&hl=en&gl=US",
+      "fetchedAt": "2026-10-19T05:24:04.090Z"
+    },
+    "id": "com.starship.sector",
+    "title": "Starship Sector: Void War",
+    "subtitle": "Command your fleet, outsmart the AI, and conquer the sector in this tactical sim",
+    "description": "Command your fleet, outsmart the AI, and conquer the sector in this tactical sim",
+    "overviewEn": "Command your fleet, outsmart the AI, and conquer the sector in this tactical sim",
+    "genre": "Strategy",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "In-app purchases"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "WhatItIs Android Apps",
+    "ads": null,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.starship.sector&hl=en&gl=US",
+    "fetchedAt": "2026-10-19T05:24:04.090Z",
+    "sourceDate": "2026-10-19",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-03-07",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Mar 7, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.starship.sector&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/Yz2xvh2erBF8kufRDytzqORW2WcgE_21z2UCMXl5EmORENCUDifaOK-Yep3Wwi-McIAqkRrcMODUWRdSWo-NJRg"
+  },
+  {
     "minInstalls": 10,
     "installEvidence": {
       "minInstalls": 10,
@@ -29086,6 +29434,66 @@
     "catalog": "recent",
     "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
     "iconSourceUrl": "https://play-lh.googleusercontent.com/XxYGlrvWn_NItV1MSNwDFtVARX0RS5ZnVwOXhDKT498k0VprdkXhiD6chZQ6JwzJ9n_0zV7E-tneRX_CZta4oQ"
+  },
+  {
+    "minInstalls": 10000,
+    "installEvidence": {
+      "minInstalls": 10000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.larks.bw2.googleplay&hl=en&gl=US",
+      "fetchedAt": "2026-10-19T05:38:08.087Z"
+    },
+    "id": "com.larks.bw2.googleplay",
+    "title": "Silent Shield: Survival",
+    "subtitle": "Silent Shield: Survival is a war and survival game set on an alien planet.",
+    "description": "Silent Shield: Survival is a war and survival game set on an alien planet.",
+    "overviewEn": "Silent Shield: Survival is a war and survival game set on an alien planet.",
+    "genre": "Strategy",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "In-app purchases"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Larks Holding Limited",
+    "ads": null,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.larks.bw2.googleplay&hl=en&gl=US",
+    "fetchedAt": "2026-10-19T05:38:08.087Z",
+    "sourceDate": "2026-10-19",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-03-04",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Mar 4, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.larks.bw2.googleplay&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/8eUPXZ93UtKWOxVhr36LHCWTCwFofhh5yYNZ8VxXTZDkuIqCgn7YQ6GqHs0ARCf1HNfnb-Cl1LzRhR2S8GIi-4Q"
   },
   {
     "minInstalls": 10,
@@ -54390,6 +54798,66 @@
     "iconSourceUrl": "https://play-lh.googleusercontent.com/FIte_IUXYA9mezPY1df85i-d07bnjvDjdX_3HabmAfZScB-GMLR5BaNWq81ahlWmG-7S8O3IHptM0XXSNTjp"
   },
   {
+    "minInstalls": 10000,
+    "installEvidence": {
+      "minInstalls": 10000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.larks.x6.gplay&hl=en&gl=US",
+      "fetchedAt": "2026-10-19T05:38:06.470Z"
+    },
+    "id": "com.larks.x6.gplay",
+    "title": "Uninvited Guest: The Knocking",
+    "subtitle": "The Deceptive Silence: Someone is at the door.",
+    "description": "The Deceptive Silence: Someone is at the door.",
+    "overviewEn": "The Deceptive Silence: Someone is at the door.",
+    "genre": "Strategy",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "In-app purchases"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Larks Holding Limited",
+    "ads": null,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.larks.x6.gplay&hl=en&gl=US",
+    "fetchedAt": "2026-10-19T05:38:06.470Z",
+    "sourceDate": "2026-10-19",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2025-02-23",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Feb 23, 2025",
+      "url": "https://play.google.com/store/apps/details?id=com.larks.x6.gplay&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/wLT9yUoYhZbURVf9EN9VtU7qm0m3shkrI4FgYLOhGWP9cmpuEIZdvrRavRXgoInPkVOAX9QTNf0zr4OYwUH3mw"
+  },
+  {
     "minInstalls": 1000000,
     "installEvidence": {
       "minInstalls": 1000000,
@@ -56392,6 +56860,72 @@
     "catalog": "recent",
     "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
     "iconSourceUrl": "https://play-lh.googleusercontent.com/VmyH7bcdGg2LnD5SVvSpWiDQiePHdS5z91T0kJbAatfMb18WKgHvLLNi-rRmwUyg6B9TuFlTVYWXMVoYob9HZHY"
+  },
+  {
+    "minInstalls": 100000,
+    "installEvidence": {
+      "minInstalls": 100000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.abi.tap.block.out&hl=en&gl=US",
+      "fetchedAt": "2026-10-19T05:23:27.843Z"
+    },
+    "id": "com.abi.tap.block.out",
+    "title": "Tap Block Out",
+    "subtitle": "Let's challenge. Tap block out, clear level, and enjoy unpuzzle blocks game.",
+    "description": "Let's challenge. Tap block out, clear level, and enjoy unpuzzle blocks game.",
+    "overviewEn": "Let's challenge. Tap block out, clear level, and enjoy unpuzzle blocks game.",
+    "genre": "Strategy",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "In-app purchases"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "ABI GAMES PTE. LTD.",
+    "ads": true,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.abi.tap.block.out&hl=en&gl=US",
+    "fetchedAt": "2026-10-19T05:23:27.843Z",
+    "sourceDate": "2026-10-19",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2025-01-14",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Jan 14, 2025",
+      "url": "https://play.google.com/store/apps/details?id=com.abi.tap.block.out&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/Adik39tm1em4HTfOaIgWD4O1NTTXXY3w8diuWTXEHneSRiCcm2pstMYTqmBL7-f_rZ8XSMyY9Cn4jjtGaMds"
   },
   {
     "minInstalls": 1000000,
