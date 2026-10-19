@@ -1,7 +1,7 @@
 import {createHash,createHmac} from 'node:crypto';
 import {isIP} from 'node:net';
 const origin='https://findcoolgame.com';
-const routes=new Map([['/rest/v1/community_messages',['GET','PATCH']],['/rest/v1/community_moderators',['GET']],['/auth/v1/token',['POST']],['/auth/v1/logout',['POST']],['/functions/v1/submit-message',['POST']],['/usage/events',['POST']],['/rest/v1/rpc/usage_summary',['POST']]]);
+const routes=new Map([['/rest/v1/community_messages',['GET','PATCH']],['/rest/v1/community_moderators',['GET']],['/auth/v1/token',['POST']],['/auth/v1/logout',['POST']],['/functions/v1/submit-message',['POST']],['/usage/events',['POST']],['/rest/v1/rpc/usage_summary',['POST']],['/rest/v1/rpc/usage_summary_v2',['POST']]]);
 const cors={'Access-Control-Allow-Origin':origin,'Access-Control-Allow-Headers':'apikey, authorization, content-type, prefer','Access-Control-Allow-Methods':'GET, POST, PATCH, OPTIONS','Cache-Control':'no-store','Vary':'Origin'};
 export function createGateway(env,fetcher=fetch){
  env={...env,...Object.fromEntries(['SUPABASE_URL','SUPABASE_ANON_KEY','COMMUNITY_GATEWAY_SECRET'].map(k=>[k,env[k]?.trim()]))};
@@ -26,8 +26,9 @@ export function createGateway(env,fetcher=fetch){
  if(u.pathname==='/usage/events'){
  const ip=req.headers.get('x-forwarded-for')?.trim();if(!ip||!isIP(ip)||!env.COMMUNITY_GATEWAY_SECRET)return reply(503,'unavailable');
  let events;try{events=JSON.parse(body).events}catch{return reply(400,'invalid')}if(!Array.isArray(events)||!events.length||events.length>20)return reply(400,'invalid');
+ const ua=(req.headers.get('user-agent')||'').slice(0,512);const country=req.headers.get('x-vercel-ip-country')||'',region=req.headers.get('x-vercel-ip-country-region')||'';const context={ip,country:/^[A-Z]{2}$/.test(country)?country:null,region:/^[a-zA-Z0-9_-]{1,32}$/.test(region)?region:null,browser:/Edg\//.test(ua)?'Edge':/OPR\//.test(ua)?'Opera':/Firefox\//.test(ua)?'Firefox':/Chrome\/|CriOS\//.test(ua)?'Chrome':/Safari\//.test(ua)?'Safari':'Other',os:/Android/.test(ua)?'Android':/iPhone|iPad|iPod/.test(ua)?'iOS':/Windows/.test(ua)?'Windows':/Macintosh|Mac OS X/.test(ua)?'macOS':/Linux/.test(ua)?'Linux':'Other'};
  const clientHash=createHmac('sha256',env.COMMUNITY_GATEWAY_SECRET).update(new Date().toISOString().slice(0,10)+'\n'+ip).digest('hex');
- const result=await fetcher(env.SUPABASE_URL+'/rest/v1/rpc/usage_ingest',{method:'POST',headers,body:JSON.stringify({p_key:env.COMMUNITY_GATEWAY_SECRET,p_client_hash:clientHash,p_events:events}),redirect:'manual',signal:AbortSignal.timeout(12000)});
+ const result=await fetcher(env.SUPABASE_URL+'/rest/v1/rpc/usage_ingest_v2',{method:'POST',headers,body:JSON.stringify({p_key:env.COMMUNITY_GATEWAY_SECRET,p_client_hash:clientHash,p_events:events,p_context:context}),redirect:'manual',signal:AbortSignal.timeout(12000)});
  if(!result.ok)return reply(result.status===429?429:503,'unavailable');const data=await result.json();if(data.rate_limited)return reply(429,'rate_limited');return new Response(JSON.stringify({accepted:data.accepted}),{status:202,headers:{...cors,'Content-Type':'application/json'}});
  }
  if(u.pathname==='/functions/v1/submit-message'){

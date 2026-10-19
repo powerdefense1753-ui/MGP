@@ -13,3 +13,7 @@ Events: visit, user-driven discovery, game_open (details), store_click, save, fe
 Counts cover observed browser activity, not people or installs. Bot and self traffic can remain. New instrumentation cannot recreate historical search/filter data. UTC date buckets are used; the latest day is incomplete. Compare previous equal-length windows cautiously. Recommendations require 30 sessions and issue-specific minimum sample sizes. Missing backend data is an error state, not a zero.
 
 Raw events older than 90 days and rate-limit rows older than two days are cleaned during successful ingestion; inactive projects retain old rows until ingestion resumes. Summary access requires community_moderators membership. No raw-event reading grants are given to visitors or authenticated accounts.
+
+## Private visit context
+Gateway v2 derives IP and coarse country/region from Vercel ingress headers and maps User-Agent to browser/OS families without retaining raw UA. Context is stored only for visit events in an RLS table with no anon/authenticated table access. Only existing moderators may call usage_summary_v2. IP context is hidden after 30 days and physically cleaned on the next ingest or authenticated summary call; dormant projects may retain expired rows until then. No location lookup service receives IPs. Older records are not backfilled. IP/region may represent proxies and cannot identify a person. Opt-out and DNT continue to suppress tracker traffic.
+Source: https://vercel.com/docs/headers/request-headers
