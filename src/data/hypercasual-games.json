@@ -2086,5 +2086,455 @@
         "basis": "Official developer gameplay text"
       }
     ]
+  },
+  {
+    "minInstalls": 100,
+    "installEvidence": {
+      "minInstalls": 100,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.ADRJDEV.Bouncingball&hl=en&gl=US",
+      "fetchedAt": "2026-10-16T12:53:13.721Z"
+    },
+    "id": "com.ADRJDEV.Bouncingball",
+    "title": "Bouncing Ball 3D",
+    "subtitle": "Bounce and jump through endless levels in this fun and addictive 3D ball game!",
+    "description": "Bounce and jump through endless levels in this fun and addictive 3D ball game!",
+    "overviewEn": "Bounce and jump through endless levels in this fun and addictive 3D ball game!",
+    "genre": "Hypercasual",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "DEVADRJ",
+    "ads": true,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.ADRJDEV.Bouncingball&hl=en&gl=US",
+    "fetchedAt": "2026-10-16T12:53:13.721Z",
+    "sourceDate": "2026-10-16",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2025-02-10",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Feb 10, 2025",
+      "url": "https://play.google.com/store/apps/details?id=com.ADRJDEV.Bouncingball&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/M-3P5fdk4X8fgzADHKf4s9VNX11tOMplE5rtNp-rwMNhjjODczqygmUkKuBlDk_57OTCbAPWg2g1bcCw_2uW-A",
+    "categories": [
+      "hypercasual"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "hypercasual",
+        "excerpt": "hyper-casual",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 1000000,
+    "installEvidence": {
+      "minInstalls": 1000000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.sniper.shoot.hide.game&hl=en&gl=US",
+      "fetchedAt": "2026-10-16T12:53:29.890Z"
+    },
+    "id": "com.sniper.shoot.hide.game",
+    "title": "Shoot & Hide",
+    "subtitle": "Shoot fast. Hide faster. Don’t get caught!",
+    "description": "Shoot fast. Hide faster. Don’t get caught!",
+    "overviewEn": "Shoot fast. Hide faster. Don’t get caught!",
+    "genre": "Hypercasual",
+    "world": "",
+    "tags": [
+      "Single player",
+      "Stylized",
+      "Offline",
+      "Free download",
+      "Android",
+      "Contains ads",
+      "In-app purchases"
+    ],
+    "evidence": [
+      {
+        "tag": "Single player",
+        "basis": "Google Play category label mapping",
+        "excerpt": "Single player"
+      },
+      {
+        "tag": "Stylized",
+        "basis": "Google Play category label mapping",
+        "excerpt": "Stylized"
+      },
+      {
+        "tag": "Offline",
+        "basis": "Google Play category label mapping",
+        "excerpt": "Offline"
+      },
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "CrazyLabs LTD",
+    "ads": true,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.sniper.shoot.hide.game&hl=en&gl=US",
+    "fetchedAt": "2026-10-16T12:53:29.890Z",
+    "sourceDate": "2026-10-16",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2025-06-17",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Jun 17, 2025",
+      "url": "https://play.google.com/store/apps/details?id=com.sniper.shoot.hide.game&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/Q2tjqzvP0c8-sP4d0yWYCl0O0PEbfKI6CePsCkuiTqXKHFHsc3Zmzn48ZXL3ih-jvu55cYShHOfNzNu7gJ2IyQ",
+    "categories": [
+      "hypercasual"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "hypercasual",
+        "excerpt": "hyper-casual",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 100,
+    "installEvidence": {
+      "minInstalls": 100,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.ADRJDEV.StackBall3D&hl=en&gl=US",
+      "fetchedAt": "2026-10-16T12:55:24.254Z"
+    },
+    "id": "com.ADRJDEV.StackBall3D",
+    "title": "FALL Stack 3D BALL",
+    "subtitle": "Smash through stacks avoid traps and guide your ball to victory in this fun game",
+    "description": "Smash through stacks avoid traps and guide your ball to victory in this fun game",
+    "overviewEn": "Smash through stacks avoid traps and guide your ball to victory in this fun game",
+    "genre": "Hypercasual",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "Stacking"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "Stacking",
+        "excerpt": "Stack",
+        "basis": "Official developer gameplay text"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "DEVADRJ",
+    "ads": true,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.ADRJDEV.StackBall3D&hl=en&gl=US",
+    "fetchedAt": "2026-10-16T12:55:24.254Z",
+    "sourceDate": "2026-10-16",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2025-01-17",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Jan 17, 2025",
+      "url": "https://play.google.com/store/apps/details?id=com.ADRJDEV.StackBall3D&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/TFmSDNxhNXYS088ng0Z8N1wweRhDYyXovjmIhSt7p1-KbIbIuzBeIwMT485VYQ6lUR-vAYhCETA_i8kRiIiG3Q",
+    "categories": [
+      "hypercasual"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "hypercasual",
+        "excerpt": "hyper-casual",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 5000,
+    "installEvidence": {
+      "minInstalls": 5000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.cocopapasoft.myownplanet&hl=en&gl=US",
+      "fetchedAt": "2026-10-16T13:24:49.396Z"
+    },
+    "id": "com.cocopapasoft.myownplanet",
+    "title": "My Own Planet",
+    "subtitle": "Collect water, air, food, and firewood to create life and grow your planet.",
+    "description": "Collect water, air, food, and firewood to create life and grow your planet.",
+    "overviewEn": "Collect water, air, food, and firewood to create life and grow your planet.",
+    "genre": "Hypercasual",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "CoCoPaPa Soft",
+    "ads": true,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.cocopapasoft.myownplanet&hl=en&gl=US",
+    "fetchedAt": "2026-10-16T13:24:49.396Z",
+    "sourceDate": "2026-10-16",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2025-03-31",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Mar 31, 2025",
+      "url": "https://play.google.com/store/apps/details?id=com.cocopapasoft.myownplanet&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/c6Yg-8D8w46oI-SztZXHqCJU7alY4XtAb_QSEIhy719ugXFZjApCQZoO4J3uWY38PRwwZGQC60cAr0DwMpC2",
+    "categories": [
+      "hypercasual"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "hypercasual",
+        "excerpt": "hyper-casual",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 1000,
+    "installEvidence": {
+      "minInstalls": 1000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.panach.stacktwist&hl=en&gl=US",
+      "fetchedAt": "2026-10-19T02:07:34.994Z"
+    },
+    "id": "com.panach.stacktwist",
+    "title": "Spiral Twist Jump And Fun Ball",
+    "subtitle": "Spiral Twist Jump And Fun Ball Download latest jump game.",
+    "description": "Spiral Twist Jump And Fun Ball Download latest jump game.",
+    "overviewEn": "Spiral Twist Jump And Fun Ball Download latest jump game.",
+    "genre": "Hypercasual",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "Tap gameplay"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "Tap gameplay",
+        "excerpt": "One-tap",
+        "basis": "Official developer gameplay text"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Korvex Technologies",
+    "ads": true,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.panach.stacktwist&hl=en&gl=US",
+    "fetchedAt": "2026-10-19T02:07:34.994Z",
+    "sourceDate": "2026-10-19",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2024-12-26",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Dec 26, 2024",
+      "url": "https://play.google.com/store/apps/details?id=com.panach.stacktwist&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/VcqEytC0sGfm_MKDABT0x1tYMk4wmRw_ntqKvTMXubF7TBtRbQFJNZ1oW4SpffpTa5HDAMy2xDwLYgX1HH_ZAQ",
+    "categories": [
+      "hypercasual"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "hypercasual",
+        "excerpt": "Hyper-Casual",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 10,
+    "installEvidence": {
+      "minInstalls": 10,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.InfiniteCrayfishLLC.ArcSpiral&hl=en&gl=US",
+      "fetchedAt": "2026-10-19T02:07:35.600Z"
+    },
+    "id": "com.InfiniteCrayfishLLC.ArcSpiral",
+    "title": "Arc Spiral",
+    "subtitle": "Grow your circle by aligning arcs in this relaxing one touch arcade game!",
+    "description": "Grow your circle by aligning arcs in this relaxing one touch arcade game!",
+    "overviewEn": "Grow your circle by aligning arcs in this relaxing one touch arcade game!",
+    "genre": "Hypercasual",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Infinite Crayfish LLC",
+    "ads": null,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.InfiniteCrayfishLLC.ArcSpiral&hl=en&gl=US",
+    "fetchedAt": "2026-10-19T02:07:35.600Z",
+    "sourceDate": "2026-10-19",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2025-02-25",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Feb 25, 2025",
+      "url": "https://play.google.com/store/apps/details?id=com.InfiniteCrayfishLLC.ArcSpiral&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/5tI9_hPR-0HbgF56ZEnXH6hnel4ClcKCzvqXnLdb9IVmTVNDG6go92H7NxScSRoKBC03DwmsIo7w8AOI0hHcWQ",
+    "categories": [
+      "hypercasual"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "hypercasual",
+        "excerpt": "Hyper-Casual",
+        "basis": "Official developer gameplay text"
+      }
+    ]
   }
 ]
