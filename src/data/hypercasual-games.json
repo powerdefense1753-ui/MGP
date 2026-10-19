@@ -2536,5 +2536,397 @@
         "basis": "Official developer gameplay text"
       }
     ]
+  },
+  {
+    "minInstalls": 5000,
+    "installEvidence": {
+      "minInstalls": 5000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.mandcatgames.flipfloprage&hl=en&gl=US",
+      "fetchedAt": "2026-10-19T02:54:49.185Z"
+    },
+    "id": "com.mandcatgames.flipfloprage",
+    "title": "Flip-Flop Rage",
+    "subtitle": "Throw, steer, and smash with the world's angriest flip flop!",
+    "description": "Throw, steer, and smash with the world's angriest flip flop!",
+    "overviewEn": "Throw, steer, and smash with the world's angriest flip flop!",
+    "genre": "Hypercasual",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "Physics puzzle"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "Physics puzzle",
+        "excerpt": "physics-based",
+        "basis": "Official developer gameplay text"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Rieus Games",
+    "ads": true,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.mandcatgames.flipfloprage&hl=en&gl=US",
+    "fetchedAt": "2026-10-19T02:54:49.185Z",
+    "sourceDate": "2026-10-19",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-06-28",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Jun 28, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.mandcatgames.flipfloprage&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/WFEAS5kcHU2qs4TiPDCJTGkwWeRcou6rJmG3uQfSAa6IRfM4DQKZ5IhlKEUlGW8xrfb0Qt_n7QS6msbx216O",
+    "categories": [
+      "hypercasual"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "hypercasual",
+        "excerpt": "hyper casual",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 5000,
+    "installEvidence": {
+      "minInstalls": 5000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=game.hbd.heartbeat.defense&hl=en&gl=US",
+      "fetchedAt": "2026-10-19T02:56:47.661Z"
+    },
+    "id": "game.hbd.heartbeat.defense",
+    "title": "Heartbeat Defense",
+    "subtitle": "Defend Life! Upgrade, survive, and crush the viruses attacking the Heart!",
+    "description": "Defend Life! Upgrade, survive, and crush the viruses attacking the Heart!",
+    "overviewEn": "Defend Life! Upgrade, survive, and crush the viruses attacking the Heart!",
+    "genre": "Hypercasual",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "In-app purchases",
+      "Tap gameplay"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      },
+      {
+        "tag": "Tap gameplay",
+        "excerpt": "Tap to",
+        "basis": "Official developer gameplay text"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Flick Boom",
+    "ads": true,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=game.hbd.heartbeat.defense&hl=en&gl=US",
+    "fetchedAt": "2026-10-19T02:56:47.661Z",
+    "sourceDate": "2026-10-19",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2025-11-13",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Nov 13, 2025",
+      "url": "https://play.google.com/store/apps/details?id=game.hbd.heartbeat.defense&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/-NrTrgQN-fWmoj0yPBbtSveNptwqYHDTzhh8_KCfPPSTOnWEfwtL23Dmh4jqDnUVmH7L6XDKkp8s-hvnj9XcAg",
+    "categories": [
+      "hypercasual"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "hypercasual",
+        "excerpt": "hyper-casual",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 100000,
+    "installEvidence": {
+      "minInstalls": 100000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=amezgame.allinone.holegame&hl=en&gl=US",
+      "fetchedAt": "2026-10-19T03:08:36.248Z"
+    },
+    "id": "amezgame.allinone.holegame",
+    "title": "Black Hole King: Hole Game",
+    "subtitle": "Drag the black hole and swallow items in relaxing, casual hole game.",
+    "description": "Drag the black hole and swallow items in relaxing, casual hole game.",
+    "overviewEn": "Drag the black hole and swallow items in relaxing, casual hole game.",
+    "genre": "Hypercasual",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "In-app purchases"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Photo editor & Video editor - Merger IO",
+    "ads": true,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=amezgame.allinone.holegame&hl=en&gl=US",
+    "fetchedAt": "2026-10-19T03:08:36.248Z",
+    "sourceDate": "2026-10-19",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2025-10-16",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Oct 16, 2025",
+      "url": "https://play.google.com/store/apps/details?id=amezgame.allinone.holegame&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/ZJhD6h7VBbh1h-25284fJVzJ15TLxyObrdWLGTkD-wJG-KBsQBSwljgMH9S9pazjDbcBBwDcEO4fCNZUpKB-",
+    "categories": [
+      "hypercasual"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "hypercasual",
+        "excerpt": "hyper-casual",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 5000000,
+    "installEvidence": {
+      "minInstalls": 5000000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=casual.flags.world.color&hl=en&gl=US",
+      "fetchedAt": "2026-10-19T03:24:16.143Z"
+    },
+    "id": "casual.flags.world.color",
+    "title": "World Flags: Color Puzzle",
+    "subtitle": "Try to draw and paint the national flags with the right color",
+    "description": "Try to draw and paint the national flags with the right color",
+    "overviewEn": "Try to draw and paint the national flags with the right color",
+    "genre": "Hypercasual",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "In-app purchases"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "kiwilab",
+    "ads": true,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=casual.flags.world.color&hl=en&gl=US",
+    "fetchedAt": "2026-10-19T03:24:16.143Z",
+    "sourceDate": "2026-10-19",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2025-07-02",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Jul 2, 2025",
+      "url": "https://play.google.com/store/apps/details?id=casual.flags.world.color&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/9mJeQp2Ly3IsBaxF4bJIILkGd5ZId7ecTxptdRONkAzgE1HcPbTRql3y4xKX9n3J9kEQy_FNsWMQC5bOUos4",
+    "categories": [
+      "hypercasual"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "hypercasual",
+        "excerpt": "hyper-casual",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 100,
+    "installEvidence": {
+      "minInstalls": 100,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.YsoCorp.MagnetRush&hl=en&gl=US",
+      "fetchedAt": "2026-10-19T03:38:06.226Z"
+    },
+    "id": "com.YsoCorp.MagnetRush",
+    "title": "Magnet Rush",
+    "subtitle": "Switch magnet polarity, smash obstacles, and race to the finish!",
+    "description": "Switch magnet polarity, smash obstacles, and race to the finish!",
+    "overviewEn": "Switch magnet polarity, smash obstacles, and race to the finish!",
+    "genre": "Hypercasual",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "Runner",
+      "Tap gameplay"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "Runner",
+        "excerpt": "runner",
+        "basis": "Official developer gameplay text"
+      },
+      {
+        "tag": "Tap gameplay",
+        "excerpt": "one tap",
+        "basis": "Official developer gameplay text"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Yso Corp",
+    "ads": true,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.YsoCorp.MagnetRush&hl=en&gl=US",
+    "fetchedAt": "2026-10-19T03:38:06.226Z",
+    "sourceDate": "2026-10-19",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-04-21",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Apr 21, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.YsoCorp.MagnetRush&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/zmcbPOTA22w_QF774w8_62fQE8Y3DYsBdJCCp2fg77nHjpvHDfRKYrwonpWZGnjLNukOBjxGNYpfUI-DgCLErg",
+    "categories": [
+      "hypercasual"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "hypercasual",
+        "excerpt": "hyper-casual",
+        "basis": "Official developer gameplay text"
+      }
+    ]
   }
 ]
