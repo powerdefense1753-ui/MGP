@@ -3530,5 +3530,1841 @@
         "basis": "Official developer gameplay text"
       }
     ]
+  },
+  {
+    "minInstalls": 100,
+    "installEvidence": {
+      "minInstalls": 100,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.consciousstudio.cuberunner2048&hl=en&gl=US",
+      "fetchedAt": "2026-10-19T09:13:03.878Z"
+    },
+    "id": "com.consciousstudio.cuberunner2048",
+    "title": "Cube Runner 2048",
+    "subtitle": "Run forward, merge matching cubes, and build the biggest number!",
+    "description": "Run forward, merge matching cubes, and build the biggest number!",
+    "overviewEn": "Run forward, merge matching cubes, and build the biggest number!",
+    "genre": "Hypercasual",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "Number merge",
+      "Runner"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "Number merge",
+        "excerpt": "merges, and push your numbers",
+        "basis": "Official developer gameplay text"
+      },
+      {
+        "tag": "Runner",
+        "excerpt": "Runner",
+        "basis": "Official developer gameplay text"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Conscious Studio",
+    "ads": true,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.consciousstudio.cuberunner2048&hl=en&gl=US",
+    "fetchedAt": "2026-10-19T09:13:03.878Z",
+    "sourceDate": "2026-10-19",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-05-14",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "May 14, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.consciousstudio.cuberunner2048&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/36fQaEdaVPBzbWcD5bZwhFmQQIHfOTNQc5FMtN3KhkS8NDgVMJfvHb-Ylf9jfujFm1P6o_HgriOqs3oqhUpLYg",
+    "categories": [
+      "hypercasual"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "merge",
+        "excerpt": "merge matching",
+        "basis": "Official developer gameplay text"
+      },
+      {
+        "category": "hypercasual",
+        "excerpt": "hyper-casual",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 100,
+    "installEvidence": {
+      "minInstalls": 100,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=labs.kestrelnebula.NeonRush&hl=en&gl=US",
+      "fetchedAt": "2026-10-19T09:13:11.826Z"
+    },
+    "id": "labs.kestrelnebula.NeonRush",
+    "title": "NeonBot Rush: Crowd Runner 3D",
+    "subtitle": "Lead your robot swarm, dodge mechas, and multiply your crowd in this 3D runner!",
+    "description": "Lead your robot swarm, dodge mechas, and multiply your crowd in this 3D runner!",
+    "overviewEn": "Lead your robot swarm, dodge mechas, and multiply your crowd in this 3D runner!",
+    "genre": "Hypercasual",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "Runner"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "Runner",
+        "excerpt": "Runner",
+        "basis": "Official developer gameplay text"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "KestrelNebula Labs",
+    "ads": true,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=labs.kestrelnebula.NeonRush&hl=en&gl=US",
+    "fetchedAt": "2026-10-19T09:13:11.826Z",
+    "sourceDate": "2026-10-19",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-04-22",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Apr 22, 2026",
+      "url": "https://play.google.com/store/apps/details?id=labs.kestrelnebula.NeonRush&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/EqIAGwulBagKhueJOhd_1sj83gnYCSbnIoQfbIoZVGnpTr9fWWpAS7layxRDnSeckB0EKVpDn16hXGvqPHrp0A",
+    "categories": [
+      "hypercasual"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "hypercasual",
+        "excerpt": "hypercasual",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 10000,
+    "installEvidence": {
+      "minInstalls": 10000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.Mobtions.CrowdRush&hl=en&gl=US",
+      "fetchedAt": "2026-10-19T09:13:13.782Z"
+    },
+    "id": "com.Mobtions.CrowdRush",
+    "title": "Crowd Rush: Mob Clash 3D",
+    "subtitle": "Crowd Rush is here! Run wild in this thrilling Mob Clash 3D runner game!",
+    "description": "Crowd Rush is here! Run wild in this thrilling Mob Clash 3D runner game!",
+    "overviewEn": "Crowd Rush is here! Run wild in this thrilling Mob Clash 3D runner game!",
+    "genre": "Hypercasual",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "In-app purchases",
+      "Runner"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      },
+      {
+        "tag": "Runner",
+        "excerpt": "runner",
+        "basis": "Official developer gameplay text"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Zyrocraft",
+    "ads": true,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.Mobtions.CrowdRush&hl=en&gl=US",
+    "fetchedAt": "2026-10-19T09:13:13.782Z",
+    "sourceDate": "2026-10-19",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2025-06-17",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Jun 17, 2025",
+      "url": "https://play.google.com/store/apps/details?id=com.Mobtions.CrowdRush&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/T7QYL6YdPTbfEKIZ4ZcDUzCuV0xCOr0-TwPbkZ61K_kzOqwSW7xAVq7SSiU2KMTzqXPkOj42UjdKjGuK4oPtpw",
+    "categories": [
+      "hypercasual"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "hypercasual",
+        "excerpt": "hyper-casual",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 100000,
+    "installEvidence": {
+      "minInstalls": 100000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.GAMEX.CrowdCollapse&hl=en&gl=US",
+      "fetchedAt": "2026-10-19T09:13:20.688Z"
+    },
+    "id": "com.GAMEX.CrowdCollapse",
+    "title": "Crowd Collapse",
+    "subtitle": "How many can you take down with one shot?",
+    "description": "How many can you take down with one shot?",
+    "overviewEn": "How many can you take down with one shot?",
+    "genre": "Hypercasual",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "In-app purchases"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Yso Corp",
+    "ads": null,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.GAMEX.CrowdCollapse&hl=en&gl=US",
+    "fetchedAt": "2026-10-19T09:13:20.688Z",
+    "sourceDate": "2026-10-19",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-02-08",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Feb 8, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.GAMEX.CrowdCollapse&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/T1yd6sWPvK8SJBRM9Ed-jhkfljFifQ9d_ul5iiSFa7r2BjQuj6D8y52vVvQELGedFzz5N4p0owxVrG9B-daY",
+    "categories": [
+      "hypercasual"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "hypercasual",
+        "excerpt": "hyper-casual",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 500,
+    "installEvidence": {
+      "minInstalls": 500,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.ns.crowd.pickup.jam&hl=en&gl=US",
+      "fetchedAt": "2026-10-19T09:13:45.888Z"
+    },
+    "id": "com.ns.crowd.pickup.jam",
+    "title": "Crowd Pickup Jam",
+    "subtitle": "Guide color-matched crowds, manage traffic jams, load passengers into vehicles!",
+    "description": "Guide color-matched crowds, manage traffic jams, load passengers into vehicles!",
+    "overviewEn": "Guide color-matched crowds, manage traffic jams, load passengers into vehicles!",
+    "genre": "Hypercasual",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "Runner",
+      "Sorting",
+      "Tap gameplay"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "Runner",
+        "excerpt": "running",
+        "basis": "Official developer gameplay text"
+      },
+      {
+        "tag": "Sorting",
+        "excerpt": "sorting",
+        "basis": "Official developer gameplay text"
+      },
+      {
+        "tag": "Tap gameplay",
+        "excerpt": "one-tap",
+        "basis": "Official developer gameplay text"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Takenick Innovation",
+    "ads": true,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.ns.crowd.pickup.jam&hl=en&gl=US",
+    "fetchedAt": "2026-10-19T09:13:45.888Z",
+    "sourceDate": "2026-10-19",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-05-07",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "May 7, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.ns.crowd.pickup.jam&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/FaZ67-ZBwX_SW3j-BNep-zH9dAMHX9Nhe51xCWLvJ9wtcMQClwvgIkIVs916xfW4XAdg3xK9ky5XfQV7YoTnErc",
+    "categories": [
+      "hypercasual"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "hypercasual",
+        "excerpt": "hyper-casual",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 100000,
+    "installEvidence": {
+      "minInstalls": 100000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.trz.runner.master.mini.games&hl=en&gl=US",
+      "fetchedAt": "2026-10-19T09:13:50.278Z"
+    },
+    "id": "com.trz.runner.master.mini.games",
+    "title": "Run Master: Fun Mini Games",
+    "subtitle": "Dash through endless tracks and thrilling mini-games!",
+    "description": "Dash through endless tracks and thrilling mini-games!",
+    "overviewEn": "Dash through endless tracks and thrilling mini-games!",
+    "genre": "Hypercasual",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "In-app purchases",
+      "Runner"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      },
+      {
+        "tag": "Runner",
+        "excerpt": "runner",
+        "basis": "Official developer gameplay text"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "TRZ Technologies",
+    "ads": true,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.trz.runner.master.mini.games&hl=en&gl=US",
+    "fetchedAt": "2026-10-19T09:13:50.278Z",
+    "sourceDate": "2026-10-19",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-03-18",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Mar 18, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.trz.runner.master.mini.games&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/YOTB9OtYuTYmCTNE5DHJrbGWikSkzClHEsZj3HuVC_0AFB05Jr8ug9ocdJ-h6zrIJOAHCRc3svKbKwOXqGEJ",
+    "categories": [
+      "hypercasual"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "hypercasual",
+        "excerpt": "hypercasual",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 10,
+    "installEvidence": {
+      "minInstalls": 10,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.Silkaurastudios.CrowdBlitz&hl=en&gl=US",
+      "fetchedAt": "2026-10-19T09:13:59.896Z"
+    },
+    "id": "com.Silkaurastudios.CrowdBlitz",
+    "title": "Crowd Blitz: Crowd Runner",
+    "subtitle": "Absorb rivals, grow your crowd & race to the top in this neon arcade runner!",
+    "description": "Absorb rivals, grow your crowd & race to the top in this neon arcade runner!",
+    "overviewEn": "Absorb rivals, grow your crowd & race to the top in this neon arcade runner!",
+    "genre": "Hypercasual",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "+ Exploration",
+      "Runner"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "+ Exploration",
+        "excerpt": "explore a stunning urban world",
+        "basis": "Official developer gameplay text"
+      },
+      {
+        "tag": "Runner",
+        "excerpt": "Runner",
+        "basis": "Official developer gameplay text"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Silkaura Studios",
+    "ads": true,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.Silkaurastudios.CrowdBlitz&hl=en&gl=US",
+    "fetchedAt": "2026-10-19T09:13:59.896Z",
+    "sourceDate": "2026-10-19",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2025-06-14",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Jun 14, 2025",
+      "url": "https://play.google.com/store/apps/details?id=com.Silkaurastudios.CrowdBlitz&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/uN5UKfPyktotB07b5kc50Swr5UEZtdxZgv_suRpt0XQXlifE5p0FDdUGBtiO-T692aAt5PF-VgLoie1FlJmJWQ",
+    "categories": [
+      "hypercasual"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "hypercasual",
+        "excerpt": "hyper casual",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 500000,
+    "installEvidence": {
+      "minInstalls": 500000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.puzztime.pastimes&hl=en&gl=US",
+      "fetchedAt": "2026-10-19T09:14:03.392Z"
+    },
+    "id": "com.puzztime.pastimes",
+    "title": "Pastimes - Mini Games",
+    "subtitle": "Have fun with daily pastimes for the whole family! Relaxing mini games",
+    "description": "Have fun with daily pastimes for the whole family! Relaxing mini games",
+    "overviewEn": "Have fun with daily pastimes for the whole family! Relaxing mini games",
+    "genre": "Hypercasual",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "In-app purchases"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Puzztime!",
+    "ads": true,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.puzztime.pastimes&hl=en&gl=US",
+    "fetchedAt": "2026-10-19T09:14:03.392Z",
+    "sourceDate": "2026-10-19",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2024-12-02",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Dec 2, 2024",
+      "url": "https://play.google.com/store/apps/details?id=com.puzztime.pastimes&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/OZhuDCsGSF-75_Kgzb1yIWirULTuHEjG3V62NMgwxCKdeaLQvdSK0kAF-IUsGGk9aQjYwNpRWT3avtCEeUVDBg",
+    "categories": [
+      "hypercasual"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "hypercasual",
+        "excerpt": "hypercasual",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 10000000,
+    "installEvidence": {
+      "minInstalls": 10000000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.funreal.corporatetycoon&hl=en&gl=US",
+      "fetchedAt": "2026-10-19T09:14:07.640Z"
+    },
+    "id": "com.funreal.corporatetycoon",
+    "title": "Office Life: Idle Tycoon Games",
+    "subtitle": "Fun office game: run and manage a full business empire, expand and make money!",
+    "description": "Fun office game: run and manage a full business empire, expand and make money!",
+    "overviewEn": "Fun office game: run and manage a full business empire, expand and make money!",
+    "genre": "Hypercasual",
+    "world": "",
+    "tags": [
+      "Single player",
+      "Stylized",
+      "Offline",
+      "Free download",
+      "Android",
+      "Contains ads",
+      "In-app purchases",
+      "+ Management",
+      "Runner"
+    ],
+    "evidence": [
+      {
+        "tag": "Single player",
+        "basis": "Google Play category label mapping",
+        "excerpt": "Single player"
+      },
+      {
+        "tag": "Stylized",
+        "basis": "Google Play category label mapping",
+        "excerpt": "Stylized"
+      },
+      {
+        "tag": "Offline",
+        "basis": "Google Play category label mapping",
+        "excerpt": "Offline"
+      },
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      },
+      {
+        "tag": "+ Management",
+        "excerpt": "run and manage a full business",
+        "basis": "Official developer gameplay text"
+      },
+      {
+        "tag": "Runner",
+        "excerpt": "running",
+        "basis": "Official developer gameplay text"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Supercent, Inc.",
+    "ads": true,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.funreal.corporatetycoon&hl=en&gl=US",
+    "fetchedAt": "2026-10-19T09:14:07.640Z",
+    "sourceDate": "2026-10-19",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2024-11-24",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Nov 24, 2024",
+      "url": "https://play.google.com/store/apps/details?id=com.funreal.corporatetycoon&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/wy6bpZRMN-MS0YIFSP9jQtGvj6uB6BBvu-R237cvoCK69nlkpbmu7YGVFFgkXzaF9Lqz4tx8BagGblwsnacSZA",
+    "categories": [
+      "hypercasual"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "hypercasual",
+        "excerpt": "hypercasual",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 100,
+    "installEvidence": {
+      "minInstalls": 100,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.darkcheetahstudios.laststand&hl=en&gl=US",
+      "fetchedAt": "2026-10-19T09:14:13.771Z"
+    },
+    "id": "com.darkcheetahstudios.laststand",
+    "title": "Squad Runner & Grow Army War",
+    "subtitle": "Collect soldiers, grow your army & auto-shoot waves. Offline squad runner war!",
+    "description": "Collect soldiers, grow your army & auto-shoot waves. Offline squad runner war!",
+    "overviewEn": "Collect soldiers, grow your army & auto-shoot waves. Offline squad runner war!",
+    "genre": "Hypercasual",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "Runner"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "Runner",
+        "excerpt": "Runner",
+        "basis": "Official developer gameplay text"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "DeepMoneyMinds",
+    "ads": true,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.darkcheetahstudios.laststand&hl=en&gl=US",
+    "fetchedAt": "2026-10-19T09:14:13.771Z",
+    "sourceDate": "2026-10-19",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-04-22",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Apr 22, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.darkcheetahstudios.laststand&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/mDXS4ahgm0Sjs3x_WeATD2JRsI5wlE1-DCejlyQYfu2vQ3-3FBmrrUz80QbLUr9wW9CSjEx5Fzq_I3S8XsySbQ",
+    "categories": [
+      "hypercasual"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "strategy",
+        "excerpt": "GAME_STRATEGY",
+        "basis": "Official Google Play category"
+      },
+      {
+        "category": "hypercasual",
+        "excerpt": "HYPER CASUAL",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 500,
+    "installEvidence": {
+      "minInstalls": 500,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.mobrunnergame.cs&hl=en&gl=US",
+      "fetchedAt": "2026-10-19T09:14:31.229Z"
+    },
+    "id": "com.mobrunnergame.cs",
+    "title": "Mob Runner: Shoot & Run 3D",
+    "subtitle": "Multiply your crowd,shoot enemies, and defeat the giant boss in this 3D runner!",
+    "description": "Multiply your crowd,shoot enemies, and defeat the giant boss in this 3D runner!",
+    "overviewEn": "Multiply your crowd,shoot enemies, and defeat the giant boss in this 3D runner!",
+    "genre": "Hypercasual",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "Runner"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "Runner",
+        "excerpt": "Runner",
+        "basis": "Official developer gameplay text"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "CornStatus",
+    "ads": true,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.mobrunnergame.cs&hl=en&gl=US",
+    "fetchedAt": "2026-10-19T09:14:31.229Z",
+    "sourceDate": "2026-10-19",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-02-19",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Feb 19, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.mobrunnergame.cs&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/JIsNxjOi2vjeq-WjZL-clF23b5cw9M__txRu9ZKjSscamMuRek76xVLM9TMmjAetQiJYLKwwi0I6-cS9iWSHxL8",
+    "categories": [
+      "hypercasual"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "hypercasual",
+        "excerpt": "hyper-casual",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 1,
+    "installEvidence": {
+      "minInstalls": 1,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.gameinthstudios.crowdcraze&hl=en&gl=US",
+      "fetchedAt": "2026-10-19T09:14:43.280Z"
+    },
+    "id": "com.gameinthstudios.crowdcraze",
+    "title": "Crowd Craze",
+    "subtitle": "Grow your crowd, choose best gates, dodge obstacles, and reach the finish line!",
+    "description": "Grow your crowd, choose best gates, dodge obstacles, and reach the finish line!",
+    "overviewEn": "Grow your crowd, choose best gates, dodge obstacles, and reach the finish line!",
+    "genre": "Hypercasual",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Runner"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Runner",
+        "excerpt": "runner",
+        "basis": "Official developer gameplay text"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Gameinth",
+    "ads": null,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.gameinthstudios.crowdcraze&hl=en&gl=US",
+    "fetchedAt": "2026-10-19T09:14:43.280Z",
+    "sourceDate": "2026-10-19",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-07-16",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Jul 16, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.gameinthstudios.crowdcraze&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/oh1Qwd3g3ODZKY1QtKPWZF0-JzEihfSUMxuOYvgApxRccSM2F5Acl5eflXPLlib7mt91eUSjkPu0QqiXrYtKmg",
+    "categories": [
+      "hypercasual"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "hypercasual",
+        "excerpt": "hyper-casual",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 50,
+    "installEvidence": {
+      "minInstalls": 50,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.hazyshozyxuan.massive.crowd.battle.run&hl=en&gl=US",
+      "fetchedAt": "2026-10-19T09:14:44.186Z"
+    },
+    "id": "com.hazyshozyxuan.massive.crowd.battle.run",
+    "title": "Massive Crowd Battle Run",
+    "subtitle": "Lead a growing crowd, race forward, and battle opponents in epic runs.",
+    "description": "Lead a growing crowd, race forward, and battle opponents in epic runs.",
+    "overviewEn": "Lead a growing crowd, race forward, and battle opponents in epic runs.",
+    "genre": "Hypercasual",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "+ Combat",
+      "Runner"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "+ Combat",
+        "excerpt": "battle opponents",
+        "basis": "Official developer gameplay text"
+      },
+      {
+        "tag": "Runner",
+        "excerpt": "running",
+        "basis": "Official developer gameplay text"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Hazy Shozy Xuan",
+    "ads": true,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.hazyshozyxuan.massive.crowd.battle.run&hl=en&gl=US",
+    "fetchedAt": "2026-10-19T09:14:44.186Z",
+    "sourceDate": "2026-10-19",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-02-13",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Feb 13, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.hazyshozyxuan.massive.crowd.battle.run&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/hlOakPwBckJOeFptMUsP3_hGIlwIFxLKTAK5qEAzJ0VoCM9IMHWQ_MpruRelYdn6RXRzMozZYbSdPOVpe2D5rA",
+    "categories": [
+      "hypercasual"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "hypercasual",
+        "excerpt": "hyper-casual",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 50,
+    "installEvidence": {
+      "minInstalls": 50,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.almagorgames.tapontime&hl=en&gl=US",
+      "fetchedAt": "2026-10-19T09:15:18.503Z"
+    },
+    "id": "com.almagorgames.tapontime",
+    "title": "Tap On Time",
+    "subtitle": "Test your reflexes in the ultimate rhythm arcade challenge.Can you Tap On Time?",
+    "description": "Test your reflexes in the ultimate rhythm arcade challenge.Can you Tap On Time?",
+    "overviewEn": "Test your reflexes in the ultimate rhythm arcade challenge.Can you Tap On Time?",
+    "genre": "Hypercasual",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "In-app purchases",
+      "Runner"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      },
+      {
+        "tag": "Runner",
+        "excerpt": "Runner",
+        "basis": "Official developer gameplay text"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Kfir Almagor",
+    "ads": true,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.almagorgames.tapontime&hl=en&gl=US",
+    "fetchedAt": "2026-10-19T09:15:18.503Z",
+    "sourceDate": "2026-10-19",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-06-05",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Jun 5, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.almagorgames.tapontime&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/xEvpCwR632khrOkHANKMCuLZKCFgkcA_q968cFMNaJUolXMlHLvxobRVM12BsClY2GNA9bj4sGDdaiIbMDk5P34",
+    "categories": [
+      "hypercasual"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "hypercasual",
+        "excerpt": "hyper-casual",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 1000,
+    "installEvidence": {
+      "minInstalls": 1000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.MunirGame.HelixBallJump.puzzle.ball.fruits.helix&hl=en&gl=US",
+      "fetchedAt": "2026-10-19T09:15:24.791Z"
+    },
+    "id": "com.MunirGame.HelixBallJump.puzzle.ball.fruits.helix",
+    "title": "Helix Ball Jump",
+    "subtitle": "Jump down the spiral tower, avoid traps, and test your reflexes!",
+    "description": "Jump down the spiral tower, avoid traps, and test your reflexes!",
+    "overviewEn": "Jump down the spiral tower, avoid traps, and test your reflexes!",
+    "genre": "Hypercasual",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "Runner",
+      "Stacking"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "Runner",
+        "excerpt": "runner",
+        "basis": "Official developer gameplay text"
+      },
+      {
+        "tag": "Stacking",
+        "excerpt": "Stack",
+        "basis": "Official developer gameplay text"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "MunirGame",
+    "ads": true,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.MunirGame.HelixBallJump.puzzle.ball.fruits.helix&hl=en&gl=US",
+    "fetchedAt": "2026-10-19T09:15:24.791Z",
+    "sourceDate": "2026-10-19",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2025-08-24",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Aug 24, 2025",
+      "url": "https://play.google.com/store/apps/details?id=com.MunirGame.HelixBallJump.puzzle.ball.fruits.helix&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/K2mNOhuSoTW8Lc60PlDPPZnxpiVOnAVp9mAKRzpNNvJ4IaQvcZbs22arTf1rngLF8_tjRFWB-TqiSy0oxEw42g",
+    "categories": [
+      "hypercasual"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "hypercasual",
+        "excerpt": "hyper-casual",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 100,
+    "installEvidence": {
+      "minInstalls": 100,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.TinmoiDev.StackBall3D&hl=en&gl=US",
+      "fetchedAt": "2026-10-19T09:15:31.686Z"
+    },
+    "id": "com.TinmoiDev.StackBall3D",
+    "title": "Jump Ball 3D",
+    "subtitle": "Jump, bounce, and rise to the top! Master the challenge in Jump Ball 3D.",
+    "description": "Jump, bounce, and rise to the top! Master the challenge in Jump Ball 3D.",
+    "overviewEn": "Jump, bounce, and rise to the top! Master the challenge in Jump Ball 3D.",
+    "genre": "Hypercasual",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Velcrinn",
+    "ads": true,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.TinmoiDev.StackBall3D&hl=en&gl=US",
+    "fetchedAt": "2026-10-19T09:15:31.686Z",
+    "sourceDate": "2026-10-19",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2024-12-25",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Dec 25, 2024",
+      "url": "https://play.google.com/store/apps/details?id=com.TinmoiDev.StackBall3D&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/XtslfNZXY8qiBrH79_c4k009QW56XRSVVrsj7HCvQW0qnwOV-_9vwvAXsy5exhj94CdBuKETfdupY22iIHXUog",
+    "categories": [
+      "hypercasual"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "hypercasual",
+        "excerpt": "hyper-casual",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 10,
+    "installEvidence": {
+      "minInstalls": 10,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=labs.KestrelNebula.vertica&hl=en&gl=US",
+      "fetchedAt": "2026-10-19T09:20:02.337Z"
+    },
+    "id": "labs.KestrelNebula.vertica",
+    "title": "VERTICA: Tap & Stack Blocks",
+    "subtitle": "Stack blocks & build the highest tower! A hyper-casual reflex arcade game.",
+    "description": "Stack blocks & build the highest tower! A hyper-casual reflex arcade game.",
+    "overviewEn": "Stack blocks & build the highest tower! A hyper-casual reflex arcade game.",
+    "genre": "Hypercasual",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "Stacking",
+      "Tap gameplay"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "Stacking",
+        "excerpt": "Stack",
+        "basis": "Official developer gameplay text"
+      },
+      {
+        "tag": "Tap gameplay",
+        "excerpt": "One-Tap",
+        "basis": "Official developer gameplay text"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "KestrelNebula Labs",
+    "ads": true,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=labs.KestrelNebula.vertica&hl=en&gl=US",
+    "fetchedAt": "2026-10-19T09:20:02.337Z",
+    "sourceDate": "2026-10-19",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-05-16",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "May 16, 2026",
+      "url": "https://play.google.com/store/apps/details?id=labs.KestrelNebula.vertica&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/n0sA_sEh03lfuxW2oq3HbOTF2RkayPE30QgtCtHydyD7MyyAM1lEs8yUEB_RjuEzbjNFhPTh6Ap0xx1NiXk02Q",
+    "categories": [
+      "hypercasual"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "hypercasual",
+        "excerpt": "hyper-casual",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 10,
+    "installEvidence": {
+      "minInstalls": 10,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=labs.KestreNebula.slynk&hl=en&gl=US",
+      "fetchedAt": "2026-10-19T09:20:04.950Z"
+    },
+    "id": "labs.KestreNebula.slynk",
+    "title": "SLYNK: Neon Snake Arcade",
+    "subtitle": "SLYNK: a fluid neon snake game. Swipe, glow, survive, beat your best",
+    "description": "SLYNK: a fluid neon snake game. Swipe, glow, survive, beat your best",
+    "overviewEn": "SLYNK: a fluid neon snake game. Swipe, glow, survive, beat your best",
+    "genre": "Hypercasual",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "KestrelNebula Labs",
+    "ads": true,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=labs.KestreNebula.slynk&hl=en&gl=US",
+    "fetchedAt": "2026-10-19T09:20:04.950Z",
+    "sourceDate": "2026-10-19",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-04-07",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Apr 7, 2026",
+      "url": "https://play.google.com/store/apps/details?id=labs.KestreNebula.slynk&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/ZU0fK9N7yJtR96CyEeG2y_Yt-NIrAENKbRimgMuts7bYrfNYM-tbSPx3iJ2mmH2dnXNpT3yyVacF8fiCOw7Fuw",
+    "categories": [
+      "hypercasual"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "hypercasual",
+        "excerpt": "hyper-casual",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 100,
+    "installEvidence": {
+      "minInstalls": 100,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.tapball.app&hl=en&gl=US",
+      "fetchedAt": "2026-10-19T09:20:07.559Z"
+    },
+    "id": "com.tapball.app",
+    "title": "GapDash: Ball Reflex Jump Game",
+    "subtitle": "Tap to jump, avoid gates & trigger Overdrive Hyper-Dash!",
+    "description": "Tap to jump, avoid gates & trigger Overdrive Hyper-Dash!",
+    "overviewEn": "Tap to jump, avoid gates & trigger Overdrive Hyper-Dash!",
+    "genre": "Hypercasual",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "Tap gameplay"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "Tap gameplay",
+        "excerpt": "Tap to",
+        "basis": "Official developer gameplay text"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "KestrelNebula Labs",
+    "ads": true,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.tapball.app&hl=en&gl=US",
+    "fetchedAt": "2026-10-19T09:20:07.559Z",
+    "sourceDate": "2026-10-19",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-03-19",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Mar 19, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.tapball.app&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/3Y9NzwXqqYXOE80WYLUL6nvISeqtHHh1WWRmIQgG6saabz_BHzKaF2qoyoOrqoqjDJN72Fo9K2_Cd0qd7zAA",
+    "categories": [
+      "hypercasual"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "hypercasual",
+        "excerpt": "hypercasual",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 5000,
+    "installEvidence": {
+      "minInstalls": 5000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.Zyrocraft.TrackRush&hl=en&gl=US",
+      "fetchedAt": "2026-10-19T09:20:10.192Z"
+    },
+    "id": "com.Zyrocraft.TrackRush",
+    "title": "Track Rush – Speed Tap Game 3D",
+    "subtitle": "Feel the rush! A fast-paced speed tap game in 3D that tests your reflexes.",
+    "description": "Feel the rush! A fast-paced speed tap game in 3D that tests your reflexes.",
+    "overviewEn": "Feel the rush! A fast-paced speed tap game in 3D that tests your reflexes.",
+    "genre": "Hypercasual",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Zyrocraft",
+    "ads": true,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.Zyrocraft.TrackRush&hl=en&gl=US",
+    "fetchedAt": "2026-10-19T09:20:10.192Z",
+    "sourceDate": "2026-10-19",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2025-06-17",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Jun 17, 2025",
+      "url": "https://play.google.com/store/apps/details?id=com.Zyrocraft.TrackRush&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/HyGBNS8AcDoovWpaS9gaCiEiZMm8r7cPBw0xFB7_3h8fY3roZF6r_vczOaBXpyjOWnpuNygtbkaitwSN7JD6xQ",
+    "categories": [
+      "hypercasual"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "hypercasual",
+        "excerpt": "hyper casual",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 1000,
+    "installEvidence": {
+      "minInstalls": 1000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.trz.animal.stack.game&hl=en&gl=US",
+      "fetchedAt": "2026-10-19T09:20:19.790Z"
+    },
+    "id": "com.trz.animal.stack.game",
+    "title": "Animal Stack: Endless Fun Run",
+    "subtitle": "Stack animals, run endlessly, and dodge obstacles in this fun casual runner game",
+    "description": "Stack animals, run endlessly, and dodge obstacles in this fun casual runner game",
+    "overviewEn": "Stack animals, run endlessly, and dodge obstacles in this fun casual runner game",
+    "genre": "Hypercasual",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "Runner",
+      "Stacking"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "Runner",
+        "excerpt": "runner",
+        "basis": "Official developer gameplay text"
+      },
+      {
+        "tag": "Stacking",
+        "excerpt": "Stack",
+        "basis": "Official developer gameplay text"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "TRZ Technologies",
+    "ads": true,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.trz.animal.stack.game&hl=en&gl=US",
+    "fetchedAt": "2026-10-19T09:20:19.790Z",
+    "sourceDate": "2026-10-19",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-07-09",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Jul 9, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.trz.animal.stack.game&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/Nw6LcW6i5Ob1IZebyhMgV7yBX3s4AxQhOknPIzkJWR7zHRy8zgZg88N6CpjX3DKrOp9pbmQ6MqlBVO7yJLbEKQ",
+    "categories": [
+      "hypercasual"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "hypercasual",
+        "excerpt": "hyper casual",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 50,
+    "installEvidence": {
+      "minInstalls": 50,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.SilkauraStudios.BlockRise&hl=en&gl=US",
+      "fetchedAt": "2026-10-19T09:20:35.556Z"
+    },
+    "id": "com.SilkauraStudios.BlockRise",
+    "title": "Block Rise: Stack Tower Game",
+    "subtitle": "Tap to stack blocks and build the tallest tower in this isometric stacking game!",
+    "description": "Tap to stack blocks and build the tallest tower in this isometric stacking game!",
+    "overviewEn": "Tap to stack blocks and build the tallest tower in this isometric stacking game!",
+    "genre": "Hypercasual",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "Stacking",
+      "Tap gameplay"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "Stacking",
+        "excerpt": "Stack",
+        "basis": "Official developer gameplay text"
+      },
+      {
+        "tag": "Tap gameplay",
+        "excerpt": "Tap to",
+        "basis": "Official developer gameplay text"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Silkaura Studios",
+    "ads": true,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.SilkauraStudios.BlockRise&hl=en&gl=US",
+    "fetchedAt": "2026-10-19T09:20:35.556Z",
+    "sourceDate": "2026-10-19",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2025-08-01",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Aug 1, 2025",
+      "url": "https://play.google.com/store/apps/details?id=com.SilkauraStudios.BlockRise&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/yovUhnD0m0FVcI34I00BQcYI7qtBm586HA3g3AIHuP0Omhr4kAv0cbUZh96oISnYZa7j5AfbMh57QKLl9XO6qw",
+    "categories": [
+      "hypercasual"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "hypercasual",
+        "excerpt": "hyper casual",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 10,
+    "installEvidence": {
+      "minInstalls": 10,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.SilkauraStudios.CubeRush&hl=en&gl=US",
+      "fetchedAt": "2026-10-19T09:20:37.288Z"
+    },
+    "id": "com.SilkauraStudios.CubeRush",
+    "title": "Cube Rush: Endless Runner",
+    "subtitle": "Time your jumps across moving platforms in this endless arcade runner!",
+    "description": "Time your jumps across moving platforms in this endless arcade runner!",
+    "overviewEn": "Time your jumps across moving platforms in this endless arcade runner!",
+    "genre": "Hypercasual",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "Runner",
+      "Tap gameplay"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "Runner",
+        "excerpt": "Runner",
+        "basis": "Official developer gameplay text"
+      },
+      {
+        "tag": "Tap gameplay",
+        "excerpt": "one tap",
+        "basis": "Official developer gameplay text"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Silkaura Studios",
+    "ads": true,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.SilkauraStudios.CubeRush&hl=en&gl=US",
+    "fetchedAt": "2026-10-19T09:20:37.288Z",
+    "sourceDate": "2026-10-19",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2025-07-02",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Jul 2, 2025",
+      "url": "https://play.google.com/store/apps/details?id=com.SilkauraStudios.CubeRush&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/NpPlHCVmZ2QP9xGJple2knsr6jLEb7fkiSEjyogF-Jw2_WLkTRJvR3UmTQ2P077K_p6Fnnenz6uEsxvF5S1fzQ",
+    "categories": [
+      "hypercasual"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "hypercasual",
+        "excerpt": "hyper casual",
+        "basis": "Official developer gameplay text"
+      }
+    ]
   }
 ]

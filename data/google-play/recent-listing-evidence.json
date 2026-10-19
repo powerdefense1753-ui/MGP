@@ -1877,6 +1877,45 @@
     "url": "https://play.google.com/store/apps/details?id=com.gl.dominoblast&hl=en&gl=US",
     "fetchedAt": "2026-10-12T08:19:01.554Z"
   },
+  "com.ohtrix.hextherex": {
+    "appId": "com.ohtrix.hextherex",
+    "title": "Hex The Rex",
+    "summary": "Build your Hexer deck, counter rivals and blast through ten colorful arenas.",
+    "installs": "10+",
+    "minInstalls": 10,
+    "score": null,
+    "ratings": null,
+    "price": 0,
+    "free": true,
+    "currency": "USD",
+    "priceText": "Free",
+    "offersIAP": false,
+    "adSupported": false,
+    "developer": "VLB",
+    "developerId": "VLB",
+    "developerInternalID": "VLB",
+    "genre": "Strategy",
+    "genreId": "GAME_STRATEGY",
+    "categories": [
+      {
+        "name": "Strategy",
+        "id": "GAME_STRATEGY"
+      }
+    ],
+    "icon": "https://play-lh.googleusercontent.com/BAo4atCDTt4owAtJA4E8B_-y_Xf_oxG4dHe4QG5pfbIueoNyZRJKKMOIcMPG-NJfqK_1y8Kl4IgF4QaTl9pa",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/-yjpgfC9lM5d9jL2I2WX9gqWvfedaEjcArEByNnVH5Uo2SuaQm8mhJ34UEBqMw85nqXeJUaWARljECOCuu5eFw",
+      "https://play-lh.googleusercontent.com/gBbRbzKN-KJM0SpQDd0tVTLolh-3Zg3UQ-uHMfEfe1ig-JjpuOdYvMdz2tFdD1Ptwle6ozpuQil6RB4UkbE12A",
+      "https://play-lh.googleusercontent.com/c7HyLy4cObVUaqizeB9XYYpHq9MAzxDirTzayvrga7blrZeGfk7H70hG-1gH-_HV0SQSIuW5lLv8DGeFFDqvbKs",
+      "https://play-lh.googleusercontent.com/6QNOdCG0UiVE_z3sQc7lSJwS9k0SJMy0qniChFppTPZv1VK9cVzgHAiYDDP4L02zuQQfMTUFtfMRewklQWvleg"
+    ],
+    "released": "Sep 28, 2026",
+    "updated": 1790611796000,
+    "preregister": false,
+    "earlyAccessEnabled": false,
+    "url": "https://play.google.com/store/apps/details?id=com.ohtrix.hextherex&hl=en&gl=US",
+    "fetchedAt": "2026-10-19T08:12:20.842Z"
+  },
   "com.aft.navalseabattle": {
     "appId": "com.aft.navalseabattle",
     "title": "Naval Sea Battle",
@@ -2254,6 +2293,65 @@
     "earlyAccessEnabled": false,
     "url": "https://play.google.com/store/apps/details?id=com.ssi.car.driving.game.drifting&hl=en&gl=US",
     "fetchedAt": "2026-10-12T08:49:23.213Z"
+  },
+  "lumex.team.fortress": {
+    "appId": "lumex.team.fortress",
+    "title": "Fortress Clash",
+    "summary": "Build your base, raise an army, and raid rival kingdoms across a vast world.",
+    "installs": "10+",
+    "minInstalls": 10,
+    "score": null,
+    "ratings": null,
+    "price": 0,
+    "free": true,
+    "currency": "USD",
+    "priceText": "Free",
+    "offersIAP": false,
+    "adSupported": true,
+    "developer": "VLB",
+    "developerId": "VLB",
+    "developerInternalID": "VLB",
+    "genre": "Strategy",
+    "genreId": "GAME_STRATEGY",
+    "categories": [
+      {
+        "name": "Strategy",
+        "id": "GAME_STRATEGY"
+      }
+    ],
+    "icon": "https://play-lh.googleusercontent.com/a_-9tWzYsLWug3QpgQ3lg1Eybn5jd0V-Es7Zj4guKXTQAhJA-Y9TFqkDBphHUwy1GO7XKIR1Lm-vidt48VRN",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/frIUTchcMSM_CPsc7sjNfsfqascCuj1q1-eiKpVhcPRSCe3m0SjEaUNZrarAW6QhJDWW3iEUsuWYvgitdZkfHw",
+      "https://play-lh.googleusercontent.com/k_t9T9HfQlQ31aJvFaAP1-12FBEXn0dVaqgbHsRw-4olgC86DP8pBfZkyJKgNONXP_LASkaf83bpPMDHvAJl",
+      "https://play-lh.googleusercontent.com/NYu7-e7tHpoZYbfRSrLwKVOzGewxwe332hp2HXl7QrZPluU29dYgmp47kRhwWrM1YxoN2GUIkGEk3o6FZtFm1g",
+      "https://play-lh.googleusercontent.com/V9QRK8nXIFLrQqgA0kPz74_gnucCz5BgSV-cna9XRyhjNJjd8CJFtU4seaCG3FUsTGTixzz1jANSlZU5BuOfsjA",
+      "https://play-lh.googleusercontent.com/frIUTchcMSM_CPsc7sjNfsfqascCuj1q1-eiKpVhcPRSCe3m0SjEaUNZrarAW6QhJDWW3iEUsuWYvgitdZkfHw",
+      "https://play-lh.googleusercontent.com/k_t9T9HfQlQ31aJvFaAP1-12FBEXn0dVaqgbHsRw-4olgC86DP8pBfZkyJKgNONXP_LASkaf83bpPMDHvAJl",
+      "https://play-lh.googleusercontent.com/NYu7-e7tHpoZYbfRSrLwKVOzGewxwe332hp2HXl7QrZPluU29dYgmp47kRhwWrM1YxoN2GUIkGEk3o6FZtFm1g",
+      "https://play-lh.googleusercontent.com/V9QRK8nXIFLrQqgA0kPz74_gnucCz5BgSV-cna9XRyhjNJjd8CJFtU4seaCG3FUsTGTixzz1jANSlZU5BuOfsjA",
+      "https://play-lh.googleusercontent.com/frIUTchcMSM_CPsc7sjNfsfqascCuj1q1-eiKpVhcPRSCe3m0SjEaUNZrarAW6QhJDWW3iEUsuWYvgitdZkfHw",
+      "https://play-lh.googleusercontent.com/k_t9T9HfQlQ31aJvFaAP1-12FBEXn0dVaqgbHsRw-4olgC86DP8pBfZkyJKgNONXP_LASkaf83bpPMDHvAJl",
+      "https://play-lh.googleusercontent.com/NYu7-e7tHpoZYbfRSrLwKVOzGewxwe332hp2HXl7QrZPluU29dYgmp47kRhwWrM1YxoN2GUIkGEk3o6FZtFm1g",
+      "https://play-lh.googleusercontent.com/V9QRK8nXIFLrQqgA0kPz74_gnucCz5BgSV-cna9XRyhjNJjd8CJFtU4seaCG3FUsTGTixzz1jANSlZU5BuOfsjA",
+      "https://play-lh.googleusercontent.com/frIUTchcMSM_CPsc7sjNfsfqascCuj1q1-eiKpVhcPRSCe3m0SjEaUNZrarAW6QhJDWW3iEUsuWYvgitdZkfHw",
+      "https://play-lh.googleusercontent.com/k_t9T9HfQlQ31aJvFaAP1-12FBEXn0dVaqgbHsRw-4olgC86DP8pBfZkyJKgNONXP_LASkaf83bpPMDHvAJl",
+      "https://play-lh.googleusercontent.com/NYu7-e7tHpoZYbfRSrLwKVOzGewxwe332hp2HXl7QrZPluU29dYgmp47kRhwWrM1YxoN2GUIkGEk3o6FZtFm1g",
+      "https://play-lh.googleusercontent.com/V9QRK8nXIFLrQqgA0kPz74_gnucCz5BgSV-cna9XRyhjNJjd8CJFtU4seaCG3FUsTGTixzz1jANSlZU5BuOfsjA",
+      "https://play-lh.googleusercontent.com/frIUTchcMSM_CPsc7sjNfsfqascCuj1q1-eiKpVhcPRSCe3m0SjEaUNZrarAW6QhJDWW3iEUsuWYvgitdZkfHw",
+      "https://play-lh.googleusercontent.com/k_t9T9HfQlQ31aJvFaAP1-12FBEXn0dVaqgbHsRw-4olgC86DP8pBfZkyJKgNONXP_LASkaf83bpPMDHvAJl",
+      "https://play-lh.googleusercontent.com/NYu7-e7tHpoZYbfRSrLwKVOzGewxwe332hp2HXl7QrZPluU29dYgmp47kRhwWrM1YxoN2GUIkGEk3o6FZtFm1g",
+      "https://play-lh.googleusercontent.com/V9QRK8nXIFLrQqgA0kPz74_gnucCz5BgSV-cna9XRyhjNJjd8CJFtU4seaCG3FUsTGTixzz1jANSlZU5BuOfsjA",
+      "https://play-lh.googleusercontent.com/frIUTchcMSM_CPsc7sjNfsfqascCuj1q1-eiKpVhcPRSCe3m0SjEaUNZrarAW6QhJDWW3iEUsuWYvgitdZkfHw",
+      "https://play-lh.googleusercontent.com/k_t9T9HfQlQ31aJvFaAP1-12FBEXn0dVaqgbHsRw-4olgC86DP8pBfZkyJKgNONXP_LASkaf83bpPMDHvAJl",
+      "https://play-lh.googleusercontent.com/NYu7-e7tHpoZYbfRSrLwKVOzGewxwe332hp2HXl7QrZPluU29dYgmp47kRhwWrM1YxoN2GUIkGEk3o6FZtFm1g",
+      "https://play-lh.googleusercontent.com/V9QRK8nXIFLrQqgA0kPz74_gnucCz5BgSV-cna9XRyhjNJjd8CJFtU4seaCG3FUsTGTixzz1jANSlZU5BuOfsjA"
+    ],
+    "released": "Sep 23, 2026",
+    "updated": 1790171688000,
+    "preregister": false,
+    "earlyAccessEnabled": false,
+    "url": "https://play.google.com/store/apps/details?id=lumex.team.fortress&hl=en&gl=US",
+    "fetchedAt": "2026-10-19T08:12:24.022Z"
   },
   "proto.legends.rhandum": {
     "appId": "proto.legends.rhandum",
@@ -2670,6 +2768,51 @@
     "earlyAccessEnabled": false,
     "url": "https://play.google.com/store/apps/details?id=battle.turretfront.tdarmy&hl=en&gl=US",
     "fetchedAt": "2026-10-12T10:59:59.928Z"
+  },
+  "com.hjzx.sfgame": {
+    "appId": "com.hjzx.sfgame",
+    "title": "Iron Frontline: TD",
+    "summary": "Command a covert defense unit in a war-torn sci-fi world.",
+    "installs": "10,000+",
+    "minInstalls": 10000,
+    "score": null,
+    "ratings": null,
+    "price": 0,
+    "free": true,
+    "currency": "USD",
+    "priceText": "Free",
+    "offersIAP": false,
+    "adSupported": true,
+    "developer": "SFungames",
+    "developerId": "8259975684251951518",
+    "developerInternalID": "8259975684251951518",
+    "genre": "Strategy",
+    "genreId": "GAME_STRATEGY",
+    "categories": [
+      {
+        "name": "Strategy",
+        "id": "GAME_STRATEGY"
+      }
+    ],
+    "icon": "https://play-lh.googleusercontent.com/VK4_LMK12gvidiJ1pLA0uXFyD9J1zYI-ocvAD1VMsq4a9RDxlDsxw8TkqIjkY03XbTPQcyc6VG3Rq55Gax-x",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/CpMVsg4O7DCF3G32oFcCUHOCb6SfzE1yGTE2lCZ1Z_tGc4jEG8zP9BGW8s2XAXgjXT7CgAQ0ZVSnC0UmYFL2z90",
+      "https://play-lh.googleusercontent.com/FScEVPTAu0e1HGXjq409xPRi2QvMCwcSyX_tSBfXyWXJNJhZF84C5SSETZ5M6vFd_-AQNkviyoq2wZzWYw15FQ",
+      "https://play-lh.googleusercontent.com/_K4026HCH0WXPHWTrlrRMhMTnjquFNpsnlSXdHINlF5_EN2XMTRg5LAAl1EAAmvCUjmZOhLcpnmCi6Vmce7v",
+      "https://play-lh.googleusercontent.com/8j3LTyQWPY6OkuN_NwBpd8Q58gSItcza5OmxIRYPAuieauBudnlxPfcWIwA9PtijUMoFnNJutDacqP_APCPjnw",
+      "https://play-lh.googleusercontent.com/PFqGNLIhnMCPjvLc-SghvunSd46oaW2XHy2aHHS08Tmal_b4-D_6OfYXIC7JLTGBgBc0kghdtxHeBGuf2TCPSw",
+      "https://play-lh.googleusercontent.com/CpMVsg4O7DCF3G32oFcCUHOCb6SfzE1yGTE2lCZ1Z_tGc4jEG8zP9BGW8s2XAXgjXT7CgAQ0ZVSnC0UmYFL2z90",
+      "https://play-lh.googleusercontent.com/FScEVPTAu0e1HGXjq409xPRi2QvMCwcSyX_tSBfXyWXJNJhZF84C5SSETZ5M6vFd_-AQNkviyoq2wZzWYw15FQ",
+      "https://play-lh.googleusercontent.com/_K4026HCH0WXPHWTrlrRMhMTnjquFNpsnlSXdHINlF5_EN2XMTRg5LAAl1EAAmvCUjmZOhLcpnmCi6Vmce7v",
+      "https://play-lh.googleusercontent.com/8j3LTyQWPY6OkuN_NwBpd8Q58gSItcza5OmxIRYPAuieauBudnlxPfcWIwA9PtijUMoFnNJutDacqP_APCPjnw",
+      "https://play-lh.googleusercontent.com/PFqGNLIhnMCPjvLc-SghvunSd46oaW2XHy2aHHS08Tmal_b4-D_6OfYXIC7JLTGBgBc0kghdtxHeBGuf2TCPSw"
+    ],
+    "released": "Sep 21, 2026",
+    "updated": 1792331091000,
+    "preregister": false,
+    "earlyAccessEnabled": false,
+    "url": "https://play.google.com/store/apps/details?id=com.hjzx.sfgame&hl=en&gl=US",
+    "fetchedAt": "2026-10-19T08:12:33.242Z"
   },
   "com.ultimagames.plague.tower.defence.game": {
     "appId": "com.ultimagames.plague.tower.defence.game",
@@ -3114,6 +3257,56 @@
     "earlyAccessEnabled": false,
     "url": "https://play.google.com/store/apps/details?id=com.phoenixtb.livingkingdom&hl=en&gl=US",
     "fetchedAt": "2026-10-13T02:25:48.692Z"
+  },
+  "com.ae.PinballKingTowersClash.yuanzi": {
+    "appId": "com.ae.PinballKingTowersClash.yuanzi",
+    "title": "Pinball King Towers Clash",
+    "summary": "Targeted ejection, contesting the twin towers",
+    "installs": "50+",
+    "minInstalls": 50,
+    "score": null,
+    "ratings": null,
+    "price": 0,
+    "free": true,
+    "currency": "USD",
+    "priceText": "Free",
+    "offersIAP": false,
+    "adSupported": false,
+    "developer": "VLB",
+    "developerId": "VLB",
+    "developerInternalID": "VLB",
+    "genre": "Strategy",
+    "genreId": "GAME_STRATEGY",
+    "categories": [
+      {
+        "name": "Strategy",
+        "id": "GAME_STRATEGY"
+      }
+    ],
+    "icon": "https://play-lh.googleusercontent.com/T2CyXKwt-fe8r2hofkqhvmq8huJ2uIF3dvvJA4AlJyns_ssSh9bd4BlDL5CBmLAJr2g0tP-t0MHno6miaup08Do",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/mY0owqsn8AmErceSbn6aRXyBtvL6uZrFvbWZqoJD-zuntysx2YL7u56HUydXpCxaVXP-mwHTR0QqXOi6DgOYIRY",
+      "https://play-lh.googleusercontent.com/W1reSbU7RZn2wi2J7xQSokKZyjbAnsBUhm-GpZXQ9Ejl33uFdUwepoWXgBUOLam6FKyt2FIToXmFhj1VLMT2lw",
+      "https://play-lh.googleusercontent.com/k2MLG7p1J_USbAhM9OgcG8KbhrQU-cOBW99fAgZTDL_I_bX5kiZQpTPWrh1hybq1dfP0Oimzb9FleQp8JEz2F2s",
+      "https://play-lh.googleusercontent.com/MvGCxC_yodG9EbkDgaOwYsOOuSv98td4Uh7UWF-XMDa88cL2cXKPkLrU5_HBAinxJCtS7MkKVdN5frMeghzvhg",
+      "https://play-lh.googleusercontent.com/4NMCOia6oEMQyOummnx_OaHf5uHEIfArvPuayGrTBrrFtCs0nyFFqyScKjh4NVIu3ARwa42GxiECMdq_orqbyA",
+      "https://play-lh.googleusercontent.com/mY0owqsn8AmErceSbn6aRXyBtvL6uZrFvbWZqoJD-zuntysx2YL7u56HUydXpCxaVXP-mwHTR0QqXOi6DgOYIRY",
+      "https://play-lh.googleusercontent.com/W1reSbU7RZn2wi2J7xQSokKZyjbAnsBUhm-GpZXQ9Ejl33uFdUwepoWXgBUOLam6FKyt2FIToXmFhj1VLMT2lw",
+      "https://play-lh.googleusercontent.com/k2MLG7p1J_USbAhM9OgcG8KbhrQU-cOBW99fAgZTDL_I_bX5kiZQpTPWrh1hybq1dfP0Oimzb9FleQp8JEz2F2s",
+      "https://play-lh.googleusercontent.com/MvGCxC_yodG9EbkDgaOwYsOOuSv98td4Uh7UWF-XMDa88cL2cXKPkLrU5_HBAinxJCtS7MkKVdN5frMeghzvhg",
+      "https://play-lh.googleusercontent.com/4NMCOia6oEMQyOummnx_OaHf5uHEIfArvPuayGrTBrrFtCs0nyFFqyScKjh4NVIu3ARwa42GxiECMdq_orqbyA",
+      "https://play-lh.googleusercontent.com/wKmrZREHjhxGGxLG0wd0iHq6sEKmRiRloi6WJWbg5drp6GDvzi_OLmBzLw02irExgoh_uN5Zw1KOj8MHCrh5",
+      "https://play-lh.googleusercontent.com/W1reSbU7RZn2wi2J7xQSokKZyjbAnsBUhm-GpZXQ9Ejl33uFdUwepoWXgBUOLam6FKyt2FIToXmFhj1VLMT2lw",
+      "https://play-lh.googleusercontent.com/k2MLG7p1J_USbAhM9OgcG8KbhrQU-cOBW99fAgZTDL_I_bX5kiZQpTPWrh1hybq1dfP0Oimzb9FleQp8JEz2F2s",
+      "https://play-lh.googleusercontent.com/MvGCxC_yodG9EbkDgaOwYsOOuSv98td4Uh7UWF-XMDa88cL2cXKPkLrU5_HBAinxJCtS7MkKVdN5frMeghzvhg",
+      "https://play-lh.googleusercontent.com/4NMCOia6oEMQyOummnx_OaHf5uHEIfArvPuayGrTBrrFtCs0nyFFqyScKjh4NVIu3ARwa42GxiECMdq_orqbyA"
+    ],
+    "released": "Sep 17, 2026",
+    "updated": 1789726962000,
+    "preregister": false,
+    "earlyAccessEnabled": false,
+    "url": "https://play.google.com/store/apps/details?id=com.ae.PinballKingTowersClash.yuanzi&hl=en&gl=US",
+    "fetchedAt": "2026-10-19T08:12:20.848Z"
   },
   "leyi.ageofspirits": {
     "appId": "leyi.ageofspirits",
@@ -4079,6 +4272,46 @@
     "url": "https://play.google.com/store/apps/details?id=com.heartcore.drawbusters&hl=en&gl=US",
     "fetchedAt": "2026-10-19T05:23:02.185Z"
   },
+  "com.khelian.backpack": {
+    "appId": "com.khelian.backpack",
+    "title": "Fort Battles: Backpack PvP",
+    "summary": "PvP strategy: build your backpack army and conquer the battlefield!",
+    "installs": "100+",
+    "minInstalls": 100,
+    "score": null,
+    "ratings": null,
+    "price": 0,
+    "free": true,
+    "currency": "USD",
+    "priceText": "Free",
+    "offersIAP": false,
+    "adSupported": false,
+    "developer": "Khelian Games",
+    "developerId": "Khelian+Games",
+    "developerInternalID": "Khelian+Games",
+    "genre": "Strategy",
+    "genreId": "GAME_STRATEGY",
+    "categories": [
+      {
+        "name": "Strategy",
+        "id": "GAME_STRATEGY"
+      }
+    ],
+    "icon": "https://play-lh.googleusercontent.com/eIEtPT4sFMIbyjNbeTx0mye0EE0MWFY1YMYosz5kOgot9LD6cTmaxPH2Mkr5i8Y4Ij3WpUWAQSDxuKOpK4fFXw",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/kjJovukUCe9krxiVljCqC6-Ps5nI15NkBzkqDRmVEp2QBPTKTg3x1eAta8H3unz9oTrVm8Myck6VYyQFrTzstg",
+      "https://play-lh.googleusercontent.com/ukj6hvd9DFMY_YE_5hmAt8A03thLRYYJ2d9E1mczZUNpU-Xky_JqjqsW_BszztPTCw9udZbcGzJ0DvCtUYEi7w",
+      "https://play-lh.googleusercontent.com/MNGbqBDmkdrvFFnT0vbulmDcLyFKs-ZqCfxn4q0qxX8OVAasTFaITF5DBcWqNel9Uvh7vk2CI_hB9ZiFZPI3cg",
+      "https://play-lh.googleusercontent.com/5Vg_UXlETbNTv76JdaaxRWOPyrw5fgXRpSGlUXdoGV9UIBCyLKRFOdBFth2lyrbqjSk_ggIE6W-1K-r-4F1uU6o",
+      "https://play-lh.googleusercontent.com/o6K6Ofjv6tPU4fRYA1NW3dXIKoadif5JSapd5ZvjDB0BFlbVdQg5rSoM79v8vAtjSI5h8M4x4iQY1KXUZoxR-tQ"
+    ],
+    "released": "Sep 11, 2026",
+    "updated": 1789375997000,
+    "preregister": false,
+    "earlyAccessEnabled": false,
+    "url": "https://play.google.com/store/apps/details?id=com.khelian.backpack&hl=en&gl=US",
+    "fetchedAt": "2026-10-19T07:43:32.263Z"
+  },
   "swarmfever.tower.game.freetato": {
     "appId": "swarmfever.tower.game.freetato",
     "title": "Swarm Fever: Hive Defense",
@@ -4171,6 +4404,46 @@
     "earlyAccessEnabled": false,
     "url": "https://play.google.com/store/apps/details?id=com.totalsiege.app&hl=en&gl=US",
     "fetchedAt": "2026-10-12T08:33:12.835Z"
+  },
+  "com.kingwordjp.sfungames": {
+    "appId": "com.kingwordjp.sfungames",
+    "title": "王の盤陣：文字合戦",
+    "summary": "Deploy your troops and protect the princess!",
+    "installs": "500+",
+    "minInstalls": 500,
+    "score": null,
+    "ratings": null,
+    "price": 0,
+    "free": true,
+    "currency": "USD",
+    "priceText": "Free",
+    "offersIAP": false,
+    "adSupported": true,
+    "developer": "SFungames",
+    "developerId": "8259975684251951518",
+    "developerInternalID": "8259975684251951518",
+    "genre": "Strategy",
+    "genreId": "GAME_STRATEGY",
+    "categories": [
+      {
+        "name": "Strategy",
+        "id": "GAME_STRATEGY"
+      }
+    ],
+    "icon": "https://play-lh.googleusercontent.com/st9H4K6IZZRK0-V-PdqPDzgyb8XFV2rHVYWQC9CfKt9nbTxu6ec8ZrthH5tYC5KjdokraZw2cJOIZK8oJa7gQw",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/MwLE0ywtkJ5w60HSmMIcOod7Ml0kfweufjQ0qygbo3rNsSgdlEhjyIih0k5J-bRGUGuboODMXZVeb12ttTXBqA",
+      "https://play-lh.googleusercontent.com/UcEddL0B0NM1qDhqbJAOdVyXhphLzRrZn4Jarn5GH4rXnm1bT0a5b09dg2lTYazhU3FZXOCiWdCyDWsRh7Pe",
+      "https://play-lh.googleusercontent.com/BjVBRDh2oEIe2x7yri_BgLVfqh55-ETGrlwvMY28JlLQgUS4pkG0tcOUutEwQ6mUaKkqJFuTPIEVp8ffeLhpLg",
+      "https://play-lh.googleusercontent.com/CqqngPBFLi2AImg_GXLwlg7Gz-gj6KvRIdXj6Jha4-kHxQezg_2w-wbvrg1E8vJkhbhscSklmu7qWVb4jivpW-o",
+      "https://play-lh.googleusercontent.com/epPdHClvky8le4PLfwqcDZ1jSBa0Ki3iJp0Lv8fe9_r3uMYbIYNXmPRuLCzlnqEwklBrEyce07MWRlj1mYtXKcc"
+    ],
+    "released": "Sep 10, 2026",
+    "updated": 1789108526000,
+    "preregister": false,
+    "earlyAccessEnabled": false,
+    "url": "https://play.google.com/store/apps/details?id=com.kingwordjp.sfungames&hl=en&gl=US",
+    "fetchedAt": "2026-10-19T08:12:34.528Z"
   },
   "com.adelyons.checkfall": {
     "appId": "com.adelyons.checkfall",
@@ -4984,6 +5257,49 @@
     "earlyAccessEnabled": false,
     "url": "https://play.google.com/store/apps/details?id=com.studio42.coffeepress&hl=en&gl=US",
     "fetchedAt": "2026-10-13T07:14:51.105Z"
+  },
+  "bridge.defense.roguelike.strategy.td.game": {
+    "appId": "bridge.defense.roguelike.strategy.td.game",
+    "title": "Bridge Defense: Roguelike TD",
+    "summary": "Swipe to hold the line in this roguelike auto shooter tower defense game.",
+    "installs": "1,000+",
+    "minInstalls": 1000,
+    "score": 4.818182,
+    "ratings": 190,
+    "price": 0,
+    "free": true,
+    "currency": "USD",
+    "priceText": "Free",
+    "offersIAP": true,
+    "adSupported": true,
+    "developer": "Shycheese",
+    "developerId": "5997762656272250366",
+    "developerInternalID": "5997762656272250366",
+    "genre": "Strategy",
+    "genreId": "GAME_STRATEGY",
+    "categories": [
+      {
+        "name": "Strategy",
+        "id": "GAME_STRATEGY"
+      }
+    ],
+    "icon": "https://play-lh.googleusercontent.com/omZcjDn4hXkEtffZfLiP_5eCYgkQmTqFRK8UhQoL_T61hzok1r3Xvylyimo9jSOKLdcOgzkYDEcOBUUnRHRT8w",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/j-JAW2kgHmAedRUb9mc31e91lra1GyPpK6eIQpVGxt_h05y2EOAeTZ2oBPoNnt4J1aCHSNHjLIfKORZ8NzEcTQ",
+      "https://play-lh.googleusercontent.com/VPQYHT3WQtlWzu_9slP8nAfCBueoSvzBkGcmQ63H5Z4yJORFBnRp2P_ooHWvUy1A0nyYlzkoCCm4JRNEKblWaA",
+      "https://play-lh.googleusercontent.com/e6ZdBof0kEcuTGJGVmubKTm3v-JgAKl1KTypFaOGf4R6m88vIFqfvxfdjR11QzNA_0bH1OzwBaqbrG2L7IfFPw",
+      "https://play-lh.googleusercontent.com/GXhKxgNriR83xZxFJS7v_AmQQvITYHe96tAzBgQ3X5_VHiU8pjKZmwcRWNHpfaSSV_AFVywb_NxyTE8Guc2m",
+      "https://play-lh.googleusercontent.com/q7pYqArKx6N2Q8oEhKFrawuGI2rpYnZKQn2fSLDVgVkWmv9CE7irIir2pc3dIE7_gMHZZ-y1JkpYJB31sP54",
+      "https://play-lh.googleusercontent.com/dttpkJg-1dyU40qvUQc-oqu-mhRdsY9hDr9rcCSeCD34tPtAC421TSbIr8gaz383Uwof8_XPQQMGCFXFLoPv9A",
+      "https://play-lh.googleusercontent.com/Cbig4tlDQgbIMXRxEcQBX1tPvlneDgtzLBMjymet38O9TqGVRpPEPiXR7Wz050rcJAcQfW5rpjMgx3RzV43O2Ls",
+      "https://play-lh.googleusercontent.com/lFq3nnYSSZ3FWi4QW26dunLg_Vyacs7QBqZ81l9aDMRxjS2p91FT3KYvcZEd2pIXepoeDJgSQUHXD0fgZVypOA"
+    ],
+    "released": "Sep 3, 2026",
+    "updated": 1788435189000,
+    "preregister": false,
+    "earlyAccessEnabled": false,
+    "url": "https://play.google.com/store/apps/details?id=bridge.defense.roguelike.strategy.td.game&hl=en&gl=US",
+    "fetchedAt": "2026-10-19T07:57:36.244Z"
   },
   "com.dharmaapps.insecttower100": {
     "appId": "com.dharmaapps.insecttower100",
@@ -6242,6 +6558,56 @@
     "url": "https://play.google.com/store/apps/details?id=com.coffee.shop.casual&hl=en&gl=US",
     "fetchedAt": "2026-10-12T08:22:17.388Z"
   },
+  "com.mega.priate.dice.rpg": {
+    "appId": "com.mega.priate.dice.rpg",
+    "title": "Pirate Dice",
+    "summary": "Roll dice, crush enemy ships, loot treasure &amp; build your pirate crew!",
+    "installs": "5,000+",
+    "minInstalls": 5000,
+    "score": null,
+    "ratings": null,
+    "price": 0,
+    "free": true,
+    "currency": "USD",
+    "priceText": "Free",
+    "offersIAP": false,
+    "adSupported": true,
+    "developer": "sologame998",
+    "developerId": "8910274497050900072",
+    "developerInternalID": "8910274497050900072",
+    "genre": "Strategy",
+    "genreId": "GAME_STRATEGY",
+    "categories": [
+      {
+        "name": "Strategy",
+        "id": "GAME_STRATEGY"
+      }
+    ],
+    "icon": "https://play-lh.googleusercontent.com/yMobrXcDG_fDghOgOAPfGn5pcwbEvljDuOFZSHD7tm9hKolvv-zCIwXNxII8wirex5gOM8-6Q-zPMkqknu4byw",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/Ju_RVEdK5JHF1buypRHxFhWDiQncdP_N0k1EfPJokMVxpe33gGGLSETe0H7pBLi8XQvIqjHu8ezCPG0WYvQ3_g",
+      "https://play-lh.googleusercontent.com/AInb5LyViAWIC6-6UUjq3YQ--E5skGOPdKCr86ef999_c29utK5GgahTUFhRLqrD_UbpYY89b43_NrOH0s0ViQ",
+      "https://play-lh.googleusercontent.com/EFIM1V2cmo0CIzlE2HdnglIvHYtPPHXzRrJpDc-qjBVM_CRASqZt0STGKzMGUA5At1PlcLtCk_dACH-iq0ny-_Y",
+      "https://play-lh.googleusercontent.com/cIwOuYCkf2fadgjBjKMkjzVU6a2gsh_WwRW8rK3CLTxjZsdGt9HdcJbd6_q5xW5Gu33yURrnschSvZTYrx93",
+      "https://play-lh.googleusercontent.com/B2Vj2D1wOp6LVi5CH8cNE_d_iR2509bWnumvYuNujb8VyWrEKaRsmHdhJ-sfiOR5-58b1JYyJRH8PJAdj72IrA",
+      "https://play-lh.googleusercontent.com/Ju_RVEdK5JHF1buypRHxFhWDiQncdP_N0k1EfPJokMVxpe33gGGLSETe0H7pBLi8XQvIqjHu8ezCPG0WYvQ3_g",
+      "https://play-lh.googleusercontent.com/AInb5LyViAWIC6-6UUjq3YQ--E5skGOPdKCr86ef999_c29utK5GgahTUFhRLqrD_UbpYY89b43_NrOH0s0ViQ",
+      "https://play-lh.googleusercontent.com/EFIM1V2cmo0CIzlE2HdnglIvHYtPPHXzRrJpDc-qjBVM_CRASqZt0STGKzMGUA5At1PlcLtCk_dACH-iq0ny-_Y",
+      "https://play-lh.googleusercontent.com/cIwOuYCkf2fadgjBjKMkjzVU6a2gsh_WwRW8rK3CLTxjZsdGt9HdcJbd6_q5xW5Gu33yURrnschSvZTYrx93",
+      "https://play-lh.googleusercontent.com/B2Vj2D1wOp6LVi5CH8cNE_d_iR2509bWnumvYuNujb8VyWrEKaRsmHdhJ-sfiOR5-58b1JYyJRH8PJAdj72IrA",
+      "https://play-lh.googleusercontent.com/-Nypu0J7v6ha_4o0Bet2yrhZ28M6oBYEn9SiotMWA3ttwEegPEfcq6KZq-pd-gjcCWG5xKxjNvQvqafAAf9j3O4",
+      "https://play-lh.googleusercontent.com/W1i8ID62iUxCT_mQgvYHPXdmvpFTcOS3MS2X7p0DdN4Wo-cL2LAFery7xF-za0BfC9bX2cgoidpzZCRodd-3jA",
+      "https://play-lh.googleusercontent.com/L74ylvKdDHKmoxxWJ_kGMilOtvHhVqTKWBKafE_WAb6bFb2eoIlWWN0iQFTxNkm6BAtx03z5Sq_KrdFdHZZ48Q",
+      "https://play-lh.googleusercontent.com/FfCidshxBrdL2V4XawXNfLc9wcEuiYnRxZjbfivJz4j5-Qiofzh5ErTO7tEHFOyRqBKLhTB8A79Fsf0WGirgBg",
+      "https://play-lh.googleusercontent.com/bIslu50wPUha5jtvAoJmRAdKd7e39hwuxdymrpNghrTZfM1aMy_ZtBxU10NPfQHdVlO6qVEsLP2bHKYPaDJxbQ"
+    ],
+    "released": "Aug 20, 2026",
+    "updated": 1791772793000,
+    "preregister": false,
+    "earlyAccessEnabled": false,
+    "url": "https://play.google.com/store/apps/details?id=com.mega.priate.dice.rpg&hl=en&gl=US",
+    "fetchedAt": "2026-10-19T07:12:07.032Z"
+  },
   "com.camelgames.mnnew": {
     "appId": "com.camelgames.mnnew",
     "title": "Vice Throne",
@@ -6294,6 +6660,49 @@
     "earlyAccessEnabled": false,
     "url": "https://play.google.com/store/apps/details?id=com.camelgames.mnnew&hl=en&gl=US",
     "fetchedAt": "2026-10-12T08:22:59.100Z"
+  },
+  "com.doors.CrazyZombieLab": {
+    "appId": "com.doors.CrazyZombieLab",
+    "title": "Crazy Zombie Lab",
+    "summary": "Outsmart rival scientists, deploy mutagens, and build the ultimate zombie horde!",
+    "installs": "100+",
+    "minInstalls": 100,
+    "score": null,
+    "ratings": null,
+    "price": 0,
+    "free": true,
+    "currency": "USD",
+    "priceText": "Free",
+    "offersIAP": false,
+    "adSupported": false,
+    "developer": "VLB",
+    "developerId": "VLB",
+    "developerInternalID": "VLB",
+    "genre": "Strategy",
+    "genreId": "GAME_STRATEGY",
+    "categories": [
+      {
+        "name": "Strategy",
+        "id": "GAME_STRATEGY"
+      }
+    ],
+    "icon": "https://play-lh.googleusercontent.com/U6w1ajK_LIWU5a3e4bgusZ06z-uN8dY5ngoU3WGDHdO6iOVTIVyAnWPlksGlVKIFHHGMQgXe7CqnF093UT1K",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/y3VRg5SAuD_ZmjbY3XUa-n08uXMSjxvL3KcgxTErF0b9VQk---w9ZhtxG0Lh9z2Y_vwp23AQyE_DySdko90r0w",
+      "https://play-lh.googleusercontent.com/0vlZWUBJAgscUYDA1KV3fY9rsqR8e6eU9WFa0jJByyKaLJYPuiK76KwbE4OI-4bZnj0SlqLovMRFagHngCMtgg",
+      "https://play-lh.googleusercontent.com/Q-PMIrv4qCp615Ec9KGiYhJmY_knP4l0y5mHgeVLzA1ucB4bJ9pi8GN9meZaf3M5rtCy43k_yH8CGKf9xajdzA",
+      "https://play-lh.googleusercontent.com/iPDs4ZPKgL7tMErzAN5y8qWrhISfTezinoQuSWpd0KmqZPQY9aUxZewJa-B3UIDMtx-8G5jPfoUop0leZDa56w",
+      "https://play-lh.googleusercontent.com/i3Z7easxndZYbLRI5qrtfc5bE1U5AjJG3FXayf67kyjxMWHi5PJ1X4EsDQxGRdj74yLGauv8p5R9b_uuF-oruw",
+      "https://play-lh.googleusercontent.com/KjRLqMV9H1H17cvQeirWRxWXdVHNw7Ugq9fs6FTnukvk0qmJGYHWup3xoSKHZRAZ5QGPEqSO-qJ7EOaDIBUR",
+      "https://play-lh.googleusercontent.com/heB9wSZ_2row6DPbXtnAEfKZo_-g3S7pvDUbtpRSq-pVHbRtKEQL2zPAXPbit0oLZdDX0x3aXDX2jEG2s3rm_tM",
+      "https://play-lh.googleusercontent.com/gOc9vW_OzsZEj7uTw6KaSj3VGh9E0ghOzsbHb2RgQ3rCXSr4OmjcC-hciEI8k1RSN8NoIFRssCv2pcl7sH_pFg"
+    ],
+    "released": "Aug 19, 2026",
+    "updated": 1788286304000,
+    "preregister": false,
+    "earlyAccessEnabled": false,
+    "url": "https://play.google.com/store/apps/details?id=com.doors.CrazyZombieLab&hl=en&gl=US",
+    "fetchedAt": "2026-10-19T08:12:16.374Z"
   },
   "com.cookapps.towerroguedefense": {
     "appId": "com.cookapps.towerroguedefense",
@@ -7962,6 +8371,51 @@
     "url": "https://play.google.com/store/apps/details?id=com.orbital.space.defense&hl=en&gl=US",
     "fetchedAt": "2026-10-19T03:07:24.262Z"
   },
+  "com.ae.Raidspire.yuanzi": {
+    "appId": "com.ae.Raidspire.yuanzi",
+    "title": "Raidspire",
+    "summary": "Deploy troops and commanders, seize houses and forts.",
+    "installs": "5+",
+    "minInstalls": 5,
+    "score": null,
+    "ratings": null,
+    "price": 0,
+    "free": true,
+    "currency": "USD",
+    "priceText": "Free",
+    "offersIAP": false,
+    "adSupported": false,
+    "developer": "VLB",
+    "developerId": "VLB",
+    "developerInternalID": "VLB",
+    "genre": "Strategy",
+    "genreId": "GAME_STRATEGY",
+    "categories": [
+      {
+        "name": "Strategy",
+        "id": "GAME_STRATEGY"
+      }
+    ],
+    "icon": "https://play-lh.googleusercontent.com/fAEAnwBkPTCyD9-t_8rm88NmxOP3aViqIp0NypGoxOwksnUw7xlZpvdjNBQxPn102mSDsawdMRA2ixUtNMvDWg",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/J14ClPP4svJX1gJrfzcyRuICbswPYdlRcnH7HF9_jwQ49GJPtHT4vwTEqB2kvvF2Mo9cc9qw2c3oNll2_KSI3ow",
+      "https://play-lh.googleusercontent.com/3Bt5cdUHim4rfUc5hnIN55H7IkofJVdIy1KGcgSDpnPokpsAPGjLIhZO8l2KOq-4emfr8LwPTihSuFIAiT1efA",
+      "https://play-lh.googleusercontent.com/HrnSbLV_ktbqdI8upiZ2n6jDluOulYEVtbh082ZQGFzaqd6qwsWKg9gtqWdF3JPdRp18eQBd0-dHu089TeMW1fc",
+      "https://play-lh.googleusercontent.com/bhRFU9vwQ2mvwXqKQot2_brvaEhmVUDmpcng4W1uNeHsE4_7ctIVdt5NaGEZ88gK1GNDFbMzRd0XggLLZXg89oY",
+      "https://play-lh.googleusercontent.com/BRP8o6hSN22yL9mw-lhxal6QWnAqu2MVyayqnAVEMauPrbxbE5M1AmIUXpNriWAaRaqm62tXi9Gr_f_DqLJ0BBk",
+      "https://play-lh.googleusercontent.com/HrnSbLV_ktbqdI8upiZ2n6jDluOulYEVtbh082ZQGFzaqd6qwsWKg9gtqWdF3JPdRp18eQBd0-dHu089TeMW1fc",
+      "https://play-lh.googleusercontent.com/bhRFU9vwQ2mvwXqKQot2_brvaEhmVUDmpcng4W1uNeHsE4_7ctIVdt5NaGEZ88gK1GNDFbMzRd0XggLLZXg89oY",
+      "https://play-lh.googleusercontent.com/BRP8o6hSN22yL9mw-lhxal6QWnAqu2MVyayqnAVEMauPrbxbE5M1AmIUXpNriWAaRaqm62tXi9Gr_f_DqLJ0BBk",
+      "https://play-lh.googleusercontent.com/HrnSbLV_ktbqdI8upiZ2n6jDluOulYEVtbh082ZQGFzaqd6qwsWKg9gtqWdF3JPdRp18eQBd0-dHu089TeMW1fc",
+      "https://play-lh.googleusercontent.com/bhRFU9vwQ2mvwXqKQot2_brvaEhmVUDmpcng4W1uNeHsE4_7ctIVdt5NaGEZ88gK1GNDFbMzRd0XggLLZXg89oY"
+    ],
+    "released": "Aug 6, 2026",
+    "updated": 1787109639000,
+    "preregister": false,
+    "earlyAccessEnabled": false,
+    "url": "https://play.google.com/store/apps/details?id=com.ae.Raidspire.yuanzi&hl=en&gl=US",
+    "fetchedAt": "2026-10-19T08:12:14.780Z"
+  },
   "com.owlottergames.rotordefense": {
     "appId": "com.owlottergames.rotordefense",
     "title": "Rotor Defense",
@@ -9221,6 +9675,48 @@
     "url": "https://play.google.com/store/apps/details?id=com.humanxlabs.cityemergencydispatch&hl=en&gl=US",
     "fetchedAt": "2026-10-13T03:11:22.770Z"
   },
+  "com.khelian.color": {
+    "appId": "com.khelian.color",
+    "title": "Color Raiders PvP",
+    "summary": "Paint, conquer, and survive — control the most territory to win!",
+    "installs": "100+",
+    "minInstalls": 100,
+    "score": null,
+    "ratings": null,
+    "price": 0,
+    "free": true,
+    "currency": "USD",
+    "priceText": "Free",
+    "offersIAP": false,
+    "adSupported": false,
+    "developer": "Khelian Games",
+    "developerId": "Khelian+Games",
+    "developerInternalID": "Khelian+Games",
+    "genre": "Strategy",
+    "genreId": "GAME_STRATEGY",
+    "categories": [
+      {
+        "name": "Strategy",
+        "id": "GAME_STRATEGY"
+      }
+    ],
+    "icon": "https://play-lh.googleusercontent.com/QU4gK5VSreLEuXe6U-W4Jj7Bp8-h23YPeZy6rveUlWhfluQh5Ne8Z41xOdkdpBEbd23pqqUCGC1tKB8csmV6pTc",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/jeyNfZK5LH-NwNAIxd_nUOkhynl6htOj2tHPtHW74yh0EtetJilqsGNavHncfFqesQvR0dGJWuqtjkjAsPjj",
+      "https://play-lh.googleusercontent.com/n5LDfIrLtFl7cpck7Jf9g2EOr4Xs-w9O5L7bACsLFw7D-GhA1liko7aeHuIjajGAGXT61-rDaOpZVfxNhUyY",
+      "https://play-lh.googleusercontent.com/SUuq_S82Mdwa3uAcESg3OF0GZjZudyK2a9DNd8yUmMnuQkzX8jcb8ht1xdglXi9hklNhwizy4KbQLxiCBSKwxHs",
+      "https://play-lh.googleusercontent.com/5TffBaBU910wWsS4LGm1jAQFygcUv959dG-x-BbI933ri31RoX3S5OJpVerF7rN-YBvZaNa5KkgGRGB-cjdJ",
+      "https://play-lh.googleusercontent.com/n51wpegVlFwSe8U1qHvmuFnr7kZjCAyfhmo4ws9p7lHs9PRZad1NKWwyT-encVG9LJzmyFLQspVBTqW7uL3mtA",
+      "https://play-lh.googleusercontent.com/jeyNfZK5LH-NwNAIxd_nUOkhynl6htOj2tHPtHW74yh0EtetJilqsGNavHncfFqesQvR0dGJWuqtjkjAsPjj",
+      "https://play-lh.googleusercontent.com/n51wpegVlFwSe8U1qHvmuFnr7kZjCAyfhmo4ws9p7lHs9PRZad1NKWwyT-encVG9LJzmyFLQspVBTqW7uL3mtA"
+    ],
+    "released": "Jul 27, 2026",
+    "updated": 1785774514000,
+    "preregister": false,
+    "earlyAccessEnabled": false,
+    "url": "https://play.google.com/store/apps/details?id=com.khelian.color&hl=en&gl=US",
+    "fetchedAt": "2026-10-19T07:43:34.311Z"
+  },
   "com.daniverse.snakesurvivortds": {
     "appId": "com.daniverse.snakesurvivortds",
     "title": "Gnome Survivor: Garden Defense",
@@ -9368,6 +9864,48 @@
     "earlyAccessEnabled": false,
     "url": "https://play.google.com/store/apps/details?id=com.hackathon37.group22.evolveorganism&hl=en&gl=US",
     "fetchedAt": "2026-10-13T14:05:58.082Z"
+  },
+  "com.khelian.triada": {
+    "appId": "com.khelian.triada",
+    "title": "Triada Gangs",
+    "summary": "Build a squad of three heroes, control the streets, and crush the enemy base!",
+    "installs": "100+",
+    "minInstalls": 100,
+    "score": null,
+    "ratings": null,
+    "price": 0,
+    "free": true,
+    "currency": "USD",
+    "priceText": "Free",
+    "offersIAP": false,
+    "adSupported": false,
+    "developer": "Khelian Games",
+    "developerId": "Khelian+Games",
+    "developerInternalID": "Khelian+Games",
+    "genre": "Strategy",
+    "genreId": "GAME_STRATEGY",
+    "categories": [
+      {
+        "name": "Strategy",
+        "id": "GAME_STRATEGY"
+      }
+    ],
+    "icon": "https://play-lh.googleusercontent.com/vrxXknn9XLvt5HGEAGyv-dsW-NK8RK_CZBVbeuqkabo2mzskwdGF9I13CTBq3wNTtHyQ8ruzp1tJrLKKxGLP",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/5kLvLk_KtrqEVJ5Wm6j0BvzqbslUg3GukUfqYSFFy-Ah8B-eTbzFHAYkf8JWDbKl6KUoCToLLslXDPwRVUzHDw",
+      "https://play-lh.googleusercontent.com/wAc74QUuHZxHP9UZoZ7jQZnrW1VSVammuDqGNDyxLcENZDDU2yc7zwRNbhAF485D7U-y9H2STaS73KbzFwKCjQ",
+      "https://play-lh.googleusercontent.com/kpXIYxD1HzoU3FpKZC1oucW8zY10kmCwzIFkw7S8jVU-kT9nENGnal-iFxqZwyvS9tWO5TGwKK7g7glJoOlj",
+      "https://play-lh.googleusercontent.com/tDFvPwLHFlS710_A5e4kCHE8HWpyhLoO6G34JXmuDe7-xtJDTYRmECl1Tc9xkwV5pz06jWwBvhrAYLZHzmA9BQ",
+      "https://play-lh.googleusercontent.com/hz1ceoYKADlQ-lV727lo6s80oJdDZ1TIKuavLg7JcMAPc04ZYs_RI-jjIQNfVEohaWinziqIsFR2vwLRD7mPVA",
+      "https://play-lh.googleusercontent.com/kpXIYxD1HzoU3FpKZC1oucW8zY10kmCwzIFkw7S8jVU-kT9nENGnal-iFxqZwyvS9tWO5TGwKK7g7glJoOlj",
+      "https://play-lh.googleusercontent.com/5kLvLk_KtrqEVJ5Wm6j0BvzqbslUg3GukUfqYSFFy-Ah8B-eTbzFHAYkf8JWDbKl6KUoCToLLslXDPwRVUzHDw"
+    ],
+    "released": "Jul 27, 2026",
+    "updated": 1785867759000,
+    "preregister": false,
+    "earlyAccessEnabled": false,
+    "url": "https://play.google.com/store/apps/details?id=com.khelian.triada&hl=en&gl=US",
+    "fetchedAt": "2026-10-19T07:43:36.110Z"
   },
   "com.openmindworld.conqueringqueen": {
     "appId": "com.openmindworld.conqueringqueen",
@@ -9637,6 +10175,56 @@
     "url": "https://play.google.com/store/apps/details?id=com.bscotch.hmd&hl=en&gl=US",
     "fetchedAt": "2026-10-12T08:16:08.112Z"
   },
+  "games.tower.defense": {
+    "appId": "games.tower.defense",
+    "title": "Last Survivors: Zombie Defense",
+    "summary": "Build paths, upgrade towers, and survive a roguelike zombie tower defense!",
+    "installs": "10+",
+    "minInstalls": 10,
+    "score": null,
+    "ratings": null,
+    "price": 0,
+    "free": true,
+    "currency": "USD",
+    "priceText": "Free",
+    "offersIAP": true,
+    "adSupported": true,
+    "developer": "Pavetra LTD",
+    "developerId": "Pavetra+LTD",
+    "developerInternalID": "Pavetra+LTD",
+    "genre": "Strategy",
+    "genreId": "GAME_STRATEGY",
+    "categories": [
+      {
+        "name": "Strategy",
+        "id": "GAME_STRATEGY"
+      }
+    ],
+    "icon": "https://play-lh.googleusercontent.com/iu5wpV8BR5hCegAA3naeW_sCUjoZjxvaQ8VuvXk9m-4M6RMzGAILvCRv-pWcwtGTo351iJ_fjEvdBdPxv3hT",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/FamPvNRrtA3X3xQbSDj9xPqpeOLE_Kw_gpAoRYLWap-MfymzkucODflj23UiPCGTdJ-zjsuxYqDmYWTDMfAU",
+      "https://play-lh.googleusercontent.com/ZNxvNc5XwvxA5h6d7Bz2TEzXSD4_r34zwl7sMQUiCErmDo2ovNHX_c7Y5qravFPFGLk_ZQc05zsMu41AEgy_RA",
+      "https://play-lh.googleusercontent.com/gtfMWyBTwnYX86vhpMjsY_He2U_fLZGp_dNXi7yA8kMepyQ2IWW5V2g50xVJ2r8Uw4gaRZRczrVALK7l5yJMI_Y",
+      "https://play-lh.googleusercontent.com/jsNVqPH8GuHZZIkmckz-kPyXQwnUW1McxUxEoPTl5GXqXevB2WXODZEVaNhfcfzNnk6BkzqYvOL4Gjs7kieJv4U",
+      "https://play-lh.googleusercontent.com/ICp9h_aCQWtCsmNLSJl7ICSVUGGC5eclPOByE6gFio_llTcktwEbLTgRBr2Sg1t7mXYGnpufA0hsgByB2yEXzA",
+      "https://play-lh.googleusercontent.com/jsNVqPH8GuHZZIkmckz-kPyXQwnUW1McxUxEoPTl5GXqXevB2WXODZEVaNhfcfzNnk6BkzqYvOL4Gjs7kieJv4U",
+      "https://play-lh.googleusercontent.com/ZNxvNc5XwvxA5h6d7Bz2TEzXSD4_r34zwl7sMQUiCErmDo2ovNHX_c7Y5qravFPFGLk_ZQc05zsMu41AEgy_RA",
+      "https://play-lh.googleusercontent.com/gtfMWyBTwnYX86vhpMjsY_He2U_fLZGp_dNXi7yA8kMepyQ2IWW5V2g50xVJ2r8Uw4gaRZRczrVALK7l5yJMI_Y",
+      "https://play-lh.googleusercontent.com/ICp9h_aCQWtCsmNLSJl7ICSVUGGC5eclPOByE6gFio_llTcktwEbLTgRBr2Sg1t7mXYGnpufA0hsgByB2yEXzA",
+      "https://play-lh.googleusercontent.com/FamPvNRrtA3X3xQbSDj9xPqpeOLE_Kw_gpAoRYLWap-MfymzkucODflj23UiPCGTdJ-zjsuxYqDmYWTDMfAU",
+      "https://play-lh.googleusercontent.com/jsNVqPH8GuHZZIkmckz-kPyXQwnUW1McxUxEoPTl5GXqXevB2WXODZEVaNhfcfzNnk6BkzqYvOL4Gjs7kieJv4U",
+      "https://play-lh.googleusercontent.com/ZNxvNc5XwvxA5h6d7Bz2TEzXSD4_r34zwl7sMQUiCErmDo2ovNHX_c7Y5qravFPFGLk_ZQc05zsMu41AEgy_RA",
+      "https://play-lh.googleusercontent.com/gtfMWyBTwnYX86vhpMjsY_He2U_fLZGp_dNXi7yA8kMepyQ2IWW5V2g50xVJ2r8Uw4gaRZRczrVALK7l5yJMI_Y",
+      "https://play-lh.googleusercontent.com/ICp9h_aCQWtCsmNLSJl7ICSVUGGC5eclPOByE6gFio_llTcktwEbLTgRBr2Sg1t7mXYGnpufA0hsgByB2yEXzA",
+      "https://play-lh.googleusercontent.com/FamPvNRrtA3X3xQbSDj9xPqpeOLE_Kw_gpAoRYLWap-MfymzkucODflj23UiPCGTdJ-zjsuxYqDmYWTDMfAU"
+    ],
+    "released": "Jul 23, 2026",
+    "updated": 1792161615000,
+    "preregister": false,
+    "earlyAccessEnabled": false,
+    "url": "https://play.google.com/store/apps/details?id=games.tower.defense&hl=en&gl=US",
+    "fetchedAt": "2026-10-19T08:41:26.606Z"
+  },
   "com.wheatleyscience.luckypiratedeck": {
     "appId": "com.wheatleyscience.luckypiratedeck",
     "title": "Roguewake",
@@ -9829,6 +10417,55 @@
     "earlyAccessEnabled": false,
     "url": "https://play.google.com/store/apps/details?id=com.wfg.game&hl=en&gl=US",
     "fetchedAt": "2026-10-13T10:05:35.823Z"
+  },
+  "com.gearwordapex.sfgame": {
+    "appId": "com.gearwordapex.sfgame",
+    "title": "齿轮召唤：汉字战争",
+    "summary": "A Chinese ink-wash style text-based tower defense game! With gear-like descriptive elements, control your army of Chinese characters to crush the enemy's!",
+    "installs": "1,000+",
+    "minInstalls": 1000,
+    "score": null,
+    "ratings": null,
+    "price": 0,
+    "free": true,
+    "currency": "USD",
+    "priceText": "Free",
+    "offersIAP": false,
+    "adSupported": true,
+    "developer": "SFungames",
+    "developerId": "8259975684251951518",
+    "developerInternalID": "8259975684251951518",
+    "genre": "Strategy",
+    "genreId": "GAME_STRATEGY",
+    "categories": [
+      {
+        "name": "Strategy",
+        "id": "GAME_STRATEGY"
+      }
+    ],
+    "icon": "https://play-lh.googleusercontent.com/cUJ340u0x9dl_zBRArayIvECkxtp-v1Wfo3_3s5wIT_XdwFb-2zjBZDiF4hxLjmbM-qCFTLk3pKYgIxLnrAdHQ",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/erKUimdIbzp2x11aLsVXdmCWHsnVIJqHtSipZt6E6FDhALd8wPNNKCaURObPru0NT4MwpyEqJ3NyJEVeBsZOEQ",
+      "https://play-lh.googleusercontent.com/pjwkn2DyF6oY3Wj7eA7X5y9to34bNvuDdmng1SN38EJXqFTi3y5-nqUTdxLsnT-cO1_yvYvppwIXgcctXfdS3A",
+      "https://play-lh.googleusercontent.com/VIcxeuahdA0aK7Rr_aDrCzp3mHJmGu0i16yPpNSB2GK8gYVlkwicY7s1oH7gOAyVhHSohw_vh1ZdhWSJu2pXVA",
+      "https://play-lh.googleusercontent.com/SgJjW-PYmk1HRU6n2rlbckK2rVDhICYEbSnubNOl6ovTC1mdhDBXWtjshZanu_CXptLrwuoW6ssmNJ9XDikh",
+      "https://play-lh.googleusercontent.com/kUPU-ZNUlme6avVoZEevdcDjEUVkHf_Pyu6MjtV54a3vMykpN9a7ZjzdoRaTbuwWPnl5EE1L9TORNNrcsBri",
+      "https://play-lh.googleusercontent.com/erKUimdIbzp2x11aLsVXdmCWHsnVIJqHtSipZt6E6FDhALd8wPNNKCaURObPru0NT4MwpyEqJ3NyJEVeBsZOEQ",
+      "https://play-lh.googleusercontent.com/pjwkn2DyF6oY3Wj7eA7X5y9to34bNvuDdmng1SN38EJXqFTi3y5-nqUTdxLsnT-cO1_yvYvppwIXgcctXfdS3A",
+      "https://play-lh.googleusercontent.com/VIcxeuahdA0aK7Rr_aDrCzp3mHJmGu0i16yPpNSB2GK8gYVlkwicY7s1oH7gOAyVhHSohw_vh1ZdhWSJu2pXVA",
+      "https://play-lh.googleusercontent.com/SgJjW-PYmk1HRU6n2rlbckK2rVDhICYEbSnubNOl6ovTC1mdhDBXWtjshZanu_CXptLrwuoW6ssmNJ9XDikh",
+      "https://play-lh.googleusercontent.com/kUPU-ZNUlme6avVoZEevdcDjEUVkHf_Pyu6MjtV54a3vMykpN9a7ZjzdoRaTbuwWPnl5EE1L9TORNNrcsBri",
+      "https://play-lh.googleusercontent.com/erKUimdIbzp2x11aLsVXdmCWHsnVIJqHtSipZt6E6FDhALd8wPNNKCaURObPru0NT4MwpyEqJ3NyJEVeBsZOEQ",
+      "https://play-lh.googleusercontent.com/pjwkn2DyF6oY3Wj7eA7X5y9to34bNvuDdmng1SN38EJXqFTi3y5-nqUTdxLsnT-cO1_yvYvppwIXgcctXfdS3A",
+      "https://play-lh.googleusercontent.com/VIcxeuahdA0aK7Rr_aDrCzp3mHJmGu0i16yPpNSB2GK8gYVlkwicY7s1oH7gOAyVhHSohw_vh1ZdhWSJu2pXVA",
+      "https://play-lh.googleusercontent.com/SgJjW-PYmk1HRU6n2rlbckK2rVDhICYEbSnubNOl6ovTC1mdhDBXWtjshZanu_CXptLrwuoW6ssmNJ9XDikh"
+    ],
+    "released": "Jul 21, 2026",
+    "updated": 1785131401000,
+    "preregister": false,
+    "earlyAccessEnabled": false,
+    "url": "https://play.google.com/store/apps/details?id=com.gearwordapex.sfgame&hl=en&gl=US",
+    "fetchedAt": "2026-10-19T08:12:36.135Z"
   },
   "com.movga.castaways2.gp": {
     "appId": "com.movga.castaways2.gp",
@@ -10027,6 +10664,47 @@
     "earlyAccessEnabled": false,
     "url": "https://play.google.com/store/apps/details?id=com.pixelfederation.truck.real.simulator.transport.tycoon.offroad.manager&hl=en&gl=US",
     "fetchedAt": "2026-10-12T08:17:53.891Z"
+  },
+  "com.protogen.jungleattack": {
+    "appId": "com.protogen.jungleattack",
+    "title": "Jungle Attack",
+    "summary": "Hide, attack, outsmart your rival. Tactical jungle artillery duels!",
+    "installs": "10+",
+    "minInstalls": 10,
+    "score": null,
+    "ratings": null,
+    "price": 0,
+    "free": true,
+    "currency": "USD",
+    "priceText": "Free",
+    "offersIAP": false,
+    "adSupported": false,
+    "developer": "VLB",
+    "developerId": "VLB",
+    "developerInternalID": "VLB",
+    "genre": "Strategy",
+    "genreId": "GAME_STRATEGY",
+    "categories": [
+      {
+        "name": "Strategy",
+        "id": "GAME_STRATEGY"
+      }
+    ],
+    "icon": "https://play-lh.googleusercontent.com/lwDvuln3WnsF0-ohsRdll2onpBjBpln7u_ebiAA0zs9VdI70nMACRuN_11qcgA4Gkah3d-sVD8YeY2ZjlSa3uqw",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/pJeqjdpqsGAPzZnRZro7Tlylf9Gr6VcCh7x3PsxuPM5x70lNJzryS8XyAUw5prG5au0alUmYcOTmYxHyt_7fqic",
+      "https://play-lh.googleusercontent.com/E_GG6_1UbjfpoWtPyQEX9e6wUn-nwNll7XUU6wuHVlbcLUaoWvTfLkmJmHxOcbcxBjxUDXmIV5HP1BaLiiTk",
+      "https://play-lh.googleusercontent.com/6WcixZ8-M2OacGZa4Mf5kh_Ry9F31lnJujvLxX69Z6cy5KhmLvG3eKHY1MQ8uk4OjZfPt4wW047oObch9z-Gxg",
+      "https://play-lh.googleusercontent.com/zo9k161yEMsAWxmoLHPGyH-qiOp1D6Z_APoFW-WMIkLhDr7MVjyFbEcLtjpcORBJXIWlfzlluramT3Hl48lo",
+      "https://play-lh.googleusercontent.com/VU-gmCdDQsG-V4VWDV2zPFMco1sfrZOQ63YB_1yk_JZZ_CL-khMHeE6gfS0dNynHRV1TlmcPNJvQcLQCFWsTDw",
+      "https://play-lh.googleusercontent.com/qqY5b2pTMlojP4QCCiqqv6ViH0dCw00SraaZqELAqYXNUNn5jOUQoXh-3FsSU1G5tUjM-9i5kUNA5IsuAsmk"
+    ],
+    "released": "Jul 20, 2026",
+    "updated": 1784643774000,
+    "preregister": false,
+    "earlyAccessEnabled": false,
+    "url": "https://play.google.com/store/apps/details?id=com.protogen.jungleattack&hl=en&gl=US",
+    "fetchedAt": "2026-10-19T08:12:26.971Z"
   },
   "com.catdefenders.game": {
     "appId": "com.catdefenders.game",
@@ -10873,6 +11551,65 @@
     "url": "https://play.google.com/store/apps/details?id=com.rsgapps.reactor.two&hl=en&gl=US",
     "fetchedAt": "2026-10-12T08:41:42.396Z"
   },
+  "com.gameloops.rooftoprivals": {
+    "appId": "com.gameloops.rooftoprivals",
+    "title": "Rooftop Rivals",
+    "summary": "Build, battle, and conquer rooftops in fast-paced 1v1 strategy battles sim!",
+    "installs": "10+",
+    "minInstalls": 10,
+    "score": null,
+    "ratings": null,
+    "price": 0,
+    "free": true,
+    "currency": "USD",
+    "priceText": "Free",
+    "offersIAP": false,
+    "adSupported": false,
+    "developer": "Gameloops",
+    "developerId": "5853121983229225645",
+    "developerInternalID": "5853121983229225645",
+    "genre": "Strategy",
+    "genreId": "GAME_STRATEGY",
+    "categories": [
+      {
+        "name": "Strategy",
+        "id": "GAME_STRATEGY"
+      }
+    ],
+    "icon": "https://play-lh.googleusercontent.com/DctolPsbkgPPGy5EpqRYELO-f8T4Z0xcHfiCY9hYxU8Rp8R_Bge0n84dBdgSiH8RYwa6YXIEGbmVelYP42Hw",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/fzVVHIqqC-jRBPlvCXy3QPasmfH7OBFpCgKWNPNQGck-7MSqQ4PE4e-b0T-oNFrHNQZs8XiS-nC9pqGdPBVt_A",
+      "https://play-lh.googleusercontent.com/aaLO2POLeEOeysrKKXYtDmeOd98SzTCwIB5QcANQs-jIoNZx4DBQSO3Ntns8Sq8UoqpLV49IytOtv7AHLD945RE",
+      "https://play-lh.googleusercontent.com/deh5gZ1O2bzOK0YzOuI-rsE6UBUDKv5A69RXfLRuy0uKQURh5Ctqwyx43xDSu0w3Y3CQnBqxI-eQ1aP0E864KQ",
+      "https://play-lh.googleusercontent.com/XDJaPg6OXQkN4ztkCQgirlS7i32gII0JoMWghNQj24rq6GFBlJuXFfq76v2tSh4eRDtaF9N41cUaLiMfz6B0JEA",
+      "https://play-lh.googleusercontent.com/i8JX2jvkbsELtsJiBzbLXTT0wZTHbqvAvfXK8JhjOzY2omcRHFNKnH00V42HMQq9yeLrw2f99SkGMBfArySDjL0",
+      "https://play-lh.googleusercontent.com/kefR59MlBodMJuRXc0eLxQ3lwYRE4jioad3tEZyFpFXkjzRMfablN3lOTGdAsJF9WSVpyeCxa285HOg5ebPqBA",
+      "https://play-lh.googleusercontent.com/c_20KLj7uhjFGGYVW_bgXs_cVqOPq77Cfh34hQsyKIxDvv7gaA9ncWUqovW8ZVILTbSGIjrlz5iq-I1E7EsE9Q",
+      "https://play-lh.googleusercontent.com/up88dKxFRp_AovwD2KgQUiK2eLHJt0MEZ4--epuAGd6bMy4TBLBlf5KRgJIg6HYdutxmbPoVmT5huGOVN6jraQ",
+      "https://play-lh.googleusercontent.com/fzVVHIqqC-jRBPlvCXy3QPasmfH7OBFpCgKWNPNQGck-7MSqQ4PE4e-b0T-oNFrHNQZs8XiS-nC9pqGdPBVt_A",
+      "https://play-lh.googleusercontent.com/aaLO2POLeEOeysrKKXYtDmeOd98SzTCwIB5QcANQs-jIoNZx4DBQSO3Ntns8Sq8UoqpLV49IytOtv7AHLD945RE",
+      "https://play-lh.googleusercontent.com/deh5gZ1O2bzOK0YzOuI-rsE6UBUDKv5A69RXfLRuy0uKQURh5Ctqwyx43xDSu0w3Y3CQnBqxI-eQ1aP0E864KQ",
+      "https://play-lh.googleusercontent.com/XDJaPg6OXQkN4ztkCQgirlS7i32gII0JoMWghNQj24rq6GFBlJuXFfq76v2tSh4eRDtaF9N41cUaLiMfz6B0JEA",
+      "https://play-lh.googleusercontent.com/i8JX2jvkbsELtsJiBzbLXTT0wZTHbqvAvfXK8JhjOzY2omcRHFNKnH00V42HMQq9yeLrw2f99SkGMBfArySDjL0",
+      "https://play-lh.googleusercontent.com/kefR59MlBodMJuRXc0eLxQ3lwYRE4jioad3tEZyFpFXkjzRMfablN3lOTGdAsJF9WSVpyeCxa285HOg5ebPqBA",
+      "https://play-lh.googleusercontent.com/c_20KLj7uhjFGGYVW_bgXs_cVqOPq77Cfh34hQsyKIxDvv7gaA9ncWUqovW8ZVILTbSGIjrlz5iq-I1E7EsE9Q",
+      "https://play-lh.googleusercontent.com/up88dKxFRp_AovwD2KgQUiK2eLHJt0MEZ4--epuAGd6bMy4TBLBlf5KRgJIg6HYdutxmbPoVmT5huGOVN6jraQ",
+      "https://play-lh.googleusercontent.com/fzVVHIqqC-jRBPlvCXy3QPasmfH7OBFpCgKWNPNQGck-7MSqQ4PE4e-b0T-oNFrHNQZs8XiS-nC9pqGdPBVt_A",
+      "https://play-lh.googleusercontent.com/aaLO2POLeEOeysrKKXYtDmeOd98SzTCwIB5QcANQs-jIoNZx4DBQSO3Ntns8Sq8UoqpLV49IytOtv7AHLD945RE",
+      "https://play-lh.googleusercontent.com/deh5gZ1O2bzOK0YzOuI-rsE6UBUDKv5A69RXfLRuy0uKQURh5Ctqwyx43xDSu0w3Y3CQnBqxI-eQ1aP0E864KQ",
+      "https://play-lh.googleusercontent.com/XDJaPg6OXQkN4ztkCQgirlS7i32gII0JoMWghNQj24rq6GFBlJuXFfq76v2tSh4eRDtaF9N41cUaLiMfz6B0JEA",
+      "https://play-lh.googleusercontent.com/i8JX2jvkbsELtsJiBzbLXTT0wZTHbqvAvfXK8JhjOzY2omcRHFNKnH00V42HMQq9yeLrw2f99SkGMBfArySDjL0",
+      "https://play-lh.googleusercontent.com/kefR59MlBodMJuRXc0eLxQ3lwYRE4jioad3tEZyFpFXkjzRMfablN3lOTGdAsJF9WSVpyeCxa285HOg5ebPqBA",
+      "https://play-lh.googleusercontent.com/c_20KLj7uhjFGGYVW_bgXs_cVqOPq77Cfh34hQsyKIxDvv7gaA9ncWUqovW8ZVILTbSGIjrlz5iq-I1E7EsE9Q",
+      "https://play-lh.googleusercontent.com/up88dKxFRp_AovwD2KgQUiK2eLHJt0MEZ4--epuAGd6bMy4TBLBlf5KRgJIg6HYdutxmbPoVmT5huGOVN6jraQ"
+    ],
+    "released": "Jul 14, 2026",
+    "updated": 1784018578000,
+    "preregister": false,
+    "earlyAccessEnabled": false,
+    "url": "https://play.google.com/store/apps/details?id=com.gameloops.rooftoprivals&hl=en&gl=US",
+    "fetchedAt": "2026-10-19T08:11:40.860Z"
+  },
   "com.arcanumgames.russvshorde": {
     "appId": "com.arcanumgames.russvshorde",
     "title": "Russ vs Horde: Castle Strategy",
@@ -11240,6 +11977,46 @@
     "earlyAccessEnabled": false,
     "url": "https://play.google.com/store/apps/details?id=com.ssi.indian.tractor.games.farming&hl=en&gl=US",
     "fetchedAt": "2026-10-12T08:49:23.218Z"
+  },
+  "com.king.sfungames": {
+    "appId": "com.king.sfungames",
+    "title": "King's Grid: Word Fight",
+    "summary": "Deploy Troops &amp; Defend the Princess!",
+    "installs": "10,000+",
+    "minInstalls": 10000,
+    "score": 4.2222223,
+    "ratings": 233,
+    "price": 0,
+    "free": true,
+    "currency": "USD",
+    "priceText": "Free",
+    "offersIAP": false,
+    "adSupported": true,
+    "developer": "SFungames",
+    "developerId": "8259975684251951518",
+    "developerInternalID": "8259975684251951518",
+    "genre": "Strategy",
+    "genreId": "GAME_STRATEGY",
+    "categories": [
+      {
+        "name": "Strategy",
+        "id": "GAME_STRATEGY"
+      }
+    ],
+    "icon": "https://play-lh.googleusercontent.com/PZ4mb1wHjYngMh8xycI6h_IbNR-HAywC4lEKQcE3TfyjWGmmonGaA73cs7Y1yolmho3PexcwIOc2jzEwSGcq7Q",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/Y_QODCbWSjnVPBTljyERu1mD2JJMHqogI2h4nE-yI1pD2MPfuRVQ4rww8i3IKfwZ6Ie0rY3MWVeFcovf_Xd2tos",
+      "https://play-lh.googleusercontent.com/KvAZ0oIpNq-zyMo6zkkeX__NOG1ZASFpYP2U6_gvp8YjT3Sm3Q6wgzXzFIJrikf1Mwv4Nb3RfOe3bXGF7CT0",
+      "https://play-lh.googleusercontent.com/CriJHpLeMpGuELlWMHqMckTpGA3-HTX8kYq1WgKka6TFtL_uc1Q-Bq8uc6OKfPHKohRs9PoZ5rIvtf5xgBpRpXY",
+      "https://play-lh.googleusercontent.com/mqYX8Qanw8GTznBIom0VBJSnBnhln0S_ZEEUanyWxdpNFsi43PL9LpAhV0QAsLLMlLpzkxdetvrVu9jxMFT3Weo",
+      "https://play-lh.googleusercontent.com/MNCE2N3kKiXzjY2DHcdF_GjCipnTP-93nTJwT0Rchs0f-CH0NZQXgskgk2fBb3cQN2AYor9AeJc_1lgMr0uE"
+    ],
+    "released": "Jul 10, 2026",
+    "updated": 1787100151000,
+    "preregister": false,
+    "earlyAccessEnabled": false,
+    "url": "https://play.google.com/store/apps/details?id=com.king.sfungames&hl=en&gl=US",
+    "fetchedAt": "2026-10-19T08:12:37.741Z"
   },
   "com.TrofyGames.SteelFrontTowerDefence": {
     "appId": "com.TrofyGames.SteelFrontTowerDefence",
@@ -12150,6 +12927,46 @@
     "url": "https://play.google.com/store/apps/details?id=com.shg.sg432&hl=en&gl=US",
     "fetchedAt": "2026-10-12T08:13:44.358Z"
   },
+  "hantro.tower.roguelike": {
+    "appId": "hantro.tower.roguelike",
+    "title": "Hantro: Tower Roguelike",
+    "summary": "Draft cards, defend the core, and survive sci-fi roguelike tower waves.",
+    "installs": "100+",
+    "minInstalls": 100,
+    "score": null,
+    "ratings": null,
+    "price": 0,
+    "free": true,
+    "currency": "USD",
+    "priceText": "Free",
+    "offersIAP": true,
+    "adSupported": true,
+    "developer": "HanX",
+    "developerId": "4858435727768538175",
+    "developerInternalID": "4858435727768538175",
+    "genre": "Strategy",
+    "genreId": "GAME_STRATEGY",
+    "categories": [
+      {
+        "name": "Strategy",
+        "id": "GAME_STRATEGY"
+      }
+    ],
+    "icon": "https://play-lh.googleusercontent.com/gDW3x-Lm78gx6JkFCfLLA_pNP5Jg-iw58cW6xrrNDiO0A51KyFgVDoOAhbfe-OchY8PqduJYgH_AN6PKs33zaQ",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/3ERe83mfAFDfZpMj318VCz2qJc3VwWLkzN0Rmscvv9HTh1UPoNgZ4B5qNCBFKO2xqsxZ0_CV72EtW1DR5o1j",
+      "https://play-lh.googleusercontent.com/RPNcSae1FUYxM8H-KFFoRuAjYB6BNozhuA7vg_r1xIdQjO_MA-hgVkH3qaHrOf_rcGNR0TWgFfenN_iBflNTMA",
+      "https://play-lh.googleusercontent.com/r02iXyL7ZzkPU9BzVHxN_6KH6cqxlRfJuwtPnov7UQajEMyO_GnYgQuPc2vCNC0ocbx9kfCQNhlIGyO0ICbK",
+      "https://play-lh.googleusercontent.com/6AL3Llh_Ff0zcLwXhVrX3K9U26e0bJwQ9gOSUd6eufcaA83ZkS2NqwLgOdALzRBMk8cEKTD5QgWRqBbmf1gpkQ",
+      "https://play-lh.googleusercontent.com/GTuZdVzmTNJjJ1Fh_uE49TpTxqoSOVt2jt_rWnfFAOYJxjQCsR3JarWfPP9OcM9v9d5gGaw8U1y4tQYCRJ76JQ"
+    ],
+    "released": "Jun 29, 2026",
+    "updated": 1788382866000,
+    "preregister": false,
+    "earlyAccessEnabled": false,
+    "url": "https://play.google.com/store/apps/details?id=hantro.tower.roguelike&hl=en&gl=US",
+    "fetchedAt": "2026-10-19T06:56:57.697Z"
+  },
   "com.GG.RealmTowerGuard": {
     "appId": "com.GG.RealmTowerGuard",
     "title": "Realm Tower Guard",
@@ -12824,6 +13641,49 @@
     "earlyAccessEnabled": false,
     "url": "https://play.google.com/store/apps/details?id=games.lilyx.clashofhands&hl=en&gl=US",
     "fetchedAt": "2026-10-12T08:27:20.321Z"
+  },
+  "ch.larsghezzi.electioncraft": {
+    "appId": "ch.larsghezzi.electioncraft",
+    "title": "ElectionCraft: CampaignManager",
+    "summary": "Run the campaign. Read the map. Win the vote.",
+    "installs": "500+",
+    "minInstalls": 500,
+    "score": null,
+    "ratings": null,
+    "price": 0,
+    "free": true,
+    "currency": "USD",
+    "priceText": "Free",
+    "offersIAP": true,
+    "adSupported": true,
+    "developer": "Lars Ghezzi",
+    "developerId": "Lars+Ghezzi",
+    "developerInternalID": "Lars+Ghezzi",
+    "genre": "Strategy",
+    "genreId": "GAME_STRATEGY",
+    "categories": [
+      {
+        "name": "Strategy",
+        "id": "GAME_STRATEGY"
+      }
+    ],
+    "icon": "https://play-lh.googleusercontent.com/IPOvHspgcn_jaUJciGTWlngpd-UNilsuoLJVuLLldnWKX1TnYjmwMXXD9uVYV9fhH9L1wSa0dyekZZobUsen",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/l3mf-wE0sJf38o4n6TGyLbe7qDGrNNZRPC2TeBtmRUMvlP5uqjTp1YlrCWb410J0n_UXqe6TH2uTKSYQFR7ebA",
+      "https://play-lh.googleusercontent.com/a4HVJPnom1nyaPjZZPd1SB93RQbRXOnRYYw3aGWBQHGpgZDfR0oeYsbEmHIr1NnJ1gBqWcm8QEOhzS4P6Xy5WA",
+      "https://play-lh.googleusercontent.com/6szMjaetKHqXl1oSeSKzADYirCYU90J4MGg6wEeakfowDWt-c838d6wNGL3aGUTAjCrWsHkzAycO17mVoFMp",
+      "https://play-lh.googleusercontent.com/mExBR0O6rTWI-CqJ9VpmmTcIHmt0zz3Byw-kFKivbrZeBAKrvjBcOv1loMZCOrRKdntPD9h-Jg7rBC-Vr0batFM",
+      "https://play-lh.googleusercontent.com/OhCwnlNtWft-lnoeBtv5NrTWQXwM_LvQmtbpDKSNONoQVmAQMK8AVYCF6nKZtCn8HrkKSlBmG-O3YWI-Vlij4A",
+      "https://play-lh.googleusercontent.com/azrX66txEE6TtjN0DE4xMys1QuialNdqkjpM0SXA7WOcSKPfBmT8HxTZmWVHxaZUQN7OqEKGz1DZLh4whlWCeg",
+      "https://play-lh.googleusercontent.com/tFGBhlmugLC333fM6ZAxAy0dG56PCUYTUvOhHAdJEwgooNIYPXY9dhx5wsH02LbwpQW4JqPdTH1zbR1MjucP_A",
+      "https://play-lh.googleusercontent.com/mgzE4EqKrlZxPFpq1LXnTMcdFbHPqUspcTip5mfKOEUy-DhGBpgwk1jvl5zbYB02IkYDJQFNXM1zOMpNJVSD6b4"
+    ],
+    "released": "Jun 23, 2026",
+    "updated": 1790364598000,
+    "preregister": false,
+    "earlyAccessEnabled": false,
+    "url": "https://play.google.com/store/apps/details?id=ch.larsghezzi.electioncraft&hl=en&gl=US",
+    "fetchedAt": "2026-10-19T06:54:16.974Z"
   },
   "com.playpanic.spacelandv2": {
     "appId": "com.playpanic.spacelandv2",
@@ -17784,6 +18644,49 @@
     "url": "https://play.google.com/store/apps/details?id=com.ygtech.tod&hl=en&gl=US",
     "fetchedAt": "2026-10-12T07:28:30.490Z"
   },
+  "com.minigamelab.planetclash": {
+    "appId": "com.minigamelab.planetclash",
+    "title": "Planet Clash",
+    "summary": "Interstellar battle of planets",
+    "installs": "100+",
+    "minInstalls": 100,
+    "score": null,
+    "ratings": null,
+    "price": 0,
+    "free": true,
+    "currency": "USD",
+    "priceText": "Free",
+    "offersIAP": false,
+    "adSupported": true,
+    "developer": "Mini Game Lab Limited",
+    "developerId": "7814115567158232929",
+    "developerInternalID": "7814115567158232929",
+    "genre": "Strategy",
+    "genreId": "GAME_STRATEGY",
+    "categories": [
+      {
+        "name": "Strategy",
+        "id": "GAME_STRATEGY"
+      }
+    ],
+    "icon": "https://play-lh.googleusercontent.com/059N1_GQro4PsBfS-yMQD9HVMRve0e9KJpUZ7qf7e-X5wUuTEzvLF1C4kTi4Yo4Ff0bKyFbjwHj70UyoR0Pm",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/K0_xYRTC46lo_tQ2RAiw2zCa-_apNcAFnaLi5ftJiIKJ5qZyp1Ekfywq04qF-be19kOvegQ-he5EEOX4zuvnFw",
+      "https://play-lh.googleusercontent.com/sdNUx-2GSMJpXRH-JOL4rxT7PaiyFfFlkvUBxIUJqXcUhaugmcaEJrGnq8jRVulonlm8710m1mNBuCE4DX6rGQ",
+      "https://play-lh.googleusercontent.com/eb7xKD1ldiGkEO8m3nMOJ3K_m9Pp0QnN5AXExWqDDuCBj8-Dzk11vnyBhkaL87_HcK3gMwQOvq9IWGFP9yhP2H8",
+      "https://play-lh.googleusercontent.com/ZUV8SN-cGTfCD-rEq4Cz_-lU--WTW1oqP8sVuJRzCwgTBKSqdg3jU__rHr42f0otF0HylHPRkXQhrt2DM1JoQg",
+      "https://play-lh.googleusercontent.com/ebRM6p_3ormzZ9jd80VPsIXPFP0RrdDsMxdvqZZ2ohv8Bev_26E7TRkQJbOHnjZYKkuecBWwQt_64BrvswOH",
+      "https://play-lh.googleusercontent.com/U-3C6w3rUbt0Zchxx9JEkksAq5LbesUXmgLG97-yP5GMJntucxClFoi80KyLG6PoAfFRB8YWblJ3PnY8v9N7rN0",
+      "https://play-lh.googleusercontent.com/l14A7wBcyFzXs08ReyBvOjKBT9XJ5bW9-O4Xx278F9ylJNorMi0NLZfKzC8HGusCBt2A1DYm2p2rPe1oMq0AIg",
+      "https://play-lh.googleusercontent.com/cqpzkL7Zz6RPXmmAOgH6Ua0y-6eDNeq8-dQRQ6yXeecjSdbm1eJtbl6vJ24QcEc0cF3UJdZD9XqHZbeka1zwSw"
+    ],
+    "released": "May 6, 2026",
+    "updated": 1778259551000,
+    "preregister": false,
+    "earlyAccessEnabled": false,
+    "url": "https://play.google.com/store/apps/details?id=com.minigamelab.planetclash&hl=en&gl=US",
+    "fetchedAt": "2026-10-19T06:41:58.630Z"
+  },
   "com.slg.policewar": {
     "appId": "com.slg.policewar",
     "title": "Police Chief",
@@ -18329,6 +19232,46 @@
     "url": "https://play.google.com/store/apps/details?id=kr.haul.slimetowerdefense&hl=en&gl=US",
     "fetchedAt": "2026-10-12T11:56:45.578Z"
   },
+  "com.mobsmile.trapfortress": {
+    "appId": "com.mobsmile.trapfortress",
+    "title": "Trap Fortress",
+    "summary": "Place traps and defense your base!",
+    "installs": "1,000+",
+    "minInstalls": 1000,
+    "score": 2.1666667,
+    "ratings": 11,
+    "price": 0,
+    "free": true,
+    "currency": "USD",
+    "priceText": "Free",
+    "offersIAP": true,
+    "adSupported": true,
+    "developer": "VENTURESIS TEKNOLOJI ANONIM SIRKETI",
+    "developerId": "VENTURESIS+TEKNOLOJI+ANONIM+SIRKETI",
+    "developerInternalID": "VENTURESIS+TEKNOLOJI+ANONIM+SIRKETI",
+    "genre": "Strategy",
+    "genreId": "GAME_STRATEGY",
+    "categories": [
+      {
+        "name": "Strategy",
+        "id": "GAME_STRATEGY"
+      }
+    ],
+    "icon": "https://play-lh.googleusercontent.com/fQI_OWlKD7ExuNCy1YnGrvXpvbRaIYy_3LqsxrphollElmt16CmvI1fxNIFrNTbCOFmG3tVN4RQGp043MS4nYg",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/h7VL4f73fBpnwfLED1VG-2x_Z35crp-CbMNOju7-kICV6kcvgVdD1p1wLZnbDnM7OINijIaOBP_tIoC9Y2AeTw",
+      "https://play-lh.googleusercontent.com/Nd9AnZEq6-YVB9t6HmSSqTt2-AYHznZIud87y7xfdyb5iacaFSU9ojzVlQSrrj24vQv858RQt-TMdCCDdlrpuQ",
+      "https://play-lh.googleusercontent.com/NKUavB6NUAWqS1ohPtYHAn-t-w5E-E81Jpc1t3fqJVknWRs6neN8Ek6XtQCTPaTQ_-OfcqBy1lpzb7IRRuNHEw",
+      "https://play-lh.googleusercontent.com/shEN4iXwqerm3jIRBZn6TctPZCNku85rVyK4vAkiMk7c__XNf3H8CKM-LX-2fJnTrECyMIXyFicgiwIB3_-fOA",
+      "https://play-lh.googleusercontent.com/7UCnEpO5HTVyoVQ_iwEbdbTeQEWH9_iC2BIUgkVOypcvNPvEul1L6XWO1SKgPn9VWRCMJvg1uEvd9fs9FTI7bg"
+    ],
+    "released": "May 1, 2026",
+    "updated": 1787834861000,
+    "preregister": false,
+    "earlyAccessEnabled": false,
+    "url": "https://play.google.com/store/apps/details?id=com.mobsmile.trapfortress&hl=en&gl=US",
+    "fetchedAt": "2026-10-19T06:56:53.038Z"
+  },
   "com.m48games.zombieswarm": {
     "appId": "com.m48games.zombieswarm",
     "title": "Zombie Horde TD: Tower Defense",
@@ -18516,6 +19459,65 @@
     "earlyAccessEnabled": false,
     "url": "https://play.google.com/store/apps/details?id=com.icedropgames.pool&hl=en&gl=US",
     "fetchedAt": "2026-10-12T08:18:52.116Z"
+  },
+  "com.gameloops.circlekingdoms": {
+    "appId": "com.gameloops.circlekingdoms",
+    "title": "Circle Kingdoms",
+    "summary": "Build, expand, and conquer in a strategic circular kingdom world.",
+    "installs": "100+",
+    "minInstalls": 100,
+    "score": null,
+    "ratings": null,
+    "price": 0,
+    "free": true,
+    "currency": "USD",
+    "priceText": "Free",
+    "offersIAP": false,
+    "adSupported": false,
+    "developer": "Gameloops",
+    "developerId": "5853121983229225645",
+    "developerInternalID": "5853121983229225645",
+    "genre": "Strategy",
+    "genreId": "GAME_STRATEGY",
+    "categories": [
+      {
+        "name": "Strategy",
+        "id": "GAME_STRATEGY"
+      }
+    ],
+    "icon": "https://play-lh.googleusercontent.com/BpL8nthbb0lRvwdlr-nZP1Du_ARNa_9HdCeZmTJ4KShuaoNvps71J7CLlg2_jXW93GeUrViRY5unT7VVXSrxar0",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/Y_kax4Gaf4l_9zWVx1_U5AKNJoG0bGYViEJ9qU47vEuwr-rooNAxiScAl37ClPwMOyssikc_icqwGkPfibm6Gg",
+      "https://play-lh.googleusercontent.com/nBSOYU81hz0x_L2VqOzD8h_fIz07Jkvxg342yBZjFqNvZNWeqsn2tFNai0PmFziud7t8JIko7uv3Mq8kfJvlkw",
+      "https://play-lh.googleusercontent.com/8oZyODbzBMHejP1JD9IAlt90kx2YD5TYlK5kI3bsHe6ncVfC1KCkGsny0-LVaSpfksOaukczYIf6sk1_qEzyEA",
+      "https://play-lh.googleusercontent.com/AcaEn5hZTta36iSkrj4nMsB8n206mG-Ei7QC3qxUw6pJt2pPvP2QJxI8LdYjgSKtenC63lQTzlx4Onh4qcN8",
+      "https://play-lh.googleusercontent.com/LRCoo9eMyTisEwsHWtSUlloUeY8BN3GOMcIl5umu4U-FL7lyJHHJniwsiJ-snqZYx5bCLVNzkZsiDYoFi-xi1Q",
+      "https://play-lh.googleusercontent.com/Mqvx77_wDlU_Y6W2Nz7eEXk9QkgpLvF93jcnFuuxhUAD3ZBGE4JwEgnTwsizNYbNNmtmFVYxG4Hm1cdIV0JB6pg",
+      "https://play-lh.googleusercontent.com/iP__YqddUgkfYcNuFr6DDVLRLCLw4sA1DfqNg9MDdm5gN8tv-e5-jxOrDRhYSzp3ppex3k5bF0iSnNebzYEl4Q",
+      "https://play-lh.googleusercontent.com/c5-9Bh6rCZzxy-rTJqd3wieD075NDfHSje_-zDWhSDKV6LtsnedRgMrh1zrGXJYETcP_4y0r2h7ylJWij41I",
+      "https://play-lh.googleusercontent.com/6QVklFKzvqLLqDom3TclRlUFquyqOx9BGxDXckzPpNSeFbRRhuuewYkedvlMjHD2ZYpuU4t0TutVnKOpiJgB",
+      "https://play-lh.googleusercontent.com/zblKAgRDzuwvAHBvujxpuoubMuEe2cqO5k9APOx_4Ix6h0D3_ZKEqBj3vAj9q7aXaK5gPVZZ_FQeHuVlzAGE",
+      "https://play-lh.googleusercontent.com/OrpShrbeK_N3BnvEAOWDS-U-AJE0andnEG7hjw_vmfeUebQEnYuJ38Lj8kA67qhB5uf-RYS0vk_xjiEMGkXK",
+      "https://play-lh.googleusercontent.com/S1Y6qjyUlkGOSIaT1fc8z1fPRHS0-DNEhp4Kb0G2b8mAfZGdpKyvPBjOwvcGT901oR3s9Lq9-ImleiJU62q0TQ",
+      "https://play-lh.googleusercontent.com/QqsVJ-AcwpEFti28tVMMs4ekaBYhDfkF1viCHHHO6v52H0juQE4NDWXot3rZvlfnYz2V7ds8SRgIAXwd-TKYCg",
+      "https://play-lh.googleusercontent.com/O-yRrRitdldGKeUGCPip34ZzYCIdFyJCY6I1XJiCxqhl68rhPUb2uNo7SA6Pee_7Olvrt2InKjjzFZyfYIaLTfQ",
+      "https://play-lh.googleusercontent.com/jCHiMg1mKqdIqixEIoLgNbSRYN80o7iw92wzyMdFgSi4Hr7OskIWj08l4gYluzeCIOu6p56NnBc99yD1ROPfNg",
+      "https://play-lh.googleusercontent.com/aFS0KRKpxWVltUb7V0wf3n_0JaHxcTfqts1vHIaKAzInTYw4cVgb-FPr4uSuBLDjctqn7TtWty1tVXotiQtx",
+      "https://play-lh.googleusercontent.com/aFS0KRKpxWVltUb7V0wf3n_0JaHxcTfqts1vHIaKAzInTYw4cVgb-FPr4uSuBLDjctqn7TtWty1tVXotiQtx",
+      "https://play-lh.googleusercontent.com/zblKAgRDzuwvAHBvujxpuoubMuEe2cqO5k9APOx_4Ix6h0D3_ZKEqBj3vAj9q7aXaK5gPVZZ_FQeHuVlzAGE",
+      "https://play-lh.googleusercontent.com/S1Y6qjyUlkGOSIaT1fc8z1fPRHS0-DNEhp4Kb0G2b8mAfZGdpKyvPBjOwvcGT901oR3s9Lq9-ImleiJU62q0TQ",
+      "https://play-lh.googleusercontent.com/OrpShrbeK_N3BnvEAOWDS-U-AJE0andnEG7hjw_vmfeUebQEnYuJ38Lj8kA67qhB5uf-RYS0vk_xjiEMGkXK",
+      "https://play-lh.googleusercontent.com/QqsVJ-AcwpEFti28tVMMs4ekaBYhDfkF1viCHHHO6v52H0juQE4NDWXot3rZvlfnYz2V7ds8SRgIAXwd-TKYCg",
+      "https://play-lh.googleusercontent.com/jCHiMg1mKqdIqixEIoLgNbSRYN80o7iw92wzyMdFgSi4Hr7OskIWj08l4gYluzeCIOu6p56NnBc99yD1ROPfNg",
+      "https://play-lh.googleusercontent.com/6QVklFKzvqLLqDom3TclRlUFquyqOx9BGxDXckzPpNSeFbRRhuuewYkedvlMjHD2ZYpuU4t0TutVnKOpiJgB",
+      "https://play-lh.googleusercontent.com/O-yRrRitdldGKeUGCPip34ZzYCIdFyJCY6I1XJiCxqhl68rhPUb2uNo7SA6Pee_7Olvrt2InKjjzFZyfYIaLTfQ"
+    ],
+    "released": "Apr 29, 2026",
+    "updated": 1777452279000,
+    "preregister": false,
+    "earlyAccessEnabled": false,
+    "url": "https://play.google.com/store/apps/details?id=com.gameloops.circlekingdoms&hl=en&gl=US",
+    "fetchedAt": "2026-10-19T08:11:40.894Z"
   },
   "com.lavalabs.dungeonrush": {
     "appId": "com.lavalabs.dungeonrush",
@@ -21113,6 +22115,59 @@
     "url": "https://play.google.com/store/apps/details?id=appinventor.ai_a0920566396.threekingdoms2&hl=en&gl=US",
     "fetchedAt": "2026-10-12T10:26:41.697Z"
   },
+  "com.gameloops.energynexus": {
+    "appId": "com.gameloops.energynexus",
+    "title": "Energy Nexus",
+    "summary": "Real-time PvP strategy. Build networks, control territory, destroy enemies.",
+    "installs": "100+",
+    "minInstalls": 100,
+    "score": 1.8,
+    "ratings": 5,
+    "price": 0,
+    "free": true,
+    "currency": "USD",
+    "priceText": "Free",
+    "offersIAP": false,
+    "adSupported": false,
+    "developer": "Gameloops",
+    "developerId": "5853121983229225645",
+    "developerInternalID": "5853121983229225645",
+    "genre": "Strategy",
+    "genreId": "GAME_STRATEGY",
+    "categories": [
+      {
+        "name": "Strategy",
+        "id": "GAME_STRATEGY"
+      }
+    ],
+    "icon": "https://play-lh.googleusercontent.com/yEw9w4ZWeYJksq2h9lJS4VjtBdztPxwOr-4NtraGR_MbV73HmNdoiXwv6DK7Et8mp-AcRx6PGQPEgdyINilj7w",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/Do9LhYEO4bhp82j5EvAxOH__JqwCLUb6t80q_cOeRn7PNYCxxq_MWVRWCamW29AAGV7WGISeGQl5Uytqlj5PvA",
+      "https://play-lh.googleusercontent.com/6Q-M1EbnoSePkFuAzWSLjDt07cjtW5ZgdNUleyVIFVthVT-WC-kx8e7DX05z6l1NEP80IjwIh5GFJg8hckSy",
+      "https://play-lh.googleusercontent.com/9Mv6QyMOaKR6TUxEcCJe0XpeMA4yYU4vCHIqaNFZoGLPEqBPy6XjCYPMoaKNZTk3Ixg0oRWuTZCUZhDlPcz-PRU",
+      "https://play-lh.googleusercontent.com/CPd9fwvoyc0ASKL71wmIcn3LAZMNZI8vHqCNTkN3DkdTWrL4i1fiyyf74RMIi_aY7JSXUC5a4JhUZ00_YDXB",
+      "https://play-lh.googleusercontent.com/Gw5NJAZemDw5PWKE8eSLpWdhkyZMBZN7RHRk9CoNKVJ3jqf_UA2umPLeOtgHZg6JWU7klUsAM28Jag4xfV0dMQ",
+      "https://play-lh.googleusercontent.com/aaEIJVZqjh-24piweNo2tQ32qSWEYojzrXIECeEavwZ5clTGoPHuZuCV2bn8O0s43Cug1Mdzn0RflhLpHlDJPQ",
+      "https://play-lh.googleusercontent.com/lJhYEITPFuZ2JZc9eXp4qEbPUPn-Zc4J8WHbWGheFW72s4_NX4iJy8e7pyT3KAHe0gyWrvzMTBONtftMU4Xa",
+      "https://play-lh.googleusercontent.com/eoyufprnplg_UueT8hwQZEY_TF2G9KcSuFIKIuq2PU4jATK6V3NO2o0O4P3yTlP_gEv3FFVVmeMUBDUbXJ5O6w",
+      "https://play-lh.googleusercontent.com/RJHigeotxbyAI6fiLCBETw-W4eKyzJ0m5iOxK98fbdvEmN0OazohxPL_vG-ULG3XG2PrCC6fVKM8rKJx67SSS8k",
+      "https://play-lh.googleusercontent.com/2MgCwIcOrL3NfOEHVHTZtrmtlK1lvOehevsTc8cdpByYbHCsgCj9HT6mnB47H70CwNI-0Jp3131uQZeLPBmPrbE",
+      "https://play-lh.googleusercontent.com/KlmbmRspQjF2fJhsppzJ1yCZzMzkyovFD6FTXFmQ7mflzmgO2oK1JIwOoeYGKogu0Hn5IV9DEWAz82TgWLoT",
+      "https://play-lh.googleusercontent.com/yfWxm2PL0Lt93o0xdKcmu7v7QLXvu5rQOEM0F3IF0XIr43TeZ4MM09YZQwIof8lL5ir2hd7iqrYmqA1BAN7JIjM",
+      "https://play-lh.googleusercontent.com/KlmbmRspQjF2fJhsppzJ1yCZzMzkyovFD6FTXFmQ7mflzmgO2oK1JIwOoeYGKogu0Hn5IV9DEWAz82TgWLoT",
+      "https://play-lh.googleusercontent.com/lJhYEITPFuZ2JZc9eXp4qEbPUPn-Zc4J8WHbWGheFW72s4_NX4iJy8e7pyT3KAHe0gyWrvzMTBONtftMU4Xa",
+      "https://play-lh.googleusercontent.com/RJHigeotxbyAI6fiLCBETw-W4eKyzJ0m5iOxK98fbdvEmN0OazohxPL_vG-ULG3XG2PrCC6fVKM8rKJx67SSS8k",
+      "https://play-lh.googleusercontent.com/eoyufprnplg_UueT8hwQZEY_TF2G9KcSuFIKIuq2PU4jATK6V3NO2o0O4P3yTlP_gEv3FFVVmeMUBDUbXJ5O6w",
+      "https://play-lh.googleusercontent.com/2MgCwIcOrL3NfOEHVHTZtrmtlK1lvOehevsTc8cdpByYbHCsgCj9HT6mnB47H70CwNI-0Jp3131uQZeLPBmPrbE",
+      "https://play-lh.googleusercontent.com/yfWxm2PL0Lt93o0xdKcmu7v7QLXvu5rQOEM0F3IF0XIr43TeZ4MM09YZQwIof8lL5ir2hd7iqrYmqA1BAN7JIjM"
+    ],
+    "released": "Mar 27, 2026",
+    "updated": 1774886398000,
+    "preregister": false,
+    "earlyAccessEnabled": false,
+    "url": "https://play.google.com/store/apps/details?id=com.gameloops.energynexus&hl=en&gl=US",
+    "fetchedAt": "2026-10-19T08:11:42.303Z"
+  },
   "com.MoonGaming.MedievalEmpires": {
     "appId": "com.MoonGaming.MedievalEmpires",
     "title": "Medieval Empires",
@@ -22077,6 +23132,48 @@
     "earlyAccessEnabled": false,
     "url": "https://play.google.com/store/apps/details?id=com.beyzanuryildiz.hvsa&hl=en&gl=US",
     "fetchedAt": "2026-10-12T07:29:02.664Z"
+  },
+  "com.hantro.business": {
+    "appId": "com.hantro.business",
+    "title": "ReBirth: Rebuild & Resist",
+    "summary": "Rebuild a province after disaster, lead your troops and win back people's trust.",
+    "installs": "500+",
+    "minInstalls": 500,
+    "score": null,
+    "ratings": null,
+    "price": 0,
+    "free": true,
+    "currency": "USD",
+    "priceText": "Free",
+    "offersIAP": true,
+    "adSupported": true,
+    "developer": "HanX",
+    "developerId": "4858435727768538175",
+    "developerInternalID": "4858435727768538175",
+    "genre": "Strategy",
+    "genreId": "GAME_STRATEGY",
+    "categories": [
+      {
+        "name": "Strategy",
+        "id": "GAME_STRATEGY"
+      }
+    ],
+    "icon": "https://play-lh.googleusercontent.com/_xPt8bNZk3gIusZXuaX5vClnZTl-WOLZ9HiVU49yXSoHQzq32NndoamDDgk70fzozvexOIuuzfKDlWwhEvTnjQ",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/vgiHSi2NH31DNk-RcD7PAponNOQ5YbbG2SpSMvqat_cTOVbnq5SuIwmNmu_qCuZFtUhl8I3dDn0TTg4s9X2Wcg",
+      "https://play-lh.googleusercontent.com/U5Tewr2-4UisQnD6lEdeT3owXoA2V-jsWjScgMhxlTkMqRezJFYajIs6EXEpWaW4BXht-RwqY-6V_Jfd3axtLw",
+      "https://play-lh.googleusercontent.com/xzpV1269B9_Udp4bAK_czLcm5oIPZHuyqfMz9AuQqcduM8493y0-e7hN1CUI0f0BM9OLwTlafeZOSK0z3qYwqw",
+      "https://play-lh.googleusercontent.com/ZV9hzl8505398n9_r7-FjOxUDXjRxRcpFim92DrbAOkuWgQwMglvymBAHKfssCTG3ccD7NE1qfoe0y7YASew",
+      "https://play-lh.googleusercontent.com/ahSfpLb3laah0tqsxnlUQyW-1RQHLh6ztBHgqNAPUKhHBVFt1qLSgHJW6B7FQLqgS9ewWkCM5k66kyFgKqM0Tw",
+      "https://play-lh.googleusercontent.com/fv_lSsUqbD8d9KI9linMzZygI6lPVU7gcDzZh0Lie0PXsHFKkD3jgVy3AwzxcZ8P-0xDgpo2Kp_PTfbtvK_AUQ",
+      "https://play-lh.googleusercontent.com/z4eblfGnFHWP9l-zzQrGZrJcSeXfPV9M0o5coTWj_NBZjtkvmgCyz2aixSN1XAZ1-YO9aC0iOWcNoS0JwhFD"
+    ],
+    "released": "Mar 13, 2026",
+    "updated": 1792327426000,
+    "preregister": false,
+    "earlyAccessEnabled": false,
+    "url": "https://play.google.com/store/apps/details?id=com.hantro.business&hl=en&gl=US",
+    "fetchedAt": "2026-10-19T06:56:58.897Z"
   },
   "com.xdevelopment.astrobattle": {
     "appId": "com.xdevelopment.astrobattle",
@@ -24382,6 +25479,59 @@
     "url": "https://play.google.com/store/apps/details?id=com.qxgame.ghard&hl=en&gl=US",
     "fetchedAt": "2026-10-12T08:18:02.752Z"
   },
+  "com.gameloops.raidform": {
+    "appId": "com.gameloops.raidform",
+    "title": "RaidForm",
+    "summary": "Plan formations. Watch chaos.",
+    "installs": "100+",
+    "minInstalls": 100,
+    "score": null,
+    "ratings": null,
+    "price": 0,
+    "free": true,
+    "currency": "USD",
+    "priceText": "Free",
+    "offersIAP": false,
+    "adSupported": true,
+    "developer": "Gameloops",
+    "developerId": "5853121983229225645",
+    "developerInternalID": "5853121983229225645",
+    "genre": "Strategy",
+    "genreId": "GAME_STRATEGY",
+    "categories": [
+      {
+        "name": "Strategy",
+        "id": "GAME_STRATEGY"
+      }
+    ],
+    "icon": "https://play-lh.googleusercontent.com/_JIBEuGFWLUs96XH2CxCQXt0OZUceArcXGtB49LHFOB7ChqgyeaCfqCuiGoBB-g44jleUwbmd7Ie3y2kIGg1",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/b9_zR3avX_oLtCoQ2gI33DKCO955Qo6IACLbKRxXrD4NtCJZJM6bVMZJ2txh-5EVAITRhgCjE9Z06PM7atD6yA",
+      "https://play-lh.googleusercontent.com/hQYWGFcl6hhE8cG5H5ErouT1ug75Oi-izUuJBBboR-uziZz1OCsdsxI7JxatTEuNKeieQOWWHU5_uftd0rTBDw",
+      "https://play-lh.googleusercontent.com/RBHG8sqR08spb1uUd7s2KWKrLkQ7uj3Ko2aaJfWgZ3DSmUAOklzqv7kkyM9-h4PhFDqhOorERZ-Vp4FM1MsOkQ",
+      "https://play-lh.googleusercontent.com/5xc7rV11ZCaMDm5AIh9zKXSa_DegWFYCI2kXY-oO2d2kbKZ5NpXp2sE22YdM5qce-fjHUTOINWTcN0j0ra8pNA",
+      "https://play-lh.googleusercontent.com/Qr9EQdYAkjLUyypxk5kAlMjE9C60bz_vsKxRwv3wo4VALUu-ASHmlt9EydOI2vcuKRgUrSGqlPN8zbJtFwzkEyo",
+      "https://play-lh.googleusercontent.com/GCwxBlGMK2MPwGXqOQSZb_KwPmyJWx_qemzznB1pksrOI-ZdvyQV-tnqmJwrUGInR7B2Vv0o9E6_drQpglK96g",
+      "https://play-lh.googleusercontent.com/cSiWbxFAx0hNRuTchhxUNlTakvZ91-FxcaWkyP9I-75YD8VzpqKKLXsnY3hkiP7pNeAQrUhhdfo5w07Zw8uY",
+      "https://play-lh.googleusercontent.com/VzK8jh5l1EG1vxBSNB1GNDCzl-jHC0IRTjBeKpfLOgKs7ZJ2Opp6A00heK60-6m-y4P-JZrN--I3q2jzwcH-",
+      "https://play-lh.googleusercontent.com/1SULadjCEboS5lIzXLoHA9HXg_ENX3t3nHnr6uMhX4KeGlV7vmytNL_Rh-dXMj2APCLlRQSh8Kcgp9J8XwxqjA",
+      "https://play-lh.googleusercontent.com/1DpmzBclTHiqIrmFRQG9BAzWwJdp7r__H9tCX4Fi4Xu2dz8el8D__wmItOvaPRAwunCN2ppDpuZHBcG09lDc5A",
+      "https://play-lh.googleusercontent.com/JQBTbH7b5SHzZ09KclSm8j51gI1ctw7iMmuoQO3C7ylw8JKsA9HbAHdv1iwR1TNHHSVS8_s4QXqLeUVfczKBvA",
+      "https://play-lh.googleusercontent.com/ost1mT_GDjepyKAsA-_EBgFzQz90EV1N5h7GXzC_xWrwD3zy207y7sRpoEbsf6f6c6xGuynAIsezwCevO4GYGg",
+      "https://play-lh.googleusercontent.com/cSiWbxFAx0hNRuTchhxUNlTakvZ91-FxcaWkyP9I-75YD8VzpqKKLXsnY3hkiP7pNeAQrUhhdfo5w07Zw8uY",
+      "https://play-lh.googleusercontent.com/VzK8jh5l1EG1vxBSNB1GNDCzl-jHC0IRTjBeKpfLOgKs7ZJ2Opp6A00heK60-6m-y4P-JZrN--I3q2jzwcH-",
+      "https://play-lh.googleusercontent.com/1SULadjCEboS5lIzXLoHA9HXg_ENX3t3nHnr6uMhX4KeGlV7vmytNL_Rh-dXMj2APCLlRQSh8Kcgp9J8XwxqjA",
+      "https://play-lh.googleusercontent.com/1DpmzBclTHiqIrmFRQG9BAzWwJdp7r__H9tCX4Fi4Xu2dz8el8D__wmItOvaPRAwunCN2ppDpuZHBcG09lDc5A",
+      "https://play-lh.googleusercontent.com/JQBTbH7b5SHzZ09KclSm8j51gI1ctw7iMmuoQO3C7ylw8JKsA9HbAHdv1iwR1TNHHSVS8_s4QXqLeUVfczKBvA",
+      "https://play-lh.googleusercontent.com/ost1mT_GDjepyKAsA-_EBgFzQz90EV1N5h7GXzC_xWrwD3zy207y7sRpoEbsf6f6c6xGuynAIsezwCevO4GYGg"
+    ],
+    "released": "Feb 12, 2026",
+    "updated": 1771479035000,
+    "preregister": false,
+    "earlyAccessEnabled": false,
+    "url": "https://play.google.com/store/apps/details?id=com.gameloops.raidform&hl=en&gl=US",
+    "fetchedAt": "2026-10-19T08:11:42.019Z"
+  },
   "com.fourx.blackkey.kvk.gp": {
     "appId": "com.fourx.blackkey.kvk.gp",
     "title": "Royal Crown: Kingdom Wars",
@@ -24786,6 +25936,51 @@
     "earlyAccessEnabled": false,
     "url": "https://play.google.com/store/apps/details?id=com.SimpleBitStudios.VikingHeroTD&hl=en&gl=US",
     "fetchedAt": "2026-10-12T07:47:18.114Z"
+  },
+  "com.khelian.godsclash": {
+    "appId": "com.khelian.godsclash",
+    "title": "Gods Clash: PvP Dice Siege",
+    "summary": "PvP dice battles with gods in epic tower defense duels",
+    "installs": "500+",
+    "minInstalls": 500,
+    "score": null,
+    "ratings": null,
+    "price": 0,
+    "free": true,
+    "currency": "USD",
+    "priceText": "Free",
+    "offersIAP": false,
+    "adSupported": false,
+    "developer": "Khelian Games",
+    "developerId": "Khelian+Games",
+    "developerInternalID": "Khelian+Games",
+    "genre": "Strategy",
+    "genreId": "GAME_STRATEGY",
+    "categories": [
+      {
+        "name": "Strategy",
+        "id": "GAME_STRATEGY"
+      }
+    ],
+    "icon": "https://play-lh.googleusercontent.com/MKMZRrlDB5k2_UVnRuF2TVmMUG3sda4hhjCO0Na50knJy2S1gz2YCuoJzCqYjEWEp9AZ8TOT_k8BHDZTOzfw",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/FmB3neL2KuIjIw9y6uBZcyEmgZJeoGnnMWHHzQVgXkPEhGb3iAfKXbfehQ6ZsOlLd3sYAOnTzCTN0NCMYkZGWg",
+      "https://play-lh.googleusercontent.com/hH_AjpG_gCTrAKDVavyLCIZGL-WdcHabtTar-022zcAIw69WcF3LHHok6ktPxT8vn-WbLcSZYMjoLhzhgqbrVQ",
+      "https://play-lh.googleusercontent.com/bAvYZSsFZtHNIkyjJ9IRWHEQnaG12S3g25NQCPM8VWzmmSMdmWGxTjln4Sxhi97waii3YqK6C8KpeM4hxvqk2lU",
+      "https://play-lh.googleusercontent.com/eloCuuysnh_-QPkh-m4nw45eWus-JQ9NsjhNKSkz6yqHxc2YtiBeMUM3UDiid9WazwOLsI2lrtsCxtAt0PJcXcg",
+      "https://play-lh.googleusercontent.com/ebxrfG_asE3r_hjVjaMK3xQjLDfrIICAHC1-tXWLt9RZRnHkb91wNLv7d83C1IHtYbS6oXTqJ9IDXwY6SEZt",
+      "https://play-lh.googleusercontent.com/GvpO_UCvmSSXtJzcTIE68UGa9kdUL3h-KyB4QOcWp05GFF6Vhv2bT8JrR3vIA4BOvf4FtI5o0M1cuLssmV-K-g",
+      "https://play-lh.googleusercontent.com/oWeDv3Lrs_sR7Uz5iujgnwl9fDWOvqlYRWB9UUhSWlHCAkTwkYkPOGuV33a2ydk2w_Z1Cdm4d1yFZmo_dCDfRg",
+      "https://play-lh.googleusercontent.com/oYp7vXIyxXDbrDs2lPZ1vfZW-aeSrcaPF0RNOfPHF0jXgaifSNrH5vlcozlfdNN5BTgscjSvC_pz0Yqk3oxuww",
+      "https://play-lh.googleusercontent.com/eloCuuysnh_-QPkh-m4nw45eWus-JQ9NsjhNKSkz6yqHxc2YtiBeMUM3UDiid9WazwOLsI2lrtsCxtAt0PJcXcg",
+      "https://play-lh.googleusercontent.com/hH_AjpG_gCTrAKDVavyLCIZGL-WdcHabtTar-022zcAIw69WcF3LHHok6ktPxT8vn-WbLcSZYMjoLhzhgqbrVQ"
+    ],
+    "released": "Feb 5, 2026",
+    "updated": 1787930184000,
+    "preregister": false,
+    "earlyAccessEnabled": false,
+    "url": "https://play.google.com/store/apps/details?id=com.khelian.godsclash&hl=en&gl=US",
+    "fetchedAt": "2026-10-19T07:43:30.527Z"
   },
   "com.KalamTech.DropPoint": {
     "appId": "com.KalamTech.DropPoint",
@@ -25232,6 +26427,59 @@
     "url": "https://play.google.com/store/apps/details?id=com.xw2022.islanddefense&hl=en&gl=US",
     "fetchedAt": "2026-10-13T03:10:55.197Z"
   },
+  "com.tenpercentred.biotix3": {
+    "appId": "com.tenpercentred.biotix3",
+    "title": "Biotix 3: Faction Wars",
+    "summary": "Every choice reshapes evolution in a deep cellular strategy roguelite.",
+    "installs": "1,000+",
+    "minInstalls": 1000,
+    "score": null,
+    "ratings": null,
+    "price": 0,
+    "free": true,
+    "currency": "USD",
+    "priceText": "Free",
+    "offersIAP": true,
+    "adSupported": true,
+    "developer": "Ten Percent Red",
+    "developerId": "5978074324077261886",
+    "developerInternalID": "5978074324077261886",
+    "genre": "Strategy",
+    "genreId": "GAME_STRATEGY",
+    "categories": [
+      {
+        "name": "Strategy",
+        "id": "GAME_STRATEGY"
+      }
+    ],
+    "icon": "https://play-lh.googleusercontent.com/FX4W5QJVWMznSEKdJjAs0MkTFbr_ST7Z1OH-NA9zkJpz6ZGdtP-I79LCci8WKbPao1DPxgkRVB9UJp7O10CsLos",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/UF9F-3ajbGnRA5pei7wFTdAmbIh846sLB92stMWZJkKKoleh71lMePffhfp-nDoTgVN9MWEEr_GEMrem1CEyN1Y",
+      "https://play-lh.googleusercontent.com/FeZMIQhmO8MSGG7MkzZtAanViAmXn4SphxnVrKEJLIuwR2GPgrLCMZWSH9pFqxsdv4UZtUIqQshOiUFiDLNumw",
+      "https://play-lh.googleusercontent.com/yDToxa3k3_TrDVjRstT1cQzimXb_mdpMzJlfd8IdiTMrTB99XAF1XLKPTRsGdbsK46-_idoHQ1J5nupnfJVqQA",
+      "https://play-lh.googleusercontent.com/Rk1-9HmjcQDGxDPl8YqYS2QoxiCiaY5jIf_LsD7O2S5ujtqSxPfJhABvoPw7-r3OeVa9xS1zQjV_av2Z6co1MA",
+      "https://play-lh.googleusercontent.com/Dzrt7xx8h-chHkPen_NNfj2eRUK8LtQ_uBnyzsjhwIJD3e8g2sjbb8HnjqrN-3qrl5ClPaWPM01EiGtLiCuqEQ",
+      "https://play-lh.googleusercontent.com/3MsyL7uCwxfwn9MOB_0EV1w66ylaun4ix-0dRtVNIFOis_JGVIFl1gCMHl15hnWULSS7byrOReeY-HLN14x1",
+      "https://play-lh.googleusercontent.com/UF9F-3ajbGnRA5pei7wFTdAmbIh846sLB92stMWZJkKKoleh71lMePffhfp-nDoTgVN9MWEEr_GEMrem1CEyN1Y",
+      "https://play-lh.googleusercontent.com/FeZMIQhmO8MSGG7MkzZtAanViAmXn4SphxnVrKEJLIuwR2GPgrLCMZWSH9pFqxsdv4UZtUIqQshOiUFiDLNumw",
+      "https://play-lh.googleusercontent.com/yDToxa3k3_TrDVjRstT1cQzimXb_mdpMzJlfd8IdiTMrTB99XAF1XLKPTRsGdbsK46-_idoHQ1J5nupnfJVqQA",
+      "https://play-lh.googleusercontent.com/Rk1-9HmjcQDGxDPl8YqYS2QoxiCiaY5jIf_LsD7O2S5ujtqSxPfJhABvoPw7-r3OeVa9xS1zQjV_av2Z6co1MA",
+      "https://play-lh.googleusercontent.com/Dzrt7xx8h-chHkPen_NNfj2eRUK8LtQ_uBnyzsjhwIJD3e8g2sjbb8HnjqrN-3qrl5ClPaWPM01EiGtLiCuqEQ",
+      "https://play-lh.googleusercontent.com/3MsyL7uCwxfwn9MOB_0EV1w66ylaun4ix-0dRtVNIFOis_JGVIFl1gCMHl15hnWULSS7byrOReeY-HLN14x1",
+      "https://play-lh.googleusercontent.com/UF9F-3ajbGnRA5pei7wFTdAmbIh846sLB92stMWZJkKKoleh71lMePffhfp-nDoTgVN9MWEEr_GEMrem1CEyN1Y",
+      "https://play-lh.googleusercontent.com/FeZMIQhmO8MSGG7MkzZtAanViAmXn4SphxnVrKEJLIuwR2GPgrLCMZWSH9pFqxsdv4UZtUIqQshOiUFiDLNumw",
+      "https://play-lh.googleusercontent.com/yDToxa3k3_TrDVjRstT1cQzimXb_mdpMzJlfd8IdiTMrTB99XAF1XLKPTRsGdbsK46-_idoHQ1J5nupnfJVqQA",
+      "https://play-lh.googleusercontent.com/Rk1-9HmjcQDGxDPl8YqYS2QoxiCiaY5jIf_LsD7O2S5ujtqSxPfJhABvoPw7-r3OeVa9xS1zQjV_av2Z6co1MA",
+      "https://play-lh.googleusercontent.com/Dzrt7xx8h-chHkPen_NNfj2eRUK8LtQ_uBnyzsjhwIJD3e8g2sjbb8HnjqrN-3qrl5ClPaWPM01EiGtLiCuqEQ",
+      "https://play-lh.googleusercontent.com/3MsyL7uCwxfwn9MOB_0EV1w66ylaun4ix-0dRtVNIFOis_JGVIFl1gCMHl15hnWULSS7byrOReeY-HLN14x1"
+    ],
+    "released": "Jan 27, 2026",
+    "updated": 1770283673000,
+    "preregister": false,
+    "earlyAccessEnabled": false,
+    "url": "https://play.google.com/store/apps/details?id=com.tenpercentred.biotix3&hl=en&gl=US",
+    "fetchedAt": "2026-10-19T08:41:22.173Z"
+  },
   "com.playwithfurcifer.bpb.android": {
     "appId": "com.playwithfurcifer.bpb.android",
     "title": "Backpack Battles",
@@ -25557,6 +26805,59 @@
     "earlyAccessEnabled": false,
     "url": "https://play.google.com/store/apps/details?id=rollingball.td.mushroom.warriors&hl=en&gl=US",
     "fetchedAt": "2026-10-13T05:55:54.519Z"
+  },
+  "com.Jbm360.ArrowBattle": {
+    "appId": "com.Jbm360.ArrowBattle",
+    "title": "Arrow Battle!",
+    "summary": "Pick the right card, drop troops, and defeat rival Kings in fast PvP battles!",
+    "installs": "100+",
+    "minInstalls": 100,
+    "score": null,
+    "ratings": null,
+    "price": 0,
+    "free": true,
+    "currency": "USD",
+    "priceText": "Free",
+    "offersIAP": false,
+    "adSupported": false,
+    "developer": "Jbm360",
+    "developerId": "5968149630090882206",
+    "developerInternalID": "5968149630090882206",
+    "genre": "Strategy",
+    "genreId": "GAME_STRATEGY",
+    "categories": [
+      {
+        "name": "Strategy",
+        "id": "GAME_STRATEGY"
+      }
+    ],
+    "icon": "https://play-lh.googleusercontent.com/8eNAnKMt6NreZLzHNOPiiuN31TdR3HLVrYeg-EZqrOcXYI-ZtHzvzvPyjlhMq2Eiof_IMNYOFxvEV22bMR2Et0M",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/hfyGc7j8p4jRlOW3P11xEOg9AK6LAlai_0903cMRFuR_EYQ1kaSNXWnDR1LyI90ulGkxfgcGWptoRQ9CDy3plA",
+      "https://play-lh.googleusercontent.com/bX51YqgY_2jZMUicU08O8cmHtLaWTEKKKdQ0Z48MQGUkK5JxDOQQwRK7p67lqIZHdor7bBrLyw_KT_pvfeURLYw",
+      "https://play-lh.googleusercontent.com/oBJGD5XROqQTWB4T6c-OeuygOKxYf2GYEJm45a3jVTv-ac7jDsez1Bzp0JK9AW0zRA6GWzufAE5giyYqwItVJg",
+      "https://play-lh.googleusercontent.com/l9hCjy4FQq0B3WQ4EVKOT9n45HeYgoWY4X6aFXLEmACJTTyQq50l3p8xMVTWLp-YHuRRx-xQzhS3QOYxH_S1",
+      "https://play-lh.googleusercontent.com/t6UsXq27E4BV8T9BsSzZyzm1iON1xKRpGK2SJBXIyBqVkgBf9NBD5_tMIc5lIggEkiCMC0tT4A7Ah3gBGp6SSQ",
+      "https://play-lh.googleusercontent.com/SuosWXzxLDny19zfGjub9j65HqK6r53gINFLGW6P0rZk6jAFiQfkDGgNQVO2yBid0HCoRhpNX3JZJJirbacd",
+      "https://play-lh.googleusercontent.com/hfyGc7j8p4jRlOW3P11xEOg9AK6LAlai_0903cMRFuR_EYQ1kaSNXWnDR1LyI90ulGkxfgcGWptoRQ9CDy3plA",
+      "https://play-lh.googleusercontent.com/bX51YqgY_2jZMUicU08O8cmHtLaWTEKKKdQ0Z48MQGUkK5JxDOQQwRK7p67lqIZHdor7bBrLyw_KT_pvfeURLYw",
+      "https://play-lh.googleusercontent.com/oBJGD5XROqQTWB4T6c-OeuygOKxYf2GYEJm45a3jVTv-ac7jDsez1Bzp0JK9AW0zRA6GWzufAE5giyYqwItVJg",
+      "https://play-lh.googleusercontent.com/l9hCjy4FQq0B3WQ4EVKOT9n45HeYgoWY4X6aFXLEmACJTTyQq50l3p8xMVTWLp-YHuRRx-xQzhS3QOYxH_S1",
+      "https://play-lh.googleusercontent.com/t6UsXq27E4BV8T9BsSzZyzm1iON1xKRpGK2SJBXIyBqVkgBf9NBD5_tMIc5lIggEkiCMC0tT4A7Ah3gBGp6SSQ",
+      "https://play-lh.googleusercontent.com/SuosWXzxLDny19zfGjub9j65HqK6r53gINFLGW6P0rZk6jAFiQfkDGgNQVO2yBid0HCoRhpNX3JZJJirbacd",
+      "https://play-lh.googleusercontent.com/hfyGc7j8p4jRlOW3P11xEOg9AK6LAlai_0903cMRFuR_EYQ1kaSNXWnDR1LyI90ulGkxfgcGWptoRQ9CDy3plA",
+      "https://play-lh.googleusercontent.com/bX51YqgY_2jZMUicU08O8cmHtLaWTEKKKdQ0Z48MQGUkK5JxDOQQwRK7p67lqIZHdor7bBrLyw_KT_pvfeURLYw",
+      "https://play-lh.googleusercontent.com/oBJGD5XROqQTWB4T6c-OeuygOKxYf2GYEJm45a3jVTv-ac7jDsez1Bzp0JK9AW0zRA6GWzufAE5giyYqwItVJg",
+      "https://play-lh.googleusercontent.com/l9hCjy4FQq0B3WQ4EVKOT9n45HeYgoWY4X6aFXLEmACJTTyQq50l3p8xMVTWLp-YHuRRx-xQzhS3QOYxH_S1",
+      "https://play-lh.googleusercontent.com/t6UsXq27E4BV8T9BsSzZyzm1iON1xKRpGK2SJBXIyBqVkgBf9NBD5_tMIc5lIggEkiCMC0tT4A7Ah3gBGp6SSQ",
+      "https://play-lh.googleusercontent.com/SuosWXzxLDny19zfGjub9j65HqK6r53gINFLGW6P0rZk6jAFiQfkDGgNQVO2yBid0HCoRhpNX3JZJJirbacd"
+    ],
+    "released": "Jan 21, 2026",
+    "updated": 1769004984000,
+    "preregister": false,
+    "earlyAccessEnabled": false,
+    "url": "https://play.google.com/store/apps/details?id=com.Jbm360.ArrowBattle&hl=en&gl=US",
+    "fetchedAt": "2026-10-19T07:26:43.262Z"
   },
   "robot.squad.heroes.tower.defense.battle.td": {
     "appId": "robot.squad.heroes.tower.defense.battle.td",
@@ -26684,6 +27985,62 @@
     "earlyAccessEnabled": false,
     "url": "https://play.google.com/store/apps/details?id=com.thp020.stickman.casual.war.game&hl=en&gl=US",
     "fetchedAt": "2026-10-12T07:37:19.542Z"
+  },
+  "com.aredstudio.superchess": {
+    "appId": "com.aredstudio.superchess",
+    "title": "Super Chess",
+    "summary": "Enter the dungeon, Build your strategy, Break the rules, Survive chess dungeons",
+    "installs": "500+",
+    "minInstalls": 500,
+    "score": null,
+    "ratings": null,
+    "price": 0,
+    "free": true,
+    "currency": "USD",
+    "priceText": "Free",
+    "offersIAP": false,
+    "adSupported": false,
+    "developer": "TRBO FAST TOOLS INC.",
+    "developerId": "TRBO+FAST+TOOLS+INC.",
+    "developerInternalID": "TRBO+FAST+TOOLS+INC.",
+    "genre": "Strategy",
+    "genreId": "GAME_STRATEGY",
+    "categories": [
+      {
+        "name": "Strategy",
+        "id": "GAME_STRATEGY"
+      }
+    ],
+    "icon": "https://play-lh.googleusercontent.com/KfIwPWEurGaOkrFirwlNM1NiZFstkyekb0MMOcX4zPwyL4zxrc8EpUm1ovCvCzFoJTgqASvZ71KOCWp0nh0-Lw",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/y5i-QljfL2NhZ725quse2Iev5VKB_wNVTiGwZPLHl87hIRZFhlUS6iss2IgDM0byyH1PNPNU2U2ZKF__dhCXNA",
+      "https://play-lh.googleusercontent.com/zYrUWOJTUB--7kJcm4alKKsNCSY46gkbFaLnrNMb6Vm-qBusGBacKdNycDxHtEZQ_3Om-yWvITsb-WRsbEMJ",
+      "https://play-lh.googleusercontent.com/HHjzZbmtaq5NVqT4FoZ2ewq25-hVlW3KmaUUZ2WWNGlOnQW5H7C0hpvBJxIKzEKC3vQ5ZxSMpbbxVRAnPcUs4A",
+      "https://play-lh.googleusercontent.com/YFbbnF07cXfUZcvT70haICFNwYk_99_YdIcHwj1gDDbd71gdduHaazKqdbc2Dsc7yDjM_ZyN1IlJxf3IADaqBQ",
+      "https://play-lh.googleusercontent.com/YNUtUVw2ysyTQwsItsLntz19-iEA7bNAi0VFCr5pSlPRX1q2oKhEu807Bpp7vmHQGas4uSUm3nf-xBve95bqXg",
+      "https://play-lh.googleusercontent.com/9o2TjJqHWL7ELBln9WXQupIjfqckuPjgrVEAF_ZNmrk9CmOZQQ8CMN9OaVmlc8vueJ0HYoOznvhIkySZaqwKfQ",
+      "https://play-lh.googleusercontent.com/w5iDKheuydSY5Dt71d7XPgbdFUWEcDrdsKUY5qgWcfZE7UlD3MuH7feg49GtPoff42s-uV-ChoBo-ulGBfFeig",
+      "https://play-lh.googleusercontent.com/HHjzZbmtaq5NVqT4FoZ2ewq25-hVlW3KmaUUZ2WWNGlOnQW5H7C0hpvBJxIKzEKC3vQ5ZxSMpbbxVRAnPcUs4A",
+      "https://play-lh.googleusercontent.com/9o2TjJqHWL7ELBln9WXQupIjfqckuPjgrVEAF_ZNmrk9CmOZQQ8CMN9OaVmlc8vueJ0HYoOznvhIkySZaqwKfQ",
+      "https://play-lh.googleusercontent.com/YNUtUVw2ysyTQwsItsLntz19-iEA7bNAi0VFCr5pSlPRX1q2oKhEu807Bpp7vmHQGas4uSUm3nf-xBve95bqXg",
+      "https://play-lh.googleusercontent.com/YFbbnF07cXfUZcvT70haICFNwYk_99_YdIcHwj1gDDbd71gdduHaazKqdbc2Dsc7yDjM_ZyN1IlJxf3IADaqBQ",
+      "https://play-lh.googleusercontent.com/y5i-QljfL2NhZ725quse2Iev5VKB_wNVTiGwZPLHl87hIRZFhlUS6iss2IgDM0byyH1PNPNU2U2ZKF__dhCXNA",
+      "https://play-lh.googleusercontent.com/w5iDKheuydSY5Dt71d7XPgbdFUWEcDrdsKUY5qgWcfZE7UlD3MuH7feg49GtPoff42s-uV-ChoBo-ulGBfFeig",
+      "https://play-lh.googleusercontent.com/zYrUWOJTUB--7kJcm4alKKsNCSY46gkbFaLnrNMb6Vm-qBusGBacKdNycDxHtEZQ_3Om-yWvITsb-WRsbEMJ",
+      "https://play-lh.googleusercontent.com/HHjzZbmtaq5NVqT4FoZ2ewq25-hVlW3KmaUUZ2WWNGlOnQW5H7C0hpvBJxIKzEKC3vQ5ZxSMpbbxVRAnPcUs4A",
+      "https://play-lh.googleusercontent.com/9o2TjJqHWL7ELBln9WXQupIjfqckuPjgrVEAF_ZNmrk9CmOZQQ8CMN9OaVmlc8vueJ0HYoOznvhIkySZaqwKfQ",
+      "https://play-lh.googleusercontent.com/YNUtUVw2ysyTQwsItsLntz19-iEA7bNAi0VFCr5pSlPRX1q2oKhEu807Bpp7vmHQGas4uSUm3nf-xBve95bqXg",
+      "https://play-lh.googleusercontent.com/YFbbnF07cXfUZcvT70haICFNwYk_99_YdIcHwj1gDDbd71gdduHaazKqdbc2Dsc7yDjM_ZyN1IlJxf3IADaqBQ",
+      "https://play-lh.googleusercontent.com/y5i-QljfL2NhZ725quse2Iev5VKB_wNVTiGwZPLHl87hIRZFhlUS6iss2IgDM0byyH1PNPNU2U2ZKF__dhCXNA",
+      "https://play-lh.googleusercontent.com/w5iDKheuydSY5Dt71d7XPgbdFUWEcDrdsKUY5qgWcfZE7UlD3MuH7feg49GtPoff42s-uV-ChoBo-ulGBfFeig",
+      "https://play-lh.googleusercontent.com/zYrUWOJTUB--7kJcm4alKKsNCSY46gkbFaLnrNMb6Vm-qBusGBacKdNycDxHtEZQ_3Om-yWvITsb-WRsbEMJ"
+    ],
+    "released": "Jan 8, 2026",
+    "updated": 1768498401000,
+    "preregister": false,
+    "earlyAccessEnabled": false,
+    "url": "https://play.google.com/store/apps/details?id=com.aredstudio.superchess&hl=en&gl=US",
+    "fetchedAt": "2026-10-19T07:12:19.771Z"
   },
   "com.astrotech.astrogame": {
     "appId": "com.astrotech.astrogame",
@@ -28025,6 +29382,65 @@
     "url": "https://play.google.com/store/apps/details?id=com.FGS.FrontlineWW2UKcorps&hl=en&gl=US",
     "fetchedAt": "2026-10-12T08:26:28.397Z"
   },
+  "com.mj.modern.farming.games": {
+    "appId": "com.mj.modern.farming.games",
+    "title": "Modern Farming Games 2025",
+    "summary": "Drive heavy tractors, grow crops &amp; manage your farm in this tractor game 3D.",
+    "installs": "100,000+",
+    "minInstalls": 100000,
+    "score": null,
+    "ratings": null,
+    "price": 0,
+    "free": true,
+    "currency": "USD",
+    "priceText": "Free",
+    "offersIAP": false,
+    "adSupported": true,
+    "developer": "MJ Production Inc.",
+    "developerId": "MJ+Production+Inc.",
+    "developerInternalID": "MJ+Production+Inc.",
+    "genre": "Strategy",
+    "genreId": "GAME_STRATEGY",
+    "categories": [
+      {
+        "name": "Strategy",
+        "id": "GAME_STRATEGY"
+      }
+    ],
+    "icon": "https://play-lh.googleusercontent.com/MHEv4e4_cwpD-wlqLN08h1kTC6K8x_jc28siqys_fdk4pgaBSXDyOS65eemHw80AxQhAWwX9ouOPgrL1ZQkH",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/WmyxkRMYTu3bZTAZXFpO3fpxyp2HGmSQfGd5uRTrmuSALmEoxhwrlX0mZSnC-C5QJqB2sN7_1qOk_ecm4p8O",
+      "https://play-lh.googleusercontent.com/J6n-w2aIbLrM76Fs_0_pjsn8pPnZJ1IoCf89xqYhVsiC61e9NZeIgbk9ZBNSmLee02OQw9Ct_b0DsRMgkt2mfQ",
+      "https://play-lh.googleusercontent.com/2Esjkc9Gb_xdD747E0D3bmTw1QboCvdw-B2oyAi1NJIcT8pgYUJ9HGjGbKPtncnygfRfJ5hy4vytyGdyKrOthg",
+      "https://play-lh.googleusercontent.com/O9giTgnP8FgDIPTUg2mvvfNbXsz6mgO8f6SxCME1ti_5axLvFn3oXvb-dAX7RVGQBW-aK6RGQHZGb2zhYDWMYQ",
+      "https://play-lh.googleusercontent.com/Z3Qj_ig4QUXMSlowneKXqa-LTUBVwsWQDj90M9PO-Z8HPdsL1fX1DLZDWf2k74AdLMrB5sXkWBn0F8WTLvqQKwY",
+      "https://play-lh.googleusercontent.com/ErAA9grFKG7ppfQE1Kxn3LDjOMgEYnDR0nRNStXMHS_HOVuZUAeJhf0D0uzySQeWH7Y5R2-X5IwGuZLEgzQILgU",
+      "https://play-lh.googleusercontent.com/vQMxlYLfymUJVeHQu3f-DQOCfcntfYE_Ng1iPZZOIbk4VLVcFLEQ-2dXqTvDBYpomMR2V4OQHrVqETbIO4VW",
+      "https://play-lh.googleusercontent.com/fIUwNOnzihcTjijFBI72VybsOAO9HwxZpswtCv-9lcmicQzHtFHuI3sxVYPjrVduqNjmk6StmM_vfnAAiB00KHg",
+      "https://play-lh.googleusercontent.com/WmyxkRMYTu3bZTAZXFpO3fpxyp2HGmSQfGd5uRTrmuSALmEoxhwrlX0mZSnC-C5QJqB2sN7_1qOk_ecm4p8O",
+      "https://play-lh.googleusercontent.com/J6n-w2aIbLrM76Fs_0_pjsn8pPnZJ1IoCf89xqYhVsiC61e9NZeIgbk9ZBNSmLee02OQw9Ct_b0DsRMgkt2mfQ",
+      "https://play-lh.googleusercontent.com/2Esjkc9Gb_xdD747E0D3bmTw1QboCvdw-B2oyAi1NJIcT8pgYUJ9HGjGbKPtncnygfRfJ5hy4vytyGdyKrOthg",
+      "https://play-lh.googleusercontent.com/O9giTgnP8FgDIPTUg2mvvfNbXsz6mgO8f6SxCME1ti_5axLvFn3oXvb-dAX7RVGQBW-aK6RGQHZGb2zhYDWMYQ",
+      "https://play-lh.googleusercontent.com/Z3Qj_ig4QUXMSlowneKXqa-LTUBVwsWQDj90M9PO-Z8HPdsL1fX1DLZDWf2k74AdLMrB5sXkWBn0F8WTLvqQKwY",
+      "https://play-lh.googleusercontent.com/ErAA9grFKG7ppfQE1Kxn3LDjOMgEYnDR0nRNStXMHS_HOVuZUAeJhf0D0uzySQeWH7Y5R2-X5IwGuZLEgzQILgU",
+      "https://play-lh.googleusercontent.com/vQMxlYLfymUJVeHQu3f-DQOCfcntfYE_Ng1iPZZOIbk4VLVcFLEQ-2dXqTvDBYpomMR2V4OQHrVqETbIO4VW",
+      "https://play-lh.googleusercontent.com/fIUwNOnzihcTjijFBI72VybsOAO9HwxZpswtCv-9lcmicQzHtFHuI3sxVYPjrVduqNjmk6StmM_vfnAAiB00KHg",
+      "https://play-lh.googleusercontent.com/WmyxkRMYTu3bZTAZXFpO3fpxyp2HGmSQfGd5uRTrmuSALmEoxhwrlX0mZSnC-C5QJqB2sN7_1qOk_ecm4p8O",
+      "https://play-lh.googleusercontent.com/J6n-w2aIbLrM76Fs_0_pjsn8pPnZJ1IoCf89xqYhVsiC61e9NZeIgbk9ZBNSmLee02OQw9Ct_b0DsRMgkt2mfQ",
+      "https://play-lh.googleusercontent.com/2Esjkc9Gb_xdD747E0D3bmTw1QboCvdw-B2oyAi1NJIcT8pgYUJ9HGjGbKPtncnygfRfJ5hy4vytyGdyKrOthg",
+      "https://play-lh.googleusercontent.com/O9giTgnP8FgDIPTUg2mvvfNbXsz6mgO8f6SxCME1ti_5axLvFn3oXvb-dAX7RVGQBW-aK6RGQHZGb2zhYDWMYQ",
+      "https://play-lh.googleusercontent.com/Z3Qj_ig4QUXMSlowneKXqa-LTUBVwsWQDj90M9PO-Z8HPdsL1fX1DLZDWf2k74AdLMrB5sXkWBn0F8WTLvqQKwY",
+      "https://play-lh.googleusercontent.com/ErAA9grFKG7ppfQE1Kxn3LDjOMgEYnDR0nRNStXMHS_HOVuZUAeJhf0D0uzySQeWH7Y5R2-X5IwGuZLEgzQILgU",
+      "https://play-lh.googleusercontent.com/vQMxlYLfymUJVeHQu3f-DQOCfcntfYE_Ng1iPZZOIbk4VLVcFLEQ-2dXqTvDBYpomMR2V4OQHrVqETbIO4VW",
+      "https://play-lh.googleusercontent.com/fIUwNOnzihcTjijFBI72VybsOAO9HwxZpswtCv-9lcmicQzHtFHuI3sxVYPjrVduqNjmk6StmM_vfnAAiB00KHg"
+    ],
+    "released": "Dec 15, 2025",
+    "updated": 1775795039000,
+    "preregister": false,
+    "earlyAccessEnabled": false,
+    "url": "https://play.google.com/store/apps/details?id=com.mj.modern.farming.games&hl=en&gl=US",
+    "fetchedAt": "2026-10-19T08:27:30.091Z"
+  },
   "com.PanikArcade.CloverPit": {
     "appId": "com.PanikArcade.CloverPit",
     "title": "CloverPit",
@@ -29067,6 +30483,45 @@
     "url": "https://play.google.com/store/apps/details?id=com.nvizzio.towerdominion&hl=en&gl=US",
     "fetchedAt": "2026-10-12T07:23:28.623Z"
   },
+  "com.venturesis.miniclash": {
+    "appId": "com.venturesis.miniclash",
+    "title": "Mini Clash",
+    "summary": "Step into Mini Clash — a fast, fun 1-on-1 strategy game!",
+    "installs": "1,000+",
+    "minInstalls": 1000,
+    "score": 1.9090909,
+    "ratings": 11,
+    "price": 0,
+    "free": true,
+    "currency": "USD",
+    "priceText": "Free",
+    "offersIAP": true,
+    "adSupported": true,
+    "developer": "VENTURESIS TEKNOLOJI ANONIM SIRKETI",
+    "developerId": "VENTURESIS+TEKNOLOJI+ANONIM+SIRKETI",
+    "developerInternalID": "VENTURESIS+TEKNOLOJI+ANONIM+SIRKETI",
+    "genre": "Strategy",
+    "genreId": "GAME_STRATEGY",
+    "categories": [
+      {
+        "name": "Strategy",
+        "id": "GAME_STRATEGY"
+      }
+    ],
+    "icon": "https://play-lh.googleusercontent.com/taWLLbmUeHjpme86Rzlst-dB-PCu_IHpWJmCDZrbcbHJC9eZ4edz1W28qjFuOnjJBwU7AanjcfJ98xcC3OrCzA",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/k0uA5AlPlZzgmcapmIQTVxVTCddV53DVOwApV7nku7DLdiVEzOHXOrwhYVJanzdKlVRtymP1Qm6AvzdJuH0kZSo",
+      "https://play-lh.googleusercontent.com/Jz5ujP-fv7a9_wDbRQ4uLWRC0GCVagilcVy4Mh-39nAuxoaTHrLNSQh5G0aQEUmhAjFvhP1akbSmo0d69oIi",
+      "https://play-lh.googleusercontent.com/JHclKNZisr9oHE6_OlrS6X_p54KrXoBHWPMe9P9ddEiCPSwa_86Ybu7SrCByZgN6lg1SudLGUKCLVkEENrhMSiA",
+      "https://play-lh.googleusercontent.com/ziJ-rDTaV_KGbrFbF08RfdkKPYNhOSSHHRb7C3jq7yuXv6gw_zJGtzQwwn2yLNG58O3gjeIZEK7zwTt9eNC29w"
+    ],
+    "released": "Nov 30, 2025",
+    "updated": 1786735542000,
+    "preregister": false,
+    "earlyAccessEnabled": false,
+    "url": "https://play.google.com/store/apps/details?id=com.venturesis.miniclash&hl=en&gl=US",
+    "fetchedAt": "2026-10-19T06:56:53.032Z"
+  },
   "com.mobsmile.slimedefense": {
     "appId": "com.mobsmile.slimedefense",
     "title": "Slime Defense",
@@ -29677,6 +31132,47 @@
     "earlyAccessEnabled": false,
     "url": "https://play.google.com/store/apps/details?id=energy.hex.reactor&hl=en&gl=US",
     "fetchedAt": "2026-10-19T02:37:31.240Z"
+  },
+  "com.gameyogi.cardrush": {
+    "appId": "com.gameyogi.cardrush",
+    "title": "Card Rush : Runner Defense",
+    "summary": "Build links, play cards, and defend your base in this strategic runner defense!",
+    "installs": "5,000+",
+    "minInstalls": 5000,
+    "score": null,
+    "ratings": null,
+    "price": 0,
+    "free": true,
+    "currency": "USD",
+    "priceText": "Free",
+    "offersIAP": true,
+    "adSupported": false,
+    "developer": "GameYogi",
+    "developerId": "5680912275480096327",
+    "developerInternalID": "5680912275480096327",
+    "genre": "Strategy",
+    "genreId": "GAME_STRATEGY",
+    "categories": [
+      {
+        "name": "Strategy",
+        "id": "GAME_STRATEGY"
+      }
+    ],
+    "icon": "https://play-lh.googleusercontent.com/BfhkGK7w0eMZWqH3z4YFtv9Y_rWRTu6CbqDabI_5qFj8GAgpL7G3ZG6NpRGq-pXvU2vXZU0eBPo4fjNmUD47dw",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/4vQF7L7Onvcufi4brkM20uoJMM35b83Vty0fcv4os9OTKkXo0Q5iSQ2IIMHiuBdn83490OR0lqhMfcfElwrKgg",
+      "https://play-lh.googleusercontent.com/yp2QvtghqlI_PWPE9VuuLJK20FFmdXdilWX6B3dZ8NVu0rg65hX5eoljEk52aFHNu8hT_xEFa_zjOA2-2kRtHQ",
+      "https://play-lh.googleusercontent.com/hs4YBG7X5e97qADY7uH_-d8d3G8MbMNMCdgFRLGqdh0VaFLuR2Yo3iIvFuh4APey1ZC8VACV4_IAqChhNJE2YqM",
+      "https://play-lh.googleusercontent.com/tYaizo_fPuGEZxRz2v0hIgxSzFfjUtLBX_hg7J7u6wt6v8BLGyDQHB7d9BfGrNQNekel3rUZS854c1g9bDc4-Q",
+      "https://play-lh.googleusercontent.com/_jdESefCWUBUseAWTWT0525MXc4VB1QK9eOXLqYn2i5pDFjD45igDeQLHvMv1rmQ2wMhbPGpfPwBE5AO5VBG",
+      "https://play-lh.googleusercontent.com/-E-ulrBhkObeEo7K3hKSww8lBX9FMaerzm7Gc1Au7Mos7PJXUV_XQSPBsgpBih56Uu1iwXsvN75YhxPlimNbwQ"
+    ],
+    "released": "Nov 20, 2025",
+    "updated": 1787991927000,
+    "preregister": false,
+    "earlyAccessEnabled": false,
+    "url": "https://play.google.com/store/apps/details?id=com.gameyogi.cardrush&hl=en&gl=US",
+    "fetchedAt": "2026-10-19T07:19:47.676Z"
   },
   "com.oxiwyle.modernage3premium": {
     "appId": "com.oxiwyle.modernage3premium",
@@ -33089,6 +34585,64 @@
     "url": "https://play.google.com/store/apps/details?id=com.MallatEntertainment.Warforged&hl=en&gl=US",
     "fetchedAt": "2026-10-12T17:11:43.873Z"
   },
+  "com.aredstudio.mintheroes": {
+    "appId": "com.aredstudio.mintheroes",
+    "title": "Mint  Heroes",
+    "summary": "Merge, upgrade &amp; defend! Build bullet machines and crush enemy waves!",
+    "installs": "100+",
+    "minInstalls": 100,
+    "score": null,
+    "ratings": null,
+    "price": 0,
+    "free": true,
+    "currency": "USD",
+    "priceText": "Free",
+    "offersIAP": false,
+    "adSupported": false,
+    "developer": "TRBO FAST TOOLS INC.",
+    "developerId": "TRBO+FAST+TOOLS+INC.",
+    "developerInternalID": "TRBO+FAST+TOOLS+INC.",
+    "genre": "Strategy",
+    "genreId": "GAME_STRATEGY",
+    "categories": [
+      {
+        "name": "Strategy",
+        "id": "GAME_STRATEGY"
+      }
+    ],
+    "icon": "https://play-lh.googleusercontent.com/Pc8EtL8N5XA-kltQpKzP1q8VQV8t_8uS9zdl74DFpAr69BybW04uk4DWfOiot9TNtu1JSjU-ZDYd1NgCg1vy",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/4JxxCVKsTOfb7XeMgOgQ-6rKhxuNq8mzDYR7IguMHaTxYZVjvSXRnjf0syRPst91KMx8FJNKD3l2r1_ciqNn8g",
+      "https://play-lh.googleusercontent.com/ZBXGZaeknuOS8sK_9zavVGQRhZl0RdU1kg-8BzOmOmtC01u35yeSMQinQoh8aqNzMmK-C_6s39LSNbbY6Wrr7Q",
+      "https://play-lh.googleusercontent.com/wSisQ_F3LijR3Dc5YqYnw35-I1kU61dNhrEVeBIa2e5HBhCwRWhzo_akSIptwnzZGGeJ_uPlDbIqs22xss3QKA",
+      "https://play-lh.googleusercontent.com/QPi34BnxP4FUqt7yk8KIonpFdojVK54d0-Sm4tqsi_f4Ny-txxrrNf8uKdcJ4C4HAPbyXmfwNHAbU-_QA-Pi4w",
+      "https://play-lh.googleusercontent.com/6WZJSWY6lf7fM3Ctq8U7R_Yr8QI1zmU66kp8yHRf7IErb2EXjj5T7NJZIQx9tqf7JnKqQHfx4v1rey0V90D8LA",
+      "https://play-lh.googleusercontent.com/tdgGiWRU_bZjvYYZeaz-zoB-iSlBSnjqQfXLsDfYx-hgEpoT2_siqIEq1sevlm73RshMT4GXVi7HlrNVkSNknA",
+      "https://play-lh.googleusercontent.com/GXti10MZU9DBgzxTewXkPsYE5Zfzg0t0qcYE82kv2ybw6plQMLNmOq8BaPjWWPY52tJEQ4rYvgcA34fa0A4g",
+      "https://play-lh.googleusercontent.com/ZBXGZaeknuOS8sK_9zavVGQRhZl0RdU1kg-8BzOmOmtC01u35yeSMQinQoh8aqNzMmK-C_6s39LSNbbY6Wrr7Q",
+      "https://play-lh.googleusercontent.com/4JxxCVKsTOfb7XeMgOgQ-6rKhxuNq8mzDYR7IguMHaTxYZVjvSXRnjf0syRPst91KMx8FJNKD3l2r1_ciqNn8g",
+      "https://play-lh.googleusercontent.com/wSisQ_F3LijR3Dc5YqYnw35-I1kU61dNhrEVeBIa2e5HBhCwRWhzo_akSIptwnzZGGeJ_uPlDbIqs22xss3QKA",
+      "https://play-lh.googleusercontent.com/QPi34BnxP4FUqt7yk8KIonpFdojVK54d0-Sm4tqsi_f4Ny-txxrrNf8uKdcJ4C4HAPbyXmfwNHAbU-_QA-Pi4w",
+      "https://play-lh.googleusercontent.com/tdgGiWRU_bZjvYYZeaz-zoB-iSlBSnjqQfXLsDfYx-hgEpoT2_siqIEq1sevlm73RshMT4GXVi7HlrNVkSNknA",
+      "https://play-lh.googleusercontent.com/GXti10MZU9DBgzxTewXkPsYE5Zfzg0t0qcYE82kv2ybw6plQMLNmOq8BaPjWWPY52tJEQ4rYvgcA34fa0A4g",
+      "https://play-lh.googleusercontent.com/6WZJSWY6lf7fM3Ctq8U7R_Yr8QI1zmU66kp8yHRf7IErb2EXjj5T7NJZIQx9tqf7JnKqQHfx4v1rey0V90D8LA",
+      "https://play-lh.googleusercontent.com/tmcq0ekZmb1O6Kxf4XqpcylgY2eJYdl8uFzRyTK3ehZ4KRoB1Ww-B4VLD12_cWUELmT23xAd7XX8GKEHJfMqRr0",
+      "https://play-lh.googleusercontent.com/ZBXGZaeknuOS8sK_9zavVGQRhZl0RdU1kg-8BzOmOmtC01u35yeSMQinQoh8aqNzMmK-C_6s39LSNbbY6Wrr7Q",
+      "https://play-lh.googleusercontent.com/4JxxCVKsTOfb7XeMgOgQ-6rKhxuNq8mzDYR7IguMHaTxYZVjvSXRnjf0syRPst91KMx8FJNKD3l2r1_ciqNn8g",
+      "https://play-lh.googleusercontent.com/wSisQ_F3LijR3Dc5YqYnw35-I1kU61dNhrEVeBIa2e5HBhCwRWhzo_akSIptwnzZGGeJ_uPlDbIqs22xss3QKA",
+      "https://play-lh.googleusercontent.com/tdgGiWRU_bZjvYYZeaz-zoB-iSlBSnjqQfXLsDfYx-hgEpoT2_siqIEq1sevlm73RshMT4GXVi7HlrNVkSNknA",
+      "https://play-lh.googleusercontent.com/GXti10MZU9DBgzxTewXkPsYE5Zfzg0t0qcYE82kv2ybw6plQMLNmOq8BaPjWWPY52tJEQ4rYvgcA34fa0A4g",
+      "https://play-lh.googleusercontent.com/6WZJSWY6lf7fM3Ctq8U7R_Yr8QI1zmU66kp8yHRf7IErb2EXjj5T7NJZIQx9tqf7JnKqQHfx4v1rey0V90D8LA",
+      "https://play-lh.googleusercontent.com/tmcq0ekZmb1O6Kxf4XqpcylgY2eJYdl8uFzRyTK3ehZ4KRoB1Ww-B4VLD12_cWUELmT23xAd7XX8GKEHJfMqRr0",
+      "https://play-lh.googleusercontent.com/QPi34BnxP4FUqt7yk8KIonpFdojVK54d0-Sm4tqsi_f4Ny-txxrrNf8uKdcJ4C4HAPbyXmfwNHAbU-_QA-Pi4w"
+    ],
+    "released": "Oct 6, 2025",
+    "updated": 1760024368000,
+    "preregister": false,
+    "earlyAccessEnabled": false,
+    "url": "https://play.google.com/store/apps/details?id=com.aredstudio.mintheroes&hl=en&gl=US",
+    "fetchedAt": "2026-10-19T07:12:22.102Z"
+  },
   "com.unicostudio.minerfighters": {
     "appId": "com.unicostudio.minerfighters",
     "title": "Miner Fighters",
@@ -34219,6 +35773,50 @@
     "url": "https://play.google.com/store/apps/details?id=com.igg.android.mafiamobile&hl=en&gl=US",
     "fetchedAt": "2026-10-12T07:38:35.264Z"
   },
+  "com.warvow.omgoogle": {
+    "appId": "com.warvow.omgoogle",
+    "title": "War Vow",
+    "summary": "Ultimate strategy. Unite allies. Dominate all",
+    "installs": "500,000+",
+    "minInstalls": 500000,
+    "score": 4.43,
+    "ratings": 9500,
+    "price": 0,
+    "free": true,
+    "currency": "USD",
+    "priceText": "Free",
+    "offersIAP": true,
+    "adSupported": true,
+    "developer": "STARFOX GAME",
+    "developerId": "6545166306275593704",
+    "developerInternalID": "6545166306275593704",
+    "genre": "Strategy",
+    "genreId": "GAME_STRATEGY",
+    "categories": [
+      {
+        "name": "Strategy",
+        "id": "GAME_STRATEGY"
+      },
+      {
+        "name": "4X",
+        "id": null
+      }
+    ],
+    "icon": "https://play-lh.googleusercontent.com/w-oMMKkVLai81Pngx3wFsz9bHUOIBhgbbD4JV141MQZuAIlxRyo2EMGi3xfiCHpl5Q3Ord8g2Rm2XlfgneXJfcc",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/rtqmaDBsyzuxTmX_9FLlp6YVgX_NH8QLb_e_NNWsnOYFzLGomYLtHjTMrwJmwXfiNqJemuKoVDS9-TEEtOjYPA",
+      "https://play-lh.googleusercontent.com/ksoQZEE__UyoztP95mJ7PPAGaInAa713z7CFa9iav-iSFMYzVzYBupBgw0jHLOVerk3trvuAT3qnS8rPQ98f6A",
+      "https://play-lh.googleusercontent.com/bBlnbuHE1YACtCpNAkLom1YMss9tX89DawL0Ss6JHhU5w9yvU9sUPvwr3pUdLmcb3FhegAEx4X5c7OhPg6N1gA",
+      "https://play-lh.googleusercontent.com/nFMjuJ0qXSwOw71PhrVNtHHrwTFPSN7kzNHybojrS5OjH55mSt498pgBg0gND_zBLA1Sd9GsW53YL0ptSE-2aw",
+      "https://play-lh.googleusercontent.com/vVRBVLfwIRZmKDMuviMJJTrGskmBcAlAfsXB-KxL2wyC9Br-XH8jc0tGuYM21kWgwMtSsLBBJyW7NEVyvWA5hQ"
+    ],
+    "released": "Sep 16, 2025",
+    "updated": 1788943815000,
+    "preregister": false,
+    "earlyAccessEnabled": false,
+    "url": "https://play.google.com/store/apps/details?id=com.warvow.omgoogle&hl=en&gl=US",
+    "fetchedAt": "2026-10-19T09:11:31.680Z"
+  },
   "com.lof.global.gp": {
     "appId": "com.lof.global.gp",
     "title": "Last Fiefdom",
@@ -34704,6 +36302,49 @@
     "earlyAccessEnabled": false,
     "url": "https://play.google.com/store/apps/details?id=com.tap4fun.apemj9.gplay&hl=en&gl=US",
     "fetchedAt": "2026-10-12T07:33:02.015Z"
+  },
+  "com.syslf.xdefenself": {
+    "appId": "com.syslf.xdefenself",
+    "title": "XDefense LF",
+    "summary": "Defend your castle against waves of enemies and legendary bosses!",
+    "installs": "100+",
+    "minInstalls": 100,
+    "score": null,
+    "ratings": null,
+    "price": 1,
+    "free": false,
+    "currency": "USD",
+    "priceText": "$1.00",
+    "offersIAP": false,
+    "adSupported": false,
+    "developer": "SYSLF Studio Ltda",
+    "developerId": "8635824706339433674",
+    "developerInternalID": "8635824706339433674",
+    "genre": "Strategy",
+    "genreId": "GAME_STRATEGY",
+    "categories": [
+      {
+        "name": "Strategy",
+        "id": "GAME_STRATEGY"
+      }
+    ],
+    "icon": "https://play-lh.googleusercontent.com/aBai2uMyqWhhujD1Zylv1loYSuAjMSiu6dsNXFPHrZtJzKp-V8Rb6SL_hXEOdvzcmgSD3rY9CjbrwGy1OwEEWg",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/v9sJBLoXjT6xlMDi42EW67-sd3E6ktJX7kKjrZ3cRGidt1ZU0yVnlswlpGfBAKe1BJaLW52M2BxCpBQqMhGdGg",
+      "https://play-lh.googleusercontent.com/6ag9FV4YLfcAY8MQDYRMjVLxa-Z0FSB7VSeg89Ft_Fopzb3q_q1whgLZaEReEnNOQN8JTuF-gVy1GGKwkY3RHnU",
+      "https://play-lh.googleusercontent.com/KrczZLyvawC8kTcKTYzaz9OyUasl6t_bQSZIf4gcZrVDXyWe6THQ20uETyF1wvqQTk30-c-Auh7hLgJbnUjPk_Q",
+      "https://play-lh.googleusercontent.com/mo842xk9Qy6lRK41iMTRznqSwqkAlhRkAg3uEHnuqvmb13lw14aXXVpIJWmwDwAzshsKL78pFOzWtamMDqKWQW8",
+      "https://play-lh.googleusercontent.com/qOWgHUO07DrNS_xbK4coAxPSMbJtzS-IiswUUtJMF5DnNVPIWw0fenBVnuwJe2OgLfjz8blIOZZBbZTB27LFfQ",
+      "https://play-lh.googleusercontent.com/Tb9IfIPH1LPICXEsz_1jUoPUpDMnFMA23D2_mHKRmCtz42O-7oiQt6GUcINrnak-ynNsOc_eIthAYgiHVFKH",
+      "https://play-lh.googleusercontent.com/dUDzYdhkk5HiI0Q_e5FQJnzWtO5xEYyHik5hsVJtWAR5GbXBZBvL61LoCoyV4eMTwr_8ROBoCqfVX3DWTBS6",
+      "https://play-lh.googleusercontent.com/Y1stOdBu4k2_Q5noBmQyl1BPSewVoRHFc9fPw6e-7UN1A9-Puhuz-zG3OSUADDwnV_oJMZRkpbk29vOnnuQC"
+    ],
+    "released": "Aug 30, 2025",
+    "updated": 1792207899000,
+    "preregister": false,
+    "earlyAccessEnabled": false,
+    "url": "https://play.google.com/store/apps/details?id=com.syslf.xdefenself&hl=en&gl=US",
+    "fetchedAt": "2026-10-19T06:24:31.841Z"
   },
   "com.bwg.arc.googleplay": {
     "appId": "com.bwg.arc.googleplay",
@@ -38882,6 +40523,54 @@
     "earlyAccessEnabled": false,
     "url": "https://play.google.com/store/apps/details?id=com.hooligan.savemoney&hl=en&gl=US",
     "fetchedAt": "2026-10-13T02:10:37.049Z"
+  },
+  "com.khelian.wilddefense": {
+    "appId": "com.khelian.wilddefense",
+    "title": "Wild Defense Animals vs Robots",
+    "summary": "Defend the animal kingdom from invading AI robots in this tower defense war!",
+    "installs": "500+",
+    "minInstalls": 500,
+    "score": null,
+    "ratings": null,
+    "price": 0,
+    "free": true,
+    "currency": "USD",
+    "priceText": "Free",
+    "offersIAP": false,
+    "adSupported": false,
+    "developer": "Khelian Games",
+    "developerId": "Khelian+Games",
+    "developerInternalID": "Khelian+Games",
+    "genre": "Strategy",
+    "genreId": "GAME_STRATEGY",
+    "categories": [
+      {
+        "name": "Strategy",
+        "id": "GAME_STRATEGY"
+      }
+    ],
+    "icon": "https://play-lh.googleusercontent.com/uuR8MXBaZDekKNRd8T9RU5DL_zY_VtgPvGEneCYcl2EGqaA0f24d3BAGs452_dEHuLX1Jp8N86Ol8gNveJJudg",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/iBvzJG_xLpzlEDAddJ9vAKHs7dmb0U7c3ZBw4ypTY3sDKGOL7_dF4CnTA1E-2MG87_OcfcYavbiGtNB-nj1Vhw",
+      "https://play-lh.googleusercontent.com/E7INvISpoNlqNt2BvJmX4-YaqeiyYMtKmCz2am_TPPdnNQegAqoJb-lYaMXhDWoKpe2r-hjy83A8BRAbln7Zow",
+      "https://play-lh.googleusercontent.com/4ecp7Gdn1pEWLE3rWEjDKU6P0YcK4ImgM20o3HuPUIigakdWGWYR3e4GcVLXBXgFls3JcoIXfKiid0xToXe8",
+      "https://play-lh.googleusercontent.com/sICl7FBSFX8g4nZ8OoPOK24GmrlWgCO0echjP_LZIwwTFXuc_4UHOPJTK2biGoOWeaA3ddsLANof0iunnpz81w",
+      "https://play-lh.googleusercontent.com/tczY106nmTzSuGTrBJ3tpkpi26MaNMl2w_p18AycUEZn4dfC9iuWfS3qobHe876KXI-7CMpemLNBzEJ5eCtDcJU",
+      "https://play-lh.googleusercontent.com/g3ybhMkG3gsfhjHjmwn7Q0VaBNvlxatkTILl5rIbH5B6fSTKIYg9_3c0i132zHkM4PIX683scBtODkA7hmT6GA",
+      "https://play-lh.googleusercontent.com/PuBpZ3IFQDKwP3TkitHFG3RvSXvHHSZYx4dJfRBT0yTZqYPAozGjzy0QF4rZB-WWxSr0xWUbEJFWvSfIAdPVRtE",
+      "https://play-lh.googleusercontent.com/iBvzJG_xLpzlEDAddJ9vAKHs7dmb0U7c3ZBw4ypTY3sDKGOL7_dF4CnTA1E-2MG87_OcfcYavbiGtNB-nj1Vhw",
+      "https://play-lh.googleusercontent.com/E7INvISpoNlqNt2BvJmX4-YaqeiyYMtKmCz2am_TPPdnNQegAqoJb-lYaMXhDWoKpe2r-hjy83A8BRAbln7Zow",
+      "https://play-lh.googleusercontent.com/4ecp7Gdn1pEWLE3rWEjDKU6P0YcK4ImgM20o3HuPUIigakdWGWYR3e4GcVLXBXgFls3JcoIXfKiid0xToXe8",
+      "https://play-lh.googleusercontent.com/sICl7FBSFX8g4nZ8OoPOK24GmrlWgCO0echjP_LZIwwTFXuc_4UHOPJTK2biGoOWeaA3ddsLANof0iunnpz81w",
+      "https://play-lh.googleusercontent.com/tczY106nmTzSuGTrBJ3tpkpi26MaNMl2w_p18AycUEZn4dfC9iuWfS3qobHe876KXI-7CMpemLNBzEJ5eCtDcJU",
+      "https://play-lh.googleusercontent.com/g3ybhMkG3gsfhjHjmwn7Q0VaBNvlxatkTILl5rIbH5B6fSTKIYg9_3c0i132zHkM4PIX683scBtODkA7hmT6GA"
+    ],
+    "released": "Jun 22, 2025",
+    "updated": 1766997550000,
+    "preregister": false,
+    "earlyAccessEnabled": false,
+    "url": "https://play.google.com/store/apps/details?id=com.khelian.wilddefense&hl=en&gl=US",
+    "fetchedAt": "2026-10-19T07:43:36.093Z"
   },
   "com.tank.doomsday": {
     "appId": "com.tank.doomsday",
@@ -44874,6 +46563,51 @@
     "url": "https://play.google.com/store/apps/details?id=com.unexpected.asfarastheeye&hl=en&gl=US",
     "fetchedAt": "2026-10-12T07:35:01.066Z"
   },
+  "com.rp.fun.games.armywar": {
+    "appId": "com.rp.fun.games.armywar",
+    "title": "火柴人軍團大作戰-火柴人軍團王國的冒險策略塔防之巔",
+    "summary": "The top of adventure strategy tower defense in stickman army kingdom",
+    "installs": "1,000+",
+    "minInstalls": 1000,
+    "score": null,
+    "ratings": null,
+    "price": 0,
+    "free": true,
+    "currency": "USD",
+    "priceText": "Free",
+    "offersIAP": false,
+    "adSupported": true,
+    "developer": "RP FUN GAMES",
+    "developerId": "RP+FUN+GAMES",
+    "developerInternalID": "RP+FUN+GAMES",
+    "genre": "Strategy",
+    "genreId": "GAME_STRATEGY",
+    "categories": [
+      {
+        "name": "Strategy",
+        "id": "GAME_STRATEGY"
+      }
+    ],
+    "icon": "https://play-lh.googleusercontent.com/Jj8P6ALDMcJvUzCgaCgwQ4ndmVFZ2jAeWAubjaI5xt42xjkuzwUlyRHNjCKda6NpWcn8tPxoNDxgv1GOEIo5ZQ",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/xAUj8zZOPNxUXaUpYmeeelst-AxQUYweLKuggRGyM5aygX_WFKCQ3l6vdu3z1TpAyy2WXVMKSEMcptIQ8WKJ",
+      "https://play-lh.googleusercontent.com/OpwSvSYI4MJC1lZjy0wD_QX0EiE5Tuu6BLY9pD8qnV-uGROLbS8JUgBJuom2rGBF04hJvFGVl1W941EJOs_vVw",
+      "https://play-lh.googleusercontent.com/0s6w29-9bVAij2fNe20WgyHaoXjRnePYgqqVY_iwDlqxs02-FGuVqgRKtgOQvzq5lEpTnAGuzpJP_IktL-BKrg",
+      "https://play-lh.googleusercontent.com/dpOuGylgb-zAmK7T1FM_tipxMoE3XAMpFlxkvXV522Rc-aXyj5HSSAkYc3SIRSxmhrbaFIXBtTvYFu11ZaANbcY",
+      "https://play-lh.googleusercontent.com/9UXC84StuuXAEyTDboyLfiQ7z36XxQMkvmhZ1YQ92Hv18izgWIJ3I4xgEcELeDlcZmqxptfBsE-PqoLz8c6VLg",
+      "https://play-lh.googleusercontent.com/xAUj8zZOPNxUXaUpYmeeelst-AxQUYweLKuggRGyM5aygX_WFKCQ3l6vdu3z1TpAyy2WXVMKSEMcptIQ8WKJ",
+      "https://play-lh.googleusercontent.com/OpwSvSYI4MJC1lZjy0wD_QX0EiE5Tuu6BLY9pD8qnV-uGROLbS8JUgBJuom2rGBF04hJvFGVl1W941EJOs_vVw",
+      "https://play-lh.googleusercontent.com/0s6w29-9bVAij2fNe20WgyHaoXjRnePYgqqVY_iwDlqxs02-FGuVqgRKtgOQvzq5lEpTnAGuzpJP_IktL-BKrg",
+      "https://play-lh.googleusercontent.com/dpOuGylgb-zAmK7T1FM_tipxMoE3XAMpFlxkvXV522Rc-aXyj5HSSAkYc3SIRSxmhrbaFIXBtTvYFu11ZaANbcY",
+      "https://play-lh.googleusercontent.com/9UXC84StuuXAEyTDboyLfiQ7z36XxQMkvmhZ1YQ92Hv18izgWIJ3I4xgEcELeDlcZmqxptfBsE-PqoLz8c6VLg"
+    ],
+    "released": "Mar 4, 2025",
+    "updated": 1741077852000,
+    "preregister": false,
+    "earlyAccessEnabled": false,
+    "url": "https://play.google.com/store/apps/details?id=com.rp.fun.games.armywar&hl=en&gl=US",
+    "fetchedAt": "2026-10-19T07:12:45.193Z"
+  },
   "com.kurechii.kingsleagueii": {
     "appId": "com.kurechii.kingsleagueii",
     "title": "King's League II",
@@ -48283,6 +50017,122 @@
     "url": "https://play.google.com/store/apps/details?id=civilization.wars.kingdom.strategy&hl=en&gl=US",
     "fetchedAt": "2026-10-12T08:10:05.429Z"
   },
+  "com.defense.td.warriors.strategy.evolution.saga.battles.free.games": {
+    "appId": "com.defense.td.warriors.strategy.evolution.saga.battles.free.games",
+    "title": "Duck Warriors:Defense TD Game",
+    "summary": "Duck Warriors is a unique tower defense game where you lead duck warriors!",
+    "installs": "100+",
+    "minInstalls": 100,
+    "score": null,
+    "ratings": null,
+    "price": 0,
+    "free": true,
+    "currency": "USD",
+    "priceText": "Free",
+    "offersIAP": false,
+    "adSupported": true,
+    "developer": "RP FUN GAMES",
+    "developerId": "RP+FUN+GAMES",
+    "developerInternalID": "RP+FUN+GAMES",
+    "genre": "Strategy",
+    "genreId": "GAME_STRATEGY",
+    "categories": [
+      {
+        "name": "Strategy",
+        "id": "GAME_STRATEGY"
+      }
+    ],
+    "icon": "https://play-lh.googleusercontent.com/K0fLy8lrNBaY4rCGMNt5volxzOZ9QtNAeSF-ROFJeGlA3ColvbkBUzgZwIUdy7x74qo4VOz5elgKJ6qX-WeuXw",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/OrTo10Ls7YI0oVTv9Tugp_ScnzpsJ7D9ivf8vIBE5nCZUb1VcD32IqzTcHa12_D37ieV-MpXJRSMXfVnEP4pDQ",
+      "https://play-lh.googleusercontent.com/tAPFrbDaxdqYSf8CYJ49OAbQ_GMqsEa6Df_5auoc49k7kjFiYIcYthL504wDqEvhduDcuLuWD4j4Od9P6nFY",
+      "https://play-lh.googleusercontent.com/4tQ5yiUJPkknV86VLpJebXSzpxDdxee8bpTmFRSjjR_bDullB1aHPbl8AcNtF-CLWPoJloPjd6WsubTPRiss",
+      "https://play-lh.googleusercontent.com/9AsXskLp2eo7eIw2SkrCZPqifY0Yuttx3eoJs9lS_gbrfTQxFJ1RzVFTf5fDkCL-owgqxJ_mFOVqwtcwGok0OKY",
+      "https://play-lh.googleusercontent.com/R_4Yn_0s4MRk3h8Z2PhdGYmePjuu2TPl5YDoPUtjvIctrAMzr4P7cq5WygZa_SKrOoo8H_IJKUyHVxLOEVa-V6I",
+      "https://play-lh.googleusercontent.com/oekl4YMVG4XfLnMVI1n7hXcfmq6aZg93zBTfOaEsh0E0jRwRdGtQG5na2udCw85fcdA5B0nFPnybvtHWEukEWtY",
+      "https://play-lh.googleusercontent.com/IBTMDTCsK3tyV326Nz9DhUcONs93VJEGeO7uhM-BdWMYAndPNawot1EjRtB_YcBMP5kH45bEh2CMyRX6V0f4isY",
+      "https://play-lh.googleusercontent.com/huxhwi4NIFVxKhCe-lm3654-iHhdyMK5UtTClSNM8q7bjZJwVxbEGG6A4J5EhS2FWYL9G0IxUfDXmha8Z_zz",
+      "https://play-lh.googleusercontent.com/apz0VnSUaEY5E97KH9YTBiYZ0zzJbHUAgcxd-pf33IKUbfugD54UTWtAqO6jsrj7nw8w-td5FHTlGKCw4NEOzg",
+      "https://play-lh.googleusercontent.com/XVR67r8KLq2fb1YUmwwHe-qL_V1_Us9mYmFKo0F57-3bLaIVeX8gD93gmQtADC8hVlaMgKqRBX3OCMFmEEoI",
+      "https://play-lh.googleusercontent.com/zf93nTVCueKfVct7ARP6ozeVRb4DvHgxuR4K78lgyqNe8DeOv2khEUwEJ_jCxA5HHMkhtTRS2z2SeYYO6LMa6vo",
+      "https://play-lh.googleusercontent.com/uguFv2w9iTPgOEvM9nCKbS7VEpfzV6t9C88QBb_9o8xddnTWn1pwq__5n3QAIDLKACjzNWZczzRkCqgdIWX0Gg",
+      "https://play-lh.googleusercontent.com/OrTo10Ls7YI0oVTv9Tugp_ScnzpsJ7D9ivf8vIBE5nCZUb1VcD32IqzTcHa12_D37ieV-MpXJRSMXfVnEP4pDQ",
+      "https://play-lh.googleusercontent.com/tAPFrbDaxdqYSf8CYJ49OAbQ_GMqsEa6Df_5auoc49k7kjFiYIcYthL504wDqEvhduDcuLuWD4j4Od9P6nFY",
+      "https://play-lh.googleusercontent.com/4tQ5yiUJPkknV86VLpJebXSzpxDdxee8bpTmFRSjjR_bDullB1aHPbl8AcNtF-CLWPoJloPjd6WsubTPRiss",
+      "https://play-lh.googleusercontent.com/9AsXskLp2eo7eIw2SkrCZPqifY0Yuttx3eoJs9lS_gbrfTQxFJ1RzVFTf5fDkCL-owgqxJ_mFOVqwtcwGok0OKY",
+      "https://play-lh.googleusercontent.com/R_4Yn_0s4MRk3h8Z2PhdGYmePjuu2TPl5YDoPUtjvIctrAMzr4P7cq5WygZa_SKrOoo8H_IJKUyHVxLOEVa-V6I",
+      "https://play-lh.googleusercontent.com/oekl4YMVG4XfLnMVI1n7hXcfmq6aZg93zBTfOaEsh0E0jRwRdGtQG5na2udCw85fcdA5B0nFPnybvtHWEukEWtY"
+    ],
+    "released": "Dec 17, 2024",
+    "updated": 1753940939000,
+    "preregister": false,
+    "earlyAccessEnabled": false,
+    "url": "https://play.google.com/store/apps/details?id=com.defense.td.warriors.strategy.evolution.saga.battles.free.games&hl=en&gl=US",
+    "fetchedAt": "2026-10-19T07:12:45.200Z"
+  },
+  "com.CupTea.tower.defense.factory": {
+    "appId": "com.CupTea.tower.defense.factory",
+    "title": "Tower Defense Factory",
+    "summary": "Tower Defense Factory. Tactical war and defense in battle strategy games.",
+    "installs": "1,000+",
+    "minInstalls": 1000,
+    "score": null,
+    "ratings": null,
+    "price": 0,
+    "free": true,
+    "currency": "USD",
+    "priceText": "Free",
+    "offersIAP": false,
+    "adSupported": true,
+    "developer": "CupTea",
+    "developerId": "CupTea",
+    "developerInternalID": "CupTea",
+    "genre": "Strategy",
+    "genreId": "GAME_STRATEGY",
+    "categories": [
+      {
+        "name": "Strategy",
+        "id": "GAME_STRATEGY"
+      }
+    ],
+    "icon": "https://play-lh.googleusercontent.com/HYHRzq8X_4CLMOvFbJCbRXuXteJgqLrN43TQU3VNMHZfOictGyOvUrk30CWBaIrmfi98d56u7Yj1Ar3Zd-kF3c4",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/U5mK56Q9pgSQEpNhMr2BfvkWyL2i_e-HKmkd4xawGpJGyFHWAytCCukyZ5X8YwWQPkfSfKL929ab1sSeWWBj5WY",
+      "https://play-lh.googleusercontent.com/G-k5dYbhOJ-pmbFyP7vjvSltqxpm83y-gUlgq9QTVI1ojNnm3w20t3gF5uPdDNerEvUIBDts2yI7JypUkWeiYw",
+      "https://play-lh.googleusercontent.com/mQHvihFyPTJmG_Gt-edXCkE2S5E35YKKtnpLhXFaKjGhV4w3mLLfM5qyuHWIIKdCKpFjsUIYfCJKK1jwTlZqQA",
+      "https://play-lh.googleusercontent.com/jSz72YMB2Z8I9v2DV3OQOCR8ploZ6qS0Djm1sOoOPMfH057KuqW7fGlZRAm7pu6tDBfN7L9H4xndWvncqFiscSE",
+      "https://play-lh.googleusercontent.com/4cNodDI6iqR6h_RYdk1JhPtnZzK1DdRosegdBqDoCm3AAt-TFaLEARjgYJ6VNdt3aK9PnIZIKQPGnRhC_FQ4C6g",
+      "https://play-lh.googleusercontent.com/qNx5V6qOvn0eLrdtiQWGsKhJ4LBCLNJlkIGZJMbu7sE6gLMb9j6v9zwq9Sr863GIguKl5iecUrwgU90pm4pReto",
+      "https://play-lh.googleusercontent.com/MtoaBdfOyykJgUsJ9FZfO_wYYWWCXrZCHrfwd-CSLrEd1dOsvbGQkf3l_MCLeQy3N5RoPf_4M8meB4sb3xLwxA",
+      "https://play-lh.googleusercontent.com/U5mK56Q9pgSQEpNhMr2BfvkWyL2i_e-HKmkd4xawGpJGyFHWAytCCukyZ5X8YwWQPkfSfKL929ab1sSeWWBj5WY",
+      "https://play-lh.googleusercontent.com/G-k5dYbhOJ-pmbFyP7vjvSltqxpm83y-gUlgq9QTVI1ojNnm3w20t3gF5uPdDNerEvUIBDts2yI7JypUkWeiYw",
+      "https://play-lh.googleusercontent.com/mQHvihFyPTJmG_Gt-edXCkE2S5E35YKKtnpLhXFaKjGhV4w3mLLfM5qyuHWIIKdCKpFjsUIYfCJKK1jwTlZqQA",
+      "https://play-lh.googleusercontent.com/jSz72YMB2Z8I9v2DV3OQOCR8ploZ6qS0Djm1sOoOPMfH057KuqW7fGlZRAm7pu6tDBfN7L9H4xndWvncqFiscSE",
+      "https://play-lh.googleusercontent.com/4cNodDI6iqR6h_RYdk1JhPtnZzK1DdRosegdBqDoCm3AAt-TFaLEARjgYJ6VNdt3aK9PnIZIKQPGnRhC_FQ4C6g",
+      "https://play-lh.googleusercontent.com/qNx5V6qOvn0eLrdtiQWGsKhJ4LBCLNJlkIGZJMbu7sE6gLMb9j6v9zwq9Sr863GIguKl5iecUrwgU90pm4pReto",
+      "https://play-lh.googleusercontent.com/MtoaBdfOyykJgUsJ9FZfO_wYYWWCXrZCHrfwd-CSLrEd1dOsvbGQkf3l_MCLeQy3N5RoPf_4M8meB4sb3xLwxA",
+      "https://play-lh.googleusercontent.com/U5mK56Q9pgSQEpNhMr2BfvkWyL2i_e-HKmkd4xawGpJGyFHWAytCCukyZ5X8YwWQPkfSfKL929ab1sSeWWBj5WY",
+      "https://play-lh.googleusercontent.com/G-k5dYbhOJ-pmbFyP7vjvSltqxpm83y-gUlgq9QTVI1ojNnm3w20t3gF5uPdDNerEvUIBDts2yI7JypUkWeiYw",
+      "https://play-lh.googleusercontent.com/mQHvihFyPTJmG_Gt-edXCkE2S5E35YKKtnpLhXFaKjGhV4w3mLLfM5qyuHWIIKdCKpFjsUIYfCJKK1jwTlZqQA",
+      "https://play-lh.googleusercontent.com/jSz72YMB2Z8I9v2DV3OQOCR8ploZ6qS0Djm1sOoOPMfH057KuqW7fGlZRAm7pu6tDBfN7L9H4xndWvncqFiscSE",
+      "https://play-lh.googleusercontent.com/4cNodDI6iqR6h_RYdk1JhPtnZzK1DdRosegdBqDoCm3AAt-TFaLEARjgYJ6VNdt3aK9PnIZIKQPGnRhC_FQ4C6g",
+      "https://play-lh.googleusercontent.com/qNx5V6qOvn0eLrdtiQWGsKhJ4LBCLNJlkIGZJMbu7sE6gLMb9j6v9zwq9Sr863GIguKl5iecUrwgU90pm4pReto",
+      "https://play-lh.googleusercontent.com/MtoaBdfOyykJgUsJ9FZfO_wYYWWCXrZCHrfwd-CSLrEd1dOsvbGQkf3l_MCLeQy3N5RoPf_4M8meB4sb3xLwxA",
+      "https://play-lh.googleusercontent.com/U5mK56Q9pgSQEpNhMr2BfvkWyL2i_e-HKmkd4xawGpJGyFHWAytCCukyZ5X8YwWQPkfSfKL929ab1sSeWWBj5WY",
+      "https://play-lh.googleusercontent.com/G-k5dYbhOJ-pmbFyP7vjvSltqxpm83y-gUlgq9QTVI1ojNnm3w20t3gF5uPdDNerEvUIBDts2yI7JypUkWeiYw",
+      "https://play-lh.googleusercontent.com/mQHvihFyPTJmG_Gt-edXCkE2S5E35YKKtnpLhXFaKjGhV4w3mLLfM5qyuHWIIKdCKpFjsUIYfCJKK1jwTlZqQA",
+      "https://play-lh.googleusercontent.com/jSz72YMB2Z8I9v2DV3OQOCR8ploZ6qS0Djm1sOoOPMfH057KuqW7fGlZRAm7pu6tDBfN7L9H4xndWvncqFiscSE",
+      "https://play-lh.googleusercontent.com/4cNodDI6iqR6h_RYdk1JhPtnZzK1DdRosegdBqDoCm3AAt-TFaLEARjgYJ6VNdt3aK9PnIZIKQPGnRhC_FQ4C6g",
+      "https://play-lh.googleusercontent.com/qNx5V6qOvn0eLrdtiQWGsKhJ4LBCLNJlkIGZJMbu7sE6gLMb9j6v9zwq9Sr863GIguKl5iecUrwgU90pm4pReto",
+      "https://play-lh.googleusercontent.com/MtoaBdfOyykJgUsJ9FZfO_wYYWWCXrZCHrfwd-CSLrEd1dOsvbGQkf3l_MCLeQy3N5RoPf_4M8meB4sb3xLwxA"
+    ],
+    "released": "Dec 17, 2024",
+    "updated": 1785926761000,
+    "preregister": false,
+    "earlyAccessEnabled": false,
+    "url": "https://play.google.com/store/apps/details?id=com.CupTea.tower.defense.factory&hl=en&gl=US",
+    "fetchedAt": "2026-10-19T09:11:14.324Z"
+  },
   "com.ganza.uniwars": {
     "appId": "com.ganza.uniwars",
     "title": "Multiverse Wars",
@@ -51322,6 +53172,62 @@
     "earlyAccessEnabled": false,
     "url": "https://play.google.com/store/apps/details?id=appinventor.ai_a0920566396.nobunaga3&hl=en&gl=US",
     "fetchedAt": "2026-10-12T10:26:45.033Z"
+  },
+  "com.mj.cop.car.simulator.police.games": {
+    "appId": "com.mj.cop.car.simulator.police.games",
+    "title": "US Cop Car Police Chase Game",
+    "summary": "Experience heart-pounding adventure being a cop in police chase cop car game.",
+    "installs": "100,000+",
+    "minInstalls": 100000,
+    "score": null,
+    "ratings": null,
+    "price": 0,
+    "free": true,
+    "currency": "USD",
+    "priceText": "Free",
+    "offersIAP": false,
+    "adSupported": true,
+    "developer": "MJ Production Inc.",
+    "developerId": "MJ+Production+Inc.",
+    "developerInternalID": "MJ+Production+Inc.",
+    "genre": "Strategy",
+    "genreId": "GAME_STRATEGY",
+    "categories": [
+      {
+        "name": "Strategy",
+        "id": "GAME_STRATEGY"
+      }
+    ],
+    "icon": "https://play-lh.googleusercontent.com/3G4wILs3jcn7dPSXctF-m81OU8q4mG5WZtzsoEPhfE2cBLlqTlP0REIwmUdZ64qzvdSfX7mBa8vufWlMD_9Ftg",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/VTluo2EJ4oR5SQm1LG41sra5Bv7JcFFRHmdB7dzDr11iWnCCVAnXi5Q5HkwJQE_gcujp3vW5i7hJ3SlN0l8LsA",
+      "https://play-lh.googleusercontent.com/AXAJaiVfTV4psov3Oop-rnJJKvShux86iXtHoXTErxx9EpFjx85S0eHYr58PsQQtc2m_XPkW2xabD-eiStrw",
+      "https://play-lh.googleusercontent.com/J_7t-q3jFuLcc7ut0IfD9zaSOVU1D9QOJoNz4sdy48PL0au3tqqD4QvhMIcH467M6c5EoFHc3n9y2Mm2OpyrzQQ",
+      "https://play-lh.googleusercontent.com/-fk2W-boeBvd-i7Sb7ekLLIrKvQWGjGstnllrWre-OppdjbDNcTToSRG5q620LqSDx8f8dmJkJCQPqr2NUXOYBI",
+      "https://play-lh.googleusercontent.com/pH6dYV_zcd273l6laFMfmYF2G9U2j_TaMe3R2tpZ06sh1op9wr7xchugJjqmQAMGIc0JI6cZe06ntiEFZXvv7g",
+      "https://play-lh.googleusercontent.com/ShfKgAXNcWj6gjwmYUWPietV3oRkekvF59BCM7Sq1M0zvEfCsED6-UuPgNGdtqS6LTzcyVTeAyl1vTdos-72kQ",
+      "https://play-lh.googleusercontent.com/XutDsLJfYQlM1rUrjQ_Lw17KXdxCBqqV5h_GabdlJEX3VPWCERzeoKnDMFX-thqIXsyzD-n_H6j9KL74JkWN",
+      "https://play-lh.googleusercontent.com/F_WPgEwOKWO8F5OlX_oAyx4VjTI26p3EmR1h1vwbaHGuwPt_3EYbLQUaGVq2MsSFIugBT_c6lbS5-kWfFis7",
+      "https://play-lh.googleusercontent.com/AOBl5n4kGz5p3nOKa5m70sk9AKIRPbRpgrYC5OfICx6PJZfgAuMLtpGRfDDODgpED7bLeb9X3FwxbGZzzs0c-A",
+      "https://play-lh.googleusercontent.com/pPF5M-qp2pR-jtmYyxxhpnjjAn01pEOW9jY8uIGpFI8cqwlHRc86lw0lXE6vFoNHHn2Zs2gOY7K7PqC4FFN4nA",
+      "https://play-lh.googleusercontent.com/u0wcHq-ZJkg6HGDzu8iTZHMpg_32yEaSXZSv33SG_DUpahVjUYlqq2xGTdlJOxVtjanDngfudkguG__THLWJ",
+      "https://play-lh.googleusercontent.com/VHZljl4J0JUl3aqbrALSwSVGlBALAcuRjsfQIljyjcEHS24AiePM3vdIz_TSwxG3R5zEAP1oeuMffTP7HnbPDlI",
+      "https://play-lh.googleusercontent.com/V96p22idQQygqkEmKTER3EnVvzgd6XzQhfvIKEeNcspSN7cfAAtCTlK-g8yP79RWhnC0u16YEQzxTQIbdlMUYcM",
+      "https://play-lh.googleusercontent.com/OvomJpKecSfUI5lf1cSpQH15pl1sCyXV0eL5JyjuEJvIsKotqMhVvYmLmo7O9FMF-qKgE_nFxr4WIDOp8yHRCA",
+      "https://play-lh.googleusercontent.com/CoxsfnS1X3XDv-nxcsw1jZWHIBzNK8q4AwMorBGwxiMS715pfWslaUdu3b8sM4wNTM7wp-qb2O-55AvWApDh",
+      "https://play-lh.googleusercontent.com/IRq4ksR41PQty1yueZ-RCwSZsTUwX9-n3yf6XrBm9G1tKtSAWGiPfhgIuYjWbmfHbWxLV1d42o-WpQC7QRDb_w",
+      "https://play-lh.googleusercontent.com/S4essmfdnQlaeRZOTvIafQ8iiBO-AIv3RlKVG56dheGoRCv8mWKpTDEmEnjMDwp_F1VZh_cKlnxstZNAyeMLQA",
+      "https://play-lh.googleusercontent.com/-DcAf0lNcK6xWottk7Kg7Ez-mqNZB5y7zwdc1I6xKKx0HUC7Ej-Ptnf8-afZm1ogG7UgDbeOBN7LT-_QYkKCQk0",
+      "https://play-lh.googleusercontent.com/fOVc42U-Vtn7wjXtoCALLEb_4dAOtt0X7E6R657NJsKFcdkdDbO-2JhKTOzUR15rmfMji2HoxCFAPXmjKg0bHuQ",
+      "https://play-lh.googleusercontent.com/IRq4ksR41PQty1yueZ-RCwSZsTUwX9-n3yf6XrBm9G1tKtSAWGiPfhgIuYjWbmfHbWxLV1d42o-WpQC7QRDb_w",
+      "https://play-lh.googleusercontent.com/iNbHPTq7L5e1880XdTs8RDsNhpKwXbT8vc0ZyI7lYagIkKUCeV4fSp3qnGL6BNa3sPz6gtjg98OSJrslHBCshJE"
+    ],
+    "released": "Oct 18, 2024",
+    "updated": 1760586948000,
+    "preregister": false,
+    "earlyAccessEnabled": false,
+    "url": "https://play.google.com/store/apps/details?id=com.mj.cop.car.simulator.police.games&hl=en&gl=US",
+    "fetchedAt": "2026-10-19T08:27:26.620Z"
   },
   "com.seal.vikings2": {
     "appId": "com.seal.vikings2",
