@@ -1470,6 +1470,60 @@
     "iconSourceUrl": "https://play-lh.googleusercontent.com/FUdpHoYmjkk9X6U-Xf9q3vxdGeV6mVHHFPxG22mhJIDma5MVKOm_LuLVS_qEMhnprmYReGTdAqpAH61nAJqQ"
   },
   {
+    "minInstalls": 10,
+    "installEvidence": {
+      "minInstalls": 10,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.wemode.territory&hl=en&gl=US",
+      "fetchedAt": "2026-10-20T09:14:13.176Z"
+    },
+    "id": "com.wemode.territory",
+    "title": "Territory: Claim & Conquer",
+    "subtitle": "Draw, enclose, conquer. A neon arcade game of risk and territory capture.",
+    "description": "Draw, enclose, conquer. A neon arcade game of risk and territory capture.",
+    "overviewEn": "Draw, enclose, conquer. A neon arcade game of risk and territory capture.",
+    "genre": "Strategy",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "WeMoDe Technologies",
+    "ads": null,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.wemode.territory&hl=en&gl=US",
+    "fetchedAt": "2026-10-20T09:14:13.176Z",
+    "sourceDate": "2026-10-20",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-10-03",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Oct 3, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.wemode.territory&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/EXAJoSjT7ZskSzgX39PB9kC_jng0Frgj7fXcUOqRnSX8A6hQrRBl1fHMtcHYBFzGOrTew5kxyfltOti-ZPTsOg"
+  },
+  {
     "minInstalls": 1000,
     "installEvidence": {
       "minInstalls": 1000,
@@ -4320,6 +4374,72 @@
     "iconSourceUrl": "https://play-lh.googleusercontent.com/R1KPHgXb0txfqmuC926aRQs17eXjXR72cDbCrAjaYh3agpn4QkdqI4nM9crNu7se1C-ar48SXmLsd85LmFj1_g"
   },
   {
+    "minInstalls": 5000,
+    "installEvidence": {
+      "minInstalls": 5000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.pub.army.vehicle.transporter.truck&hl=en&gl=US",
+      "fetchedAt": "2026-10-20T09:14:56.617Z"
+    },
+    "id": "com.pub.army.vehicle.transporter.truck",
+    "title": "Army Truck Driver: Cargo Duty",
+    "subtitle": "Drive Army Trucks and Deliver Cargo Across Challenging Offroad Roads.",
+    "description": "Drive Army Trucks and Deliver Cargo Across Challenging Offroad Roads.",
+    "overviewEn": "Drive Army Trucks and Deliver Cargo Across Challenging Offroad Roads.",
+    "genre": "Strategy",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "In-app purchases"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Black Pyramid 3D Games Studio",
+    "ads": true,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.pub.army.vehicle.transporter.truck&hl=en&gl=US",
+    "fetchedAt": "2026-10-20T09:14:56.617Z",
+    "sourceDate": "2026-10-20",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-09-16",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Sep 16, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.pub.army.vehicle.transporter.truck&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/zeKSXbO-UfvyQOPjCOI60VRll21mQgcNn-hOU_gw5NVmwo1B-Sn1ytpDnNxGZSvN1EBS6098fqikc9G7funvPw"
+  },
+  {
     "minInstalls": 500,
     "installEvidence": {
       "minInstalls": 500,
@@ -5895,6 +6015,66 @@
     "minInstalls": 10,
     "installEvidence": {
       "minInstalls": 10,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.ashutosh.territoryrush&hl=en&gl=US",
+      "fetchedAt": "2026-10-20T09:14:16.427Z"
+    },
+    "id": "com.ashutosh.territoryrush",
+    "title": "Territory Rush: World Conquest",
+    "subtitle": "Capture territory, outsmart rivals, and conquer countries!",
+    "description": "Capture territory, outsmart rivals, and conquer countries!",
+    "overviewEn": "Capture territory, outsmart rivals, and conquer countries!",
+    "genre": "Strategy",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Ashutosh Rajput",
+    "ads": true,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.ashutosh.territoryrush&hl=en&gl=US",
+    "fetchedAt": "2026-10-20T09:14:16.427Z",
+    "sourceDate": "2026-10-20",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-09-10",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Sep 10, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.ashutosh.territoryrush&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/d50OAZq7Zd5uGjOu84yW4NQKh9Ns7LC5gh3e1RNqtwsgSVY0n1gQBrjckix3EabkCEwxeMyTLYojA0jPxMV24Uk"
+  },
+  {
+    "minInstalls": 10,
+    "installEvidence": {
+      "minInstalls": 10,
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.gentledogcompany.zombievsswat&hl=en&gl=US",
       "fetchedAt": "2026-10-13T04:40:53.976Z"
     },
@@ -7108,6 +7288,72 @@
     "catalog": "recent",
     "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
     "iconSourceUrl": "https://play-lh.googleusercontent.com/Z8XjDaDWufAiS5sCj-DCpoWTKKELjogEasBxEjLJZhi-VxZUaQmmAIzVZdwcK2JiKfnXgwOPmw0IIhTfomfj0A"
+  },
+  {
+    "minInstalls": 1000,
+    "installEvidence": {
+      "minInstalls": 1000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.DTeam.ElementalLaneDefense&hl=en&gl=US",
+      "fetchedAt": "2026-10-20T09:14:04.375Z"
+    },
+    "id": "com.DTeam.ElementalLaneDefense",
+    "title": "Lane Defense : Element Odyssey",
+    "subtitle": "Lane-defense strategy: elemental synergies, commander skills and live 1v1 PvP.",
+    "description": "Lane-defense strategy: elemental synergies, commander skills and live 1v1 PvP.",
+    "overviewEn": "Lane-defense strategy: elemental synergies, commander skills and live 1v1 PvP.",
+    "genre": "Strategy",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "In-app purchases"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "DTeam Studio",
+    "ads": true,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.DTeam.ElementalLaneDefense&hl=en&gl=US",
+    "fetchedAt": "2026-10-20T09:14:04.375Z",
+    "sourceDate": "2026-10-20",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-08-31",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Aug 31, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.DTeam.ElementalLaneDefense&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/KfR-q_5u4IpUgNP0OIRi3XYvvV6k7Y5SUK9tRkmBbDK5-4-weuTJhMlxvdCKiVLT1lNpriqAvkACkB-AJEzn6Q"
   },
   {
     "minInstalls": 100,
@@ -16440,6 +16686,72 @@
     "iconSourceUrl": "https://play-lh.googleusercontent.com/gDW3x-Lm78gx6JkFCfLLA_pNP5Jg-iw58cW6xrrNDiO0A51KyFgVDoOAhbfe-OchY8PqduJYgH_AN6PKs33zaQ"
   },
   {
+    "minInstalls": 1000,
+    "installEvidence": {
+      "minInstalls": 1000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.emrah.nationsrising&hl=en&gl=US",
+      "fetchedAt": "2026-10-20T09:13:21.751Z"
+    },
+    "id": "com.emrah.nationsrising",
+    "title": "Nations Rise: World Strategy",
+    "subtitle": "Lead your nation, build an empire, and dominate space in this epic strategy game",
+    "description": "Lead your nation, build an empire, and dominate space in this epic strategy game",
+    "overviewEn": "Lead your nation, build an empire, and dominate space in this epic strategy game",
+    "genre": "Strategy",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "In-app purchases"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Mehmet Emrah Tekin",
+    "ads": true,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.emrah.nationsrising&hl=en&gl=US",
+    "fetchedAt": "2026-10-20T09:13:21.751Z",
+    "sourceDate": "2026-10-20",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-06-29",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Jun 29, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.emrah.nationsrising&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/CpLXihyOAI3XYN_sDEUFOp1wZUylYlWdpT2aXuXdoJNSnfPsJvQVWjPx5r7gvOlXams4PA7EtG8aLOVZ4cdahg"
+  },
+  {
     "minInstalls": 10000,
     "installEvidence": {
       "minInstalls": 10000,
@@ -24798,6 +25110,72 @@
     "iconSourceUrl": "https://play-lh.googleusercontent.com/KdCU4Y4eHz91G_7Koym9Yq02Yp-g1lpB7SGGRawxvzzdxEpIQYPIWOHO0aWt-SgVVkqQhS4FUvCZ_3yHWEZfZQ"
   },
   {
+    "minInstalls": 10000,
+    "installEvidence": {
+      "minInstalls": 10000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=space.nexuslegacy.game&hl=en&gl=US",
+      "fetchedAt": "2026-10-20T09:13:55.697Z"
+    },
+    "id": "space.nexuslegacy.game",
+    "title": "Nexus Legacy",
+    "subtitle": "A persistent space 4X MMO: build colonies, fleets, research and alliances.",
+    "description": "A persistent space 4X MMO: build colonies, fleets, research and alliances.",
+    "overviewEn": "A persistent space 4X MMO: build colonies, fleets, research and alliances.",
+    "genre": "4X",
+    "world": "",
+    "tags": [
+      "4X",
+      "Free download",
+      "Android",
+      "In-app purchases"
+    ],
+    "evidence": [
+      {
+        "tag": "4X",
+        "basis": "Developer summary keyword mapping",
+        "excerpt": "A persistent space 4X MMO: build colonies, fleets, research and alliances."
+      },
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Nexus Legacy Team",
+    "ads": null,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=space.nexuslegacy.game&hl=en&gl=US",
+    "fetchedAt": "2026-10-20T09:13:55.697Z",
+    "sourceDate": "2026-10-20",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-04-27",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Apr 27, 2026",
+      "url": "https://play.google.com/store/apps/details?id=space.nexuslegacy.game&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/_NGfqkC0lqc7K3lbokcwIacLzjdKFYQ8iFSUnfTW4sRyLn6mAtZtubO7PsScg8odbUUC71Eqiyu3JIzm9R81rg"
+  },
+  {
     "minInstalls": 500,
     "installEvidence": {
       "minInstalls": 500,
@@ -25390,6 +25768,66 @@
     "catalog": "recent",
     "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
     "iconSourceUrl": "https://play-lh.googleusercontent.com/8GkKTjvvUTpXOtNsGtcNNTG-uaDibbJAi89_8_KIP8DdaM3K0rFMQrvdwKGbt3E_YyNyEHPAi52Kr-R83xckmQ"
+  },
+  {
+    "minInstalls": 100000,
+    "installEvidence": {
+      "minInstalls": 100000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.susmers.tnc&hl=en&gl=US",
+      "fetchedAt": "2026-10-20T09:15:30.667Z"
+    },
+    "id": "com.susmers.tnc",
+    "title": "Take and Command",
+    "subtitle": "Minimalist conquest strategy! Build armies, fight battles, take the world!",
+    "description": "Minimalist conquest strategy! Build armies, fight battles, take the world!",
+    "overviewEn": "Minimalist conquest strategy! Build armies, fight battles, take the world!",
+    "genre": "Strategy",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Susmers",
+    "ads": true,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.susmers.tnc&hl=en&gl=US",
+    "fetchedAt": "2026-10-20T09:15:30.667Z",
+    "sourceDate": "2026-10-20",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-04-20",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Apr 20, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.susmers.tnc&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/mYW_6o1oBaJv_ARCVJEWSfuTK6bv4Chu85x1QV2MWuquEVLAu_rVhLclU7ygY9Ld9XW9qM6Wk1fItWo0vRBT"
   },
   {
     "minInstalls": 5000,
@@ -26344,6 +26782,84 @@
     "catalog": "recent",
     "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
     "iconSourceUrl": "https://play-lh.googleusercontent.com/UT1nIrBH-vmk697dqnLc0l039tu8AQTba-xtrD88m0dxM-MwGtZP-Q31u0AYRnZVwZQrv0ZYXy-fQJIeJ9h99A"
+  },
+  {
+    "minInstalls": 50000,
+    "installEvidence": {
+      "minInstalls": 50000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.shngames.commandofeurope&hl=en&gl=US",
+      "fetchedAt": "2026-10-20T09:13:35.099Z"
+    },
+    "id": "com.shngames.commandofeurope",
+    "title": "Command of Europe",
+    "subtitle": "Conquer Europe in a real-time 4X strategy war game.",
+    "description": "Conquer Europe in a real-time 4X strategy war game.",
+    "overviewEn": "Conquer Europe in a real-time 4X strategy war game.",
+    "genre": "Real-time",
+    "world": "",
+    "tags": [
+      "Real-time",
+      "4X",
+      "Free download",
+      "Android",
+      "Contains ads",
+      "In-app purchases"
+    ],
+    "evidence": [
+      {
+        "tag": "Real-time",
+        "basis": "Developer summary keyword mapping",
+        "excerpt": "Conquer Europe in a real-time 4X strategy war game."
+      },
+      {
+        "tag": "4X",
+        "basis": "Developer summary keyword mapping",
+        "excerpt": "Conquer Europe in a real-time 4X strategy war game."
+      },
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "SHN Games",
+    "ads": true,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.shngames.commandofeurope&hl=en&gl=US",
+    "fetchedAt": "2026-10-20T09:13:35.099Z",
+    "sourceDate": "2026-10-20",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-04-09",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Apr 9, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.shngames.commandofeurope&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/IVM3rwq7Iw57ksUti9v_7LQMUWS3CXkEmmSjN6JCN6DrXh_mTgwr89rNKgw9rSfFkBMzUdCMUMBIMHr5Es5PL4Q"
   },
   {
     "minInstalls": 10,
@@ -29910,6 +30426,72 @@
     "iconSourceUrl": "https://play-lh.googleusercontent.com/ALrR-QJpec0_LZTP5Onnjra5uQ4IsV_70FFGyhZMIEKQWl2errGok2JCIlsLvYTamctZaFdNNV5lp9xkdOiImQ"
   },
   {
+    "minInstalls": 100,
+    "installEvidence": {
+      "minInstalls": 100,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.zubapps.dotsterritory&hl=en&gl=US",
+      "fetchedAt": "2026-10-20T09:14:09.544Z"
+    },
+    "id": "com.zubapps.dotsterritory",
+    "title": "Dots Capture: Territory Wars",
+    "subtitle": "Encircle dots, capture territory & outsmart the AI. Modern strategy board game.",
+    "description": "Encircle dots, capture territory & outsmart the AI. Modern strategy board game.",
+    "overviewEn": "Encircle dots, capture territory & outsmart the AI. Modern strategy board game.",
+    "genre": "Strategy",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "In-app purchases"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "ZUBApps",
+    "ads": true,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.zubapps.dotsterritory&hl=en&gl=US",
+    "fetchedAt": "2026-10-20T09:14:09.544Z",
+    "sourceDate": "2026-10-20",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-03-09",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Mar 9, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.zubapps.dotsterritory&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/Z8YRnwEzoWr4fB-bwmaZAF1Z0iXoPJvuvjaW87ew27DgxrJDqYS87mr9JByJqKsE4mkxZfoTQAzentHIhOEdDg"
+  },
+  {
     "minInstalls": 10,
     "installEvidence": {
       "minInstalls": 10,
@@ -31450,6 +32032,66 @@
     "catalog": "recent",
     "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
     "iconSourceUrl": "https://play-lh.googleusercontent.com/qGjdhvDOY5g-uggeGXmONayra-A3Fxs05Gl_pHirWnadt6CBkeVMRr_TN8XWs3XrqOj0n3iOE2FqJi3gwz1eBQ"
+  },
+  {
+    "minInstalls": 5000000,
+    "installEvidence": {
+      "minInstalls": 5000000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.gf.offroad.bus.game.Sim&hl=en&gl=US",
+      "fetchedAt": "2026-10-20T09:15:05.159Z"
+    },
+    "id": "com.gf.offroad.bus.game.Sim",
+    "title": "Offroad Bus Game: Bus Sim 3D",
+    "subtitle": "Play offroad bus game and drive bus across mountains, hills and offroad terrains",
+    "description": "Play offroad bus game and drive bus across mountains, hills and offroad terrains",
+    "overviewEn": "Play offroad bus game and drive bus across mountains, hills and offroad terrains",
+    "genre": "Strategy",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Gamix Fusion",
+    "ads": true,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.gf.offroad.bus.game.Sim&hl=en&gl=US",
+    "fetchedAt": "2026-10-20T09:15:05.159Z",
+    "sourceDate": "2026-10-20",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-02-24",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Feb 24, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.gf.offroad.bus.game.Sim&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/jA354EbFFush8he3wlww815TVD9Q5om8YJj9as2_iMCVdu_KQkO_ztIgOHQePw6FH7ynp2RWPlVxVeAEV_DVKOg"
   },
   {
     "minInstalls": 100,
@@ -34326,6 +34968,66 @@
     "iconSourceUrl": "https://play-lh.googleusercontent.com/2qzcjWoB3GKe9xdw4ctbKGICUPkF51lD-CcekjJMfSYdA20qXbEWbZGwl2hhPS5ViVJZs_9m5Brxg8T_Q9jM2A"
   },
   {
+    "minInstalls": 1000000,
+    "installEvidence": {
+      "minInstalls": 1000000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.us.army.truck.military.game&hl=en&gl=US",
+      "fetchedAt": "2026-10-20T09:14:59.855Z"
+    },
+    "id": "com.us.army.truck.military.game",
+    "title": "US Army Truck 3D Military Game",
+    "subtitle": "Drive army vehicles, deliver equipment and rescue soldiers in army truck mission",
+    "description": "Drive army vehicles, deliver equipment and rescue soldiers in army truck mission",
+    "overviewEn": "Drive army vehicles, deliver equipment and rescue soldiers in army truck mission",
+    "genre": "Strategy",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Gamix Fusion",
+    "ads": true,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.us.army.truck.military.game&hl=en&gl=US",
+    "fetchedAt": "2026-10-20T09:14:59.855Z",
+    "sourceDate": "2026-10-20",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-01-15",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Jan 15, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.us.army.truck.military.game&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/RkUHz2ZTB6QQ82hIc4NHvtLcbO-8eyItVqvmxIdOj0SiaREOTMHBvVrARzSeFC-yh8hFmYA9pqecfdtCFA1gOg"
+  },
+  {
     "minInstalls": 1000,
     "installEvidence": {
       "minInstalls": 1000,
@@ -35122,6 +35824,72 @@
     "catalog": "recent",
     "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
     "iconSourceUrl": "https://play-lh.googleusercontent.com/ogGdzpRN1CGinpdotUOZBGD_nZoEnNK2wVuhgqnpH0b1M4VZDE1iDFrCbrVyGBQReF1tASpF156fhnAdiywtJQ"
+  },
+  {
+    "minInstalls": 10000,
+    "installEvidence": {
+      "minInstalls": 10000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.vipubstd.games.block.defense&hl=en&gl=US",
+      "fetchedAt": "2026-10-20T09:15:30.663Z"
+    },
+    "id": "com.vipubstd.games.block.defense",
+    "title": "Minimalist Tower Defenese",
+    "subtitle": "Build towers, strategize, defend. Pure tower defense gameplay",
+    "description": "Build towers, strategize, defend. Pure tower defense gameplay",
+    "overviewEn": "Build towers, strategize, defend. Pure tower defense gameplay",
+    "genre": "Tower defense",
+    "world": "",
+    "tags": [
+      "Tower defense",
+      "Free download",
+      "Android",
+      "Contains ads"
+    ],
+    "evidence": [
+      {
+        "tag": "Tower defense",
+        "basis": "Developer summary keyword mapping",
+        "excerpt": "Build towers, strategize, defend. Pure tower defense gameplay"
+      },
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "ViPub",
+    "ads": true,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.vipubstd.games.block.defense&hl=en&gl=US",
+    "fetchedAt": "2026-10-20T09:15:30.663Z",
+    "sourceDate": "2026-10-20",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-01-06",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Jan 6, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.vipubstd.games.block.defense&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/AMyIwrZrj106lNBNXr73rXrUpYXptnjr5gCe4GkVYz-MEs7G26pYnu1IgNSO7xyFyMCVNiWs0LwPFoqVnlBO"
   },
   {
     "minInstalls": 5000,
@@ -42852,6 +43620,72 @@
     "iconSourceUrl": "https://play-lh.googleusercontent.com/Pc8EtL8N5XA-kltQpKzP1q8VQV8t_8uS9zdl74DFpAr69BybW04uk4DWfOiot9TNtu1JSjU-ZDYd1NgCg1vy"
   },
   {
+    "minInstalls": 500,
+    "installEvidence": {
+      "minInstalls": 500,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.skybull.ek&hl=en&gl=US",
+      "fetchedAt": "2026-10-20T09:45:45.060Z"
+    },
+    "id": "com.skybull.ek",
+    "title": "Eternal Kings: Empire Forge",
+    "subtitle": "A powerful blend of RPG and Strategy Simulation.",
+    "description": "A powerful blend of RPG and Strategy Simulation.",
+    "overviewEn": "A powerful blend of RPG and Strategy Simulation.",
+    "genre": "Strategy",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "In-app purchases"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "SKYBULL",
+    "ads": true,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.skybull.ek&hl=en&gl=US",
+    "fetchedAt": "2026-10-20T09:45:45.060Z",
+    "sourceDate": "2026-10-20",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2025-10-02",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Oct 2, 2025",
+      "url": "https://play.google.com/store/apps/details?id=com.skybull.ek&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/gS7lrEPbr0im0pqOqho7ynQxc5_Ezfem0XyS1Ra-1Gqvy7jGHp8NzNbsGkql60liQyTYeqIWmq6BmaplhvQ7PXc"
+  },
+  {
     "minInstalls": 100000,
     "installEvidence": {
       "minInstalls": 100000,
@@ -48930,6 +49764,66 @@
     "iconSourceUrl": "https://play-lh.googleusercontent.com/ZrehzohZkWxIh9NpZT9KBi8zT-FbtQOd9eYHFZrV-DZ41d2afhuflC9EH8_1uQ5gIbDm5KM29aUFccAiFZULMw"
   },
   {
+    "minInstalls": 100000,
+    "installEvidence": {
+      "minInstalls": 100000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.gf.cargo.truck.game&hl=en&gl=US",
+      "fetchedAt": "2026-10-20T09:15:21.764Z"
+    },
+    "id": "com.gf.cargo.truck.game",
+    "title": "US Truck Transport Game Sim 3D",
+    "subtitle": "Drive US cargo truck and deliver cargo on highways in truck driving game sim.",
+    "description": "Drive US cargo truck and deliver cargo on highways in truck driving game sim.",
+    "overviewEn": "Drive US cargo truck and deliver cargo on highways in truck driving game sim.",
+    "genre": "Strategy",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Gamix Fusion",
+    "ads": true,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.gf.cargo.truck.game&hl=en&gl=US",
+    "fetchedAt": "2026-10-20T09:15:21.764Z",
+    "sourceDate": "2026-10-20",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2025-07-09",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Jul 9, 2025",
+      "url": "https://play.google.com/store/apps/details?id=com.gf.cargo.truck.game&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/EgiKownM4r4nICWKkMCucUSHRBG3ptqu2vQw1k710edB4CzhrfK0C2WOgdO0kwkFA59QIU4lCqAff6MsrQ0cbQ"
+  },
+  {
     "minInstalls": 500,
     "installEvidence": {
       "minInstalls": 500,
@@ -50704,6 +51598,108 @@
     "catalog": "recent",
     "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
     "iconSourceUrl": "https://play-lh.googleusercontent.com/NHVKiNHdQSRj7d2olN0Y9numwUoi6pkO4VPxAzrGcOyueQeidh1nKdB5cOeRnOhOYRtiUuW-rNIqi0bFVJzV"
+  },
+  {
+    "minInstalls": 100000,
+    "installEvidence": {
+      "minInstalls": 100000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.shngames.countryballworld1930&hl=en&gl=US",
+      "fetchedAt": "2026-10-20T09:13:46.085Z"
+    },
+    "id": "com.shngames.countryballworld1930",
+    "title": "Countryball: World 1930",
+    "subtitle": "Lead your countryball to glory in a WWII-inspired turn-based grand strategy!",
+    "description": "Lead your countryball to glory in a WWII-inspired turn-based grand strategy!",
+    "overviewEn": "Lead your countryball to glory in a WWII-inspired turn-based grand strategy!",
+    "genre": "Turn-based",
+    "world": "",
+    "tags": [
+      "Warfare",
+      "Single player",
+      "Stylized",
+      "Offline",
+      "Turn-based",
+      "Grand strategy",
+      "Free download",
+      "Android",
+      "Contains ads",
+      "In-app purchases"
+    ],
+    "evidence": [
+      {
+        "tag": "Warfare",
+        "basis": "Google Play category label mapping",
+        "excerpt": "Wargame"
+      },
+      {
+        "tag": "Single player",
+        "basis": "Google Play category label mapping",
+        "excerpt": "Single player"
+      },
+      {
+        "tag": "Stylized",
+        "basis": "Google Play category label mapping",
+        "excerpt": "Stylized"
+      },
+      {
+        "tag": "Offline",
+        "basis": "Google Play category label mapping",
+        "excerpt": "Offline"
+      },
+      {
+        "tag": "Turn-based",
+        "basis": "Developer summary keyword mapping",
+        "excerpt": "Lead your countryball to glory in a WWII-inspired turn-based grand strategy!"
+      },
+      {
+        "tag": "Grand strategy",
+        "basis": "Developer summary keyword mapping",
+        "excerpt": "Lead your countryball to glory in a WWII-inspired turn-based grand strategy!"
+      },
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "SHN Games",
+    "ads": true,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.shngames.countryballworld1930&hl=en&gl=US",
+    "fetchedAt": "2026-10-20T09:13:46.085Z",
+    "sourceDate": "2026-10-20",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2025-06-05",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Jun 5, 2025",
+      "url": "https://play.google.com/store/apps/details?id=com.shngames.countryballworld1930&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/0dXuocrzJpiNV-cmtrXSb5_PLaiU7D910L6_w20eG9RnyyKqG1VoNCmOR5uj0VNXuEIXL9oFmGqjDaxwVpvN8Q"
   },
   {
     "minInstalls": 50000,
@@ -54378,6 +55374,60 @@
     "iconSourceUrl": "https://play-lh.googleusercontent.com/KjolWy2-M6HetCQKx-ky2hrTU7AgXY6EE-edVwcCauKrkCCXxIQm1wCQn9zyn9jXQvOQLGQppcOi7MpU3tKUtw"
   },
   {
+    "minInstalls": 1000,
+    "installEvidence": {
+      "minInstalls": 1000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=app.worldorder.www.twa&hl=en&gl=US",
+      "fetchedAt": "2026-10-20T09:16:31.913Z"
+    },
+    "id": "app.worldorder.www.twa",
+    "title": "World Order - Simulator",
+    "subtitle": "Online geopolitics simulator",
+    "description": "Online geopolitics simulator",
+    "overviewEn": "Online geopolitics simulator",
+    "genre": "Strategy",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "World Order Studio",
+    "ads": null,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=app.worldorder.www.twa&hl=en&gl=US",
+    "fetchedAt": "2026-10-20T09:16:31.913Z",
+    "sourceDate": "2026-10-20",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2025-04-07",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Apr 7, 2025",
+      "url": "https://play.google.com/store/apps/details?id=app.worldorder.www.twa&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/a6wXlzALHhBpLIo1sXMGMHPCyMDwxTS3eLNk7w0RUlpOu3R1ntfZlEMXLaI2i29hXdAGS0ycwVvRJCKq0yTahg"
+  },
+  {
     "minInstalls": 500000,
     "installEvidence": {
       "minInstalls": 500000,
@@ -56862,6 +57912,66 @@
     "iconSourceUrl": "https://play-lh.googleusercontent.com/gYijLN1XG5n8TUEeIvRO2zy19pEh5-CG5NVBXzrEd-A1ZnziH53xoSXJJUD44mq7MxouR3nVqAe-IuoYdxVVCA"
   },
   {
+    "minInstalls": 10000,
+    "installEvidence": {
+      "minInstalls": 10000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.gf.city.truck.game&hl=en&gl=US",
+      "fetchedAt": "2026-10-20T09:15:21.760Z"
+    },
+    "id": "com.gf.city.truck.game",
+    "title": "City Truck Game Cargo Truck 3D",
+    "subtitle": "Drive a cargo truck to transport trucking goods safely to truck cargo stations.",
+    "description": "Drive a cargo truck to transport trucking goods safely to truck cargo stations.",
+    "overviewEn": "Drive a cargo truck to transport trucking goods safely to truck cargo stations.",
+    "genre": "Strategy",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Gamix Fusion",
+    "ads": true,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.gf.city.truck.game&hl=en&gl=US",
+    "fetchedAt": "2026-10-20T09:15:21.760Z",
+    "sourceDate": "2026-10-20",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2025-03-01",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Mar 1, 2025",
+      "url": "https://play.google.com/store/apps/details?id=com.gf.city.truck.game&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/APY2qQfN5Bvl1h7wnEBMcmDV3y2ELK6TieStHpVOcmGOwNGHSfGVqDqWbgwtYCnvSGEqNsE6g37pWjILJCkNtfc"
+  },
+  {
     "minInstalls": 50000,
     "installEvidence": {
       "minInstalls": 50000,
@@ -57412,6 +58522,66 @@
     "catalog": "recent",
     "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
     "iconSourceUrl": "https://play-lh.googleusercontent.com/8hpqt1OlmtDA7_I-fb3EPoJQ9DPOsps-Q9WVnbwqzmen68YxIn0LIN9mfQQMNDyGWhaq9nd-1iKudseCGxNSFA"
+  },
+  {
+    "minInstalls": 1000,
+    "installEvidence": {
+      "minInstalls": 1000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.bergames.countryballssurvival&hl=en&gl=US",
+      "fetchedAt": "2026-10-20T09:16:14.588Z"
+    },
+    "id": "com.bergames.countryballssurvival",
+    "title": "Countryballs War: Survival",
+    "subtitle": "Countryballs War: Survival is a strategy war game.",
+    "description": "Countryballs War: Survival is a strategy war game.",
+    "overviewEn": "Countryballs War: Survival is a strategy war game.",
+    "genre": "Strategy",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "BER Games",
+    "ads": true,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.bergames.countryballssurvival&hl=en&gl=US",
+    "fetchedAt": "2026-10-20T09:16:14.588Z",
+    "sourceDate": "2026-10-20",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2025-02-18",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Feb 18, 2025",
+      "url": "https://play.google.com/store/apps/details?id=com.bergames.countryballssurvival&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/Zzvy6MK515vGzg4YbTJwcqizDvWOOLwppJTUWIJ9b3EUG-6tYUm3TVztp6leb69NEnEgQkN2ytAJ4Z9ctevv"
   },
   {
     "minInstalls": 1000000,
@@ -58036,6 +59206,66 @@
     "catalog": "recent",
     "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
     "iconSourceUrl": "https://play-lh.googleusercontent.com/g18HET8IeVFYX_8XJzvejLZ-_cfUQxRpJTtIHxgkznxBLJY60agJH_egU7FDJWtXO0By_PDLS_OE-QMirVBfCrw"
+  },
+  {
+    "minInstalls": 100000,
+    "installEvidence": {
+      "minInstalls": 100000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.gf.bus.driving.game&hl=en&gl=US",
+      "fetchedAt": "2026-10-20T09:15:21.810Z"
+    },
+    "id": "com.gf.bus.driving.game",
+    "title": "Bus Simulator Bus Game Driving",
+    "subtitle": "Drive bus simualtor game and become real bus driver in this bus parking game 3d.",
+    "description": "Drive bus simualtor game and become real bus driver in this bus parking game 3d.",
+    "overviewEn": "Drive bus simualtor game and become real bus driver in this bus parking game 3d.",
+    "genre": "Strategy",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Gamix Fusion",
+    "ads": true,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.gf.bus.driving.game&hl=en&gl=US",
+    "fetchedAt": "2026-10-20T09:15:21.810Z",
+    "sourceDate": "2026-10-20",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2025-02-12",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Feb 12, 2025",
+      "url": "https://play.google.com/store/apps/details?id=com.gf.bus.driving.game&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/3yz88O7jGQGh55VTHw4qcrq91zje2LBzqZ_DvWPqtheWOwXZSCyoWLm5tQJHo4E9Gch_fKXQ-kQnYpZZSxTpVw"
   },
   {
     "minInstalls": 500000,
@@ -60150,6 +61380,126 @@
     "iconSourceUrl": "https://play-lh.googleusercontent.com/bqAAlCFs18uqxTsCk67OF77Wl16CeVmfvqsnxmM6g8W11X8nOpRSqhjKqT2XQSROupQusPaCgRKySGbogmffiw"
   },
   {
+    "minInstalls": 10000,
+    "installEvidence": {
+      "minInstalls": 10000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.Beaveroid.AlphaLeagueMobile&hl=en&gl=US",
+      "fetchedAt": "2026-10-20T09:14:45.954Z"
+    },
+    "id": "com.Beaveroid.AlphaLeagueMobile",
+    "title": "Alpha League",
+    "subtitle": "A hero based auto chess",
+    "description": "A hero based auto chess",
+    "overviewEn": "A hero based auto chess",
+    "genre": "Strategy",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "In-app purchases"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Beaveroid Entertainment",
+    "ads": null,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.Beaveroid.AlphaLeagueMobile&hl=en&gl=US",
+    "fetchedAt": "2026-10-20T09:14:45.954Z",
+    "sourceDate": "2026-10-20",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2024-12-29",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Dec 29, 2024",
+      "url": "https://play.google.com/store/apps/details?id=com.Beaveroid.AlphaLeagueMobile&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/NwnCdsVehs-iStP8Hzqou2d_o6XZH6fjvhiMxtzdrweP4h0dgrtDeU5QES99_Ax_pv-85cZ5p0otS-Feq-5V0w"
+  },
+  {
+    "minInstalls": 10000,
+    "installEvidence": {
+      "minInstalls": 10000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.bergames.countryballs&hl=en&gl=US",
+      "fetchedAt": "2026-10-20T09:16:14.584Z"
+    },
+    "id": "com.bergames.countryballs",
+    "title": "Countryballs War",
+    "subtitle": "Countryballs War is a strategy war game.",
+    "description": "Countryballs War is a strategy war game.",
+    "overviewEn": "Countryballs War is a strategy war game.",
+    "genre": "Strategy",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "BER Games",
+    "ads": true,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.bergames.countryballs&hl=en&gl=US",
+    "fetchedAt": "2026-10-20T09:16:14.584Z",
+    "sourceDate": "2026-10-20",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2024-12-29",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Dec 29, 2024",
+      "url": "https://play.google.com/store/apps/details?id=com.bergames.countryballs&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/ih1COt2HcvguwIBFd0XDPgzJWfgrbUkaFN3eHKkh3gfda6dKH9YCiqST4oLmaBI4EgqpNbgFYpv8sVUZXDWP"
+  },
+  {
     "minInstalls": 5000,
     "installEvidence": {
       "minInstalls": 5000,
@@ -60544,6 +61894,84 @@
     "catalog": "recent",
     "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
     "iconSourceUrl": "https://play-lh.googleusercontent.com/iiUXwcMzZLyui3EvOeH8VEypEehBNhnn0e8JBnPmn0_q1EM_fN-wzc-mhByIhJ4ePxdhDhJu8mCCAD3f5lEIRQ"
+  },
+  {
+    "minInstalls": 1000000,
+    "installEvidence": {
+      "minInstalls": 1000000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=gg.reignoftitans&hl=en&gl=US",
+      "fetchedAt": "2026-10-20T09:14:49.523Z"
+    },
+    "id": "gg.reignoftitans",
+    "title": "Reign of Titans",
+    "subtitle": "Enter the epic World of Ereo and battle against a global community of players!",
+    "description": "Enter the epic World of Ereo and battle against a global community of players!",
+    "overviewEn": "Enter the epic World of Ereo and battle against a global community of players!",
+    "genre": "Strategy",
+    "world": "",
+    "tags": [
+      "Multiplayer",
+      "Single player",
+      "Stylized",
+      "Fantasy",
+      "Free download",
+      "Android"
+    ],
+    "evidence": [
+      {
+        "tag": "Multiplayer",
+        "basis": "Google Play category label mapping",
+        "excerpt": "Multiplayer"
+      },
+      {
+        "tag": "Single player",
+        "basis": "Google Play category label mapping",
+        "excerpt": "Single player"
+      },
+      {
+        "tag": "Stylized",
+        "basis": "Google Play category label mapping",
+        "excerpt": "Stylized"
+      },
+      {
+        "tag": "Fantasy",
+        "basis": "Google Play category label mapping",
+        "excerpt": "Fantasy"
+      },
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "BEES Global AG",
+    "ads": null,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=gg.reignoftitans&hl=en&gl=US",
+    "fetchedAt": "2026-10-20T09:14:49.523Z",
+    "sourceDate": "2026-10-20",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2024-12-18",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Dec 18, 2024",
+      "url": "https://play.google.com/store/apps/details?id=gg.reignoftitans&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/N3AlciIRO6bR6-Pg1zqAeZ8Sf4c-9fQ4Kx74hKh0gJiocwuHdfZ3yFGjHbuoSjstFcUnALSU8ZjkBG8M97OqfZ8"
   },
   {
     "minInstalls": 100,
