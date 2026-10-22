@@ -5949,5 +5949,525 @@
         "basis": "Official developer gameplay text"
       }
     ]
+  },
+  {
+    "minInstalls": 1000,
+    "installEvidence": {
+      "minInstalls": 1000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.techarts.halloween.triple.tile.match&hl=en&gl=US",
+      "fetchedAt": "2026-10-22T12:45:23.357Z"
+    },
+    "id": "com.techarts.halloween.triple.tile.match",
+    "title": "Halloween Triple Tile Match",
+    "subtitle": "Match spooky tiles, clear triple sets, and enjoy a fun Halloween puzzle!",
+    "description": "Match spooky tiles, clear triple sets, and enjoy a fun Halloween puzzle!",
+    "overviewEn": "Match spooky tiles, clear triple sets, and enjoy a fun Halloween puzzle!",
+    "genre": "Hypercasual",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "In-app purchases",
+      "Match-3",
+      "Triple matching",
+      "+ Renovation",
+      "Stacking",
+      "Sorting",
+      "Tap gameplay"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      },
+      {
+        "tag": "Match-3",
+        "excerpt": "match 3",
+        "basis": "Official developer gameplay text"
+      },
+      {
+        "tag": "Triple matching",
+        "excerpt": "match 3 identical",
+        "basis": "Official developer gameplay text"
+      },
+      {
+        "tag": "+ Renovation",
+        "excerpt": "decorations",
+        "basis": "Official developer gameplay text"
+      },
+      {
+        "tag": "Stacking",
+        "excerpt": "STACK",
+        "basis": "Official developer gameplay text"
+      },
+      {
+        "tag": "Sorting",
+        "excerpt": "sort",
+        "basis": "Official developer gameplay text"
+      },
+      {
+        "tag": "Tap gameplay",
+        "excerpt": "Tap to",
+        "basis": "Official developer gameplay text"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "TechArts Games",
+    "ads": true,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.techarts.halloween.triple.tile.match&hl=en&gl=US",
+    "fetchedAt": "2026-10-22T12:45:23.357Z",
+    "sourceDate": "2026-10-22",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-09-15",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Sep 15, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.techarts.halloween.triple.tile.match&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/74QERlSE3rja14kptv3dJZf8mwhqAYsBoUs0o92_B_azzxazDovxeFnx-323p8Hutt6b6kyMXX6LSmajnfu_pFg",
+    "categories": [
+      "hypercasual"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "match3",
+        "excerpt": "match 3",
+        "basis": "Official developer gameplay text"
+      },
+      {
+        "category": "hypercasual",
+        "excerpt": "hyper-casual",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 10000,
+    "installEvidence": {
+      "minInstalls": 10000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.techarts.fidgettrade3d&hl=en&gl=US",
+      "fetchedAt": "2026-10-22T12:45:27.145Z"
+    },
+    "id": "com.techarts.fidgettrade3d",
+    "title": "Fidget Trade 3D: ASMR Pop It",
+    "subtitle": "Trade fidgets, pop bubbles, solve puzzles & enjoy relaxing ASMR fun!",
+    "description": "Trade fidgets, pop bubbles, solve puzzles & enjoy relaxing ASMR fun!",
+    "overviewEn": "Trade fidgets, pop bubbles, solve puzzles & enjoy relaxing ASMR fun!",
+    "genre": "Hypercasual",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "In-app purchases",
+      "Match-3",
+      "Stacking",
+      "Sorting"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      },
+      {
+        "tag": "Match-3",
+        "excerpt": "MATCH-3",
+        "basis": "Official developer gameplay text"
+      },
+      {
+        "tag": "Stacking",
+        "excerpt": "STACK",
+        "basis": "Official developer gameplay text"
+      },
+      {
+        "tag": "Sorting",
+        "excerpt": "sort",
+        "basis": "Official developer gameplay text"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "TechArts Games",
+    "ads": true,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.techarts.fidgettrade3d&hl=en&gl=US",
+    "fetchedAt": "2026-10-22T12:45:27.145Z",
+    "sourceDate": "2026-10-22",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-07-15",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Jul 15, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.techarts.fidgettrade3d&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/LXQ0YtrL99v4QgtT_TORCUCc_nDzWktCDyD1j1wjnCqh711zTVgtHdJ8NZacCExy9IZfCY0a74zuxg7tiJqk2uw",
+    "categories": [
+      "hypercasual"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "match3",
+        "excerpt": "MATCH-3",
+        "basis": "Official developer gameplay text"
+      },
+      {
+        "category": "hypercasual",
+        "excerpt": "hyper-casual",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 10000,
+    "installEvidence": {
+      "minInstalls": 10000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=ae.goragaming.playoff.knife.game.make.earn.money.rewarded&hl=en&gl=US",
+      "fetchedAt": "2026-10-22T14:04:07.685Z"
+    },
+    "id": "ae.goragaming.playoff.knife.game.make.earn.money.rewarded",
+    "title": "Knife Hit Master: Arcade Game",
+    "subtitle": "Tap to throw knives, clear targets, and progress through fast arcade levels.",
+    "description": "Tap to throw knives, clear targets, and progress through fast arcade levels.",
+    "overviewEn": "Tap to throw knives, clear targets, and progress through fast arcade levels.",
+    "genre": "Hypercasual",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "+ Combat",
+      "Tap gameplay"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "+ Combat",
+        "excerpt": "defeat bosses",
+        "basis": "Official developer gameplay text"
+      },
+      {
+        "tag": "Tap gameplay",
+        "excerpt": "Tap to",
+        "basis": "Official developer gameplay text"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Playoff Games Co.",
+    "ads": true,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=ae.goragaming.playoff.knife.game.make.earn.money.rewarded&hl=en&gl=US",
+    "fetchedAt": "2026-10-22T14:04:07.685Z",
+    "sourceDate": "2026-10-22",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2025-12-05",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Dec 5, 2025",
+      "url": "https://play.google.com/store/apps/details?id=ae.goragaming.playoff.knife.game.make.earn.money.rewarded&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/vpMV8295eKMJgTnWdM9XUfTxa68myDfO3EvfCiXZP50HAf4sMolA7voT_WXPSbC43peY4v7hr97mOe865sBujQ",
+    "categories": [
+      "hypercasual"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "hypercasual",
+        "excerpt": "Hyper-casual",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 100000,
+    "installEvidence": {
+      "minInstalls": 100000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.rayole.games.umbrella.escape&hl=en&gl=US",
+      "fetchedAt": "2026-10-22T14:14:27.846Z"
+    },
+    "id": "com.rayole.games.umbrella.escape",
+    "title": "Umbrella Escape",
+    "subtitle": "Dodge hurdles, jump fast, and master the umbrella escape!",
+    "description": "Dodge hurdles, jump fast, and master the umbrella escape!",
+    "overviewEn": "Dodge hurdles, jump fast, and master the umbrella escape!",
+    "genre": "Hypercasual",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "Tap gameplay"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "Tap gameplay",
+        "excerpt": "Tap to",
+        "basis": "Official developer gameplay text"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Rayole Games",
+    "ads": true,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.rayole.games.umbrella.escape&hl=en&gl=US",
+    "fetchedAt": "2026-10-22T14:14:27.846Z",
+    "sourceDate": "2026-10-22",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-03-16",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Mar 16, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.rayole.games.umbrella.escape&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/xUz9snxxhN3i1Q543H5no96z72H978ImoauKkv0mLxoNy0tkuVyInEttBKxOv43WwBnr0qVAcvsO2TwKLVmaoQ",
+    "categories": [
+      "hypercasual"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "hypercasual",
+        "excerpt": "hyper-casual",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 50,
+    "installEvidence": {
+      "minInstalls": 50,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=cap.someone.pendugame&hl=en&gl=US",
+      "fetchedAt": "2026-10-22T14:46:42.622Z"
+    },
+    "id": "cap.someone.pendugame",
+    "title": "Neon Pendulum: Swing & Grapple",
+    "subtitle": "Grapple, swing, and dodge spikes in this fast-paced neon physics game!",
+    "description": "Grapple, swing, and dodge spikes in this fast-paced neon physics game!",
+    "overviewEn": "Grapple, swing, and dodge spikes in this fast-paced neon physics game!",
+    "genre": "Hypercasual",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "Physics puzzle"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "Physics puzzle",
+        "excerpt": "physics-based",
+        "basis": "Official developer gameplay text"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Oxpan Microsys",
+    "ads": true,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=cap.someone.pendugame&hl=en&gl=US",
+    "fetchedAt": "2026-10-22T14:46:42.622Z",
+    "sourceDate": "2026-10-22",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-02-28",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Feb 28, 2026",
+      "url": "https://play.google.com/store/apps/details?id=cap.someone.pendugame&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/pmNQ85wbbPhbVdrhdLsQP6HVXfpcEXUs25m3e1flUsrpDHCRFadvx5ZGZ13ftndtUVlTtZlgXOUNvjrSEZXa_w",
+    "categories": [
+      "hypercasual"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "hypercasual",
+        "excerpt": "hyper-casual",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 10,
+    "installEvidence": {
+      "minInstalls": 10,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=cap.someone.neonblast&hl=en&gl=US",
+      "fetchedAt": "2026-10-22T14:58:38.708Z"
+    },
+    "id": "cap.someone.neonblast",
+    "title": "Neon Blast: Block Puzzle",
+    "subtitle": "Clear the grid in this addictive neon block puzzle game. Play offline anytime!",
+    "description": "Clear the grid in this addictive neon block puzzle game. Play offline anytime!",
+    "overviewEn": "Clear the grid in this addictive neon block puzzle game. Play offline anytime!",
+    "genre": "Hypercasual",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Oxpan Microsys",
+    "ads": true,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=cap.someone.neonblast&hl=en&gl=US",
+    "fetchedAt": "2026-10-22T14:58:38.708Z",
+    "sourceDate": "2026-10-22",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-02-24",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Feb 24, 2026",
+      "url": "https://play.google.com/store/apps/details?id=cap.someone.neonblast&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/ZBKoGdpT9j0ndMHqgGR9Unbm9P6oZx0u2iDEwh1CnYqpU5fvg24o2OUSozzhgKxve8uNeEnPW4BCxE5h7Peg",
+    "categories": [
+      "hypercasual"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "hypercasual",
+        "excerpt": "hyper-casual",
+        "basis": "Official developer gameplay text"
+      }
+    ]
   }
 ]

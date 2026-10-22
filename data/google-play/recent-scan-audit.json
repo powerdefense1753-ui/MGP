@@ -4,21 +4,21 @@
     "to": "2026-10-12",
     "country": "US",
     "language": "en",
-    "candidates": 12512,
-    "checked": 13365,
-    "included": 1013,
+    "candidates": 12550,
+    "checked": 13968,
+    "included": 1026,
     "retainedOriginals": 11,
     "decisions": {
-      "outside-window": 1409,
-      "included": 1013,
+      "outside-window": 1418,
+      "included": 1025,
       "existing-curated": 11,
-      "not-strategy": 9928,
+      "not-strategy": 9945,
       "unknown-release": 133,
       "preregistration": 13,
       "fetch-failed": 5
     },
-    "discoveryQueries": 14778,
-    "completedAt": "2026-10-22T11:32:36.703Z",
+    "discoveryQueries": 15395,
+    "completedAt": "2026-10-22T16:15:00.184Z",
     "imageFailures": 0,
     "exhaustive": false,
     "method": "US-English public Google Play Strategy charts, keyword searches, recommendation links and developer catalogs; first release from Released on, not Updated on. Search and chart results are capped by Google Play. No claim of complete coverage."
@@ -73913,6 +73913,3091 @@
       "key": "{\"type\":\"app\",\"id\":\"com.blitwise.puzzle\"}",
       "count": 0,
       "fetchedAt": "2026-10-22T11:32:33.706Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.SinisterPixel.NecromancerLifeforceTracker\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T12:28:33.051Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.ubacoda.tap.necromancer\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T12:28:33.055Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"org.hostedgames.nascentnecromancer\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T12:28:33.060Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.white.castle.grow.tower.defence.heroes.magic.defense.necromancer\"}",
+      "count": 6,
+      "fetchedAt": "2026-10-22T12:28:35.720Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.dungeonsnotdating.app\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T12:28:35.774Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.nummagames.TheLastNecromancer\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T12:28:35.810Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.meowsay.tkingdomglobalgp\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T12:28:38.449Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.runar.issdetector.pro\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T12:28:38.476Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"gov.nasa.hq.SpotTheStation\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T12:28:38.541Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.DOMAGamesStudio.SSD2\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T12:28:41.473Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.runar.issdetector\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T12:28:41.496Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"gov.nasa.jsc.igoal.ISSExplorer\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T12:28:41.599Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"net.myrepublic.spacestation\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T12:28:43.981Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.crunchyroll.gv.spacecrew.game\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T12:28:44.138Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.nicedayapps.iss_free\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T12:28:44.496Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"gov.nasa.jsc.igoal.ISSResearchExplorer\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T12:28:46.673Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"st.tori.ToriSat\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T12:28:47.049Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.onegame.robotsquad.shootinggame\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T12:28:47.155Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.robo.universe\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T12:28:49.626Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.francis.blocade\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T12:28:49.630Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.extremedevelopers.tanksvsrobots\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T12:28:49.636Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.D_One_Games.Zombie_Quarantine\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T12:28:51.849Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.BitLogicGames.CaravanKingdomIdle\"}",
+      "count": 4,
+      "fetchedAt": "2026-10-22T12:28:51.954Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.bountiful.blockstone\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T12:28:52.006Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.svobodacreations.thesilo24\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T12:28:54.252Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.defender.dude\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T12:28:54.467Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.micabyte.android.pirates.gold\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T12:28:54.480Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.smug.seaofpirates\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T12:28:56.802Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.CoolBears.PirateHeroes\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T12:28:56.808Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.micabyte.android.pirates\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T12:28:56.834Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.iz.pirate.game.treasure.ship.island.pretend.play.wonder.king.world.town\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T12:28:58.897Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.godzilab.happypirate\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T12:28:59.368Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.herocraft.game.pirates.and.puzzles.match.pvp\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T12:28:59.372Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.game.knife.factory\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T12:29:01.511Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"sea.ship.battle.seven\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T12:29:01.615Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.pirateadventurecrew.googlelb\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T12:29:02.504Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"jp.co.translimit.dream\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T12:29:04.609Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"air.com.trapStreetStudios.instantArmory\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T12:29:04.659Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.sbCreations.com.WeaponBuilderMobile\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T12:29:04.712Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.studiodrill.bladecrafter\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T12:29:07.121Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.slime.weapon.master\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T12:29:07.124Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.passiongamesstudio.mergehunter\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T12:29:07.252Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.studiodrill.bladecrafter2\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T12:29:09.460Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.GermapurApps.MinerGunBuilder\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T12:29:09.463Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.homagames.studio.ammo.fever\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T12:29:09.500Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.magical.weapon.factory\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T12:29:11.474Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.lightdev.weaponsurvivor\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T12:29:11.852Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.onoffgames.EpicHeroWeaponCraftMasters\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T12:29:11.854Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.BitLogicGames.BricksLaser\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T12:29:13.997Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.BitLogicGames.BrickBreaker3D\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T12:29:14.146Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.pixel.gun3d\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T12:29:14.149Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.CedricCadeau.BallChaos\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T12:29:16.065Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.CedricCompany.VerticalShooter\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T12:29:16.068Z"
+    },
+    {
+      "key": "{\"type\":\"developer\",\"id\":\"Galactic1\"}",
+      "count": 1,
+      "fetchedAt": "2026-10-22T12:29:16.158Z"
+    },
+    {
+      "key": "{\"type\":\"developer\",\"id\":\"BitLogicGames\"}",
+      "count": 5,
+      "fetchedAt": "2026-10-22T12:29:18.054Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.gamemaker.rummy.free.puzzle\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:13:36.555Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.fiogonia.rummy500\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:13:36.560Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.playvalve.solitaire\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:13:36.565Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.gimica.solitaireverse\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:13:38.575Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.matteljv.uno\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:13:38.586Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.bigcake.android.spadesclassic\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:13:38.590Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.dna.solitaireapp\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:13:40.767Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.gimica.spidersolitaire\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:13:41.041Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.mobilityware.Spades\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:13:41.045Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.bigcake.android.spidersolitaire\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:13:43.223Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.vitastudio.solitaire\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:13:43.232Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.mobilityware.Rummy\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:13:43.236Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"solitaire.time.relax.games.classic\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:13:45.341Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.tripledot.blackjack\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:13:45.347Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.tripledot.solitaire\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:13:45.351Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.tiltrips.app\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:13:47.333Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.newpubco.spades\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:13:47.340Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.playvalve.spades\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:13:47.346Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"solitaire.arcadegames.freecard.solitaireplus.epic.klodike\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:13:49.297Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.free.card.games.marketplace.tcg.sport.trading.collect.letsgo\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:13:49.301Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.game.whatdoyoumeme\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:13:49.311Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.gs.solitairerewards\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:13:51.604Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.worthyjourney.spider\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:13:51.608Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.playvalve.solitaire.spider\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:13:51.619Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.solitaire.card\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:13:53.722Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.satorisysplay.ginrummy\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:13:53.727Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"linkdesks.classic.solitaire.klondike\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:13:53.730Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.mobilityware.spider\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:13:55.607Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.mobilityware.solitaire\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:13:55.613Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"solitaire.puzzlemaker.solitaire.klondike.cardgame.patience\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:13:55.618Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.wildcard.spades\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:13:59.125Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"spider.solitaire.free.cardgames.classic\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:13:59.130Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.papaya.solitairecash.play\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:13:59.134Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"at.ner.SolitaireKlondike\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:14:00.975Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.mattel163.uno2\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:14:01.027Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.gosub60.sol5\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:14:01.076Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.duole.klondike.truck\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:14:03.132Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"net.peakgames.mobile.spades.android\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:14:03.137Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.monster.collector.card\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:14:03.245Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.blackout.spades\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:14:05.055Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.kamagames.blackjack\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:14:05.659Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.newpubco.klondikesolitaire\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:14:05.664Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.shihao.vigorsolitaire\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:14:07.588Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"color.solitaire.sort.card.games\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:14:07.594Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"rummy500.free.online.offline.classic.card.game\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:14:07.600Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"games.burny.solitaire.video.jigsaw.puzzle\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:14:09.418Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"spider.solitaire.card.games.free.klondike.patience\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:14:09.466Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.satorisysplay.spadesace\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:14:09.480Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.xiyou.puzzle.card.solitaire.classic\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:14:11.963Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.fiogonia.spades\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:14:11.968Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.bingo.win.cash.win.real.money\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:14:11.973Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.wonderpeople.megahitpoker.global\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:14:14.076Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"solitaire.collection.klondike.card.games.free.game\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:14:14.090Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"beetles.puzzle.solitaire\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:14:14.095Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.satorisysplay.ginrummyni\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:14:15.626Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.spades.solitaire.online.plus.offline.free.card.games\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:14:15.644Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.denagamestokyo.a12027175\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:14:15.660Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"solitaire.nostal.cardgame.puzzle\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:14:17.878Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.mia.free.spider.christmas\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:14:17.882Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.mobilityware.freecell\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:14:17.888Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.tripledot.ginrummy\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:14:19.882Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.classic.card.solitaire.game\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:14:19.889Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.neverold.solitaire.card.game.klondike\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:14:19.892Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.vantix.game.texas\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:14:31.183Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.scoreroyale.royale\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:14:31.187Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.zingplay.tonk\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:14:31.209Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.funcraft.cribcardboard\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:14:34.045Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.heartsnet.solitairey.gp\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:14:34.180Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.wildcard.spadespop\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:14:34.188Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"solitaire.spider.card.free.mania\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:14:37.339Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.euchre.solitaire.plus.offline.free.card.games\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:14:37.463Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.funcraft.farklecards\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:14:38.132Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.sauceapp.solitaire.lite.klondike\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:14:41.146Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.mattel163.skipbo\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:14:41.162Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.mobilityware.AddictionSolitaire\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:14:41.167Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.hideseek.solacesolitaire\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:14:43.944Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.mysterytag.solitaire\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:14:43.951Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"spidersolitaire.card.games.klondike.solitaire.spider\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:14:44.000Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.smartplayrewards.rummy.cash.win.money.poker.casino\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:14:46.685Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"linkdesks.solitaire.rescue.story\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:14:46.689Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"solitaire.card.games.free.klondike.solitaire.classic.fun\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:14:46.743Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.zimad.spades\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:14:49.480Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.yy.spades.solitaire\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:14:49.489Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.blackout.gin\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:14:49.527Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"jp.konami.masterduel\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:14:52.253Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.mobilityware.CrazyEights\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:14:52.258Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.flyingcat.spades\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:14:52.262Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.zynga.livepoker\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:14:54.746Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"gin.rummy.ginrummy.free.online.offline.classic.card.game\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:14:54.876Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"dream.solitaire.card.klondike.free.game\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:14:54.931Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.hearts.solitaire.plus.offline.free.card.games\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:14:57.378Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"games.conifer.card.solitaire.klondike.free\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:14:57.382Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.fancygame.solitaire.boy\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:14:57.556Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.forevernine.texaspoker.android\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:15:00.226Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.bbumgames.opa\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:15:00.233Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.myxznvus.gp\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:15:00.236Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.wildcard.classicspades\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:15:02.707Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.mobilityware.Cribbage\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:15:02.713Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"linkdesks.classic.solitaire\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:15:02.900Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"solitaire.solitairemaker.solitaire.klondike.card\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:15:05.182Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.rikkigames.solsuite\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:15:05.185Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"solitaire.classic.journey.klondike.puzzle.card\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:15:05.190Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"nova.solitaire.patience.card.games.klondike.free\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:15:07.910Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"solitaire.game.classic.klondike\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:15:07.917Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"spades.classic.card.free.online.offline.multiplayer\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:15:07.921Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.gosub60.sol5spdr2\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:15:10.314Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.mobilityware.PyramidFree\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:15:10.345Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.yy.solitaire.classic.card.game.free\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:15:10.637Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.kidultlovin.royalsolitaire\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:15:13.032Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.bbumgames.rummystars\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:15:13.036Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.kamagames.pokerist\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:15:13.149Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"solitaire.card.classic.bgames\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:15:15.639Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.youxi.spades\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:15:15.645Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"studio.sun.solitaire.classic.card.klondike.patience\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:15:15.648Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.yallaplay.spadesmasters\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:15:18.083Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.zcmxd.pokergaga\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:15:18.214Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.yy.classic.spider.big.card\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:15:18.219Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"net.ghoststudio.solitaire.tripeaks.chef\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:15:20.486Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.comunix.pokerface\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:15:20.557Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.microsoft.microsoftsolitairecollection\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:15:20.578Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.fancygame.solitaire.fish.girl\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:15:23.064Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.mobilityware.Hearts\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:15:23.070Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"linkdesks.classicsolitaire.klondike.cardgames\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:15:23.085Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"solitaire.card.games.puzzle.klondike\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:15:25.514Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.greyfun.card.solitaire.classic\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:15:25.519Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.finger.spider.solitaire.free\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:15:25.522Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.apperfun.solitaireclub\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:15:28.216Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.me2zen.tripeaks\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:15:28.222Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.uken.solitaire.story\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:15:28.225Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.solitaire.cards.deluxe\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:15:30.632Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.magic.card.puzzle.gp\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:15:30.637Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.agedstudio.card.solitaire.klondike\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:15:30.640Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.easybrain.solitaire.klondike.free\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:15:33.266Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.catool.solitaire.card\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:15:33.268Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.runonetworks.correyseva\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:15:33.277Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.smallant.royal.solitaire\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:15:35.470Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.ptfarm.pokerrrr\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:15:35.557Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"cribbage.card.game.classic.board.offline.multiplayer.poker.dice.score\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:15:36.301Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.smallant.spider.solitaire\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:15:38.992Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.vitastudio.spider\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:15:38.995Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"spider.solitaire.card.games.free.no.ads.klondike.solitare.patience.king\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:15:38.999Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"solitaire.games.word.sort.free\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:15:41.256Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.mobilityware.GinRummySolitaire\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:15:41.259Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"game.card.solitaire.klondike.classic\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:15:41.263Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.mongoosenet.bliss\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:15:43.299Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"pinochle.card.game.trick.solitaire.spades.bridge.bid.meld.multiplayer.game\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:15:43.360Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"solitaire.smash.win.real.cash.games\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:15:43.380Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.niuaigo.solitaire.spider\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:15:45.417Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.conwov.filmedup\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:15:45.420Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.brainium.solitairefree\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:15:45.492Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.mobilecardgames.solitaire\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:15:47.397Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.yonigold.watchtycoon\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:15:47.782Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.texasa11.texas\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:15:47.787Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"net.peakgames.mobile.rummi.android\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:15:49.859Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.purpleowl.spades.card.game\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:15:50.187Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"pyramid.solitaire.classic.saga.tripeaks.egypt.free.cardgame\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:15:50.192Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.dailybread.biblespades\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:15:52.467Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"solitaire.tripeaks.farm.free.card.games.grand.harvest.garden\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:15:52.471Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.solitaire.patience.card.classic.klondike\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:15:52.621Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.funcraft.yatzypoker\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:15:54.652Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.wcgf.rummy500\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:15:54.718Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.myharem.gp\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:15:54.721Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.fiogonia.hearts\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:15:56.769Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.agedstudio.card.solitaire.collection.classic\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:15:56.877Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.solitarie.card.regal.game\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:15:57.185Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.standard.puzzle.solitaire.klondike.japanjourney\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:15:59.529Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.Solitaire.Card.MoneyGame.CashRewards\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:15:59.533Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.hyilmaz.spades\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:15:59.539Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.cybernautica.solitaire.cards\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:16:01.223Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.fruittexas.fullplay\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:16:01.238Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.losttemplegames.solitaire.gnova\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:16:01.274Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.easybrain.spider.solitaire\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:16:03.753Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"spades.solitaire.card.games.free\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:16:03.755Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.potatojam.classic.solitaire.klondike\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:16:03.759Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.devolver.reigns2\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:16:05.901Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.boundless.jawaker\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:16:05.904Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.homa.free.solitaire.card.game\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:16:06.121Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"uk.co.aifactory.solitaire\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:16:08.075Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"solitaire.classic.cardgames\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:16:08.431Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.devolver.reignsGot\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:16:08.436Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.youdagames.gop3multiplayer\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:16:10.701Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.bbumgames.spadesroyale\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:16:10.706Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.catdaddy.cat22\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:16:10.812Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.papaya.towntycoonsolitaire\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:16:13.035Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.king.apps.candysolitaire\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:16:13.038Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"net.peakgames.ginrummyplus\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:16:13.043Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.pyrsoftware.pokerstars.net\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:16:15.109Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.house.of.blackjack21.free.online.casino\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:16:15.148Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.me2zen.tripeaks.v4.and\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:16:15.189Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.bigblueparrot.pokerfriends\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:16:17.579Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.kamagames.videopoker\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:16:17.584Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.king.pyramidsolitairesaga\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:16:17.589Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.bigfishgames.fairwaysolitaireuniversalf2pgoogle\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:16:19.885Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.videopoker.ultimate.x.poker.free\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:16:19.887Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"net.peakgames.bidwhist\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:16:19.892Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.globalgamejourney.plive\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:16:21.991Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"io.bbstud.pkc\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:16:22.041Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.termggb.beimei\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:16:22.045Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.geaxgame.pokerkingpro\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:16:24.114Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.nsus.clubgg\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:16:24.878Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.bingo.island.android\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:16:24.883Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.gameduell.rummy.relax.classic.card.game\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:16:27.035Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"eu.mvns.games\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:16:27.058Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.alvow.gpts.one\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:16:27.091Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.absolute.bingo\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:16:29.382Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.velogames.velopoker\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:16:29.386Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.gameduell.romme.treff.kartenspiel\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:16:29.389Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"air.conectagames.handandfoot\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:16:31.737Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.youdagames.monopolypoker\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:16:31.742Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.casualino.euchrecom\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:16:31.925Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.casualino.vipspades\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:16:34.214Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.mdyx.ltgame\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:16:34.219Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"air.com.neon.games.WBT\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:16:34.224Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.topps.ttf\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:16:36.720Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.jsjssea.google\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:16:36.727Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.murka.scatterholdem\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:16:36.735Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.romantic.cardbattle.valkyria.duel\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:16:38.755Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.fantyfuture.os.gb.gp\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:16:38.834Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.RestPlay.RestPoker\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:16:38.864Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.trivialtechnology.Rummy500D\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:16:41.129Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.efun.euklqb\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:16:41.135Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"air.ru.crazypanda.wpcm\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:16:41.138Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.neowiz.texasholdem.poker\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:16:43.513Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.jackpotmobile.vpmh\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:16:43.516Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.zingplay.tongits\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:16:43.519Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.belkagames.solitaire\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:16:45.816Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.templegatesgames.DominionAndroid\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:16:45.820Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.card.battle.queen.duel.pretty\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:16:45.823Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.octro.pokerlive\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:16:48.172Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.bbumgames.rummyrush\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:16:48.178Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.bridgebase.BridgeBase\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:16:48.181Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.digitoygames.ginrummy\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:16:50.212Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"games.wellplayed.nox\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:16:50.255Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.gameduell.canasta.treff.kartenspiel\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:16:50.312Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.fa2seatest.gp\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:16:52.464Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.tapinator.bjl\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:16:52.468Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"gsn.game.pusoy1\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:16:52.474Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.jutsuchakraen.mlen\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:16:54.200Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"solitaire.tripeaks.blooming.scapes.adventure.story.flower.garden.harvest.farm\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:16:54.206Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.jawaker.hand\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:16:54.214Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.solitaire.angel.card.puzzle.klondike\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:16:56.873Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.bonfit.playnine\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:16:56.877Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.ntg.solitaire.tripeaks\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:16:56.881Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.starrealms.starrealmsapp\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:16:58.965Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.gsn.conquian.us\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:16:59.247Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.MadStudios.SolitaireFairytaleDev\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:16:59.251Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.island.card\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:17:01.690Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.mobilityware.MahjongSolitaire\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:17:01.696Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.orchidgames.heartwildsolitaire\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:17:01.705Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.yy.solitaire.farm.tripeaks\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:17:03.946Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.solitaire.klondike.patience.ocean.aquarium\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:17:03.951Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.jawaker.tarneeb\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:17:03.957Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.eu.eusds\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:17:06.227Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.kamagames.omahapoker\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:17:06.388Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.zps.tonkclassic\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:17:06.479Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.playjoygame.pg\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:17:08.605Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.kamagames.spades\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:17:08.934Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"de.spielepalast.canastapalace\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:17:09.153Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.silvercrk.spades_free\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:17:11.599Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"air.com.coalaa.itexasar\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:17:11.601Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.astarsoftware.euchre\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:17:11.604Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.mi.poketrade\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:17:13.853Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.KonsoleKingz.BlackSpades\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:17:13.886Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.yallaplay.ginrummy\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:17:14.183Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.clipwiregames.monopolybingo\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:17:15.933Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.game.queenofhearts\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:17:15.953Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"air.com.web2mil.trucoVenezolano\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:17:15.994Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.bigcake.android.classicdominoes\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:17:18.270Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.playvalve.mahjong\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:17:18.275Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.bigcake.android.chess.offline\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:17:18.486Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"bingocash.bonus.moneyslot.cardpuzzle\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:17:20.633Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.bigcake.android.mahjongmatch\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:17:20.639Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.merry.christmas.happy.paint.by.number.coloring.game\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:17:20.645Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"st.ows.chess\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:17:23.058Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"ai.projectx.clickx.gp\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:17:23.063Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.tapcolor.color.coloring.number.paint.free\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:17:23.074Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"spider.classic.solitaire.card.pgmaker\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:17:25.428Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.heartsnet.tidyx.gp\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:17:25.433Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.ew.mahjong\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:17:25.437Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.iceors.colorbook.release\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:17:27.704Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.ludo.king\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:17:27.708Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"mahjong.free.games\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:17:27.714Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.godlike.yahtzee\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:17:30.052Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.zappchess.app.free\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:17:30.058Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.art.pixel.encore.games.paint.color.by.numbers\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:17:30.062Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.art.pixel.pet.games.paint.color.by.numbers\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:17:32.706Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.niuaigo.mahjong.classic\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:17:32.710Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.bigcake.android.classicyatzy\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:17:32.713Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.easybrain.backgammon.board.games\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:17:34.982Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.mystery.hidden.objects.find.clue.puzzle.games.free\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:17:34.986Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.easybrain.ludo.board.games\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:17:35.251Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.playvalve.dominoes\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:17:36.993Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"air.ynfo.stickergo\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:17:37.028Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"loppipoppi.dominoes\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:17:37.063Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.gamesoup.twoplayergames\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:17:39.795Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.coloring.game.black.app.by.number\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:17:39.802Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.iceors.color.joy\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:17:39.808Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.alpg.bingo\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:17:42.032Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.art.pixel.beauty.girl.games.paint.color.by.numbers\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:17:42.040Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.yatzy.blitz.dice.roll.game\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:17:42.135Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.mintgames.jigsolitaire\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:17:44.553Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.calm.mahjong.tile.puzzle\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:17:44.560Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"solitaire.card.games.klondike.solitaire.classic.free\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:17:44.574Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.art.pixel.santa.christmas.games.paint.color.by.numbers\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:17:46.731Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.rebel.happy.paint.by.number.coloring.game\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:17:46.744Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"coloring.color.number.happy.paint.art.drawing.puzzle\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:17:46.750Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.art.pixel.craft.games.paint.color.by.numbers\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:17:48.869Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.goodtimegames.blackjack.blackjack21.cash.win.money.poker.casino\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:17:48.874Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.fiogonia.dominoes\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:17:48.880Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.color.by.number.goth\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:17:51.196Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.color.by.numbers.dark.halloween\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:17:51.200Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.interior.home.happy.paint.by.number.coloring.game\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:17:51.232Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.jetstartgames.chess\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:17:53.462Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.match.meditation\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:17:53.467Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.color.by.numbers.halloween.painting\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:17:53.473Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"ru.skillcap.dominoes\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:17:55.545Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.yy.toki.mahjong.solitaire.free\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:17:55.549Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.meta.inno.sticker\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:17:55.553Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.color.by.number.pages.painting\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:17:58.006Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.moonfrog.ludo.club\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:17:58.015Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.wonderful.mahjong\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:17:58.018Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.color.by.numbers.dark.coloring.pages\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:18:00.397Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"and.lhhpub.mahjongmatch\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:18:00.403Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.art.pixel.flow.games.paint.color.by.numbers\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:18:00.408Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.color.by.numbers.happy.painting\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:18:02.634Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.color.by.number.book.painting.game\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:18:02.638Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.christmas.winter.happy.art.jigsaw.puzzle.free.game\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:18:02.642Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"mahjong.slide\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:18:04.578Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"classic.relax.happy.color.by.number.game\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:18:04.674Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.mystic.happy.paint.by.number.coloring.game\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:18:04.698Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.coloring.book.coloring.game.paint.by.number.color.app.page\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:18:06.666Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.bingo.tour.party.crazy.free\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:18:06.680Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"and.lihuhu.findmatch\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:18:06.700Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.yatzy.classic.dice.duel.game\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:18:08.772Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.tony.classic.board.dominoes\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:18:08.782Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.paint.by.numbers.coloring.book.theme.joker\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:18:08.791Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.mahjong.op.gp\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:18:10.905Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.wildcard.domino\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:18:11.287Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.halloween.spooky.happy.paint.by.number.coloring.game\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:18:11.295Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.art.pixel.halloween.art.games.paint.color.by.numbers\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:18:13.304Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"mahjong.mingle\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:18:13.314Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.sampartridge.DiceRoll\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:18:13.320Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.media720.games2020.two.player.offline.games\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:18:15.409Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.ovivogames.blockblitz\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:18:15.416Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.fiogonia.yatzy\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:18:15.419Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.bingo.wild.android\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:18:17.431Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.yy.toki.mahjong.tile\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:18:17.527Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"mahjong.solitaire.tile.pair.match.puzzle\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:18:17.533Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"st.ows.checkers\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:18:19.138Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.color.by.number.vintage\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:18:19.142Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.color.by.number.cute\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:18:19.147Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"and.lihuhu.mahjongtriple3d\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:18:21.122Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.weplaydots.twodotsandroid\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:18:21.126Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.spider.solitaire.card.games.free.classic\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:18:21.744Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.zynga.windfall\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:18:23.850Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.game.friends.teamiksa\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:18:23.858Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.art.pixel.vivid.games.paint.color.by.numbers\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:18:23.987Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"pl.lukok.draughts\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:18:26.155Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"mahjong.solitaire.card.games.free.senior.match.puzzle\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:18:26.159Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.mahjong4friends.twa\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:18:26.374Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.mobilityware.Dominoes\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:18:28.553Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.paint.by.numbers.goth.coloring.book\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:18:28.558Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.coloring.games.painting.color.by.numbers.deco\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:18:28.563Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.nomad.happy.paint.by.number.coloring.game\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:18:30.230Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.papaya.bingocash.play\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:18:30.234Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.paint.by.number.game.coloring.book\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:18:30.249Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.art.pixel.bible.games.paint.color.by.numbers\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:18:32.329Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"mahjongsolitaire.mahjong.solitaire.tile.pair.match\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:18:32.512Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.pop.happy.art.paint.by.number.coloring.game\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:18:32.517Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.paint.by.numbers.coloring.games.doll\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:18:34.725Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.popart.happy.paint.by.number.coloring.game\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:18:34.730Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.paint.by.number.coloring.season.nature\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:18:34.735Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.mintgames.jigsawmaster\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:18:36.686Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.yoogalabgaming.puzzle.sort.ball\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:18:36.852Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.LoopGames.Domino\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:18:36.857Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.funcraft.diceconnect\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:18:38.936Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.color.by.number.blackpaintings\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:18:38.942Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.free.puzzle.games.jigsaw.puzzles\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:18:38.947Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"linkdesks.tile.match.story\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:18:40.866Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.kiwifun.game.android.pixel.beads\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:18:41.196Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"and.lihuhu.blossommaster\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:18:41.476Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.smartplayrewards.domino.cash.win.money.poker.casino\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:18:43.559Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.veraxen.colorbynumber.oilpainting\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:18:43.565Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"and.lihuhu.woober\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:18:43.569Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.hyperfun.christmas.tiles\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:18:45.657Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.hitfortune.casino.slots.jackpot\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:18:45.662Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.courage.ludo\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:18:45.666Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.mandala.pattern.happy.paint.by.number.coloring.game\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:18:47.625Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.art.pixel.travel.games.paint.color.by.numbers\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:18:47.632Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.uken.BingoPop\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:18:47.636Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.pixie.color.android\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:18:49.440Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.ratelgames.pixeldomino\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:18:49.474Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.infinityfun.yatzychoochoo\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:18:49.483Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.paint.by.number.coloring.book.christmas\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:18:51.391Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.fairy.tale.happy.paint.by.number.coloring.game\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:18:51.423Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.gamakiz.swipeit\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:18:51.456Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"air.com.spicerackmedia.bingoshowdown\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:18:53.289Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.kiaora.dominoes\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:18:53.327Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.coloring.games.color.by.numbers\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:18:53.343Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.dress.color.android\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:18:55.445Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.paint.by.number.coloring.vintage.life\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:18:55.449Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.painting.book.color.by.numbers.painting.us\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:18:55.452Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.coloring.paint.by.number.winter.snow\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:18:57.331Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.paint.by.number.pixel.art.coloring.pages\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:18:57.372Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.BerryGames.BerryMahjong\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:18:57.650Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.pcoloring.art.puzzle.color.by.number\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:18:59.512Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.color.by.number.christmas\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:18:59.516Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.puzzle.matchtile\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:18:59.792Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.pixel.art.coloring.color.number.paint.wolf\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:19:01.804Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.gown.happy.paint.by.number.coloring.game\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:19:01.838Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"mahjongsolitaire.mahjong.solitaire.tile.pair.match.puzzle\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:19:01.868Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.paint.by.number.coloring.black.life\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:19:03.882Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.paint.by.numbers.coloring.art\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:19:03.887Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.art.pixel.polygon.games.paint.color.by.numbers\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:19:03.896Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.tamalaki.bingo.food.tour\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:19:06.045Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"and.brainworks.nummatch\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:19:06.049Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.art.pixel.ancient.games.paint.color.by.numbers\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:19:06.054Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"io.yarsa.games.ludo\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:19:08.321Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.coloring.games.paint.by.numbers.calm.house\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:19:08.333Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.nova.board.mahjong\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:19:08.339Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.funcraft.railsoffortune\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:19:10.157Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.tangle.happy.paint.by.number.coloring.game\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:19:10.214Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.popupgames.ludo.king.club.dice.board.game\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:19:10.228Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.pop.happy.art.jigsaw.puzzle.free.game\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:19:12.232Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.jellybtn.boardkings\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:19:12.267Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.dream.home.house.happy.paint.by.number.coloring.game\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:19:12.298Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.meeplecorp.kingdomino\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:19:14.203Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.marmalade.mousetrap\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:19:14.673Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.czechgames.codenamesdigital\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:19:14.678Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.withbuddies.dice.free\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:19:16.714Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.kinkajoo.RummikubHD\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:19:16.719Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.steelcrategames.keeptalkingandnobodyexplodes\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:19:16.724Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"air.com.beachbumgammon\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:19:18.533Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"live.fun.bingo.online.story.casino.free.game.android\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:19:18.906Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.game.friends.android\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:19:18.910Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"air.com.glidingdeer.bingodrivemobile\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:19:20.870Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.playstudios.myvegas.bingo\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:19:21.129Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.WhatWapp.Backgammon.Multiplayer\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:19:21.134Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.home.design.bingo.android\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:19:23.118Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.gamepoint.bingo\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:19:23.156Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"air.com.come2play.backgammon\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:19:23.185Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"lucky.frenzy.journey.online.casino.free.bingo.up.game\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:19:25.305Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.clipwiregames.bingostory\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:19:25.311Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.beachbum.domino\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:19:25.314Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.zynga.backgammonplus\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:19:28.192Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"diamond.painting.color.by.number.antistress.april\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:19:28.197Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.appcraft.number.puzzle\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:19:28.201Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.funcraft.farkleconnect\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:19:30.289Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.ahoygames.backgammon\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:19:30.293Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"air.com.pipastudios.release.praiabingo\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:19:30.299Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.inapp.cross.stitch\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:19:32.189Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.gameusa.pppoker.android\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:19:32.201Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.dominovamos.game\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:19:32.440Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.moonfrog.parchisi.club\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:19:34.499Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.gamepoint.royaldice\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:19:34.506Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.rummikubfree\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:19:34.509Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"net.peakgames.Yuzbir\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:19:36.728Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"chessfriends.online.chess\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:19:36.731Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.reels.bingobattleandroid\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:19:36.735Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.flyclops.domino.android\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:19:38.798Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.blackcircleapps.halloweenbingo\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:19:38.803Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.pixel.art.coloring.by.number\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:19:38.975Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.zenergy.shoot\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:19:41.046Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.wejoy.jackaroo\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:19:41.055Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.gtm.todfun\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:19:41.059Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.zariba.domino\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:19:43.316Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.gsn.zps.glo\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:19:43.320Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.zimad.domino.rivals\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:19:43.325Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.eightbam.mahjongpractice\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:19:45.331Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.orodragon.bgking\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:19:45.343Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.ninthart.board.beastgo\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:19:45.350Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.jbthrd.Insight\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:19:47.549Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.marmalade.cluedogame\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:19:47.553Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"net.skillcap.farkle\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:19:47.562Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.kiwifun.game.android.mahjong\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:19:49.619Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.vanrydergames.FinalGirlApp\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:19:49.625Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.TikGames.DominoMaster\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:19:49.637Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.infinityx.tictactoe\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T13:19:51.324Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.dwarvenminersidle.app\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T14:02:50.333Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.ikrogames.DwarfMineIdle\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T14:02:50.343Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.bbdigital.idle.dwarfs.master\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T14:02:50.349Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.strategy.army.games.tank.war\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T14:02:52.077Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.sinkid.tapdungeon\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T14:02:52.082Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.codebitstudio.io\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T14:02:52.091Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"kr.tinysoft.dungeon_tatics\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T14:02:53.728Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.idlerwarriors.game\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T14:02:53.732Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.sugarscone.necrosurvival\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T14:02:53.831Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.divmob.impostor\"}",
+      "count": 10,
+      "fetchedAt": "2026-10-22T14:02:55.138Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.yhdatabase.dungencrawldefender\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T14:02:55.142Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.funigloo.pocketlegions\"}",
+      "count": 7,
+      "fetchedAt": "2026-10-22T14:02:55.277Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.otbs.ae2021.app\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T14:02:56.877Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.megacombat.clashoflegions\"}",
+      "count": 7,
+      "fetchedAt": "2026-10-22T14:02:56.883Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.skyisland.mergesoldier.td.backpack.rush\"}",
+      "count": 6,
+      "fetchedAt": "2026-10-22T14:02:56.888Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.divmob.autochess.heroesinfinity\"}",
+      "count": 10,
+      "fetchedAt": "2026-10-22T14:02:58.141Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.divmob.heroesinfinity\"}",
+      "count": 10,
+      "fetchedAt": "2026-10-22T14:02:58.167Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.StreetDogs.IdleEmpireKingdomQuestWar\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T14:02:58.243Z"
+    },
+    {
+      "key": "{\"type\":\"developer\",\"id\":\"6473954602164201461\"}",
+      "count": 1,
+      "fetchedAt": "2026-10-22T14:02:59.809Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.song.rpg.en.an\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T14:03:00.359Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.funigloo.android.sharing.hero\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T14:03:00.365Z"
+    },
+    {
+      "key": "{\"type\":\"developer\",\"id\":\"8091849572721340021\"}",
+      "count": 2,
+      "fetchedAt": "2026-10-22T14:03:02.306Z"
+    },
+    {
+      "key": "{\"type\":\"developer\",\"id\":\"8029000350509758753\"}",
+      "count": 5,
+      "fetchedAt": "2026-10-22T14:03:02.312Z"
+    },
+    {
+      "key": "{\"type\":\"developer\",\"id\":\"Taras Hupalo Th\"}",
+      "count": 1,
+      "fetchedAt": "2026-10-22T14:03:02.315Z"
+    },
+    {
+      "key": "{\"type\":\"developer\",\"id\":\"7364063264686244092\"}",
+      "count": 2,
+      "fetchedAt": "2026-10-22T14:03:03.926Z"
+    },
+    {
+      "key": "{\"type\":\"developer\",\"id\":\"Starship Studios\"}",
+      "count": 3,
+      "fetchedAt": "2026-10-22T14:03:03.936Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.td.lightstrategy.neversoft\"}",
+      "count": 6,
+      "fetchedAt": "2026-10-22T14:03:05.861Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.SingleStar.FarmerVsZombies2\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T14:03:05.865Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.egl.android.elementsdefense\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T14:44:55.032Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.GreatGiantGolem.AxeRogue\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T14:44:55.684Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.Wheel.QuantumSurvivor\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T14:44:55.690Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.conradmafer.aliencolonies\"}",
+      "count": 1,
+      "fetchedAt": "2026-10-22T14:44:57.228Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.GameStructures.RandomMage\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T14:44:57.243Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.fireshrike.dk\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T14:44:57.275Z"
+    },
+    {
+      "key": "{\"type\":\"developer\",\"id\":\"6952704418524912006\"}",
+      "count": 2,
+      "fetchedAt": "2026-10-22T14:44:58.872Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.conradmafer.priestrunner\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T14:44:58.937Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.skytecgames.desertwar\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T15:29:46.563Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.TheMaker.DesertHawks\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T15:29:46.575Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.peekjoy.desert.storm.operation\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T15:29:46.601Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.fbfg.desert.sniper.games.fps\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T15:29:48.138Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.demir.EnchantedTowers\"}",
+      "count": 6,
+      "fetchedAt": "2026-10-22T15:29:48.149Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.war.no\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T15:29:48.157Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.armylbo.app\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T15:29:49.764Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.armynoncomtools.leadersbook\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T15:29:49.772Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"eu.newrecruit.www.twa\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T15:29:49.778Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.pineapplestudio.adfaptitudetest\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T15:29:51.289Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.armygamestudio.usarec.asvab\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T15:29:51.298Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.armygamestudio.usarec.chaplain\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T15:29:51.305Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.DeRRokStudio.SBA\"}",
+      "count": 12,
+      "fetchedAt": "2026-10-22T15:29:52.581Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.earlymorningstudio.spear\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T15:29:52.588Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.rebeltwins.spacesquadsurvival\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T15:29:52.632Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"org.jefersonbelmiro.rapture\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T15:29:53.902Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.solidclouds.starborne.frontiers\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T15:29:53.913Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"yamaoh.app.spacebattleshipE\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T15:29:53.934Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.dmr.IdleSoccerManager\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T15:29:55.215Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.onlyfortress\"}",
+      "count": 6,
+      "fetchedAt": "2026-10-22T15:29:55.229Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.ZlodeyStudios.WalkingCastles\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T15:29:55.573Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.demir.ilkbeylik\"}",
+      "count": 6,
+      "fetchedAt": "2026-10-22T15:29:56.836Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.demir.EnchantedTowersPremium\"}",
+      "count": 12,
+      "fetchedAt": "2026-10-22T15:29:56.843Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.Demir.VikingQuest\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T15:29:56.879Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.Demir.HomeClicker\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T15:29:58.130Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.demir.UndergroundHeroesPremium\"}",
+      "count": 6,
+      "fetchedAt": "2026-10-22T15:29:58.136Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.inellipse.alter\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T15:29:58.148Z"
+    },
+    {
+      "key": "{\"type\":\"developer\",\"id\":\"7948113184736567512\"}",
+      "count": 9,
+      "fetchedAt": "2026-10-22T15:29:59.721Z"
+    },
+    {
+      "key": "{\"type\":\"developer\",\"id\":\"Only Fort\"}",
+      "count": 1,
+      "fetchedAt": "2026-10-22T15:29:59.734Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.demir.FootballCity\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T15:30:00.994Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.demir.FootballClicker\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T15:30:01.032Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.medieval.td\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T16:14:50.440Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.frozenfrog.DungeonSurvival.gp\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T16:14:50.449Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.runningpillow.simplestMMORPG\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T16:14:50.478Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.singularity.outpost\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T16:14:51.750Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.rltw.armysurvival\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T16:14:51.759Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.herocraft.game.free.wod\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T16:14:51.795Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.ExabyteGames.FinalOutpost\"}",
+      "count": 7,
+      "fetchedAt": "2026-10-22T16:14:53.096Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.backpackroguelike.app\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T16:14:53.100Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.etermax.survival\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T16:14:53.104Z"
+    },
+    {
+      "key": "{\"type\":\"developer\",\"id\":\"7039705692956441359\"}",
+      "count": 1,
+      "fetchedAt": "2026-10-22T16:14:54.369Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.empirewake.app\"}",
+      "count": 3,
+      "fetchedAt": "2026-10-22T16:14:54.414Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.ExabyteGames.FinalOutpostDE\"}",
+      "count": 7,
+      "fetchedAt": "2026-10-22T16:14:54.418Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.downfallsurvivalsim.app\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T16:14:55.709Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.spotlightdreams.app\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T16:14:55.715Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.mogulempiretycoon.app\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T16:14:55.744Z"
+    },
+    {
+      "key": "{\"type\":\"developer\",\"id\":\"6804136225806777528\"}",
+      "count": 2,
+      "fetchedAt": "2026-10-22T16:14:57.023Z"
+    },
+    {
+      "key": "{\"type\":\"developer\",\"id\":\"8420686417087783905\"}",
+      "count": 4,
+      "fetchedAt": "2026-10-22T16:14:57.024Z"
     }
   ],
   "candidates": [
@@ -77482,7 +80567,8 @@
         "search:fantasy army formation strategy",
         "search:tactical mercenary squad strategy",
         "search:railway war logistics strategy",
-        "search:formation battle commander"
+        "search:formation battle commander",
+        "related:com.funigloo.pocketlegions"
       ]
     },
     {
@@ -78047,7 +81133,8 @@
         "search:base building RTS 2025",
         "related:com.ColdDivision.MobileCommander",
         "related:com.topdog.towerdefense.kingdom",
-        "related:com.bmmtbsgame"
+        "related:com.bmmtbsgame",
+        "related:com.ExabyteGames.FinalOutpostDE"
       ]
     },
     {
@@ -80835,7 +83922,8 @@
         "related:com.gcenter.kingofdefense.battle.frontier.td",
         "related:com.stavbi1.towerdefense",
         "search:tower defense premium 2025",
-        "search:strategy transport tycoon defense 2025"
+        "search:strategy transport tycoon defense 2025",
+        "related:com.divmob.autochess.heroesinfinity"
       ]
     },
     {
@@ -81171,7 +84259,9 @@
         "related:com.rl.joyseed.and",
         "related:pocketforts.td",
         "related:io.TatuStudio.WorldConqueror",
-        "related:com.hexconquest.app"
+        "related:com.hexconquest.app",
+        "related:com.skyisland.mergesoldier.td.backpack.rush",
+        "related:com.td.lightstrategy.neversoft"
       ]
     },
     {
@@ -84172,7 +87262,9 @@
         "search:war strategy diplomacy offline",
         "search:medieval trade diplomacy",
         "search:territory painting strategy",
-        "related:com.momenthk.mwr"
+        "related:com.momenthk.mwr",
+        "related:com.onlyfortress",
+        "related:com.ExabyteGames.FinalOutpost"
       ]
     },
     {
@@ -84688,7 +87780,8 @@
         "search:jeux tactiques tour par tour 2026",
         "search:autobattler team strategy",
         "search:formation battle commander",
-        "related:com.momenthk.mwr"
+        "related:com.momenthk.mwr",
+        "related:com.onlyfortress"
       ]
     },
     {
@@ -84816,7 +87909,9 @@
         "search:strategy games indie 2026",
         "search:dark fantasy grand strategy",
         "search:novos jogos estratégia 2026",
-        "search:estratégia construção reino 2025"
+        "search:estratégia construção reino 2025",
+        "related:com.onlyfortress",
+        "related:com.ExabyteGames.FinalOutpost"
       ]
     },
     {
@@ -84862,7 +87957,8 @@
         "related:com.tenpercentred.biotix",
         "search:strategy medieval settlement 2026",
         "related:com.susmers.tnc",
-        "search:wargame campaign editor"
+        "search:wargame campaign editor",
+        "related:com.ExabyteGames.FinalOutpost"
       ]
     },
     {
@@ -84916,7 +88012,9 @@
         "related:com.tenpercentred.biotix",
         "related:com.igindis.latinamericaempire2027",
         "search:terrain manipulation strategy",
-        "related:com.meteoryweb.yourlandwhat"
+        "related:com.meteoryweb.yourlandwhat",
+        "related:com.ExabyteGames.FinalOutpost",
+        "related:com.ExabyteGames.FinalOutpostDE"
       ]
     },
     {
@@ -88077,7 +91175,8 @@
         "search:strategy tactical deckbuilding 2026",
         "search:strategy card roguelite 2026",
         "search:strategy tower card battle 2025",
-        "search:deckbuilding tower defense"
+        "search:deckbuilding tower defense",
+        "related:com.DeRRokStudio.SBA"
       ]
     },
     {
@@ -89617,7 +92716,8 @@
         "related:com.raid.kingdom.capture",
         "search:novos jogos estratégia 2026",
         "search:新作 ストラテジー オフライン",
-        "search:city state conquest strategy"
+        "search:city state conquest strategy",
+        "related:com.DeRRokStudio.SBA"
       ]
     },
     {
@@ -91763,7 +94863,8 @@
         "related:com.westover.warriors",
         "related:com.warvik.warriors.tower.defense.td.games.strategy.age.of.war.tiny.mini.we.are.base.rush",
         "related:com.ttwoftgame.tiniwars",
-        "related:com.KvannliAS.PixelTribe"
+        "related:com.KvannliAS.PixelTribe",
+        "related:com.divmob.impostor"
       ]
     },
     {
@@ -95820,7 +98921,8 @@
         "search:stratégie défense château 2025",
         "search:strategy castle siege offline 2026",
         "search:strategy steampunk tower 2025",
-        "search:siege warfare castle strategy"
+        "search:siege warfare castle strategy",
+        "related:com.td.lightstrategy.neversoft"
       ]
     },
     {
@@ -95881,7 +98983,8 @@
         "search:strategy castle siege offline 2026",
         "search:castle defense co op",
         "related:com.pocketarena.castledefense",
-        "search:siege warfare castle strategy"
+        "search:siege warfare castle strategy",
+        "related:com.skyisland.mergesoldier.td.backpack.rush"
       ]
     },
     {
@@ -97727,7 +100830,8 @@
         "related:skydragon.ylempire",
         "related:com.riseofages",
         "related:com.pixelbrew.strategy.medieval.kindoms.conquest",
-        "related:com.allbestgames.hex"
+        "related:com.allbestgames.hex",
+        "related:com.funigloo.pocketlegions"
       ]
     },
     {
@@ -98062,7 +101166,8 @@
         "related:com.rps.skeleton",
         "search:新作 タワーディフェンス 2025",
         "search:신작 타워 디펜스 2026",
-        "related:pocketforts.td"
+        "related:pocketforts.td",
+        "related:com.td.lightstrategy.neversoft"
       ]
     },
     {
@@ -98351,7 +101456,8 @@
         "related:com.mal.planetgame",
         "related:com.rl.joyseed.and",
         "related:com.hexconquest.app",
-        "related:com.newdawn333.warofblueandgrey"
+        "related:com.newdawn333.warofblueandgrey",
+        "related:com.td.lightstrategy.neversoft"
       ]
     },
     {
@@ -100039,7 +103145,8 @@
         "related:com.gameloops.raidform",
         "related:com.gameloops.energynexus",
         "related:com.hexresistance.app",
-        "related:com.rtsoutpost.game"
+        "related:com.rtsoutpost.game",
+        "related:com.megacombat.clashoflegions"
       ]
     },
     {
@@ -100209,7 +103316,8 @@
         "related:com.doors.CrazyZombieLab",
         "related:com.DTeam.ElementalLaneDefense",
         "related:pocketforts.td",
-        "related:com.hexresistance.app"
+        "related:com.hexresistance.app",
+        "related:com.skyisland.mergesoldier.td.backpack.rush"
       ]
     },
     {
@@ -100221,7 +103329,8 @@
       "genreId": "GAME_ROLE_PLAYING",
       "url": "https://play.google.com/store/apps/details?id=com.game.idle.fantasy&hl=en&gl=US",
       "discoveredVia": [
-        "related:com.elex.coq.mena2"
+        "related:com.elex.coq.mena2",
+        "related:com.divmob.heroesinfinity"
       ]
     },
     {
@@ -100237,7 +103346,8 @@
         "related:com.cle.roc",
         "related:com.arkgames.ggplay.rodna",
         "related:com.BearBobStudio.MechWarriors",
-        "related:com.zts.ageoffantasy"
+        "related:com.zts.ageoffantasy",
+        "related:com.divmob.heroesinfinity"
       ]
     },
     {
@@ -100714,7 +103824,8 @@
         "search:strategy dungeon defense heroes 2025",
         "related:com.khelian.color",
         "related:com.gameloops.raidform",
-        "related:com.king.sfungames"
+        "related:com.king.sfungames",
+        "related:com.divmob.impostor"
       ]
     },
     {
@@ -100940,7 +104051,8 @@
         "related:com.batomon.showdown",
         "related:com.monster.war.army.idle.rpg",
         "related:com.ornely.wizard",
-        "related:gg.reignoftitans"
+        "related:gg.reignoftitans",
+        "related:com.funigloo.pocketlegions"
       ]
     },
     {
@@ -101322,7 +104434,8 @@
         "related:com.jetdogs.hercules18",
         "related:com.jetdogs.hercules13",
         "developer:JetDogs Oy",
-        "related:com.zombielord.game"
+        "related:com.zombielord.game",
+        "related:com.ExabyteGames.FinalOutpostDE"
       ]
     },
     {
@@ -101846,7 +104959,8 @@
         "related:games.tower.defense",
         "related:com.bmmtbsgame",
         "related:com.pocketarena.castledefense",
-        "related:pocketforts.td"
+        "related:pocketforts.td",
+        "related:com.white.castle.grow.tower.defence.heroes.magic.defense.necromancer"
       ]
     },
     {
@@ -102090,7 +105204,8 @@
         "related:com.payge.idledefenders",
         "related:com.infiniclipse.aliensurge",
         "related:com.Lionrabbit.Miningtowerdefense",
-        "related:com.devpixel.necrodefense"
+        "related:com.devpixel.necrodefense",
+        "related:com.skyisland.mergesoldier.td.backpack.rush"
       ]
     },
     {
@@ -103520,7 +106635,8 @@
         "search:strategy tower card battle 2025",
         "related:com.DTeam.ElementalLaneDefense",
         "related:pocketforts.td",
-        "related:com.hexconquest.app"
+        "related:com.hexconquest.app",
+        "related:com.td.lightstrategy.neversoft"
       ]
     },
     {
@@ -103793,7 +106909,9 @@
         "related:com.khelian.color",
         "related:com.bmmtbsgame",
         "related:com.treetop.colonycommander",
-        "related:com.pocketarena.castledefense"
+        "related:com.pocketarena.castledefense",
+        "related:com.white.castle.grow.tower.defence.heroes.magic.defense.necromancer",
+        "related:com.skyisland.mergesoldier.td.backpack.rush"
       ]
     },
     {
@@ -104305,7 +107423,8 @@
         "related:com.fs.td.rush.kingdomwarrior",
         "related:com.Obrii.FantasyWarriors",
         "search:village raid defense strategy",
-        "related:com.newdawn333.warofblueandgrey"
+        "related:com.newdawn333.warofblueandgrey",
+        "related:com.divmob.impostor"
       ]
     },
     {
@@ -104566,7 +107685,8 @@
         "related:com.larks.pb1.gp",
         "related:com.Jbm360.ArrowBattle",
         "related:com.redtail.legionsurge",
-        "related:com.doors.CrazyZombieLab"
+        "related:com.doors.CrazyZombieLab",
+        "related:com.td.lightstrategy.neversoft"
       ]
     },
     {
@@ -105043,7 +108163,8 @@
       "discoveredVia": [
         "related:com.playwindgames.freedefender",
         "related:com.brokksindri.sevenhearts.gl.kr",
-        "related:com.dreamplay.monstersdefense.google"
+        "related:com.dreamplay.monstersdefense.google",
+        "related:com.funigloo.pocketlegions"
       ]
     },
     {
@@ -105470,7 +108591,8 @@
         "related:com.WaffleStackStudio.TowerBall",
         "related:com.buffstudio.stillpoint",
         "related:com.pixelbuf.idlehorizons.dev",
-        "related:com.CupTea.tower.defense.factory"
+        "related:com.CupTea.tower.defense.factory",
+        "related:com.ExabyteGames.FinalOutpostDE"
       ]
     },
     {
@@ -105811,7 +108933,8 @@
       "discoveredVia": [
         "related:behive.the_weight_of_silence",
         "related:com.aetherion.smasherwaterracing",
-        "related:com.wi.wildbear.adventure.openworld"
+        "related:com.wi.wildbear.adventure.openworld",
+        "related:com.demir.EnchantedTowersPremium"
       ]
     },
     {
@@ -106135,7 +109258,8 @@
         "related:com.aliasworlds.kingdomchronicles.hd.full.google",
         "related:com.aliasworlds.kingdomchronicles2.hd.free.google",
         "related:com.ggds.idle.poo.fertilizer.tycoon",
-        "related:com.sarbsukh.Farm"
+        "related:com.sarbsukh.Farm",
+        "related:com.ExabyteGames.FinalOutpostDE"
       ]
     },
     {
@@ -106650,7 +109774,9 @@
         "related:com.pocketarena.castledefense",
         "related:com.rl.joyseed.and",
         "search:fantasy army formation strategy",
-        "search:formation battle commander"
+        "search:formation battle commander",
+        "related:com.divmob.impostor",
+        "related:com.megacombat.clashoflegions"
       ]
     },
     {
@@ -106712,7 +109838,8 @@
         "search:新作 タワーディフェンス 2025",
         "related:com.chillplay.overcore",
         "related:com.zone.zombie.defense",
-        "related:com.hexconquest.app"
+        "related:com.hexconquest.app",
+        "related:com.skyisland.mergesoldier.td.backpack.rush"
       ]
     },
     {
@@ -107797,7 +110924,8 @@
         "related:com.gameyogi.cardrush",
         "related:com.rl.joyseed.and",
         "related:com.dltt.zdeslg",
-        "related:com.jump.global"
+        "related:com.jump.global",
+        "related:com.divmob.heroesinfinity"
       ]
     },
     {
@@ -107898,7 +111026,8 @@
         "related:com.wildsky.wildarmydraft",
         "related:com.playwindgames.matchdefence",
         "related:gsn.tdf.en",
-        "related:com.brave.merge"
+        "related:com.brave.merge",
+        "related:com.megacombat.clashoflegions"
       ]
     },
     {
@@ -108647,7 +111776,8 @@
         "related:com.pixelstar.GrowZombiesVIP",
         "related:com.mobirate.dacom",
         "related:net.ekgames.projectz",
-        "related:com.mega.priate.dice.rpg"
+        "related:com.mega.priate.dice.rpg",
+        "related:com.megacombat.clashoflegions"
       ]
     },
     {
@@ -112624,7 +115754,8 @@
         "related:com.Democrypt.coliseumbattle",
         "related:com.kingsbounty.turnbased.strategy.td",
         "related:com.statlex.ancientempirestrikeback",
-        "related:com.robinblood.cfh"
+        "related:com.robinblood.cfh",
+        "related:com.white.castle.grow.tower.defence.heroes.magic.defense.necromancer"
       ]
     },
     {
@@ -114057,7 +117188,8 @@
         "related:com.ChimpKo.DiamondBallsCave",
         "related:com.aetherion.bloodspire",
         "developer:7444082349552975784",
-        "related:com.dtacraft.collapsestate"
+        "related:com.dtacraft.collapsestate",
+        "related:com.demir.EnchantedTowersPremium"
       ]
     },
     {
@@ -114215,7 +117347,8 @@
         "related:com.cateia.mbattlesblack.android.free",
         "related:com.KonstantinAleksandrov.Sengoku",
         "related:com.wombi.coloniesatwar",
-        "related:hantro.tower.roguelike"
+        "related:hantro.tower.roguelike",
+        "related:com.white.castle.grow.tower.defence.heroes.magic.defense.necromancer"
       ]
     },
     {
@@ -114292,7 +117425,8 @@
         "related:com.DDSkunkworks.MiningEvolution",
         "related:com.Conquest.t.gp",
         "related:com.Arcane.t.gp",
-        "related:com.ColdDivision.MobileCommander"
+        "related:com.ColdDivision.MobileCommander",
+        "related:com.DeRRokStudio.SBA"
       ]
     },
     {
@@ -115158,7 +118292,8 @@
         "related:com.tortugateam.bravelandwizard",
         "related:com.gamehollywood.dk",
         "related:com.deviloper.dungeon.adventure.card.battle.survival",
-        "related:com.Democrypt.coliseumbattle"
+        "related:com.Democrypt.coliseumbattle",
+        "related:com.funigloo.pocketlegions"
       ]
     },
     {
@@ -115953,7 +119088,8 @@
       "discoveredVia": [
         "related:com.oxiwyle.modernagepremium",
         "developer:7151730596087969992",
-        "related:com.gentlemans.game"
+        "related:com.gentlemans.game",
+        "related:com.onlyfortress"
       ]
     },
     {
@@ -116286,7 +119422,9 @@
         "related:com.elitegamesltd.royaltree",
         "related:com.binbibong.pixelwarriors",
         "related:com.statlex.ancientempirestrikeback",
-        "related:app.worldorder.www.twa"
+        "related:app.worldorder.www.twa",
+        "related:com.white.castle.grow.tower.defence.heroes.magic.defense.necromancer",
+        "related:com.DeRRokStudio.SBA"
       ]
     },
     {
@@ -116535,7 +119673,8 @@
       "discoveredVia": [
         "related:com.threehp014.clash.combo.stickman.hero.puzzle.block",
         "related:com.ht2.stick.hero",
-        "related:com.ngv.clash.of.apes"
+        "related:com.ngv.clash.of.apes",
+        "related:com.divmob.impostor"
       ]
     },
     {
@@ -118817,7 +121956,8 @@
         "related:com.pixelbuf.idlehorizons.dev",
         "related:com.merge.plants.td.vs.zombies.flower.shooting.war.game",
         "related:com.gearwordapex.sfgame",
-        "related:com.DTeam.ElementalLaneDefense"
+        "related:com.DTeam.ElementalLaneDefense",
+        "related:com.megacombat.clashoflegions"
       ]
     },
     {
@@ -121408,7 +124548,8 @@
         "search:新作 タワーディフェンス 2025",
         "related:com.fs.td.rush.kingdomwarrior",
         "search:strategy steampunk tower 2025",
-        "search:strategy tower card battle 2025"
+        "search:strategy tower card battle 2025",
+        "related:com.ExabyteGames.FinalOutpostDE"
       ]
     },
     {
@@ -121689,7 +124830,8 @@
       "url": "https://play.google.com/store/apps/details?id=com.rsg.cjhwy&hl=en&gl=US",
       "discoveredVia": [
         "related:com.jedigames.ztsgnew.googleplay",
-        "related:com.SwellGames.IdleMonsterTDEvolved"
+        "related:com.SwellGames.IdleMonsterTDEvolved",
+        "related:com.divmob.autochess.heroesinfinity"
       ]
     },
     {
@@ -122691,7 +125833,8 @@
         "developer:4714161090550830056",
         "related:com.dragonest.autochessmini.google",
         "related:com.gamenauts.klo",
-        "related:com.wondersquad.weapon"
+        "related:com.wondersquad.weapon",
+        "related:com.DeRRokStudio.SBA"
       ]
     },
     {
@@ -125942,7 +129085,8 @@
         "related:com.vf.frozenwar",
         "developer:Xigma Games",
         "related:games.sonderland.landnama",
-        "related:com.shortcircuitstudio.TownsFolk"
+        "related:com.shortcircuitstudio.TownsFolk",
+        "related:com.ExabyteGames.FinalOutpost"
       ]
     },
     {
@@ -125972,7 +129116,8 @@
         "related:games.sonderland.landnama",
         "related:com.cornago.stefano.lapse",
         "related:studio.powerplay.tycoonwrapper",
-        "related:com.tenpercentred.biotix"
+        "related:com.tenpercentred.biotix",
+        "related:com.ExabyteGames.FinalOutpost"
       ]
     },
     {
@@ -127987,7 +131132,8 @@
         "related:com.dinogo.catarmy",
         "related:com.Ion.IdleTowerDefense",
         "search:strategy tower fusion defense",
-        "search:strategy castle fusion 2025"
+        "search:strategy castle fusion 2025",
+        "related:com.divmob.impostor"
       ]
     },
     {
@@ -130437,7 +133583,8 @@
       "genreId": "GAME_ROLE_PLAYING",
       "url": "https://play.google.com/store/apps/details?id=com.ynsh.en.google&hl=en&gl=US",
       "discoveredVia": [
-        "related:com.shg.sg433"
+        "related:com.shg.sg433",
+        "related:com.funigloo.pocketlegions"
       ]
     },
     {
@@ -130529,7 +133676,8 @@
       "genreId": "GAME_ROLE_PLAYING",
       "url": "https://play.google.com/store/apps/details?id=com.nhnent.SK10360&hl=en&gl=US",
       "discoveredVia": [
-        "related:com.tlive.onepiece"
+        "related:com.tlive.onepiece",
+        "related:com.divmob.autochess.heroesinfinity"
       ]
     },
     {
@@ -130592,7 +133740,8 @@
         "related:com.kurechii.tinyguardians",
         "related:com.kurechii.kingsleagueii",
         "developer:5438434099680543384",
-        "search:estratégia construção reino 2025"
+        "search:estratégia construção reino 2025",
+        "related:com.DeRRokStudio.SBA"
       ]
     },
     {
@@ -130646,7 +133795,8 @@
         "related:com.gamenauts.klo",
         "related:com.dreamplay.slaythetitan.google",
         "related:com.doghowlgames.pokeridler",
-        "related:com.homecookedgames.dungeontales"
+        "related:com.homecookedgames.dungeontales",
+        "related:com.DeRRokStudio.SBA"
       ]
     },
     {
@@ -132517,7 +135667,8 @@
       "discoveredVia": [
         "related:com.fiveminlab.overgeared.hero.backpack.merge",
         "related:com.ondi.fortias.defense",
-        "related:com.pixelbuf.idlehorizons.dev"
+        "related:com.pixelbuf.idlehorizons.dev",
+        "related:com.onlyfortress"
       ]
     },
     {
@@ -134992,7 +138143,8 @@
         "related:world.fly.corp",
         "related:io.state.fight",
         "related:com.quantumgames.skyscraper",
-        "related:com.raid.kingdom.capture"
+        "related:com.raid.kingdom.capture",
+        "related:com.DeRRokStudio.SBA"
       ]
     },
     {
@@ -135011,7 +138163,8 @@
         "related:world.fly.corp",
         "related:io.state.fight",
         "related:com.quantumgames.skyscraper",
-        "related:com.raid.kingdom.capture"
+        "related:com.raid.kingdom.capture",
+        "related:com.DeRRokStudio.SBA"
       ]
     },
     {
@@ -135049,7 +138202,8 @@
         "related:world.fly.corp",
         "related:io.state.fight",
         "related:com.quantumgames.skyscraper",
-        "related:com.raid.kingdom.capture"
+        "related:com.raid.kingdom.capture",
+        "related:com.DeRRokStudio.SBA"
       ]
     },
     {
@@ -135279,7 +138433,8 @@
       "genreId": "GAME_ARCADE",
       "url": "https://play.google.com/store/apps/details?id=hero.claw.master&hl=en&gl=US",
       "discoveredVia": [
-        "developer:8232174611457920989"
+        "developer:8232174611457920989",
+        "related:com.DeRRokStudio.SBA"
       ]
     },
     {
@@ -135304,7 +138459,8 @@
       "url": "https://play.google.com/store/apps/details?id=com.game.foldpuzzle&hl=en&gl=US",
       "discoveredVia": [
         "developer:8232174611457920989",
-        "related:com.raid.kingdom.capture"
+        "related:com.raid.kingdom.capture",
+        "related:com.DeRRokStudio.SBA"
       ]
     },
     {
@@ -144260,7 +147416,8 @@
       "discoveredVia": [
         "related:com.fansipan.nightfall.tower.simulation.strategy.td.game",
         "developer:7752608683054605616",
-        "search:strategy arena summoner 2026"
+        "search:strategy arena summoner 2026",
+        "related:com.divmob.heroesinfinity"
       ]
     },
     {
@@ -144273,7 +147430,8 @@
       "url": "https://play.google.com/store/apps/details?id=com.stickman.monster.epic.stickman.war.shadow.idle.game&hl=en&gl=US",
       "discoveredVia": [
         "related:com.fansipan.nightfall.tower.simulation.strategy.td.game",
-        "developer:7752608683054605616"
+        "developer:7752608683054605616",
+        "related:com.divmob.heroesinfinity"
       ]
     },
     {
@@ -154512,7 +157670,8 @@
       "url": "https://play.google.com/store/apps/details?id=studiowolfire.hollowlight&hl=en&gl=US",
       "discoveredVia": [
         "related:com.dtacraft.collapsestate",
-        "related:com.gearwordapex.sfgame"
+        "related:com.gearwordapex.sfgame",
+        "related:com.demir.EnchantedTowersPremium"
       ]
     },
     {
@@ -154551,7 +157710,8 @@
       "discoveredVia": [
         "related:com.dtacraft.collapsestate",
         "related:com.dtacraft.deadhandprotocol",
-        "related:hantro.tower.roguelike"
+        "related:hantro.tower.roguelike",
+        "related:com.demir.EnchantedTowersPremium"
       ]
     },
     {
@@ -155201,7 +158361,8 @@
         "related:com.happyuniverse.pub.zjdg",
         "related:com.PyraMidGames.PyramidTowerDefense",
         "related:com.dyhd.slg01.pennew",
-        "related:com.statlex.ancientempires"
+        "related:com.statlex.ancientempires",
+        "related:com.white.castle.grow.tower.defence.heroes.magic.defense.necromancer"
       ]
     },
     {
@@ -155678,7 +158839,11 @@
         "related:net.hexage.defense",
         "related:busidol.atv2.tower",
         "related:busidol.mobile.eldorado",
-        "related:busidol.atv2.eldorado"
+        "related:busidol.atv2.eldorado",
+        "related:com.divmob.impostor",
+        "related:com.divmob.autochess.heroesinfinity",
+        "related:com.divmob.heroesinfinity",
+        "developer:8029000350509758753"
       ]
     },
     {
@@ -159515,7 +162680,8 @@
       "discoveredVia": [
         "related:terron.io",
         "related:com.gear.fortress.battle.defenders",
-        "related:com.rtsoutpost.game"
+        "related:com.rtsoutpost.game",
+        "related:com.megacombat.clashoflegions"
       ]
     },
     {
@@ -168716,7 +171882,8 @@
       "genreId": "GAME_ADVENTURE",
       "url": "https://play.google.com/store/apps/details?id=com.dionous.moss52&hl=en&gl=US",
       "discoveredVia": [
-        "related:com.SCPTD"
+        "related:com.SCPTD",
+        "related:com.demir.EnchantedTowersPremium"
       ]
     },
     {
@@ -178155,7 +181322,10 @@
       "genreId": "GAME_ROLE_PLAYING",
       "url": "https://play.google.com/store/apps/details?id=com.megacombat.treasurehunter&hl=en&gl=US",
       "discoveredVia": [
-        "related:com.nexus.frostkingdom"
+        "related:com.nexus.frostkingdom",
+        "related:com.megacombat.clashoflegions",
+        "developer:7364063264686244092",
+        "related:com.onlyfortress"
       ]
     },
     {
@@ -186627,7 +189797,8 @@
       "discoveredVia": [
         "related:com.bd.bdpirate",
         "related:busidol.mobile.tower",
-        "search:strategy monster summoner 2025"
+        "search:strategy monster summoner 2025",
+        "related:com.divmob.autochess.heroesinfinity"
       ]
     },
     {
@@ -190251,7 +193422,11 @@
       "url": "https://play.google.com/store/apps/details?id=com.divmob.ageofheroes.braveheroes.battleheroes.epicheroeswar.epicheroes.en&hl=en&gl=US",
       "discoveredVia": [
         "related:busidol.atv2.tower",
-        "related:busidol.atv2.eldorado"
+        "related:busidol.atv2.eldorado",
+        "related:com.divmob.impostor",
+        "related:com.divmob.autochess.heroesinfinity",
+        "related:com.divmob.heroesinfinity",
+        "developer:8029000350509758753"
       ]
     },
     {
@@ -205674,7 +208849,8 @@
       "genreId": "GAME_ACTION",
       "url": "https://play.google.com/store/apps/details?id=com.unimob.undead.city.premium&hl=en&gl=US",
       "discoveredVia": [
-        "related:com.unicostudio.minerfighters"
+        "related:com.unicostudio.minerfighters",
+        "related:com.divmob.autochess.heroesinfinity"
       ]
     },
     {
@@ -213952,7 +217128,8 @@
       "genreId": "GAME_ACTION",
       "url": "https://play.google.com/store/apps/details?id=com.gsm.overdrivepremium&hl=en&gl=US",
       "discoveredVia": [
-        "related:com.snowgames.seoulexorcist1111"
+        "related:com.snowgames.seoulexorcist1111",
+        "related:com.divmob.autochess.heroesinfinity"
       ]
     },
     {
@@ -255278,6 +258455,503 @@
       "url": "https://play.google.com/store/apps/details?id=com.blitwise.puzzle&hl=en&gl=US",
       "discoveredVia": [
         "developer:BlitWise Productions, LLC"
+      ]
+    },
+    {
+      "id": "com.BitLogicGames.BricksLaser",
+      "title": "Laser Breaker",
+      "decision": "not-strategy",
+      "released": "Oct 13, 2024",
+      "genre": "Puzzle",
+      "genreId": "GAME_PUZZLE",
+      "url": "https://play.google.com/store/apps/details?id=com.BitLogicGames.BricksLaser&hl=en&gl=US",
+      "discoveredVia": [
+        "related:com.BitLogicGames.CaravanKingdomIdle",
+        "developer:BitLogicGames"
+      ]
+    },
+    {
+      "id": "com.BitLogicGames.BrickBreaker3D",
+      "title": "BrickBreaker 3D!",
+      "decision": "not-strategy",
+      "released": "Nov 7, 2023",
+      "genre": "Arcade",
+      "genreId": "GAME_ARCADE",
+      "url": "https://play.google.com/store/apps/details?id=com.BitLogicGames.BrickBreaker3D&hl=en&gl=US",
+      "discoveredVia": [
+        "related:com.BitLogicGames.CaravanKingdomIdle",
+        "developer:BitLogicGames"
+      ]
+    },
+    {
+      "id": "com.CedricCadeau.BallChaos",
+      "title": "Ball Chaos!",
+      "decision": "not-strategy",
+      "released": "May 20, 2019",
+      "genre": "Arcade",
+      "genreId": "GAME_ARCADE",
+      "url": "https://play.google.com/store/apps/details?id=com.CedricCadeau.BallChaos&hl=en&gl=US",
+      "discoveredVia": [
+        "related:com.BitLogicGames.CaravanKingdomIdle",
+        "developer:BitLogicGames"
+      ]
+    },
+    {
+      "id": "com.CedricCompany.VerticalShooter",
+      "title": "WorldEater",
+      "decision": "not-strategy",
+      "released": "Dec 22, 2018",
+      "genre": "Action",
+      "genreId": "GAME_ACTION",
+      "url": "https://play.google.com/store/apps/details?id=com.CedricCompany.VerticalShooter&hl=en&gl=US",
+      "discoveredVia": [
+        "related:com.BitLogicGames.CaravanKingdomIdle",
+        "developer:BitLogicGames"
+      ]
+    },
+    {
+      "id": "com.white.castle.grow.tower.defence.heroes.magic.defense.necromancer",
+      "title": "Necromancer vs Castle Crashers",
+      "decision": "outside-window",
+      "released": "Jun 5, 2023",
+      "genre": "Strategy",
+      "genreId": "GAME_STRATEGY",
+      "url": "https://play.google.com/store/apps/details?id=com.white.castle.grow.tower.defence.heroes.magic.defense.necromancer&hl=en&gl=US",
+      "discoveredVia": [
+        "developer:Galactic1"
+      ]
+    },
+    {
+      "id": "com.BitLogicGames.CaravanKingdomIdle",
+      "title": "Caravan Kingdom Idle",
+      "decision": "outside-window",
+      "released": "Nov 30, 2023",
+      "genre": "Strategy",
+      "genreId": "GAME_STRATEGY",
+      "url": "https://play.google.com/store/apps/details?id=com.BitLogicGames.CaravanKingdomIdle&hl=en&gl=US",
+      "discoveredVia": [
+        "developer:BitLogicGames"
+      ]
+    },
+    {
+      "id": "com.divmob.autochess.heroesinfinity",
+      "title": "Heroes Infinity Premium",
+      "decision": "outside-window",
+      "released": "Jan 14, 2020",
+      "genre": "Strategy",
+      "genreId": "GAME_STRATEGY",
+      "url": "https://play.google.com/store/apps/details?id=com.divmob.autochess.heroesinfinity&hl=en&gl=US",
+      "discoveredVia": [
+        "related:com.divmob.impostor",
+        "related:com.divmob.heroesinfinity",
+        "developer:8029000350509758753"
+      ]
+    },
+    {
+      "id": "com.divmob.heroesinfinity",
+      "title": "Heroes Infinity: Super Heroes",
+      "decision": "outside-window",
+      "released": "May 9, 2017",
+      "genre": "Strategy",
+      "genreId": "GAME_STRATEGY",
+      "url": "https://play.google.com/store/apps/details?id=com.divmob.heroesinfinity&hl=en&gl=US",
+      "discoveredVia": [
+        "related:com.divmob.impostor",
+        "related:com.divmob.autochess.heroesinfinity",
+        "developer:8029000350509758753"
+      ]
+    },
+    {
+      "id": "com.funigloo.android.sharing.hero",
+      "title": "Ragnarok Sharing Hero",
+      "decision": "not-strategy",
+      "released": "Mar 23, 2026",
+      "genre": "Role Playing",
+      "genreId": "GAME_ROLE_PLAYING",
+      "url": "https://play.google.com/store/apps/details?id=com.funigloo.android.sharing.hero&hl=en&gl=US",
+      "discoveredVia": [
+        "related:com.funigloo.pocketlegions",
+        "developer:8091849572721340021"
+      ]
+    },
+    {
+      "id": "com.divmob.impostor",
+      "title": "Legions War: Art of Strategy",
+      "decision": "outside-window",
+      "released": "Aug 27, 2021",
+      "genre": "Strategy",
+      "genreId": "GAME_STRATEGY",
+      "url": "https://play.google.com/store/apps/details?id=com.divmob.impostor&hl=en&gl=US",
+      "discoveredVia": [
+        "related:com.divmob.autochess.heroesinfinity",
+        "related:com.divmob.heroesinfinity",
+        "developer:8029000350509758753"
+      ]
+    },
+    {
+      "id": "com.song.rpg.en.an",
+      "title": "Realm of the Immortal",
+      "decision": "not-strategy",
+      "released": "Aug 19, 2025",
+      "genre": "Role Playing",
+      "genreId": "GAME_ROLE_PLAYING",
+      "url": "https://play.google.com/store/apps/details?id=com.song.rpg.en.an&hl=en&gl=US",
+      "discoveredVia": [
+        "related:com.divmob.heroesinfinity"
+      ]
+    },
+    {
+      "id": "com.strategy.army.games.tank.war",
+      "title": "Strategy Overlords: War PvP",
+      "decision": "included",
+      "released": "Feb 22, 2025",
+      "genre": "Strategy",
+      "genreId": "GAME_STRATEGY",
+      "url": "https://play.google.com/store/apps/details?id=com.strategy.army.games.tank.war&hl=en&gl=US",
+      "discoveredVia": [
+        "developer:6473954602164201461"
+      ]
+    },
+    {
+      "id": "com.funigloo.pocketlegions",
+      "title": "Pocket Legions",
+      "decision": "included",
+      "released": "Jun 17, 2026",
+      "genre": "Strategy",
+      "genreId": "GAME_STRATEGY",
+      "url": "https://play.google.com/store/apps/details?id=com.funigloo.pocketlegions&hl=en&gl=US",
+      "discoveredVia": [
+        "developer:8091849572721340021"
+      ]
+    },
+    {
+      "id": "com.otbs.ae2021.app",
+      "title": "Ancient Empires: 2021 Edition",
+      "decision": "outside-window",
+      "released": "Mar 10, 2024",
+      "genre": "Strategy",
+      "genreId": "GAME_STRATEGY",
+      "url": "https://play.google.com/store/apps/details?id=com.otbs.ae2021.app&hl=en&gl=US",
+      "discoveredVia": [
+        "developer:Taras Hupalo Th"
+      ]
+    },
+    {
+      "id": "com.megacombat.clashoflegions",
+      "title": "Clash of Legions",
+      "decision": "outside-window",
+      "released": "Nov 23, 2020",
+      "genre": "Strategy",
+      "genreId": "GAME_STRATEGY",
+      "url": "https://play.google.com/store/apps/details?id=com.megacombat.clashoflegions&hl=en&gl=US",
+      "discoveredVia": [
+        "developer:7364063264686244092"
+      ]
+    },
+    {
+      "id": "com.skyisland.mergesoldier.td.backpack.rush",
+      "title": "Combo Legion",
+      "decision": "included",
+      "released": "Apr 7, 2025",
+      "genre": "Strategy",
+      "genreId": "GAME_STRATEGY",
+      "url": "https://play.google.com/store/apps/details?id=com.skyisland.mergesoldier.td.backpack.rush&hl=en&gl=US",
+      "discoveredVia": [
+        "developer:Starship Studios"
+      ]
+    },
+    {
+      "id": "com.SingleStar.FarmerVsZombies2",
+      "title": "Zombie Farm:Ghost Survivor",
+      "decision": "not-strategy",
+      "released": "Nov 18, 2022",
+      "genre": "Adventure",
+      "genreId": "GAME_ADVENTURE",
+      "url": "https://play.google.com/store/apps/details?id=com.SingleStar.FarmerVsZombies2&hl=en&gl=US",
+      "discoveredVia": [
+        "developer:Starship Studios"
+      ]
+    },
+    {
+      "id": "com.td.lightstrategy.neversoft",
+      "title": "NeverSoft",
+      "decision": "included",
+      "released": "Feb 6, 2026",
+      "genre": "Strategy",
+      "genreId": "GAME_STRATEGY",
+      "url": "https://play.google.com/store/apps/details?id=com.td.lightstrategy.neversoft&hl=en&gl=US",
+      "discoveredVia": [
+        "developer:Starship Studios"
+      ]
+    },
+    {
+      "id": "com.conradmafer.priestrunner",
+      "title": "Priest Runner",
+      "decision": "not-strategy",
+      "released": "Aug 22, 2026",
+      "genre": "Role Playing",
+      "genreId": "GAME_ROLE_PLAYING",
+      "url": "https://play.google.com/store/apps/details?id=com.conradmafer.priestrunner&hl=en&gl=US",
+      "discoveredVia": [
+        "related:com.conradmafer.aliencolonies",
+        "developer:6952704418524912006"
+      ]
+    },
+    {
+      "id": "com.conradmafer.aliencolonies",
+      "title": "Alien Colonies",
+      "decision": "included",
+      "released": "Oct 9, 2026",
+      "genre": "Strategy",
+      "genreId": "GAME_STRATEGY",
+      "url": "https://play.google.com/store/apps/details?id=com.conradmafer.aliencolonies&hl=en&gl=US",
+      "discoveredVia": [
+        "developer:6952704418524912006"
+      ]
+    },
+    {
+      "id": "com.dmr.IdleSoccerManager",
+      "title": "Idle Soccer Manager",
+      "decision": "not-strategy",
+      "released": "Oct 8, 2026",
+      "genre": "Sports",
+      "genreId": "GAME_SPORTS",
+      "url": "https://play.google.com/store/apps/details?id=com.dmr.IdleSoccerManager&hl=en&gl=US",
+      "discoveredVia": [
+        "related:com.demir.EnchantedTowers",
+        "related:com.demir.ilkbeylik",
+        "related:com.demir.EnchantedTowersPremium",
+        "related:com.demir.UndergroundHeroesPremium",
+        "developer:7948113184736567512"
+      ]
+    },
+    {
+      "id": "com.demir.ilkbeylik",
+      "title": "Wyrdgeard: Medieval TD",
+      "decision": "included",
+      "released": "Jul 29, 2026",
+      "genre": "Strategy",
+      "genreId": "GAME_STRATEGY",
+      "url": "https://play.google.com/store/apps/details?id=com.demir.ilkbeylik&hl=en&gl=US",
+      "discoveredVia": [
+        "related:com.demir.EnchantedTowers",
+        "related:com.demir.EnchantedTowersPremium",
+        "related:com.demir.UndergroundHeroesPremium",
+        "developer:7948113184736567512"
+      ]
+    },
+    {
+      "id": "com.demir.EnchantedTowersPremium",
+      "title": "Enchanted Tower Premium",
+      "decision": "included",
+      "released": "Jan 30, 2026",
+      "genre": "Strategy",
+      "genreId": "GAME_STRATEGY",
+      "url": "https://play.google.com/store/apps/details?id=com.demir.EnchantedTowersPremium&hl=en&gl=US",
+      "discoveredVia": [
+        "related:com.demir.EnchantedTowers",
+        "related:com.demir.ilkbeylik",
+        "related:com.demir.UndergroundHeroesPremium",
+        "developer:7948113184736567512"
+      ]
+    },
+    {
+      "id": "com.Demir.VikingQuest",
+      "title": "Viking's Quest: Part 1",
+      "decision": "not-strategy",
+      "released": "Dec 27, 2025",
+      "genre": "Action",
+      "genreId": "GAME_ACTION",
+      "url": "https://play.google.com/store/apps/details?id=com.Demir.VikingQuest&hl=en&gl=US",
+      "discoveredVia": [
+        "related:com.demir.EnchantedTowers",
+        "related:com.demir.ilkbeylik",
+        "related:com.demir.EnchantedTowersPremium",
+        "related:com.demir.UndergroundHeroesPremium",
+        "developer:7948113184736567512"
+      ]
+    },
+    {
+      "id": "com.Demir.HomeClicker",
+      "title": "Home Decor Clicker",
+      "decision": "not-strategy",
+      "released": "Dec 15, 2025",
+      "genre": "Arcade",
+      "genreId": "GAME_ARCADE",
+      "url": "https://play.google.com/store/apps/details?id=com.Demir.HomeClicker&hl=en&gl=US",
+      "discoveredVia": [
+        "related:com.demir.EnchantedTowers",
+        "related:com.demir.ilkbeylik",
+        "related:com.demir.EnchantedTowersPremium",
+        "related:com.demir.UndergroundHeroesPremium",
+        "developer:7948113184736567512"
+      ]
+    },
+    {
+      "id": "com.demir.UndergroundHeroesPremium",
+      "title": "Deep Heroes Tower: TD Premium",
+      "decision": "included",
+      "released": "Aug 23, 2025",
+      "genre": "Strategy",
+      "genreId": "GAME_STRATEGY",
+      "url": "https://play.google.com/store/apps/details?id=com.demir.UndergroundHeroesPremium&hl=en&gl=US",
+      "discoveredVia": [
+        "related:com.demir.EnchantedTowers",
+        "related:com.demir.ilkbeylik",
+        "related:com.demir.EnchantedTowersPremium",
+        "developer:7948113184736567512"
+      ]
+    },
+    {
+      "id": "com.demir.EnchantedTowers",
+      "title": "Enchanted Tower: Strategy TD",
+      "decision": "included",
+      "released": "Nov 28, 2025",
+      "genre": "Strategy",
+      "genreId": "GAME_STRATEGY",
+      "url": "https://play.google.com/store/apps/details?id=com.demir.EnchantedTowers&hl=en&gl=US",
+      "discoveredVia": [
+        "related:com.demir.ilkbeylik",
+        "related:com.demir.EnchantedTowersPremium",
+        "related:com.demir.UndergroundHeroesPremium",
+        "developer:7948113184736567512"
+      ]
+    },
+    {
+      "id": "com.inellipse.alter",
+      "title": "Alter: Echo",
+      "decision": "not-strategy",
+      "released": "Mar 27, 2026",
+      "genre": "Adventure",
+      "genreId": "GAME_ADVENTURE",
+      "url": "https://play.google.com/store/apps/details?id=com.inellipse.alter&hl=en&gl=US",
+      "discoveredVia": [
+        "related:com.demir.EnchantedTowersPremium"
+      ]
+    },
+    {
+      "id": "com.demir.FootballCity",
+      "title": "Football Clicker City: Premium",
+      "decision": "not-strategy",
+      "released": "Aug 7, 2025",
+      "genre": "Sports",
+      "genreId": "GAME_SPORTS",
+      "url": "https://play.google.com/store/apps/details?id=com.demir.FootballCity&hl=en&gl=US",
+      "discoveredVia": [
+        "developer:7948113184736567512"
+      ]
+    },
+    {
+      "id": "com.demir.FootballClicker",
+      "title": "Football Clicker: Soccer Star",
+      "decision": "not-strategy",
+      "released": "Jun 28, 2024",
+      "genre": "Sports",
+      "genreId": "GAME_SPORTS",
+      "url": "https://play.google.com/store/apps/details?id=com.demir.FootballClicker&hl=en&gl=US",
+      "discoveredVia": [
+        "developer:7948113184736567512"
+      ]
+    },
+    {
+      "id": "com.onlyfortress",
+      "title": "Only Fortress: Wizard Strategy",
+      "decision": "outside-window",
+      "released": "Sep 9, 2023",
+      "genre": "Strategy",
+      "genreId": "GAME_STRATEGY",
+      "url": "https://play.google.com/store/apps/details?id=com.onlyfortress&hl=en&gl=US",
+      "discoveredVia": [
+        "developer:Only Fort"
+      ]
+    },
+    {
+      "id": "com.ExabyteGames.FinalOutpostDE",
+      "title": "Final Outpost: Definitive",
+      "decision": "included",
+      "released": "Jun 12, 2025",
+      "genre": "Strategy",
+      "genreId": "GAME_STRATEGY",
+      "url": "https://play.google.com/store/apps/details?id=com.ExabyteGames.FinalOutpostDE&hl=en&gl=US",
+      "discoveredVia": [
+        "related:com.ExabyteGames.FinalOutpost",
+        "developer:6804136225806777528"
+      ]
+    },
+    {
+      "id": "com.singularity.outpost",
+      "title": "Outpost 4: Dead Frontier",
+      "decision": "included",
+      "released": "Sep 18, 2026",
+      "genre": "Strategy",
+      "genreId": "GAME_STRATEGY",
+      "url": "https://play.google.com/store/apps/details?id=com.singularity.outpost&hl=en&gl=US",
+      "discoveredVia": [
+        "developer:7039705692956441359"
+      ]
+    },
+    {
+      "id": "com.spotlightdreams.app",
+      "title": "Spotlight Dreams: Actor Life",
+      "decision": "not-strategy",
+      "released": "Apr 27, 2026",
+      "genre": "Simulation",
+      "genreId": "GAME_SIMULATION",
+      "url": "https://play.google.com/store/apps/details?id=com.spotlightdreams.app&hl=en&gl=US",
+      "discoveredVia": [
+        "related:com.empirewake.app",
+        "developer:8420686417087783905"
+      ]
+    },
+    {
+      "id": "com.downfallsurvivalsim.app",
+      "title": "Downfall Survival Sim",
+      "decision": "not-strategy",
+      "released": "Jul 25, 2026",
+      "genre": "Simulation",
+      "genreId": "GAME_SIMULATION",
+      "url": "https://play.google.com/store/apps/details?id=com.downfallsurvivalsim.app&hl=en&gl=US",
+      "discoveredVia": [
+        "related:com.empirewake.app",
+        "developer:8420686417087783905"
+      ]
+    },
+    {
+      "id": "com.mogulempiretycoon.app",
+      "title": "MOGUL - Empire Tycoon Sim",
+      "decision": "not-strategy",
+      "released": "Jul 16, 2026",
+      "genre": "Simulation",
+      "genreId": "GAME_SIMULATION",
+      "url": "https://play.google.com/store/apps/details?id=com.mogulempiretycoon.app&hl=en&gl=US",
+      "discoveredVia": [
+        "related:com.empirewake.app",
+        "developer:8420686417087783905"
+      ]
+    },
+    {
+      "id": "com.ExabyteGames.FinalOutpost",
+      "title": "Final Outpost",
+      "decision": "outside-window",
+      "released": "Jul 30, 2021",
+      "genre": "Strategy",
+      "genreId": "GAME_STRATEGY",
+      "url": "https://play.google.com/store/apps/details?id=com.ExabyteGames.FinalOutpost&hl=en&gl=US",
+      "discoveredVia": [
+        "related:com.ExabyteGames.FinalOutpostDE",
+        "developer:6804136225806777528"
+      ]
+    },
+    {
+      "id": "com.empirewake.app",
+      "title": "Empirewake: Kingdoms at War",
+      "decision": "included",
+      "released": "Sep 21, 2026",
+      "genre": "Strategy",
+      "genreId": "GAME_STRATEGY",
+      "url": "https://play.google.com/store/apps/details?id=com.empirewake.app&hl=en&gl=US",
+      "discoveredVia": [
+        "developer:8420686417087783905"
       ]
     }
   ],

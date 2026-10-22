@@ -186,6 +186,66 @@
     "iconSourceUrl": "https://play-lh.googleusercontent.com/9Ez__fSajuJcQ9pWh-Jzn2ySMpIcafg4zJ_nbqYIPC1RC0lQU-RUSztvjCutTMlLhisipK4YqwKEkNO_KuPN3A"
   },
   {
+    "minInstalls": 1000,
+    "installEvidence": {
+      "minInstalls": 1000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.conradmafer.aliencolonies&hl=en&gl=US",
+      "fetchedAt": "2026-10-22T14:44:57.226Z"
+    },
+    "id": "com.conradmafer.aliencolonies",
+    "title": "Alien Colonies",
+    "subtitle": "Build an alien empire, expand across galaxies, research tech and command fleets.",
+    "description": "Build an alien empire, expand across galaxies, research tech and command fleets.",
+    "overviewEn": "Build an alien empire, expand across galaxies, research tech and command fleets.",
+    "genre": "Strategy",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "In-app purchases"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "conradmafer",
+    "ads": null,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.conradmafer.aliencolonies&hl=en&gl=US",
+    "fetchedAt": "2026-10-22T14:44:57.226Z",
+    "sourceDate": "2026-10-22",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-10-09",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Oct 9, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.conradmafer.aliencolonies&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/Sidm3g9ST9TymcRwKnJYfZtX85D6fFHffx_r4e1q_ZHsLSkIVKHvnsOQqLD5TpbrNlUXEIjk497E-bwlRZovqXE"
+  },
+  {
     "minInstalls": 10,
     "installEvidence": {
       "minInstalls": 10,
@@ -3714,6 +3774,66 @@
     "iconSourceUrl": "https://play-lh.googleusercontent.com/k32qtlY2Vj3uEAKJbalao-v7Tu1kCOsxTdoPZKyE2GufpbjAaV1VfA4R5yrcrkP96c1CUitSVE-dVvoViQYE"
   },
   {
+    "minInstalls": 5000,
+    "installEvidence": {
+      "minInstalls": 5000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.empirewake.app&hl=en&gl=US",
+      "fetchedAt": "2026-10-22T16:14:54.414Z"
+    },
+    "id": "com.empirewake.app",
+    "title": "Empirewake: Kingdoms at War",
+    "subtitle": "Build your kingdom, lead heroes and explore a shared fantasy world with allies.",
+    "description": "Build your kingdom, lead heroes and explore a shared fantasy world with allies.",
+    "overviewEn": "Build your kingdom, lead heroes and explore a shared fantasy world with allies.",
+    "genre": "Strategy",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "In-app purchases"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "XXI Online Games",
+    "ads": null,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.empirewake.app&hl=en&gl=US",
+    "fetchedAt": "2026-10-22T16:14:54.414Z",
+    "sourceDate": "2026-10-22",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-09-21",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Sep 21, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.empirewake.app&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/hJV4Ne7JZe70jkwfiZWg66qcsbB7WjqzQX8TpbExTNAxcvxNTrbkE2Gb2PfOVMdhUtx1ASsC25J5u_XL4eLkRDk"
+  },
+  {
     "minInstalls": 10000,
     "installEvidence": {
       "minInstalls": 10000,
@@ -4360,6 +4480,60 @@
     "catalog": "recent",
     "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
     "iconSourceUrl": "https://play-lh.googleusercontent.com/R3pOHJDcv2_NgZ8XiyWf0iCehKdllHz32lV4MDiYQAPXVO_cOoZmn1KP0tNxcl3akkNHah5WTgyXA3KAGMWd"
+  },
+  {
+    "minInstalls": 10,
+    "installEvidence": {
+      "minInstalls": 10,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.singularity.outpost&hl=en&gl=US",
+      "fetchedAt": "2026-10-22T16:14:51.748Z"
+    },
+    "id": "com.singularity.outpost",
+    "title": "Outpost 4: Dead Frontier",
+    "subtitle": "Gather resources, upgrade technology, unlock weapons, and defeat monsters.",
+    "description": "Gather resources, upgrade technology, unlock weapons, and defeat monsters.",
+    "overviewEn": "Gather resources, upgrade technology, unlock weapons, and defeat monsters.",
+    "genre": "Strategy",
+    "world": "",
+    "tags": [
+      "Paid download",
+      "Android"
+    ],
+    "evidence": [
+      {
+        "tag": "Paid download",
+        "basis": "Google Play price",
+        "excerpt": "USD 2.99"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      }
+    ],
+    "price": "Paid download",
+    "priceValue": 2.99,
+    "priceCurrency": "USD",
+    "priceDisplay": "US$2.99",
+    "developer": "7dgame",
+    "ads": null,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.singularity.outpost&hl=en&gl=US",
+    "fetchedAt": "2026-10-22T16:14:51.748Z",
+    "sourceDate": "2026-10-22",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-09-18",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Sep 18, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.singularity.outpost&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/4sYoBzvOx_xZ_AXOYwy4ai8SkUEpOFQYn4Gm4CB80Sc7iIVuX0k3IU8MYurgEmOZ8n2nRU2bx7zb9EoZLsJa"
   },
   {
     "minInstalls": 50,
@@ -12996,6 +13170,66 @@
     "iconSourceUrl": "https://play-lh.googleusercontent.com/GD0X4hwSbXYAQGvrEqCSK7NcQh1JWd-SybLHOfHFl-92QtYtbydrZz_pV3nRbDeWW710VtuGzE-m8tr7UP9B"
   },
   {
+    "minInstalls": 10,
+    "installEvidence": {
+      "minInstalls": 10,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.demir.ilkbeylik&hl=en&gl=US",
+      "fetchedAt": "2026-10-22T15:29:56.835Z"
+    },
+    "id": "com.demir.ilkbeylik",
+    "title": "Wyrdgeard: Medieval TD",
+    "subtitle": "Build, defend, conquer. A Saxon village survival strategy against Vikings.",
+    "description": "Build, defend, conquer. A Saxon village survival strategy against Vikings.",
+    "overviewEn": "Build, defend, conquer. A Saxon village survival strategy against Vikings.",
+    "genre": "Strategy",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "SKAARA",
+    "ads": true,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.demir.ilkbeylik&hl=en&gl=US",
+    "fetchedAt": "2026-10-22T15:29:56.835Z",
+    "sourceDate": "2026-10-22",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-07-29",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Jul 29, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.demir.ilkbeylik&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/6_jWqEQvUznc6sV5LEPZwu5GA96o8TRC_F4bj_jJwlDbGqb7I-ubnIzr1FlKVzlaqWydISE77T2EQHOHV4dueQ"
+  },
+  {
     "minInstalls": 1000,
     "installEvidence": {
       "minInstalls": 1000,
@@ -16941,6 +17175,78 @@
     "minInstalls": 10000,
     "installEvidence": {
       "minInstalls": 10000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.DeRRokStudio.SBA&hl=en&gl=US",
+      "fetchedAt": "2026-10-22T15:29:52.580Z"
+    },
+    "id": "com.DeRRokStudio.SBA",
+    "title": "Space Battle Arena: RTS",
+    "subtitle": "Space RTS: build your fleet, gather resources, crush the citadel",
+    "description": "Space RTS: build your fleet, gather resources, crush the citadel",
+    "overviewEn": "Space RTS: build your fleet, gather resources, crush the citadel",
+    "genre": "Real-time",
+    "world": "",
+    "tags": [
+      "Real-time",
+      "Free download",
+      "Android",
+      "Contains ads",
+      "In-app purchases"
+    ],
+    "evidence": [
+      {
+        "tag": "Real-time",
+        "basis": "Developer summary keyword mapping",
+        "excerpt": "Space RTS: build your fleet, gather resources, crush the citadel"
+      },
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "CASUAL AZUR GAMES",
+    "ads": true,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.DeRRokStudio.SBA&hl=en&gl=US",
+    "fetchedAt": "2026-10-22T15:29:52.580Z",
+    "sourceDate": "2026-10-22",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-07-04",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Jul 4, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.DeRRokStudio.SBA&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/W9h2L3DQsaDqo83ZrmjVGgagCT38z697wrXKDe48JJpoY14lkmmmwWSZGWRu1VwPVRfzWJhmaAXuQ6WG230GFQ"
+  },
+  {
+    "minInstalls": 10000,
+    "installEvidence": {
+      "minInstalls": 10000,
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.tripledot.capydoku&hl=en&gl=US",
       "fetchedAt": "2026-10-12T08:20:43.110Z"
     },
@@ -19480,6 +19786,66 @@
     "catalog": "recent",
     "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
     "iconSourceUrl": "https://play-lh.googleusercontent.com/36jM55f79l-xTQLtYbVnLlkxQR6EEqNH_aqrVaSOy4ZDbhuA9wFbPAD74ID12dAaV8EpSS94VpDYcXvJumo"
+  },
+  {
+    "minInstalls": 10000,
+    "installEvidence": {
+      "minInstalls": 10000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.funigloo.pocketlegions&hl=en&gl=US",
+      "fetchedAt": "2026-10-22T14:02:55.276Z"
+    },
+    "id": "com.funigloo.pocketlegions",
+    "title": "Pocket Legions",
+    "subtitle": "Command your legions and conquer strategic battles in the Roman world.",
+    "description": "Command your legions and conquer strategic battles in the Roman world.",
+    "overviewEn": "Command your legions and conquer strategic battles in the Roman world.",
+    "genre": "Strategy",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "In-app purchases"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Funigloo",
+    "ads": null,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.funigloo.pocketlegions&hl=en&gl=US",
+    "fetchedAt": "2026-10-22T14:02:55.276Z",
+    "sourceDate": "2026-10-22",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-06-17",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Jun 17, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.funigloo.pocketlegions&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/Be0IQbzZVeCiN7y_I8ZrMaVN4BxQXxjI2pHKmV15cZUIWbEO0yNIt0dkK_pbOTubUX2yxWq0SuL3PdltUsMv9w"
   },
   {
     "minInstalls": 50,
@@ -34605,6 +34971,78 @@
     "minInstalls": 500,
     "installEvidence": {
       "minInstalls": 500,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.td.lightstrategy.neversoft&hl=en&gl=US",
+      "fetchedAt": "2026-10-22T14:03:05.860Z"
+    },
+    "id": "com.td.lightstrategy.neversoft",
+    "title": "NeverSoft",
+    "subtitle": "Strategic tower defense with traps and heroes.",
+    "description": "Strategic tower defense with traps and heroes.",
+    "overviewEn": "Strategic tower defense with traps and heroes.",
+    "genre": "Tower defense",
+    "world": "",
+    "tags": [
+      "Tower defense",
+      "Free download",
+      "Android",
+      "Contains ads",
+      "In-app purchases"
+    ],
+    "evidence": [
+      {
+        "tag": "Tower defense",
+        "basis": "Developer summary keyword mapping",
+        "excerpt": "Strategic tower defense with traps and heroes."
+      },
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Starship Studios",
+    "ads": true,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.td.lightstrategy.neversoft&hl=en&gl=US",
+    "fetchedAt": "2026-10-22T14:03:05.860Z",
+    "sourceDate": "2026-10-22",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-02-06",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Feb 6, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.td.lightstrategy.neversoft&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/Vq-J4i2Z3IsO_JbQ8BpywwLDUbdC9l6DX6kcSMSOHATI1Ukm-ifX075754GgqucQpREv0_UOCmxvZEKmQyKIxsU"
+  },
+  {
+    "minInstalls": 500,
+    "installEvidence": {
+      "minInstalls": 500,
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.khelian.godsclash&hl=en&gl=US",
       "fetchedAt": "2026-10-19T07:43:30.527Z"
     },
@@ -34984,6 +35422,72 @@
     "catalog": "recent",
     "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
     "iconSourceUrl": "https://play-lh.googleusercontent.com/pWPXPyc8JIduTZSkXGDFommeXFBmBgEgBXzXCeyh_IBBtvE7TpxcX9jbWJiM6KGcWCtE1y5eihbwupqA3jzY"
+  },
+  {
+    "minInstalls": 100,
+    "installEvidence": {
+      "minInstalls": 100,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.demir.EnchantedTowersPremium&hl=en&gl=US",
+      "fetchedAt": "2026-10-22T15:29:56.843Z"
+    },
+    "id": "com.demir.EnchantedTowersPremium",
+    "title": "Enchanted Tower Premium",
+    "subtitle": "The ultimate ad-free strategy experience. Claim your throne and elite bonuses!",
+    "description": "The ultimate ad-free strategy experience. Claim your throne and elite bonuses!",
+    "overviewEn": "The ultimate ad-free strategy experience. Claim your throne and elite bonuses!",
+    "genre": "Strategy",
+    "world": "",
+    "tags": [
+      "Paid download",
+      "Android",
+      "Contains ads",
+      "In-app purchases"
+    ],
+    "evidence": [
+      {
+        "tag": "Paid download",
+        "basis": "Google Play price",
+        "excerpt": "USD 1.99"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      }
+    ],
+    "price": "Paid download",
+    "priceValue": 1.99,
+    "priceCurrency": "USD",
+    "priceDisplay": "US$1.99",
+    "developer": "SKAARA",
+    "ads": true,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.demir.EnchantedTowersPremium&hl=en&gl=US",
+    "fetchedAt": "2026-10-22T15:29:56.843Z",
+    "sourceDate": "2026-10-22",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-01-30",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Jan 30, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.demir.EnchantedTowersPremium&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/5eAN7XB1LzPjSIdKC9rC6nWQrZhPBgIibeiDb_jg36OQ2Jk4lhQYI7CZqYuKPZhDejGEixLXEV_2uAjezy9tLQ"
   },
   {
     "minInstalls": 10000,
@@ -40360,6 +40864,72 @@
     "catalog": "recent",
     "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
     "iconSourceUrl": "https://play-lh.googleusercontent.com/taWLLbmUeHjpme86Rzlst-dB-PCu_IHpWJmCDZrbcbHJC9eZ4edz1W28qjFuOnjJBwU7AanjcfJ98xcC3OrCzA"
+  },
+  {
+    "minInstalls": 1000,
+    "installEvidence": {
+      "minInstalls": 1000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.demir.EnchantedTowers&hl=en&gl=US",
+      "fetchedAt": "2026-10-22T15:29:48.148Z"
+    },
+    "id": "com.demir.EnchantedTowers",
+    "title": "Enchanted Tower: Strategy TD",
+    "subtitle": "Build your base  and lead your army to victory in this epic strategy game!",
+    "description": "Build your base  and lead your army to victory in this epic strategy game!",
+    "overviewEn": "Build your base  and lead your army to victory in this epic strategy game!",
+    "genre": "Strategy",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "In-app purchases"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "SKAARA",
+    "ads": true,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.demir.EnchantedTowers&hl=en&gl=US",
+    "fetchedAt": "2026-10-22T15:29:48.148Z",
+    "sourceDate": "2026-10-22",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2025-11-28",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Nov 28, 2025",
+      "url": "https://play.google.com/store/apps/details?id=com.demir.EnchantedTowers&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/qPXVmORNdCM2jKPVKGDDzsKH-F_vZyaOsQVej9t92oytbuO8PfUGYsTKRbDiUCT40mYolmJRtgwxNKhQnB5DJw"
   },
   {
     "minInstalls": 50,
@@ -47664,6 +48234,66 @@
     "iconSourceUrl": "https://play-lh.googleusercontent.com/oaA_tGPzhXNkcnOEhmhR1FRIl96Qtx4bvr3POHa9BQUnuRZ7Jvd9RbsVXxygbCODEyH7HO7YMuUKSKUre-WAuA"
   },
   {
+    "minInstalls": 1000,
+    "installEvidence": {
+      "minInstalls": 1000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.demir.UndergroundHeroesPremium&hl=en&gl=US",
+      "fetchedAt": "2026-10-22T15:29:58.135Z"
+    },
+    "id": "com.demir.UndergroundHeroesPremium",
+    "title": "Deep Heroes Tower: TD Premium",
+    "subtitle": "Roguelike tower defense with idle upgrades, cards & epic hero battles!",
+    "description": "Roguelike tower defense with idle upgrades, cards & epic hero battles!",
+    "overviewEn": "Roguelike tower defense with idle upgrades, cards & epic hero battles!",
+    "genre": "Tower defense",
+    "world": "",
+    "tags": [
+      "Tower defense",
+      "Paid download",
+      "Android"
+    ],
+    "evidence": [
+      {
+        "tag": "Tower defense",
+        "basis": "Developer summary keyword mapping",
+        "excerpt": "Roguelike tower defense with idle upgrades, cards &amp; epic hero battles!"
+      },
+      {
+        "tag": "Paid download",
+        "basis": "Google Play price",
+        "excerpt": "USD 2.49"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      }
+    ],
+    "price": "Paid download",
+    "priceValue": 2.49,
+    "priceCurrency": "USD",
+    "priceDisplay": "US$2.49",
+    "developer": "SKAARA",
+    "ads": null,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.demir.UndergroundHeroesPremium&hl=en&gl=US",
+    "fetchedAt": "2026-10-22T15:29:58.135Z",
+    "sourceDate": "2026-10-22",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2025-08-23",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Aug 23, 2025",
+      "url": "https://play.google.com/store/apps/details?id=com.demir.UndergroundHeroesPremium&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/PXYFbcG7kidBP1N6-hUZC3aMxgG3qM60UUrerW5rWSf78rhw5XExkWewj60fS7Gm8qQDFN2EBzk66RImgBk58Q"
+  },
+  {
     "minInstalls": 100000,
     "installEvidence": {
       "minInstalls": 100000,
@@ -52785,6 +53415,60 @@
     "minInstalls": 5000,
     "installEvidence": {
       "minInstalls": 5000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.ExabyteGames.FinalOutpostDE&hl=en&gl=US",
+      "fetchedAt": "2026-10-22T16:14:54.417Z"
+    },
+    "id": "com.ExabyteGames.FinalOutpostDE",
+    "title": "Final Outpost: Definitive",
+    "subtitle": "===DEFINITIVE Edition of the 1M+ player Base-Builder===",
+    "description": "===DEFINITIVE Edition of the 1M+ player Base-Builder===",
+    "overviewEn": "===DEFINITIVE Edition of the 1M+ player Base-Builder===",
+    "genre": "Strategy",
+    "world": "",
+    "tags": [
+      "Paid download",
+      "Android"
+    ],
+    "evidence": [
+      {
+        "tag": "Paid download",
+        "basis": "Google Play price",
+        "excerpt": "USD 3.99"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      }
+    ],
+    "price": "Paid download",
+    "priceValue": 3.99,
+    "priceCurrency": "USD",
+    "priceDisplay": "US$3.99",
+    "developer": "Exabyte Games Ltd",
+    "ads": null,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.ExabyteGames.FinalOutpostDE&hl=en&gl=US",
+    "fetchedAt": "2026-10-22T16:14:54.417Z",
+    "sourceDate": "2026-10-22",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2025-06-12",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Jun 12, 2025",
+      "url": "https://play.google.com/store/apps/details?id=com.ExabyteGames.FinalOutpostDE&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/Ol0Glm5OyeKIj9HKMlVtGWC1nsqlOZpglzN4W4p__ZcYwPcVWgcoBJUvNKkh-2TjK9rnR4kNtocAzm7WuoJSow"
+  },
+  {
+    "minInstalls": 5000,
+    "installEvidence": {
+      "minInstalls": 5000,
       "sourceUrl": "https://play.google.com/store/apps/details?id=studio.supernature.lostinfantaland&hl=en&gl=US",
       "fetchedAt": "2026-10-12T08:15:59.801Z"
     },
@@ -57384,6 +58068,72 @@
     "iconSourceUrl": "https://play-lh.googleusercontent.com/KjolWy2-M6HetCQKx-ky2hrTU7AgXY6EE-edVwcCauKrkCCXxIQm1wCQn9zyn9jXQvOQLGQppcOi7MpU3tKUtw"
   },
   {
+    "minInstalls": 10000,
+    "installEvidence": {
+      "minInstalls": 10000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.skyisland.mergesoldier.td.backpack.rush&hl=en&gl=US",
+      "fetchedAt": "2026-10-22T14:02:56.888Z"
+    },
+    "id": "com.skyisland.mergesoldier.td.backpack.rush",
+    "title": "Combo Legion",
+    "subtitle": "From cell to galactic overlord—your blade shapes the edge of civilization!",
+    "description": "From cell to galactic overlord—your blade shapes the edge of civilization!",
+    "overviewEn": "From cell to galactic overlord—your blade shapes the edge of civilization!",
+    "genre": "Strategy",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "In-app purchases"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Starship Studios",
+    "ads": true,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.skyisland.mergesoldier.td.backpack.rush&hl=en&gl=US",
+    "fetchedAt": "2026-10-22T14:02:56.888Z",
+    "sourceDate": "2026-10-22",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2025-04-07",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Apr 7, 2025",
+      "url": "https://play.google.com/store/apps/details?id=com.skyisland.mergesoldier.td.backpack.rush&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/KOL5rAiz6WzKk3LtEdyGRHrbKr_UgiZpiXDZGTBV-IvnOynRQCflF0c94xtFVpyWgGKB1uiJluLc60OadVJ1"
+  },
+  {
     "minInstalls": 1000,
     "installEvidence": {
       "minInstalls": 1000,
@@ -60286,6 +61036,78 @@
     "catalog": "recent",
     "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
     "iconSourceUrl": "https://play-lh.googleusercontent.com/Qq6GO4l4FhrBJrqs-ROBfx4InxUiU2l9tEeFSiAdrRfIYfYsKZqhk69Ive5PjYZTjJNKWgabI5fG5oppjy31NQ"
+  },
+  {
+    "minInstalls": 1000,
+    "installEvidence": {
+      "minInstalls": 1000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.strategy.army.games.tank.war&hl=en&gl=US",
+      "fetchedAt": "2026-10-22T14:02:52.076Z"
+    },
+    "id": "com.strategy.army.games.tank.war",
+    "title": "Strategy Overlords: War PvP",
+    "subtitle": "RTS strategy game: command your army, engage in military combat, and conquer!",
+    "description": "RTS strategy game: command your army, engage in military combat, and conquer!",
+    "overviewEn": "RTS strategy game: command your army, engage in military combat, and conquer!",
+    "genre": "Real-time",
+    "world": "",
+    "tags": [
+      "Real-time",
+      "Free download",
+      "Android",
+      "Contains ads",
+      "In-app purchases"
+    ],
+    "evidence": [
+      {
+        "tag": "Real-time",
+        "basis": "Developer summary keyword mapping",
+        "excerpt": "RTS strategy game: command your army, engage in military combat, and conquer!"
+      },
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Strazh Games",
+    "ads": true,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.strategy.army.games.tank.war&hl=en&gl=US",
+    "fetchedAt": "2026-10-22T14:02:52.076Z",
+    "sourceDate": "2026-10-22",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2025-02-22",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Feb 22, 2025",
+      "url": "https://play.google.com/store/apps/details?id=com.strategy.army.games.tank.war&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/saQpFhCKd7CJFn5txAu-PEB717JSUAAHMof-f75XnhZLw-bM195RDcGf3OmzJSL2VSsYMtKawvJGLrlZ_T0YXnw"
   },
   {
     "minInstalls": 1000000,
