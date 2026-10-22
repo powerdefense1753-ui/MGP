@@ -2169,6 +2169,72 @@
     "minInstalls": 100,
     "installEvidence": {
       "minInstalls": 100,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.arkbishopgaming.steampunktd&hl=en&gl=US",
+      "fetchedAt": "2026-10-22T22:21:33.523Z"
+    },
+    "id": "com.arkbishopgaming.steampunktd",
+    "title": "SteamPunkTD",
+    "subtitle": "Build, upgrade, and defend against endless waves in a steampunk adventure!",
+    "description": "Build, upgrade, and defend against endless waves in a steampunk adventure!",
+    "overviewEn": "Build, upgrade, and defend against endless waves in a steampunk adventure!",
+    "genre": "Strategy",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "In-app purchases"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Arkbishop Gaming",
+    "ads": true,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.arkbishopgaming.steampunktd&hl=en&gl=US",
+    "fetchedAt": "2026-10-22T22:21:33.523Z",
+    "sourceDate": "2026-10-22",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-09-30",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Sep 30, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.arkbishopgaming.steampunktd&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/fXG2KG5vMjzeFcSL9LzQaNrq5BncDCEOvuAg3FRZhntzY-PdjaX2dt9-lvbLOLLTcS-mNdmQlsN4xculVZ9EkA"
+  },
+  {
+    "minInstalls": 100,
+    "installEvidence": {
+      "minInstalls": 100,
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.ooxlimited.trenchwar&hl=en&gl=US",
       "fetchedAt": "2026-10-12T10:42:15.316Z"
     },
@@ -16164,6 +16230,90 @@
     "iconSourceUrl": "https://play-lh.googleusercontent.com/8F8ehFi334fH5ciDVjihWAhNjciAMyDav30A5taa6oWhJYs47yv7PYKVFx6VKhlMYoHKC8rIvOvLPbtu30lalQ"
   },
   {
+    "minInstalls": 100000,
+    "installEvidence": {
+      "minInstalls": 100000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.furywing.survival.defense&hl=en&gl=US",
+      "fetchedAt": "2026-10-22T22:51:33.439Z"
+    },
+    "id": "com.furywing.survival.defense",
+    "title": "Survival Defense: Zombie",
+    "subtitle": "Master tactical grids, survive zombie waves, and build the ultimate Roguelite TD",
+    "description": "Master tactical grids, survive zombie waves, and build the ultimate Roguelite TD",
+    "overviewEn": "Master tactical grids, survive zombie waves, and build the ultimate Roguelite TD",
+    "genre": "Tower defense",
+    "world": "",
+    "tags": [
+      "Tower defense",
+      "Single player",
+      "Stylized",
+      "Free download",
+      "Android",
+      "Contains ads",
+      "In-app purchases"
+    ],
+    "evidence": [
+      {
+        "tag": "Tower defense",
+        "basis": "Google Play category label mapping",
+        "excerpt": "Tower defense"
+      },
+      {
+        "tag": "Single player",
+        "basis": "Google Play category label mapping",
+        "excerpt": "Single player"
+      },
+      {
+        "tag": "Stylized",
+        "basis": "Google Play category label mapping",
+        "excerpt": "Stylized"
+      },
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "FW Game Studio",
+    "ads": true,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.furywing.survival.defense&hl=en&gl=US",
+    "fetchedAt": "2026-10-22T22:51:33.439Z",
+    "sourceDate": "2026-10-22",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-07-14",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Jul 14, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.furywing.survival.defense&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/AqSanKrKPsWmo41gEm4iIrIimhu7-Uo3BHahDrX7PwaufNGnsYn67nov6wz_ouZh39B3O-RtLuSqD7b687eWPA"
+  },
+  {
     "minInstalls": 100,
     "installEvidence": {
       "minInstalls": 100,
@@ -16270,6 +16420,60 @@
     "catalog": "recent",
     "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
     "iconSourceUrl": "https://play-lh.googleusercontent.com/lYTSm-MqyYD38ecvuqm-_zDvzGjiFvPjUKyMZSj0aNtZ5k6QlpDkpp5zteWtkqvM2-o7UE2Y2z781S3ajiDJ"
+  },
+  {
+    "minInstalls": 1000,
+    "installEvidence": {
+      "minInstalls": 1000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.sobachkagames.crystaloutpost&hl=en&gl=US",
+      "fetchedAt": "2026-10-22T23:21:51.475Z"
+    },
+    "id": "com.sobachkagames.crystaloutpost",
+    "title": "Crystal Outpost: TD",
+    "subtitle": "Mine crystals, merge weapons and defend your base against endless spider swarms.",
+    "description": "Mine crystals, merge weapons and defend your base against endless spider swarms.",
+    "overviewEn": "Mine crystals, merge weapons and defend your base against endless spider swarms.",
+    "genre": "Strategy",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "sobachka games",
+    "ads": null,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.sobachkagames.crystaloutpost&hl=en&gl=US",
+    "fetchedAt": "2026-10-22T23:21:51.475Z",
+    "sourceDate": "2026-10-22",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-07-13",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Jul 13, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.sobachkagames.crystaloutpost&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/TT-5uye-_tojulfUoCdhi5i88S7O3E13ly_Rn5BKM-gUoxpJVqRtbQrNWSBNpWUWo39KVS9RZ7ibuOD_9dxVjbg"
   },
   {
     "minInstalls": 500,
@@ -29178,6 +29382,78 @@
     "iconSourceUrl": "https://play-lh.googleusercontent.com/4lZw-TpbpVSWDqfWYxva4tgjzZF-ldZL-Gg3pXI-TXMOJ-6LAJu5fmdy_0m5RWQhsFFYIEp0YLeevSc5c3chaQ"
   },
   {
+    "minInstalls": 10000,
+    "installEvidence": {
+      "minInstalls": 10000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.onecat.cosmictowers&hl=en&gl=US",
+      "fetchedAt": "2026-10-22T23:21:51.491Z"
+    },
+    "id": "com.onecat.cosmictowers",
+    "title": "Cosmic Towers - Tower Defense",
+    "subtitle": "Tower defense deck strategy! Build towers, lead Heroes, survive PvE waves.",
+    "description": "Tower defense deck strategy! Build towers, lead Heroes, survive PvE waves.",
+    "overviewEn": "Tower defense deck strategy! Build towers, lead Heroes, survive PvE waves.",
+    "genre": "Tower defense",
+    "world": "",
+    "tags": [
+      "Tower defense",
+      "Free download",
+      "Android",
+      "Contains ads",
+      "In-app purchases"
+    ],
+    "evidence": [
+      {
+        "tag": "Tower defense",
+        "basis": "Developer summary keyword mapping",
+        "excerpt": "Tower defense deck strategy! Build towers, lead Heroes, survive PvE waves."
+      },
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "HyperFusion Games",
+    "ads": true,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.onecat.cosmictowers&hl=en&gl=US",
+    "fetchedAt": "2026-10-22T23:21:51.491Z",
+    "sourceDate": "2026-10-22",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-04-03",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Apr 3, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.onecat.cosmictowers&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/vNIceYN1zNmCY-6bhkJdBX5J7fzP4OR82S5bWARNinW6ORNtk0WCLQQM9hCVxqeACB32lDcUxQXcyCE-qKkPd2I"
+  },
+  {
     "minInstalls": 10,
     "installEvidence": {
       "minInstalls": 10,
@@ -31450,6 +31726,78 @@
     "catalog": "recent",
     "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
     "iconSourceUrl": "https://play-lh.googleusercontent.com/_xPt8bNZk3gIusZXuaX5vClnZTl-WOLZ9HiVU49yXSoHQzq32NndoamDDgk70fzozvexOIuuzfKDlWwhEvTnjQ"
+  },
+  {
+    "minInstalls": 10000,
+    "installEvidence": {
+      "minInstalls": 10000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.steelandfire.game&hl=en&gl=US",
+      "fetchedAt": "2026-10-22T23:21:51.503Z"
+    },
+    "id": "com.steelandfire.game",
+    "title": "Steel & Fire: War Strategy",
+    "subtitle": "Real-time war strategy: Napoleon battles, diplomacy, conquer Europe!",
+    "description": "Real-time war strategy: Napoleon battles, diplomacy, conquer Europe!",
+    "overviewEn": "Real-time war strategy: Napoleon battles, diplomacy, conquer Europe!",
+    "genre": "Real-time",
+    "world": "",
+    "tags": [
+      "Real-time",
+      "Free download",
+      "Android",
+      "Contains ads",
+      "In-app purchases"
+    ],
+    "evidence": [
+      {
+        "tag": "Real-time",
+        "basis": "Developer summary keyword mapping",
+        "excerpt": "Real-time war strategy: Napoleon battles, diplomacy, conquer Europe!"
+      },
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "LexMaX",
+    "ads": true,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.steelandfire.game&hl=en&gl=US",
+    "fetchedAt": "2026-10-22T23:21:51.503Z",
+    "sourceDate": "2026-10-22",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-03-13",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Mar 13, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.steelandfire.game&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/UgLJgZPc0DrW2tvi07lX_Io-C4L8fIQFQwkaQ_gpMjT03oPknkiYBovJEuywdVWP2seICb3yAYUqayUNO2ER7A"
   },
   {
     "minInstalls": 100,

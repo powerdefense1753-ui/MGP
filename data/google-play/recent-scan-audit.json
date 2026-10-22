@@ -4,21 +4,21 @@
     "to": "2026-10-12",
     "country": "US",
     "language": "en",
-    "candidates": 12583,
-    "checked": 14009,
-    "included": 1035,
+    "candidates": 12617,
+    "checked": 14054,
+    "included": 1040,
     "retainedOriginals": 11,
     "decisions": {
       "outside-window": 1421,
-      "included": 1034,
+      "included": 1039,
       "existing-curated": 11,
-      "not-strategy": 9965,
+      "not-strategy": 9994,
       "unknown-release": 134,
       "preregistration": 13,
       "fetch-failed": 5
     },
-    "discoveryQueries": 15442,
-    "completedAt": "2026-10-22T19:51:28.359Z",
+    "discoveryQueries": 15493,
+    "completedAt": "2026-10-22T23:22:01.234Z",
     "imageFailures": 0,
     "exhaustive": false,
     "method": "US-English public Google Play Strategy charts, keyword searches, recommendation links and developer catalogs; first release from Released on, not Updated on. Search and chart results are capped by Google Play. No claim of complete coverage."
@@ -77233,6 +77233,261 @@
       "key": "{\"type\":\"developer\",\"id\":\"7518146669390022576\"}",
       "count": 4,
       "fetchedAt": "2026-10-22T19:51:25.308Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.fleetdefense.fd\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T21:51:32.662Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.arkbishopgaming.steampunktd\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T22:21:33.524Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.greatslon.gs020\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T22:21:33.579Z"
+    },
+    {
+      "key": "{\"type\":\"developer\",\"id\":\"Arkbishop Gaming\"}",
+      "count": 1,
+      "fetchedAt": "2026-10-22T22:21:34.835Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.dialekts.seabattle\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T22:51:30.863Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.armadabattle.armadabattle\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T22:51:30.911Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"war.of.islands\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T22:51:30.918Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.StreetDogs.IdleIslandMergeWar\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T22:51:32.196Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.playo.boatwars\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T22:51:32.200Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.vira.battle.raft\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T22:51:32.212Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.furywing.survival.defense\"}",
+      "count": 11,
+      "fetchedAt": "2026-10-22T22:51:33.441Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.webhost.royale.battleship\"}",
+      "count": 9,
+      "fetchedAt": "2026-10-22T22:51:33.447Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.byril.seabattle\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T22:51:33.545Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.furywing.happy.chef.maina\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T22:51:34.765Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.furywing.survival.idle\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T22:51:34.772Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.arabapps.fortressglory\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T22:51:34.923Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.rxzggo.global\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T22:51:36.144Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.furywing.travel.merge\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T22:51:36.150Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.furywing.decoration.merge\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T22:51:36.250Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.an.kingdom.global\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T22:51:37.495Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"net.gameduo.bbc\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T22:51:37.511Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.sigmamarine.webcams\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T22:51:37.658Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.sm.hell.snake\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T22:51:38.882Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.sm.allosteric\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T22:51:38.887Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.webhost.webcams\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T22:51:39.209Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.webhost.huna\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T22:51:40.449Z"
+    },
+    {
+      "key": "{\"type\":\"developer\",\"id\":\"FW Game Studio\"}",
+      "count": 6,
+      "fetchedAt": "2026-10-22T22:51:40.463Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"video.downloader.all.freedownload\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T22:51:40.574Z"
+    },
+    {
+      "key": "{\"type\":\"developer\",\"id\":\"7315533049862298314\"}",
+      "count": 10,
+      "fetchedAt": "2026-10-22T22:51:42.076Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.webhost.power\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T22:51:43.293Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.webhost.maze.ball\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T22:51:43.300Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.webhost.game.puzzle.sokoban\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T22:51:43.304Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.webhost.hockey.air\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T22:51:44.514Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.sobachkagames.crystaloutpost\"}",
+      "count": 6,
+      "fetchedAt": "2026-10-22T23:21:51.476Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.onecat.cosmictowers\"}",
+      "count": 12,
+      "fetchedAt": "2026-10-22T23:21:51.492Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.steelandfire.game\"}",
+      "count": 6,
+      "fetchedAt": "2026-10-22T23:21:51.503Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"obby.aquapark.roller.coaster\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T23:21:52.719Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"car.race.descent.crash.simulator.drive\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T23:21:52.920Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.block.craft.world.sandbox.survival.simulator.crafting.building\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T23:21:52.948Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.psv.backrooms.monster_escape\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T23:21:54.172Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"obby.lucky.kick.football.save.brainrots\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T23:21:54.176Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.shaltgames.takatodriftracing\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T23:21:54.181Z"
+    },
+    {
+      "key": "{\"type\":\"developer\",\"id\":\"sobachka games\"}",
+      "count": 2,
+      "fetchedAt": "2026-10-22T23:21:55.431Z"
+    },
+    {
+      "key": "{\"type\":\"developer\",\"id\":\"LexMaX\"}",
+      "count": 1,
+      "fetchedAt": "2026-10-22T23:21:55.467Z"
+    },
+    {
+      "key": "{\"type\":\"developer\",\"id\":\"HyperFusion Games\"}",
+      "count": 13,
+      "fetchedAt": "2026-10-22T23:21:55.492Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.VibeDriver\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T23:21:56.720Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.pink.hamster.advanture\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T23:21:56.732Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.onecat.barkandblast\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T23:21:56.738Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"obby.acid.lava.run.save.brainrots\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T23:21:57.970Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.go.to.car.driving.five.action.simulator\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T23:21:58.009Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.akgames.blockcraftworld\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T23:21:58.174Z"
     }
   ],
   "candidates": [
@@ -81597,7 +81852,8 @@
         "related:com.bmmtbsgame",
         "search:asynchronous multiplayer strategy",
         "search:small scale real time strategy",
-        "related:com.goldengodgames.ww2"
+        "related:com.goldengodgames.ww2",
+        "related:com.sobachkagames.crystaloutpost"
       ]
     },
     {
@@ -82454,7 +82710,8 @@
         "related:com.bergames.europewar",
         "search:war strategy diplomacy offline",
         "related:com.igindis.worldempire2027",
-        "search:territory painting strategy"
+        "search:territory painting strategy",
+        "related:com.steelandfire.game"
       ]
     },
     {
@@ -82976,7 +83233,8 @@
         "related:com.igindis.worldempire2027",
         "search:city state conquest strategy",
         "search:terrain manipulation strategy",
-        "related:com.denismakhortov.strategypath"
+        "related:com.denismakhortov.strategypath",
+        "related:com.steelandfire.game"
       ]
     },
     {
@@ -83833,7 +84091,8 @@
         "search:tower defense mazing sandbox",
         "search:tower defense hero placement",
         "search:tower defense economy upgrades",
-        "search:terrain manipulation strategy"
+        "search:terrain manipulation strategy",
+        "related:com.sobachkagames.crystaloutpost"
       ]
     },
     {
@@ -85793,7 +86052,8 @@
         "search:single player grand strategy",
         "search:simultaneous orders war game",
         "related:com.igindis.meegame.middleeastempire",
-        "search:railway war logistics strategy"
+        "search:railway war logistics strategy",
+        "related:com.steelandfire.game"
       ]
     },
     {
@@ -87177,7 +87437,8 @@
         "search:galaxy turn based diplomacy",
         "related:com.novanext.spaceswarm.survivortd",
         "related:com.simple.warstrategy",
-        "search:новые стратегии 2025"
+        "search:новые стратегии 2025",
+        "related:com.onecat.cosmictowers"
       ]
     },
     {
@@ -87719,7 +87980,8 @@
         "search:single player grand strategy",
         "search:war strategy diplomacy offline",
         "search:simultaneous orders war game",
-        "related:com.arcaneempire.realms.clash.magic.heroes"
+        "related:com.arcaneempire.realms.clash.magic.heroes",
+        "related:com.steelandfire.game"
       ]
     },
     {
@@ -89880,7 +90142,8 @@
         "search:war strategy diplomacy offline",
         "related:com.igindis.worldempire2027",
         "search:medieval trade diplomacy",
-        "search:siege warfare castle strategy"
+        "search:siege warfare castle strategy",
+        "related:com.steelandfire.game"
       ]
     },
     {
@@ -95605,7 +95868,8 @@
         "search:strategy drone swarm defense",
         "related:com.novanext.spaceswarm.survivortd",
         "search:新作 タワーディフェンス 2025",
-        "search:タワーディフェンス 新作 オフライン 2026"
+        "search:タワーディフェンス 新作 オフライン 2026",
+        "related:com.furywing.survival.defense"
       ]
     },
     {
@@ -97079,7 +97343,8 @@
         "related:com.FantasticaGames.DictatorsWarWorldConquest",
         "related:com.HTGames.spaceconqer",
         "related:com.LancasterDigitalLDA.CruiserDuels",
-        "related:com.BallisticTech.BallisticArmada"
+        "related:com.BallisticTech.BallisticArmada",
+        "related:com.webhost.royale.battleship"
       ]
     },
     {
@@ -100859,7 +101124,8 @@
         "search:strategy steampunk tower 2025",
         "search:strategy tower card battle 2025",
         "search:strategy transport tycoon defense 2025",
-        "related:com.vipubstd.games.block.defense"
+        "related:com.vipubstd.games.block.defense",
+        "related:com.onecat.cosmictowers"
       ]
     },
     {
@@ -101561,7 +101827,8 @@
         "search:strategy sci fi defense 2025",
         "related:com.backflipgames.mergecastletd",
         "search:strategy orbital defense 2025",
-        "related:net.moderndefense"
+        "related:net.moderndefense",
+        "related:com.onecat.cosmictowers"
       ]
     },
     {
@@ -102869,7 +103136,8 @@
         "related:com.gameyogi.cardrush",
         "related:bridge.defense.roguelike.strategy.td.game",
         "related:com.king.sfungames",
-        "related:com.rl.joyseed.and"
+        "related:com.rl.joyseed.and",
+        "related:com.furywing.survival.defense"
       ]
     },
     {
@@ -104041,7 +104309,8 @@
         "related:com.binbibong.pixelwarriors",
         "related:com.warpact.rts",
         "related:com.bmmtbsgame",
-        "related:pocketforts.td"
+        "related:pocketforts.td",
+        "related:com.sobachkagames.crystaloutpost"
       ]
     },
     {
@@ -104419,7 +104688,8 @@
         "related:com.medu.legend.castledefense.idlerpg",
         "related:com.medu.neon.castledefense.idlerpg",
         "developer:6304734212719647502",
-        "search:タワーディフェンス 新作 オフライン 2026"
+        "search:タワーディフェンス 新作 オフライン 2026",
+        "related:com.furywing.survival.defense"
       ]
     },
     {
@@ -105209,7 +105479,8 @@
         "related:com.bmmtbsgame",
         "related:com.pocketarena.castledefense",
         "related:pocketforts.td",
-        "related:com.white.castle.grow.tower.defence.heroes.magic.defense.necromancer"
+        "related:com.white.castle.grow.tower.defence.heroes.magic.defense.necromancer",
+        "related:com.sobachkagames.crystaloutpost"
       ]
     },
     {
@@ -105842,7 +106113,8 @@
         "related:com.AppleJuiceGames.TowerSiegeCastleDefenseTD",
         "related:com.klaracode.everhex",
         "search:新作 タワーディフェンス 2025",
-        "related:com.stavbi1.towerdefense"
+        "related:com.stavbi1.towerdefense",
+        "related:com.sobachkagames.crystaloutpost"
       ]
     },
     {
@@ -106114,7 +106386,8 @@
         "related:com.WaffleStackStudio.TowerBall",
         "related:com.edenap.m1",
         "related:com.orbital.space.defense",
-        "related:com.DTeam.ElementalLaneDefense"
+        "related:com.DTeam.ElementalLaneDefense",
+        "related:com.sobachkagames.crystaloutpost"
       ]
     },
     {
@@ -110095,7 +110368,8 @@
         "related:com.chillplay.overcore",
         "related:com.zone.zombie.defense",
         "related:com.hexconquest.app",
-        "related:com.skyisland.mergesoldier.td.backpack.rush"
+        "related:com.skyisland.mergesoldier.td.backpack.rush",
+        "related:com.onecat.cosmictowers"
       ]
     },
     {
@@ -115834,7 +116108,8 @@
         "related:com.fantasyflightgames.BattleLore",
         "related:com.pixelbite.xwt",
         "developer:6991001366548054138",
-        "related:com.builditgames.policeinc"
+        "related:com.builditgames.policeinc",
+        "related:com.webhost.royale.battleship"
       ]
     },
     {
@@ -119556,7 +119831,8 @@
         "related:com.tigrido.dictator2.paid",
         "related:com.tigrido.dictator2.free",
         "search:estratégia construção reino 2025",
-        "related:com.susmers.tnc"
+        "related:com.susmers.tnc",
+        "related:com.steelandfire.game"
       ]
     },
     {
@@ -124938,7 +125214,8 @@
         "related:com.gentledogcompany.dronewar",
         "related:com.hexwar.tankbattlenormandy",
         "related:com.pub.army.vehicle.transporter.truck",
-        "related:com.gf.bus.driving.game"
+        "related:com.gf.bus.driving.game",
+        "related:com.webhost.royale.battleship"
       ]
     },
     {
@@ -131417,7 +131694,8 @@
       "url": "https://play.google.com/store/apps/details?id=com.InkosGames.CubicSurvivor&hl=en&gl=US",
       "discoveredVia": [
         "related:com.aurecas.spacetowerdefense",
-        "related:com.pandorio.minedrillers"
+        "related:com.pandorio.minedrillers",
+        "related:com.onecat.cosmictowers"
       ]
     },
     {
@@ -180604,7 +180882,8 @@
       "url": "https://play.google.com/store/apps/details?id=net.games.star.survivor.android&hl=en&gl=US",
       "discoveredVia": [
         "related:com.xxxxgame.castlesiegemaster",
-        "related:com.gameyogi.cardrush"
+        "related:com.gameyogi.cardrush",
+        "related:com.furywing.survival.defense"
       ]
     },
     {
@@ -184185,7 +184464,8 @@
         "related:com.firerock.towerquest",
         "related:com.towerdefense.kingoflegend",
         "related:com.edenap.m1",
-        "related:com.khelian.wilddefense"
+        "related:com.khelian.wilddefense",
+        "related:com.onecat.cosmictowers"
       ]
     },
     {
@@ -189923,7 +190203,8 @@
       "genreId": "GAME_SIMULATION",
       "url": "https://play.google.com/store/apps/details?id=com.MewtonGames.SpaceRovers&hl=en&gl=US",
       "discoveredVia": [
-        "search:spaceship engineering strategy"
+        "search:spaceship engineering strategy",
+        "developer:sobachka games"
       ]
     },
     {
@@ -259689,6 +259970,431 @@
       "discoveredVia": [
         "related:com.BallisticTech.BallisticArmoredAssault",
         "developer:7518146669390022576"
+      ]
+    },
+    {
+      "id": "com.arkbishopgaming.steampunktd",
+      "title": "SteamPunkTD",
+      "decision": "included",
+      "released": "Sep 30, 2026",
+      "genre": "Strategy",
+      "genreId": "GAME_STRATEGY",
+      "url": "https://play.google.com/store/apps/details?id=com.arkbishopgaming.steampunktd&hl=en&gl=US",
+      "discoveredVia": [
+        "developer:Arkbishop Gaming"
+      ]
+    },
+    {
+      "id": "com.furywing.survival.idle",
+      "title": "Survivor Camp Z: Idle Tycoon",
+      "decision": "not-strategy",
+      "released": "Oct 9, 2026",
+      "genre": "Simulation",
+      "genreId": "GAME_SIMULATION",
+      "url": "https://play.google.com/store/apps/details?id=com.furywing.survival.idle&hl=en&gl=US",
+      "discoveredVia": [
+        "related:com.furywing.survival.defense",
+        "developer:FW Game Studio"
+      ]
+    },
+    {
+      "id": "com.furywing.happy.chef.maina",
+      "title": "Happy Chef Mania: Cooking Game",
+      "decision": "not-strategy",
+      "released": null,
+      "genre": "Simulation",
+      "genreId": "GAME_SIMULATION",
+      "url": "https://play.google.com/store/apps/details?id=com.furywing.happy.chef.maina&hl=en&gl=US",
+      "discoveredVia": [
+        "related:com.furywing.survival.defense",
+        "developer:FW Game Studio"
+      ]
+    },
+    {
+      "id": "com.rxzggo.global",
+      "title": "Go Go! My Lord - Roguelike RPG",
+      "decision": "not-strategy",
+      "released": null,
+      "genre": "Role Playing",
+      "genreId": "GAME_ROLE_PLAYING",
+      "url": "https://play.google.com/store/apps/details?id=com.rxzggo.global&hl=en&gl=US",
+      "discoveredVia": [
+        "related:com.furywing.survival.defense",
+        "developer:FW Game Studio"
+      ]
+    },
+    {
+      "id": "com.furywing.travel.merge",
+      "title": "Travel Stories: Merge Journey",
+      "decision": "not-strategy",
+      "released": "Mar 13, 2025",
+      "genre": "Puzzle",
+      "genreId": "GAME_PUZZLE",
+      "url": "https://play.google.com/store/apps/details?id=com.furywing.travel.merge&hl=en&gl=US",
+      "discoveredVia": [
+        "related:com.furywing.survival.defense",
+        "developer:FW Game Studio"
+      ]
+    },
+    {
+      "id": "com.furywing.decoration.merge",
+      "title": "Decor Merge - Fashion Renovate",
+      "decision": "not-strategy",
+      "released": "Jan 21, 2024",
+      "genre": "Casual",
+      "genreId": "GAME_CASUAL",
+      "url": "https://play.google.com/store/apps/details?id=com.furywing.decoration.merge&hl=en&gl=US",
+      "discoveredVia": [
+        "related:com.furywing.survival.defense",
+        "developer:FW Game Studio"
+      ]
+    },
+    {
+      "id": "net.gameduo.bbc",
+      "title": "Boom Boom Captain: Survival",
+      "decision": "not-strategy",
+      "released": "Sep 8, 2026",
+      "genre": "Role Playing",
+      "genreId": "GAME_ROLE_PLAYING",
+      "url": "https://play.google.com/store/apps/details?id=net.gameduo.bbc&hl=en&gl=US",
+      "discoveredVia": [
+        "related:com.furywing.survival.defense"
+      ]
+    },
+    {
+      "id": "com.an.kingdom.global",
+      "title": "Zap Zap Zombies: Heroes Legion",
+      "decision": "not-strategy",
+      "released": "Jan 14, 2026",
+      "genre": "Casual",
+      "genreId": "GAME_CASUAL",
+      "url": "https://play.google.com/store/apps/details?id=com.an.kingdom.global&hl=en&gl=US",
+      "discoveredVia": [
+        "related:com.furywing.survival.defense"
+      ]
+    },
+    {
+      "id": "com.sigmamarine.webcams",
+      "title": "Live Camera Earth CCTV TV Cams",
+      "decision": "not-strategy",
+      "released": "Nov 15, 2018",
+      "genre": "Travel & Local",
+      "genreId": "TRAVEL_AND_LOCAL",
+      "url": "https://play.google.com/store/apps/details?id=com.sigmamarine.webcams&hl=en&gl=US",
+      "discoveredVia": [
+        "related:com.webhost.royale.battleship",
+        "developer:7315533049862298314"
+      ]
+    },
+    {
+      "id": "com.webhost.webcams",
+      "title": "Webcams Online: Live Earth Cam",
+      "decision": "not-strategy",
+      "released": "Jan 27, 2019",
+      "genre": "Entertainment",
+      "genreId": "ENTERTAINMENT",
+      "url": "https://play.google.com/store/apps/details?id=com.webhost.webcams&hl=en&gl=US",
+      "discoveredVia": [
+        "related:com.webhost.royale.battleship",
+        "developer:7315533049862298314"
+      ]
+    },
+    {
+      "id": "com.sm.hell.snake",
+      "title": "Snake Hell Slither Worm Battle",
+      "decision": "not-strategy",
+      "released": "Aug 13, 2026",
+      "genre": "Action",
+      "genreId": "GAME_ACTION",
+      "url": "https://play.google.com/store/apps/details?id=com.sm.hell.snake&hl=en&gl=US",
+      "discoveredVia": [
+        "related:com.webhost.royale.battleship",
+        "developer:7315533049862298314"
+      ]
+    },
+    {
+      "id": "com.sm.allosteric",
+      "title": "Allosteric Corp: Virus Evolve",
+      "decision": "not-strategy",
+      "released": "Jul 12, 2026",
+      "genre": "Simulation",
+      "genreId": "GAME_SIMULATION",
+      "url": "https://play.google.com/store/apps/details?id=com.sm.allosteric&hl=en&gl=US",
+      "discoveredVia": [
+        "related:com.webhost.royale.battleship",
+        "developer:7315533049862298314"
+      ]
+    },
+    {
+      "id": "video.downloader.all.freedownload",
+      "title": "Video Downloader — all in one",
+      "decision": "not-strategy",
+      "released": "Jun 15, 2022",
+      "genre": "Video Players & Editors",
+      "genreId": "VIDEO_PLAYERS",
+      "url": "https://play.google.com/store/apps/details?id=video.downloader.all.freedownload&hl=en&gl=US",
+      "discoveredVia": [
+        "related:com.webhost.royale.battleship",
+        "developer:7315533049862298314"
+      ]
+    },
+    {
+      "id": "com.webhost.huna",
+      "title": "Huna: Live Hawaiian Philosophy",
+      "decision": "not-strategy",
+      "released": "Aug 27, 2019",
+      "genre": "Lifestyle",
+      "genreId": "LIFESTYLE",
+      "url": "https://play.google.com/store/apps/details?id=com.webhost.huna&hl=en&gl=US",
+      "discoveredVia": [
+        "related:com.webhost.royale.battleship",
+        "developer:7315533049862298314"
+      ]
+    },
+    {
+      "id": "com.furywing.survival.defense",
+      "title": "Survival Defense: Zombie",
+      "decision": "included",
+      "released": "Jul 14, 2026",
+      "genre": "Strategy",
+      "genreId": "GAME_STRATEGY",
+      "url": "https://play.google.com/store/apps/details?id=com.furywing.survival.defense&hl=en&gl=US",
+      "discoveredVia": [
+        "developer:FW Game Studio"
+      ]
+    },
+    {
+      "id": "com.webhost.power",
+      "title": "50 Laws of Power Success Rules",
+      "decision": "not-strategy",
+      "released": "Aug 15, 2019",
+      "genre": "Lifestyle",
+      "genreId": "LIFESTYLE",
+      "url": "https://play.google.com/store/apps/details?id=com.webhost.power&hl=en&gl=US",
+      "discoveredVia": [
+        "developer:7315533049862298314"
+      ]
+    },
+    {
+      "id": "com.webhost.maze.ball",
+      "title": "Ball Maze Way Labyrinth Puzzle",
+      "decision": "not-strategy",
+      "released": "Aug 14, 2019",
+      "genre": "Puzzle",
+      "genreId": "GAME_PUZZLE",
+      "url": "https://play.google.com/store/apps/details?id=com.webhost.maze.ball&hl=en&gl=US",
+      "discoveredVia": [
+        "developer:7315533049862298314"
+      ]
+    },
+    {
+      "id": "com.webhost.game.puzzle.sokoban",
+      "title": "Sokoban Push Box Maze Puzzle",
+      "decision": "not-strategy",
+      "released": "Aug 13, 2019",
+      "genre": "Puzzle",
+      "genreId": "GAME_PUZZLE",
+      "url": "https://play.google.com/store/apps/details?id=com.webhost.game.puzzle.sokoban&hl=en&gl=US",
+      "discoveredVia": [
+        "developer:7315533049862298314"
+      ]
+    },
+    {
+      "id": "com.webhost.hockey.air",
+      "title": "Air Hockey 3D for Two Players",
+      "decision": "not-strategy",
+      "released": "Aug 3, 2019",
+      "genre": "Arcade",
+      "genreId": "GAME_ARCADE",
+      "url": "https://play.google.com/store/apps/details?id=com.webhost.hockey.air&hl=en&gl=US",
+      "discoveredVia": [
+        "developer:7315533049862298314"
+      ]
+    },
+    {
+      "id": "com.block.craft.world.sandbox.survival.simulator.crafting.building",
+      "title": "Block Craft World Sandbox",
+      "decision": "not-strategy",
+      "released": "Mar 15, 2024",
+      "genre": "Simulation",
+      "genreId": "GAME_SIMULATION",
+      "url": "https://play.google.com/store/apps/details?id=com.block.craft.world.sandbox.survival.simulator.crafting.building&hl=en&gl=US",
+      "discoveredVia": [
+        "related:com.onecat.cosmictowers",
+        "developer:HyperFusion Games"
+      ]
+    },
+    {
+      "id": "car.race.descent.crash.simulator.drive",
+      "title": "Car Crash Simulator",
+      "decision": "not-strategy",
+      "released": "Dec 24, 2023",
+      "genre": "Racing",
+      "genreId": "GAME_RACING",
+      "url": "https://play.google.com/store/apps/details?id=car.race.descent.crash.simulator.drive&hl=en&gl=US",
+      "discoveredVia": [
+        "related:com.onecat.cosmictowers",
+        "developer:HyperFusion Games"
+      ]
+    },
+    {
+      "id": "obby.aquapark.roller.coaster",
+      "title": "Build an Aquapark",
+      "decision": "not-strategy",
+      "released": "Apr 3, 2026",
+      "genre": "Simulation",
+      "genreId": "GAME_SIMULATION",
+      "url": "https://play.google.com/store/apps/details?id=obby.aquapark.roller.coaster&hl=en&gl=US",
+      "discoveredVia": [
+        "related:com.onecat.cosmictowers",
+        "developer:HyperFusion Games"
+      ]
+    },
+    {
+      "id": "obby.lucky.kick.football.save.brainrots",
+      "title": "Lucky Kick: Block and Brainrot",
+      "decision": "not-strategy",
+      "released": "May 8, 2026",
+      "genre": "Simulation",
+      "genreId": "GAME_SIMULATION",
+      "url": "https://play.google.com/store/apps/details?id=obby.lucky.kick.football.save.brainrots&hl=en&gl=US",
+      "discoveredVia": [
+        "related:com.onecat.cosmictowers",
+        "developer:HyperFusion Games"
+      ]
+    },
+    {
+      "id": "com.psv.backrooms.monster_escape",
+      "title": "Verity Backrooms: School Prank",
+      "decision": "not-strategy",
+      "released": "Oct 19, 2026",
+      "genre": "Simulation",
+      "genreId": "GAME_SIMULATION",
+      "url": "https://play.google.com/store/apps/details?id=com.psv.backrooms.monster_escape&hl=en&gl=US",
+      "discoveredVia": [
+        "related:com.onecat.cosmictowers",
+        "developer:HyperFusion Games"
+      ]
+    },
+    {
+      "id": "com.shaltgames.takatodriftracing",
+      "title": "Drift Racing JDM Takato",
+      "decision": "not-strategy",
+      "released": "Jul 16, 2026",
+      "genre": "Racing",
+      "genreId": "GAME_RACING",
+      "url": "https://play.google.com/store/apps/details?id=com.shaltgames.takatodriftracing&hl=en&gl=US",
+      "discoveredVia": [
+        "related:com.onecat.cosmictowers",
+        "developer:HyperFusion Games"
+      ]
+    },
+    {
+      "id": "com.sobachkagames.crystaloutpost",
+      "title": "Crystal Outpost: TD",
+      "decision": "included",
+      "released": "Jul 13, 2026",
+      "genre": "Strategy",
+      "genreId": "GAME_STRATEGY",
+      "url": "https://play.google.com/store/apps/details?id=com.sobachkagames.crystaloutpost&hl=en&gl=US",
+      "discoveredVia": [
+        "developer:sobachka games"
+      ]
+    },
+    {
+      "id": "com.steelandfire.game",
+      "title": "Steel & Fire: War Strategy",
+      "decision": "included",
+      "released": "Mar 13, 2026",
+      "genre": "Strategy",
+      "genreId": "GAME_STRATEGY",
+      "url": "https://play.google.com/store/apps/details?id=com.steelandfire.game&hl=en&gl=US",
+      "discoveredVia": [
+        "developer:LexMaX"
+      ]
+    },
+    {
+      "id": "com.onecat.cosmictowers",
+      "title": "Cosmic Towers - Tower Defense",
+      "decision": "included",
+      "released": "Apr 3, 2026",
+      "genre": "Strategy",
+      "genreId": "GAME_STRATEGY",
+      "url": "https://play.google.com/store/apps/details?id=com.onecat.cosmictowers&hl=en&gl=US",
+      "discoveredVia": [
+        "developer:HyperFusion Games"
+      ]
+    },
+    {
+      "id": "com.onecat.barkandblast",
+      "title": "Bark & Blast",
+      "decision": "not-strategy",
+      "released": "Sep 26, 2024",
+      "genre": "Action",
+      "genreId": "GAME_ACTION",
+      "url": "https://play.google.com/store/apps/details?id=com.onecat.barkandblast&hl=en&gl=US",
+      "discoveredVia": [
+        "developer:HyperFusion Games"
+      ]
+    },
+    {
+      "id": "com.VibeDriver",
+      "title": "Vibe Driver",
+      "decision": "not-strategy",
+      "released": null,
+      "genre": "Racing",
+      "genreId": "GAME_RACING",
+      "url": "https://play.google.com/store/apps/details?id=com.VibeDriver&hl=en&gl=US",
+      "discoveredVia": [
+        "developer:HyperFusion Games"
+      ]
+    },
+    {
+      "id": "com.pink.hamster.advanture",
+      "title": "Super Hamster Adventure: Turbo",
+      "decision": "not-strategy",
+      "released": "Apr 21, 2026",
+      "genre": "Action",
+      "genreId": "GAME_ACTION",
+      "url": "https://play.google.com/store/apps/details?id=com.pink.hamster.advanture&hl=en&gl=US",
+      "discoveredVia": [
+        "developer:HyperFusion Games"
+      ]
+    },
+    {
+      "id": "obby.acid.lava.run.save.brainrots",
+      "title": "Save Brainrots: Acid Lava lake",
+      "decision": "not-strategy",
+      "released": "Apr 22, 2026",
+      "genre": "Simulation",
+      "genreId": "GAME_SIMULATION",
+      "url": "https://play.google.com/store/apps/details?id=obby.acid.lava.run.save.brainrots&hl=en&gl=US",
+      "discoveredVia": [
+        "developer:HyperFusion Games"
+      ]
+    },
+    {
+      "id": "com.go.to.car.driving.five.action.simulator",
+      "title": "Go To Car Driving 5",
+      "decision": "not-strategy",
+      "released": "Feb 3, 2025",
+      "genre": "Action",
+      "genreId": "GAME_ACTION",
+      "url": "https://play.google.com/store/apps/details?id=com.go.to.car.driving.five.action.simulator&hl=en&gl=US",
+      "discoveredVia": [
+        "developer:HyperFusion Games"
+      ]
+    },
+    {
+      "id": "com.akgames.blockcraftworld",
+      "title": "Block Craft World 3D",
+      "decision": "not-strategy",
+      "released": "Feb 25, 2019",
+      "genre": "Adventure",
+      "genreId": "GAME_ADVENTURE",
+      "url": "https://play.google.com/store/apps/details?id=com.akgames.blockcraftworld&hl=en&gl=US",
+      "discoveredVia": [
+        "developer:HyperFusion Games"
       ]
     }
   ],

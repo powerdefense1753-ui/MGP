@@ -7920,5 +7920,479 @@
         "basis": "Official developer gameplay text"
       }
     ]
+  },
+  {
+    "minInstalls": 5,
+    "installEvidence": {
+      "minInstalls": 5,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.saqgamedev.mole_whack&hl=en&gl=US",
+      "fetchedAt": "2026-10-22T20:23:00.304Z"
+    },
+    "id": "com.saqgamedev.mole_whack",
+    "title": "Whack a Mole Arena",
+    "subtitle": "Tap the fast-popping moles as quickly as possible in this speed test.",
+    "description": "Tap the fast-popping moles as quickly as possible in this speed test.",
+    "overviewEn": "Tap the fast-popping moles as quickly as possible in this speed test.",
+    "genre": "Hypercasual",
+    "world": "",
+    "tags": [
+      "Paid download",
+      "Android"
+    ],
+    "evidence": [
+      {
+        "tag": "Paid download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0.49"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      }
+    ],
+    "price": "Paid download",
+    "priceValue": 0.49,
+    "priceCurrency": "USD",
+    "priceDisplay": "US$0.49",
+    "developer": "R29 Interactive",
+    "ads": null,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.saqgamedev.mole_whack&hl=en&gl=US",
+    "fetchedAt": "2026-10-22T20:23:00.304Z",
+    "sourceDate": "2026-10-22",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-06-03",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Jun 3, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.saqgamedev.mole_whack&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/NsRPco3dtdi3Lz_OO6jMbqXu-jBuAW8P-lHi-Iaz4KsSh-t37TMdFVUdhebWf8R4CcBzo2ZfQJsIkkkLc06mwlc",
+    "categories": [
+      "hypercasual"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "hypercasual",
+        "excerpt": "hyper-casual",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 5,
+    "installEvidence": {
+      "minInstalls": 5,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.thinktwicecodeonce.orbitshoot&hl=en&gl=US",
+      "fetchedAt": "2026-10-22T20:24:07.024Z"
+    },
+    "id": "com.thinktwicecodeonce.orbitshoot",
+    "title": "Orbit Shoot",
+    "subtitle": "Fast neon shooter. Dodge, shoot, and survive endless waves",
+    "description": "Fast neon shooter. Dodge, shoot, and survive endless waves",
+    "overviewEn": "Fast neon shooter. Dodge, shoot, and survive endless waves",
+    "genre": "Hypercasual",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "Tap gameplay"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "Tap gameplay",
+        "excerpt": "tap to",
+        "basis": "Official developer gameplay text"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "R&S::Apps",
+    "ads": true,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.thinktwicecodeonce.orbitshoot&hl=en&gl=US",
+    "fetchedAt": "2026-10-22T20:24:07.024Z",
+    "sourceDate": "2026-10-22",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2025-11-28",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Nov 28, 2025",
+      "url": "https://play.google.com/store/apps/details?id=com.thinktwicecodeonce.orbitshoot&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/75D35BNNAlF_axV3aR3MYwNbjtyvXnNHfcrKcwzDZ4uGLGUWbmQCC5XXhYaVVTbmls-qHMQSGK5FFXD2jGzoZmI",
+    "categories": [
+      "hypercasual"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "hypercasual",
+        "excerpt": "Hyper-casual",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 100,
+    "installEvidence": {
+      "minInstalls": 100,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.shanksstudio.colorroadrunner&hl=en&gl=US",
+      "fetchedAt": "2026-10-22T20:24:54.147Z"
+    },
+    "id": "com.shanksstudio.colorroadrunner",
+    "title": "Color Road Runner",
+    "subtitle": "Switch colors, dodge obstacles and run as far as you can!",
+    "description": "Switch colors, dodge obstacles and run as far as you can!",
+    "overviewEn": "Switch colors, dodge obstacles and run as far as you can!",
+    "genre": "Hypercasual",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "In-app purchases",
+      "Runner",
+      "Tap gameplay"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      },
+      {
+        "tag": "Runner",
+        "excerpt": "Runner",
+        "basis": "Official developer gameplay text"
+      },
+      {
+        "tag": "Tap gameplay",
+        "excerpt": "Tap to",
+        "basis": "Official developer gameplay text"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Shanks Studio",
+    "ads": true,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.shanksstudio.colorroadrunner&hl=en&gl=US",
+    "fetchedAt": "2026-10-22T20:24:54.147Z",
+    "sourceDate": "2026-10-22",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-04-16",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Apr 16, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.shanksstudio.colorroadrunner&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/6gPe8xwT7eJOGJdrQUfz65OyRU7wEx-Cyy21-Yn1Lg3zk-Ol60VJX7m8_AgmxQnf9tdtSMsWqxUBnHX6VAAJN44",
+    "categories": [
+      "hypercasual"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "hypercasual",
+        "excerpt": "hyper casual",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 5,
+    "installEvidence": {
+      "minInstalls": 5,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.simpleDev2048.StackMeYeah&hl=en&gl=US",
+      "fetchedAt": "2026-10-22T20:29:31.575Z"
+    },
+    "id": "com.simpleDev2048.StackMeYeah",
+    "title": "Stack Me Yeah!",
+    "subtitle": "Build the tallest tower in Stack Me Yeah!",
+    "description": "Build the tallest tower in Stack Me Yeah!",
+    "overviewEn": "Build the tallest tower in Stack Me Yeah!",
+    "genre": "Hypercasual",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "Stacking",
+      "Tap gameplay"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "Stacking",
+        "excerpt": "Stack",
+        "basis": "Official developer gameplay text"
+      },
+      {
+        "tag": "Tap gameplay",
+        "excerpt": "One-tap",
+        "basis": "Official developer gameplay text"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Nikita Brysenko",
+    "ads": true,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.simpleDev2048.StackMeYeah&hl=en&gl=US",
+    "fetchedAt": "2026-10-22T20:29:31.575Z",
+    "sourceDate": "2026-10-22",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-05-31",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "May 31, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.simpleDev2048.StackMeYeah&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/eVG1AOydazKBnHZJtY8qrK477gLgMA-jqQgk9WgB0OAdk2EpK51TnB6iveK6xAlSHZ9z5fkLPMHxnyKHBhgWYQ",
+    "categories": [
+      "hypercasual"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "hypercasual",
+        "excerpt": "hyper-casual",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 10,
+    "installEvidence": {
+      "minInstalls": 10,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.uikey.paintrollerpath3d&hl=en&gl=US",
+      "fetchedAt": "2026-10-22T21:51:45.465Z"
+    },
+    "id": "com.uikey.paintrollerpath3d",
+    "title": "Paint Roller Path 3D",
+    "subtitle": "Roll the paint, fill the path and avoid obstacles in this satisfying 3D game.",
+    "description": "Roll the paint, fill the path and avoid obstacles in this satisfying 3D game.",
+    "overviewEn": "Roll the paint, fill the path and avoid obstacles in this satisfying 3D game.",
+    "genre": "Hypercasual",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "UIKEY STUDIO",
+    "ads": true,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.uikey.paintrollerpath3d&hl=en&gl=US",
+    "fetchedAt": "2026-10-22T21:51:45.465Z",
+    "sourceDate": "2026-10-22",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2025-12-10",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Dec 10, 2025",
+      "url": "https://play.google.com/store/apps/details?id=com.uikey.paintrollerpath3d&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/WGHPzwN7uET09xp025BFgLgTgTfGSdq9v5XO7FzLZ_4QHxYEPnrJO_oTeAcPBaOx4AOmbzKOg_8x6MOXUDIA",
+    "categories": [
+      "hypercasual"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "hypercasual",
+        "excerpt": "hyper-casual",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 500000,
+    "installEvidence": {
+      "minInstalls": 500000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.horus.fair.shot&hl=en&gl=US",
+      "fetchedAt": "2026-10-22T23:07:42.930Z"
+    },
+    "id": "com.horus.fair.shot",
+    "title": "Fair Shot!",
+    "subtitle": "Throw balls, hit cans, win big!",
+    "description": "Throw balls, hit cans, win big!",
+    "overviewEn": "Throw balls, hit cans, win big!",
+    "genre": "Hypercasual",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "In-app purchases",
+      "Stacking",
+      "Physics puzzle",
+      "Tap gameplay"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      },
+      {
+        "tag": "Stacking",
+        "excerpt": "stack",
+        "basis": "Official developer gameplay text"
+      },
+      {
+        "tag": "Physics puzzle",
+        "excerpt": "Physics-based",
+        "basis": "Official developer gameplay text"
+      },
+      {
+        "tag": "Tap gameplay",
+        "excerpt": "one-tap",
+        "basis": "Official developer gameplay text"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Horus Ent HK",
+    "ads": true,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.horus.fair.shot&hl=en&gl=US",
+    "fetchedAt": "2026-10-22T23:07:42.930Z",
+    "sourceDate": "2026-10-22",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-07-10",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Jul 10, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.horus.fair.shot&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/lB9yHuhA34xP9p7CjZ8nMso42a2uttT4jvF--QPladQq1zwuxwb3KIQP1-_IO1NNxhqG5yieYAAtRxOooyRJ",
+    "categories": [
+      "hypercasual"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "hypercasual",
+        "excerpt": "Hypercasual",
+        "basis": "Official developer gameplay text"
+      }
+    ]
   }
 ]
