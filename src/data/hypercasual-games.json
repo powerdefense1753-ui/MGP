@@ -6469,5 +6469,1456 @@
         "basis": "Official developer gameplay text"
       }
     ]
+  },
+  {
+    "minInstalls": 5,
+    "installEvidence": {
+      "minInstalls": 5,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.StudioFlowish.MarbleRoll&hl=en&gl=US",
+      "fetchedAt": "2026-10-22T18:20:55.808Z"
+    },
+    "id": "com.StudioFlowish.MarbleRoll",
+    "title": "Marble Roll",
+    "subtitle": "Roll the marble through an endless path! Avoid obstacles and set the high score.",
+    "description": "Roll the marble through an endless path! Avoid obstacles and set the high score.",
+    "overviewEn": "Roll the marble through an endless path! Avoid obstacles and set the high score.",
+    "genre": "Hypercasual",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Studio Flowish",
+    "ads": true,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.StudioFlowish.MarbleRoll&hl=en&gl=US",
+    "fetchedAt": "2026-10-22T18:20:55.808Z",
+    "sourceDate": "2026-10-22",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-03-09",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Mar 9, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.StudioFlowish.MarbleRoll&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/kZqfOSMpAwBDE9SeoU5L-eFzC9mEdAzJ7SKgAx0oBF6wiD-ltfUzcaRU4idJ7c3eks_fQ8QDrT3dEPgwBgq_XWc",
+    "categories": [
+      "hypercasual"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "hypercasual",
+        "excerpt": "hyper-casual",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 5000,
+    "installEvidence": {
+      "minInstalls": 5000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.ashley.hidden.sniper&hl=en&gl=US",
+      "fetchedAt": "2026-10-22T18:33:44.050Z"
+    },
+    "id": "com.ashley.hidden.sniper",
+    "title": "Hidden Sniper",
+    "subtitle": "Spot the Camo and Shoot, Can you spot every hidden enemy?",
+    "description": "Spot the Camo and Shoot, Can you spot every hidden enemy?",
+    "overviewEn": "Spot the Camo and Shoot, Can you spot every hidden enemy?",
+    "genre": "Hypercasual",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "In-app purchases"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Ashley Technology Limited",
+    "ads": true,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.ashley.hidden.sniper&hl=en&gl=US",
+    "fetchedAt": "2026-10-22T18:33:44.050Z",
+    "sourceDate": "2026-10-22",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2025-12-14",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Dec 14, 2025",
+      "url": "https://play.google.com/store/apps/details?id=com.ashley.hidden.sniper&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/WEvt69ruRMCY91wYttl150K3vCuthTak-dVnEWHZXc25nUg6EYEGq0bOHt7pA92d-x5UUCm9eagzYfJq6o2huQ",
+    "categories": [
+      "hypercasual"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "hypercasual",
+        "excerpt": "hypercasual",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 5,
+    "installEvidence": {
+      "minInstalls": 5,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.turret_zombies&hl=en&gl=US",
+      "fetchedAt": "2026-10-22T18:34:29.428Z"
+    },
+    "id": "com.turret_zombies",
+    "title": "Turret & Zombies",
+    "subtitle": "Turret & Zombies is a hyper-casual, wave-based zombie defense game.",
+    "description": "Turret & Zombies is a hyper-casual, wave-based zombie defense game.",
+    "overviewEn": "Turret & Zombies is a hyper-casual, wave-based zombie defense game.",
+    "genre": "Hypercasual",
+    "world": "",
+    "tags": [
+      "Paid download",
+      "Android"
+    ],
+    "evidence": [
+      {
+        "tag": "Paid download",
+        "basis": "Google Play price",
+        "excerpt": "USD 2.99"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      }
+    ],
+    "price": "Paid download",
+    "priceValue": 2.99,
+    "priceCurrency": "USD",
+    "priceDisplay": "US$2.99",
+    "developer": "Studio Flowish",
+    "ads": null,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.turret_zombies&hl=en&gl=US",
+    "fetchedAt": "2026-10-22T18:34:29.428Z",
+    "sourceDate": "2026-10-22",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-05-04",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "May 4, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.turret_zombies&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/ZZ8WIBV40204PK1msY6zNY_AWnC4b_WA12eOhICxz7pFLGRBwB29tBQQawHZZrrACnTBK6KoMqTfP9tldmiezg",
+    "categories": [
+      "hypercasual"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "hypercasual",
+        "excerpt": "hyper-casual",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 10,
+    "installEvidence": {
+      "minInstalls": 10,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.iconifybeyond.stacktower&hl=en&gl=US",
+      "fetchedAt": "2026-10-22T19:52:14.712Z"
+    },
+    "id": "com.iconifybeyond.stacktower",
+    "title": "Stack Tower",
+    "subtitle": "Tap to stack. Miss and it crumbles. How high can your tower go?",
+    "description": "Tap to stack. Miss and it crumbles. How high can your tower go?",
+    "overviewEn": "Tap to stack. Miss and it crumbles. How high can your tower go?",
+    "genre": "Hypercasual",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "Stacking",
+      "Tap gameplay"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "Stacking",
+        "excerpt": "Stack",
+        "basis": "Official developer gameplay text"
+      },
+      {
+        "tag": "Tap gameplay",
+        "excerpt": "Tap to",
+        "basis": "Official developer gameplay text"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Iconify Beyond",
+    "ads": true,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.iconifybeyond.stacktower&hl=en&gl=US",
+    "fetchedAt": "2026-10-22T19:52:14.712Z",
+    "sourceDate": "2026-10-22",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-05-20",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "May 20, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.iconifybeyond.stacktower&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/zi90jXXdw_DdktqSQsyhIHNWbm6FsiQ7OzeF7Z2fMaTuaszud-8cNC2W6WduxgqzNP1DaOaLA04y4pOi2YPJ",
+    "categories": [
+      "hypercasual"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "hypercasual",
+        "excerpt": "hyper-casual",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 5000,
+    "installEvidence": {
+      "minInstalls": 5000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.devmint.stacktowerblast3d&hl=en&gl=US",
+      "fetchedAt": "2026-10-22T19:52:36.926Z"
+    },
+    "id": "com.devmint.stacktowerblast3d",
+    "title": "Stack Tower Blast 3D",
+    "subtitle": "Tap to stack blocks, blast the tower, and test your timing in this arcade game!",
+    "description": "Tap to stack blocks, blast the tower, and test your timing in this arcade game!",
+    "overviewEn": "Tap to stack blocks, blast the tower, and test your timing in this arcade game!",
+    "genre": "Hypercasual",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "Stacking",
+      "Tap gameplay"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "Stacking",
+        "excerpt": "Stack",
+        "basis": "Official developer gameplay text"
+      },
+      {
+        "tag": "Tap gameplay",
+        "excerpt": "Tap to",
+        "basis": "Official developer gameplay text"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Devmint Games",
+    "ads": true,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.devmint.stacktowerblast3d&hl=en&gl=US",
+    "fetchedAt": "2026-10-22T19:52:36.926Z",
+    "sourceDate": "2026-10-22",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-02-25",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Feb 25, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.devmint.stacktowerblast3d&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/DxJGuR22MSWNabrB37TEMeBy3K-BuyEx7XFSpNx4j52FE1PT6QRwqOJEoAzg66d7HLC-fpYyJG3UvLDERT1KEPg",
+    "categories": [
+      "hypercasual"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "hypercasual",
+        "excerpt": "hyper-casual",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 50,
+    "installEvidence": {
+      "minInstalls": 50,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.rasikhq.towerstackdelux&hl=en&gl=US",
+      "fetchedAt": "2026-10-22T19:52:52.495Z"
+    },
+    "id": "com.rasikhq.towerstackdelux",
+    "title": "Tower Stack",
+    "subtitle": "Stack falling blocks. Chase combos. One slip and it's over.",
+    "description": "Stack falling blocks. Chase combos. One slip and it's over.",
+    "overviewEn": "Stack falling blocks. Chase combos. One slip and it's over.",
+    "genre": "Hypercasual",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "Stacking",
+      "Tap gameplay"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "Stacking",
+        "excerpt": "Stack",
+        "basis": "Official developer gameplay text"
+      },
+      {
+        "tag": "Tap gameplay",
+        "excerpt": "one-tap",
+        "basis": "Official developer gameplay text"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "R&S::Apps",
+    "ads": true,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.rasikhq.towerstackdelux&hl=en&gl=US",
+    "fetchedAt": "2026-10-22T19:52:52.495Z",
+    "sourceDate": "2026-10-22",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-05-29",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "May 29, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.rasikhq.towerstackdelux&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/dRNbw4qqTr0aRFQaXAb4qjr8sgGykQq1il09FDP5RAT6s6OLtTNxaSOG0qgaHJ-_XQ4duPLk3zR_QdW5M0avmQ",
+    "categories": [
+      "hypercasual"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "hypercasual",
+        "excerpt": "hyper-casual",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 50,
+    "installEvidence": {
+      "minInstalls": 50,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.tapriquegames.stacktower&hl=en&gl=US",
+      "fetchedAt": "2026-10-22T19:53:01.248Z"
+    },
+    "id": "com.tapriquegames.stacktower",
+    "title": "Stack Tower 3D - Tap & Rise",
+    "subtitle": "Tap to stack blocks, build a sky-high 3D tower, and top the leaderboard!",
+    "description": "Tap to stack blocks, build a sky-high 3D tower, and top the leaderboard!",
+    "overviewEn": "Tap to stack blocks, build a sky-high 3D tower, and top the leaderboard!",
+    "genre": "Hypercasual",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "Stacking",
+      "Tap gameplay"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "Stacking",
+        "excerpt": "Stack",
+        "basis": "Official developer gameplay text"
+      },
+      {
+        "tag": "Tap gameplay",
+        "excerpt": "Tap to",
+        "basis": "Official developer gameplay text"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Taprique Games",
+    "ads": true,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.tapriquegames.stacktower&hl=en&gl=US",
+    "fetchedAt": "2026-10-22T19:53:01.248Z",
+    "sourceDate": "2026-10-22",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-07-05",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Jul 5, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.tapriquegames.stacktower&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/C6W07SMJgX9H1Pqn3oNHzvevcqsQxPb9d_qOhkh4oM6nQRAq5DqBiLMHKicC74Zu7HToUFWigbUpJ6vrbpAG",
+    "categories": [
+      "hypercasual"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "hypercasual",
+        "excerpt": "hyper-casual",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 100,
+    "installEvidence": {
+      "minInstalls": 100,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=in.yoursoft.stacko&hl=en&gl=US",
+      "fetchedAt": "2026-10-22T19:53:17.308Z"
+    },
+    "id": "in.yoursoft.stacko",
+    "title": "Stacko: Stack Block Blast",
+    "subtitle": "Stack blocks blast offline! Perfect timing tower puzzle. Play anytime, anywhere!",
+    "description": "Stack blocks blast offline! Perfect timing tower puzzle. Play anytime, anywhere!",
+    "overviewEn": "Stack blocks blast offline! Perfect timing tower puzzle. Play anytime, anywhere!",
+    "genre": "Hypercasual",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "Stacking",
+      "Sorting",
+      "Tap gameplay"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "Stacking",
+        "excerpt": "Stack",
+        "basis": "Official developer gameplay text"
+      },
+      {
+        "tag": "Sorting",
+        "excerpt": "Sort",
+        "basis": "Official developer gameplay text"
+      },
+      {
+        "tag": "Tap gameplay",
+        "excerpt": "One-Tap",
+        "basis": "Official developer gameplay text"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Uttam Panchasara",
+    "ads": true,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=in.yoursoft.stacko&hl=en&gl=US",
+    "fetchedAt": "2026-10-22T19:53:17.308Z",
+    "sourceDate": "2026-10-22",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2025-12-07",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Dec 7, 2025",
+      "url": "https://play.google.com/store/apps/details?id=in.yoursoft.stacko&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/mVdTGZ1ghWSL3PzWLcqrXKJc1hpnjhg-EKSGyCIugCaBQhInheOfkKDPG9u39GDtigv07f_F7PrauGXmGufQDQ",
+    "categories": [
+      "hypercasual"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "hypercasual",
+        "excerpt": "hyper-casual",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 50,
+    "installEvidence": {
+      "minInstalls": 50,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=es.hectorlr.hyperstack.hyperstack&hl=en&gl=US",
+      "fetchedAt": "2026-10-22T19:53:21.612Z"
+    },
+    "id": "es.hectorlr.hyperstack.hyperstack",
+    "title": "Stack Tower – Reflex Game",
+    "subtitle": "A fast-paced hyper-casual stacking game where perfect timing is everything.",
+    "description": "A fast-paced hyper-casual stacking game where perfect timing is everything.",
+    "overviewEn": "A fast-paced hyper-casual stacking game where perfect timing is everything.",
+    "genre": "Hypercasual",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "Stacking",
+      "Tap gameplay"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "Stacking",
+        "excerpt": "Stack",
+        "basis": "Official developer gameplay text"
+      },
+      {
+        "tag": "Tap gameplay",
+        "excerpt": "one-tap",
+        "basis": "Official developer gameplay text"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "HectorLR",
+    "ads": true,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=es.hectorlr.hyperstack.hyperstack&hl=en&gl=US",
+    "fetchedAt": "2026-10-22T19:53:21.612Z",
+    "sourceDate": "2026-10-22",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-01-12",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Jan 12, 2026",
+      "url": "https://play.google.com/store/apps/details?id=es.hectorlr.hyperstack.hyperstack&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/M5nLz3Ei-upWOIEXkTA0qI7cuGQdOMxerEMxFTtHs3SzbGgjvRwhpwKewzlhJ10xnfavnSA3HXaVjESbJ7fryA",
+    "categories": [
+      "hypercasual"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "hypercasual",
+        "excerpt": "hyper-casual",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 5,
+    "installEvidence": {
+      "minInstalls": 5,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.nextprocreations.stackrushtowergame&hl=en&gl=US",
+      "fetchedAt": "2026-10-22T19:53:28.715Z"
+    },
+    "id": "com.nextprocreations.stackrushtowergame",
+    "title": "Stack Rush: Tower Game",
+    "subtitle": "Stack blocks, chain combos, grab power-ups! Build the tallest tower",
+    "description": "Stack blocks, chain combos, grab power-ups! Build the tallest tower",
+    "overviewEn": "Stack blocks, chain combos, grab power-ups! Build the tallest tower",
+    "genre": "Hypercasual",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Stacking",
+      "Tap gameplay"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Stacking",
+        "excerpt": "Stack",
+        "basis": "Official developer gameplay text"
+      },
+      {
+        "tag": "Tap gameplay",
+        "excerpt": "one-tap",
+        "basis": "Official developer gameplay text"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "NextPro Creations",
+    "ads": null,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.nextprocreations.stackrushtowergame&hl=en&gl=US",
+    "fetchedAt": "2026-10-22T19:53:28.715Z",
+    "sourceDate": "2026-10-22",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-09-02",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Sep 2, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.nextprocreations.stackrushtowergame&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/AckNK4LGCNdFK7AETUY23xvEgf1yiFq4oMNaQVg-Q8St3lAmPYtREGfNwCX5Mnfd8_bXAhV-iUzbuA3hoadH7A",
+    "categories": [
+      "hypercasual"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "hypercasual",
+        "excerpt": "hyper-casual",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 10,
+    "installEvidence": {
+      "minInstalls": 10,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.stacking.game&hl=en&gl=US",
+      "fetchedAt": "2026-10-22T19:53:40.157Z"
+    },
+    "id": "com.stacking.game",
+    "title": "StacKing: Drop & Stack Tower",
+    "subtitle": "Drop it. Stack it. The ultimate hyper-casual stacking challenge!",
+    "description": "Drop it. Stack it. The ultimate hyper-casual stacking challenge!",
+    "overviewEn": "Drop it. Stack it. The ultimate hyper-casual stacking challenge!",
+    "genre": "Hypercasual",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "In-app purchases",
+      "Stacking"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      },
+      {
+        "tag": "Stacking",
+        "excerpt": "StacKing",
+        "basis": "Official developer gameplay text"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "KotalaDigital",
+    "ads": true,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.stacking.game&hl=en&gl=US",
+    "fetchedAt": "2026-10-22T19:53:40.157Z",
+    "sourceDate": "2026-10-22",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-09-04",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Sep 4, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.stacking.game&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/eccPAW_5L2CbhAREy7u5kmBsSdYNO_QdKIWdGbh1l56LywJRt8MgoORzZMYLzihNxZFshCoU21scuo0LBArMFFo",
+    "categories": [
+      "hypercasual"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "hypercasual",
+        "excerpt": "hyper-casual",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 100,
+    "installEvidence": {
+      "minInstalls": 100,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.premiumstack.game&hl=en&gl=US",
+      "fetchedAt": "2026-10-22T19:53:42.355Z"
+    },
+    "id": "com.premiumstack.game",
+    "title": "Stack",
+    "subtitle": "Build the tallest tower with perfect timing in this satisfying stack game.",
+    "description": "Build the tallest tower with perfect timing in this satisfying stack game.",
+    "overviewEn": "Build the tallest tower with perfect timing in this satisfying stack game.",
+    "genre": "Hypercasual",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "Stacking",
+      "Tap gameplay"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "Stacking",
+        "excerpt": "Stack",
+        "basis": "Official developer gameplay text"
+      },
+      {
+        "tag": "Tap gameplay",
+        "excerpt": "tap to",
+        "basis": "Official developer gameplay text"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Dragon's Games",
+    "ads": true,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.premiumstack.game&hl=en&gl=US",
+    "fetchedAt": "2026-10-22T19:53:42.355Z",
+    "sourceDate": "2026-10-22",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-03-27",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Mar 27, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.premiumstack.game&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/lEndwOOAPMRURTXev8RME0cQRYyOdYwbocC57jhjWwyP4OBUFc6pne1Ocfo909nzu_vGTlUWuxA6GUYRvHpcp5A",
+    "categories": [
+      "hypercasual"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "hypercasual",
+        "excerpt": "hypercasual",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 100,
+    "installEvidence": {
+      "minInstalls": 100,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.ColdfireHT.hamburgertower&hl=en&gl=US",
+      "fetchedAt": "2026-10-22T19:53:57.829Z"
+    },
+    "id": "com.ColdfireHT.hamburgertower",
+    "title": "Burger Tower: Stack & Defend",
+    "subtitle": "Stack the tallest burger, defend from monsters, and keep the tower balanced!",
+    "description": "Stack the tallest burger, defend from monsters, and keep the tower balanced!",
+    "overviewEn": "Stack the tallest burger, defend from monsters, and keep the tower balanced!",
+    "genre": "Hypercasual",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "Stacking",
+      "Physics puzzle"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "Stacking",
+        "excerpt": "Stack",
+        "basis": "Official developer gameplay text"
+      },
+      {
+        "tag": "Physics puzzle",
+        "excerpt": "Physics-based",
+        "basis": "Official developer gameplay text"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Coldfire Studio",
+    "ads": true,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.ColdfireHT.hamburgertower&hl=en&gl=US",
+    "fetchedAt": "2026-10-22T19:53:57.829Z",
+    "sourceDate": "2026-10-22",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2025-12-30",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Dec 30, 2025",
+      "url": "https://play.google.com/store/apps/details?id=com.ColdfireHT.hamburgertower&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/d_pfDoIPywRIYEqsJtALobxOuOj5GFJN_3p1dhUrGdu6Brpj3lE7b3KNxpEZicVsxqZ1OFuC_UJygZfhkqNw",
+    "categories": [
+      "hypercasual"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "hypercasual",
+        "excerpt": "hypercasual",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 10,
+    "installEvidence": {
+      "minInstalls": 10,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.istudioinc.stackelite&hl=en&gl=US",
+      "fetchedAt": "2026-10-22T19:54:17.876Z"
+    },
+    "id": "com.istudioinc.stackelite",
+    "title": "Stack Elite - 3D Block Puzzle",
+    "subtitle": "Stack Game, Tap to drop blocks, build 3D towers, Satisfying stack puzzle game.",
+    "description": "Stack Game, Tap to drop blocks, build 3D towers, Satisfying stack puzzle game.",
+    "overviewEn": "Stack Game, Tap to drop blocks, build 3D towers, Satisfying stack puzzle game.",
+    "genre": "Hypercasual",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "Match-3",
+      "Stacking",
+      "Tap gameplay"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "Match-3",
+        "excerpt": "match-3",
+        "basis": "Official developer gameplay text"
+      },
+      {
+        "tag": "Stacking",
+        "excerpt": "Stack",
+        "basis": "Official developer gameplay text"
+      },
+      {
+        "tag": "Tap gameplay",
+        "excerpt": "Tap to",
+        "basis": "Official developer gameplay text"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "iStudio Inc",
+    "ads": true,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.istudioinc.stackelite&hl=en&gl=US",
+    "fetchedAt": "2026-10-22T19:54:17.876Z",
+    "sourceDate": "2026-10-22",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-06-30",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Jun 30, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.istudioinc.stackelite&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/29IGMlrSq--jJClqk3H1KI3Zj_yL1rG9XKSOp_RH7FANY3RVAbhpeZRqky0XyHlquV9x_yhD0rbVdhgeJ7mC6g",
+    "categories": [
+      "hypercasual"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "match3",
+        "excerpt": "match-3",
+        "basis": "Official developer gameplay text"
+      },
+      {
+        "category": "hypercasual",
+        "excerpt": "hyper-casual",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 500,
+    "installEvidence": {
+      "minInstalls": 500,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.adonaycorp.stackblast&hl=en&gl=US",
+      "fetchedAt": "2026-10-22T19:54:20.084Z"
+    },
+    "id": "com.adonaycorp.stackblast",
+    "title": "StackBlast",
+    "subtitle": "Tap to stack! How high can you go in this addictive block tower game?",
+    "description": "Tap to stack! How high can you go in this addictive block tower game?",
+    "overviewEn": "Tap to stack! How high can you go in this addictive block tower game?",
+    "genre": "Hypercasual",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "Stacking",
+      "Tap gameplay"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "Stacking",
+        "excerpt": "stack",
+        "basis": "Official developer gameplay text"
+      },
+      {
+        "tag": "Tap gameplay",
+        "excerpt": "Tap to",
+        "basis": "Official developer gameplay text"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "AdonaySoft",
+    "ads": true,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.adonaycorp.stackblast&hl=en&gl=US",
+    "fetchedAt": "2026-10-22T19:54:20.084Z",
+    "sourceDate": "2026-10-22",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-02-24",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Feb 24, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.adonaycorp.stackblast&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/iPN6IxfukDwgbQM1rSZ2liAprrk0PTWnPJyDQQ_K6XPfakk303t2O0aolIEN2afrC2QvmTiu3G7h17UMVK00A84",
+    "categories": [
+      "hypercasual"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "hypercasual",
+        "excerpt": "hyper-casual",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 10,
+    "installEvidence": {
+      "minInstalls": 10,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=co.median.android.eekzlrq&hl=en&gl=US",
+      "fetchedAt": "2026-10-22T19:54:23.241Z"
+    },
+    "id": "co.median.android.eekzlrq",
+    "title": "STACK! Tower Rush",
+    "subtitle": "Build the tallest tower! Power-ups, epic worlds & leaderboard.",
+    "description": "Build the tallest tower! Power-ups, epic worlds & leaderboard.",
+    "overviewEn": "Build the tallest tower! Power-ups, epic worlds & leaderboard.",
+    "genre": "Hypercasual",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Stacking",
+      "Tap gameplay"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Stacking",
+        "excerpt": "STACK",
+        "basis": "Official developer gameplay text"
+      },
+      {
+        "tag": "Tap gameplay",
+        "excerpt": "Tap to",
+        "basis": "Official developer gameplay text"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "MonteCarlo News24",
+    "ads": null,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=co.median.android.eekzlrq&hl=en&gl=US",
+    "fetchedAt": "2026-10-22T19:54:23.241Z",
+    "sourceDate": "2026-10-22",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-07-27",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Jul 27, 2026",
+      "url": "https://play.google.com/store/apps/details?id=co.median.android.eekzlrq&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/4vmsJ1GyRv_pTSO_3vYEZbUibPQK05bS1m04f_1WMM8QBgMwYCJZ5uCparEWaHyFWywWgLWYHN2iT-IqNtyAvA",
+    "categories": [
+      "hypercasual"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "hypercasual",
+        "excerpt": "hyper-casual",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 100,
+    "installEvidence": {
+      "minInstalls": 100,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.mbsggamehouse.goldstack&hl=en&gl=US",
+      "fetchedAt": "2026-10-22T19:54:26.757Z"
+    },
+    "id": "com.mbsggamehouse.goldstack",
+    "title": "Gold Stack - Gold Score Stack",
+    "subtitle": "Build a golden tower with perfect timing in this addictive stack arcade game.",
+    "description": "Build a golden tower with perfect timing in this addictive stack arcade game.",
+    "overviewEn": "Build a golden tower with perfect timing in this addictive stack arcade game.",
+    "genre": "Hypercasual",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "Stacking",
+      "Tap gameplay"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "Stacking",
+        "excerpt": "Stack",
+        "basis": "Official developer gameplay text"
+      },
+      {
+        "tag": "Tap gameplay",
+        "excerpt": "one-tap",
+        "basis": "Official developer gameplay text"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "MBSG Game House",
+    "ads": true,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.mbsggamehouse.goldstack&hl=en&gl=US",
+    "fetchedAt": "2026-10-22T19:54:26.757Z",
+    "sourceDate": "2026-10-22",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2025-12-30",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Dec 30, 2025",
+      "url": "https://play.google.com/store/apps/details?id=com.mbsggamehouse.goldstack&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/yTZ7c5ofvQ16bPIUjiOP1iQXHuyvGVqpgGi8kh154nkj9TfW59deeGOmBtOrSDmA_JRCSmaS-CqYruJfgTeJDg",
+    "categories": [
+      "hypercasual"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "hypercasual",
+        "excerpt": "hyper casual",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 50,
+    "installEvidence": {
+      "minInstalls": 50,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.shanksstudio.tapstacktower&hl=en&gl=US",
+      "fetchedAt": "2026-10-22T19:54:31.855Z"
+    },
+    "id": "com.shanksstudio.tapstacktower",
+    "title": "Tap Stack Tower: Build Blocks",
+    "subtitle": "Build the ultimate tower! Stack blocks, reach the stars, and break your record.",
+    "description": "Build the ultimate tower! Stack blocks, reach the stars, and break your record.",
+    "overviewEn": "Build the ultimate tower! Stack blocks, reach the stars, and break your record.",
+    "genre": "Hypercasual",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "In-app purchases",
+      "Stacking",
+      "Tap gameplay"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      },
+      {
+        "tag": "Stacking",
+        "excerpt": "Stack",
+        "basis": "Official developer gameplay text"
+      },
+      {
+        "tag": "Tap gameplay",
+        "excerpt": "One-tap",
+        "basis": "Official developer gameplay text"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Shanks Studio",
+    "ads": true,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.shanksstudio.tapstacktower&hl=en&gl=US",
+    "fetchedAt": "2026-10-22T19:54:31.855Z",
+    "sourceDate": "2026-10-22",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-04-12",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Apr 12, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.shanksstudio.tapstacktower&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/XgOIxe30IzgpaA5GYWEWubEwJsSabCxySseN1R7Q7oF7B7yLpoCCEK2I8CPkxnV_oLgLazmZzZHR9m10_kYPOZs",
+    "categories": [
+      "hypercasual"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "hypercasual",
+        "excerpt": "hyper-casual",
+        "basis": "Official developer gameplay text"
+      }
+    ]
   }
 ]

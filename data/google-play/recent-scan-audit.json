@@ -4,21 +4,21 @@
     "to": "2026-10-12",
     "country": "US",
     "language": "en",
-    "candidates": 12550,
-    "checked": 13968,
-    "included": 1026,
+    "candidates": 12583,
+    "checked": 14009,
+    "included": 1035,
     "retainedOriginals": 11,
     "decisions": {
-      "outside-window": 1418,
-      "included": 1025,
+      "outside-window": 1421,
+      "included": 1034,
       "existing-curated": 11,
-      "not-strategy": 9945,
-      "unknown-release": 133,
+      "not-strategy": 9965,
+      "unknown-release": 134,
       "preregistration": 13,
       "fetch-failed": 5
     },
-    "discoveryQueries": 15395,
-    "completedAt": "2026-10-22T16:15:00.184Z",
+    "discoveryQueries": 15442,
+    "completedAt": "2026-10-22T19:51:28.359Z",
     "imageFailures": 0,
     "exhaustive": false,
     "method": "US-English public Google Play Strategy charts, keyword searches, recommendation links and developer catalogs; first release from Released on, not Updated on. Search and chart results are capped by Google Play. No claim of complete coverage."
@@ -76998,6 +76998,241 @@
       "key": "{\"type\":\"developer\",\"id\":\"8420686417087783905\"}",
       "count": 4,
       "fetchedAt": "2026-10-22T16:14:57.024Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.goldengodgames.interstellar\"}",
+      "count": 6,
+      "fetchedAt": "2026-10-22T17:32:37.803Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.HTGames.spaceconqer\"}",
+      "count": 6,
+      "fetchedAt": "2026-10-22T17:32:37.837Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.icestonesoft.thepodge.citysiege.partners\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T17:32:37.899Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.icestonesoft.thepodge.citysiege2resortsiege.partners\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T17:32:39.834Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.GoldenGodGames.PawsPremium\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T17:32:39.893Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.JamieParish.TheWanderer\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T17:32:39.972Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.goldengodgames.lorhaven\"}",
+      "count": 6,
+      "fetchedAt": "2026-10-22T17:32:41.813Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.GoldenGodGames.CommanderBugWars\"}",
+      "count": 6,
+      "fetchedAt": "2026-10-22T17:32:41.842Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.GoldenGodGames.PawsAgainstWorld\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T17:32:41.911Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.goldengodgames.zdawn\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T17:32:43.714Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.goldengodgames.ww2\"}",
+      "count": 12,
+      "fetchedAt": "2026-10-22T17:32:43.742Z"
+    },
+    {
+      "key": "{\"type\":\"developer\",\"id\":\"5881848563687780232\"}",
+      "count": 10,
+      "fetchedAt": "2026-10-22T17:32:43.910Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.goldengodgames.mutant\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T17:32:45.707Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.protopop.vandgels\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T17:32:45.789Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.goldengodgames.jurassic\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T17:32:45.795Z"
+    },
+    {
+      "key": "{\"type\":\"developer\",\"id\":\"Daeyong\"}",
+      "count": 1,
+      "fetchedAt": "2026-10-22T17:32:47.160Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.icestonesoft.antonfedoruk.siegeherovikingvengeance.partners\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T18:19:49.390Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"net.fantasy.kingdom\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T18:19:49.395Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.Kingdom.Siege\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T18:19:49.405Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.LancasterDigitalLDA.CruiserDuels\"}",
+      "count": 6,
+      "fetchedAt": "2026-10-22T18:19:50.701Z"
+    },
+    {
+      "key": "{\"type\":\"developer\",\"id\":\"Braza Games\"}",
+      "count": 1,
+      "fetchedAt": "2026-10-22T18:19:51.952Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.littlestories.warcastle\"}",
+      "count": 10,
+      "fetchedAt": "2026-10-22T19:05:24.410Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.icestonesoft.antonfedoruk.siegeheropiratepillage.partners\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T19:05:24.415Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.bobardo.conquerors\"}",
+      "count": 6,
+      "fetchedAt": "2026-10-22T19:05:24.423Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.LittleStories.DivinationQRCode\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T19:05:25.685Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.littlestories.multiland\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T19:05:25.718Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"ru.gigabyte_artur.gigabyte_artur\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T19:05:25.753Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.ronixgames.crazy.breakers\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T19:05:27.003Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.ronixgames.particle.war\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T19:05:27.023Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.LittleStories.ThrowCheckersHD\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T19:05:27.028Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.ronixgames.neon.army\"}",
+      "count": 10,
+      "fetchedAt": "2026-10-22T19:05:28.296Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.ronixgames.stickman.multiverse\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T19:05:28.300Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.ronixgames.grow.army\"}",
+      "count": 12,
+      "fetchedAt": "2026-10-22T19:05:28.306Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.cc.Smashero\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T19:05:29.528Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.bobardo.BikeToMine\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T19:05:29.532Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.RonixGames.Super.Hero.Ready\"}",
+      "count": 12,
+      "fetchedAt": "2026-10-22T19:05:29.601Z"
+    },
+    {
+      "key": "{\"type\":\"developer\",\"id\":\"6618077613454770174\"}",
+      "count": 5,
+      "fetchedAt": "2026-10-22T19:05:30.813Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.ffsvideogames.dc4aab\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T19:05:30.822Z"
+    },
+    {
+      "key": "{\"type\":\"developer\",\"id\":\"Ronix Games Studio\"}",
+      "count": 9,
+      "fetchedAt": "2026-10-22T19:05:30.882Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.bobardo.jalebshod\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T19:05:32.234Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"mecha.robot.mech.arena.fighting.games\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T19:51:22.593Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.officialintelligence.shipsofwar\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T19:51:22.713Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.BallisticTech.BallisticArmada\"}",
+      "count": 9,
+      "fetchedAt": "2026-10-22T19:51:22.755Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.BallisticTech.BallisticArmoredAssault\"}",
+      "count": 8,
+      "fetchedAt": "2026-10-22T19:51:24.046Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.BallisticTech.CowrieAwakening\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T19:51:24.053Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.BallisticTech.BallisticsDefence\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T19:51:24.063Z"
+    },
+    {
+      "key": "{\"type\":\"developer\",\"id\":\"7518146669390022576\"}",
+      "count": 4,
+      "fetchedAt": "2026-10-22T19:51:25.308Z"
     }
   ],
   "candidates": [
@@ -81361,7 +81596,8 @@
         "related:com.khelian.wilddefense",
         "related:com.bmmtbsgame",
         "search:asynchronous multiplayer strategy",
-        "search:small scale real time strategy"
+        "search:small scale real time strategy",
+        "related:com.goldengodgames.ww2"
       ]
     },
     {
@@ -81411,7 +81647,8 @@
         "related:com.hexwar.tankbattle1945",
         "related:com.khelian.wilddefense",
         "search:asynchronous multiplayer strategy",
-        "search:small scale real time strategy"
+        "search:small scale real time strategy",
+        "related:com.goldengodgames.ww2"
       ]
     },
     {
@@ -86713,7 +86950,8 @@
         "search:strategy space colonization 2025",
         "related:com.NullReferenceGames.Andromeda",
         "search:4X space strategy",
-        "search:space armada strategy offline"
+        "search:space armada strategy offline",
+        "related:com.HTGames.spaceconqer"
       ]
     },
     {
@@ -87146,7 +87384,8 @@
         "related:com.wfg.game",
         "related:com.miraclegame.wl.gp",
         "related:com.hexwar.tankbattleblitzkrieg",
-        "related:com.arcaneempire.realms.clash.magic.heroes"
+        "related:com.arcaneempire.realms.clash.magic.heroes",
+        "related:com.HTGames.spaceconqer"
       ]
     },
     {
@@ -95872,7 +96111,8 @@
         "related:com.bergames.countryballssurvival",
         "related:com.igindis.europeempire2027",
         "related:com.allbestgames.hex",
-        "related:com.FantasticaGames.DictatorsWarWorldConquest"
+        "related:com.FantasticaGames.DictatorsWarWorldConquest",
+        "related:com.goldengodgames.ww2"
       ]
     },
     {
@@ -96836,7 +97076,10 @@
         "related:com.igindis.empiressupremecommand",
         "related:com.allbestgames.hex",
         "related:com.hg.frozenfrontfree",
-        "related:com.FantasticaGames.DictatorsWarWorldConquest"
+        "related:com.FantasticaGames.DictatorsWarWorldConquest",
+        "related:com.HTGames.spaceconqer",
+        "related:com.LancasterDigitalLDA.CruiserDuels",
+        "related:com.BallisticTech.BallisticArmada"
       ]
     },
     {
@@ -99718,7 +99961,8 @@
         "search:fantasy army formation strategy",
         "related:com.singularprogrammer.hexareign",
         "related:com.arcaneempire.realms.clash.magic.heroes",
-        "related:com.global.acslg"
+        "related:com.global.acslg",
+        "related:com.LancasterDigitalLDA.CruiserDuels"
       ]
     },
     {
@@ -102049,7 +102293,9 @@
         "related:com.foreverplane.tankstd",
         "related:com.wfg.game",
         "related:com.NullReferenceGames.Andromeda",
-        "related:space.nexuslegacy.game"
+        "related:space.nexuslegacy.game",
+        "related:com.HTGames.spaceconqer",
+        "related:com.LancasterDigitalLDA.CruiserDuels"
       ]
     },
     {
@@ -102246,7 +102492,8 @@
         "developer:5846405876444943676",
         "related:com.Bluebottle.Battlecruisers",
         "search:tank idle defense crafting",
-        "related:pl.dronline.spaceshipbuilder"
+        "related:pl.dronline.spaceshipbuilder",
+        "related:com.BallisticTech.BallisticArmoredAssault"
       ]
     },
     {
@@ -104373,7 +104620,8 @@
         "related:com.orbital.space.defense",
         "related:com.veeking.IdleAntWar",
         "related:com.larks.x15.gplay",
-        "related:com.NullReferenceGames.Andromeda"
+        "related:com.NullReferenceGames.Andromeda",
+        "related:com.BallisticTech.BallisticArmoredAssault"
       ]
     },
     {
@@ -104402,7 +104650,8 @@
         "related:com.chillplay.overcore",
         "related:com.zone.zombie.defense",
         "related:com.devpixel.necrodefense",
-        "related:com.MrDog.TrapDefense"
+        "related:com.MrDog.TrapDefense",
+        "related:com.RonixGames.Super.Hero.Ready"
       ]
     },
     {
@@ -105435,7 +105684,8 @@
         "related:com.pulsar.game",
         "related:com.mecha.warrior.idle.tower.defense.games.td.strategy.robot.mech.space.sci.fi.base.alien",
         "related:com.catstudio.interstellar",
-        "related:com.foreverplane.tankstd"
+        "related:com.foreverplane.tankstd",
+        "related:com.LancasterDigitalLDA.CruiserDuels"
       ]
     },
     {
@@ -106804,7 +107054,8 @@
         "related:com.MallatEntertainment.Warforged",
         "related:com.voiddog.tetro.defence",
         "related:com.robinblood.cfh",
-        "related:com.singularprogrammer.hexareign"
+        "related:com.singularprogrammer.hexareign",
+        "related:com.littlestories.warcastle"
       ]
     },
     {
@@ -106911,7 +107162,9 @@
         "related:com.treetop.colonycommander",
         "related:com.pocketarena.castledefense",
         "related:com.white.castle.grow.tower.defence.heroes.magic.defense.necromancer",
-        "related:com.skyisland.mergesoldier.td.backpack.rush"
+        "related:com.skyisland.mergesoldier.td.backpack.rush",
+        "related:com.littlestories.warcastle",
+        "related:com.RonixGames.Super.Hero.Ready"
       ]
     },
     {
@@ -107377,7 +107630,9 @@
         "related:com.towerdefense.legend.kingdom",
         "search:strategy village defense 2025",
         "search:strategy dungeon defense heroes 2025",
-        "search:tower defense hero placement"
+        "search:tower defense hero placement",
+        "related:com.ronixgames.grow.army",
+        "related:com.RonixGames.Super.Hero.Ready"
       ]
     },
     {
@@ -107717,7 +107972,8 @@
         "related:army.war.merge.clash",
         "related:com.AntiBoundGames.CannonWreck",
         "search:strategy tank command 2026",
-        "related:com.hexwar.tankbattleeastfront"
+        "related:com.hexwar.tankbattleeastfront",
+        "related:com.BallisticTech.BallisticArmoredAssault"
       ]
     },
     {
@@ -110116,7 +110372,10 @@
         "related:com.khelian.color",
         "related:com.bergames.countryballs",
         "related:com.newdawn333.hexrealms",
-        "related:com.ahmeterkameker.globalcity"
+        "related:com.ahmeterkameker.globalcity",
+        "related:com.goldengodgames.ww2",
+        "related:com.LancasterDigitalLDA.CruiserDuels",
+        "related:com.BallisticTech.BallisticArmada"
       ]
     },
     {
@@ -110194,7 +110453,8 @@
         "related:com.samuraiwarlords.chess",
         "related:air.ru.vigr.heroes",
         "related:com.Jbm360.ArrowBattle",
-        "related:com.rtsoutpost.game"
+        "related:com.rtsoutpost.game",
+        "related:com.littlestories.warcastle"
       ]
     },
     {
@@ -110754,7 +111014,8 @@
         "related:com.igindis.latinamericaempire2027",
         "related:com.DenisMakhortov.ColdPath",
         "related:com.politory.mobile",
-        "related:com.newdawn333.hexrealms"
+        "related:com.newdawn333.hexrealms",
+        "related:com.littlestories.warcastle"
       ]
     },
     {
@@ -112197,7 +112458,10 @@
         "related:net.moderndefense",
         "related:com.hexwar.tankbattle1945",
         "related:com.NullReferenceGames.Andromeda",
-        "search:fleet formation strategy"
+        "search:fleet formation strategy",
+        "related:com.HTGames.spaceconqer",
+        "related:com.BallisticTech.BallisticArmada",
+        "related:com.BallisticTech.BallisticArmoredAssault"
       ]
     },
     {
@@ -112929,7 +113193,8 @@
         "related:com.hexwar.tankbattle1944",
         "related:com.hexwar.tankbattlepacific",
         "related:com.treetop.colonycommander",
-        "related:com.igindis.empiressupremecommand"
+        "related:com.igindis.empiressupremecommand",
+        "related:com.BallisticTech.BallisticArmada"
       ]
     },
     {
@@ -114772,7 +115037,8 @@
         "related:com.Wirraway.PacificFire",
         "related:com.gentledogcompany.dronewar",
         "related:com.hg.frozenfront",
-        "related:com.hg.frozenfrontfree"
+        "related:com.hg.frozenfrontfree",
+        "related:com.HTGames.spaceconqer"
       ]
     },
     {
@@ -116250,7 +116516,8 @@
         "related:com.playsidestudios.toywarfare",
         "related:skydragon.ylempire",
         "related:com.towerdefense.legend.kingdom",
-        "search:formation battle commander"
+        "search:formation battle commander",
+        "related:com.ronixgames.grow.army"
       ]
     },
     {
@@ -117391,7 +117658,8 @@
         "related:mobi.happytowers.gamepl",
         "related:com.newdawn333.hexrealms",
         "related:com.jcgame.winterclan.global",
-        "related:com.ahmeterkameker.globalcity"
+        "related:com.ahmeterkameker.globalcity",
+        "related:com.littlestories.warcastle"
       ]
     },
     {
@@ -118374,7 +118642,9 @@
         "related:com.DenisMakhortov.ColdPath",
         "related:com.FantasticaGames.DictatorsWarWorldConquest",
         "related:com.ahmeterkameker.globalcity",
-        "related:com.FantasticaGames.StickCastlesWar"
+        "related:com.FantasticaGames.StickCastlesWar",
+        "related:com.littlestories.warcastle",
+        "related:com.BallisticTech.BallisticArmada"
       ]
     },
     {
@@ -124846,7 +125116,8 @@
         "related:com.upjoy.wac.and",
         "related:com.movga.fleetcommand.gp",
         "related:com.movga.fleetcommand2.gp",
-        "search:stratégie bataille navale 2025"
+        "search:stratégie bataille navale 2025",
+        "related:com.BallisticTech.BallisticArmada"
       ]
     },
     {
@@ -133165,7 +133436,8 @@
       "discoveredVia": [
         "related:com.dragonest.autochessmini.google",
         "related:com.crtgame.primitive",
-        "related:com.SkrolikSStudioS.We.Are.Monsters"
+        "related:com.SkrolikSStudioS.We.Are.Monsters",
+        "related:com.LancasterDigitalLDA.CruiserDuels"
       ]
     },
     {
@@ -136103,7 +136375,8 @@
       "genreId": "GAME_ACTION",
       "url": "https://play.google.com/store/apps/details?id=com.fansipan.survivor.roguelike.casual.game&hl=en&gl=US",
       "discoveredVia": [
-        "related:com.and.wild.sur.victory"
+        "related:com.and.wild.sur.victory",
+        "related:com.ronixgames.grow.army"
       ]
     },
     {
@@ -151118,7 +151391,8 @@
         "related:com.stick.ragdoll.modern.battle",
         "related:bibogames.tank.tower.defense.zombie",
         "related:com.gmd.tottalybattlesimulatorwar",
-        "related:com.kimongames.dominus"
+        "related:com.kimongames.dominus",
+        "related:com.ronixgames.neon.army"
       ]
     },
     {
@@ -158105,7 +158379,8 @@
       "url": "https://play.google.com/store/apps/details?id=com.jundroo.simplerockets&hl=en&gl=US",
       "discoveredVia": [
         "related:com.herocraft.game.lite.st_ussr_usa",
-        "related:com.populusromanus"
+        "related:com.populusromanus",
+        "related:com.goldengodgames.ww2"
       ]
     },
     {
@@ -163683,7 +163958,8 @@
         "related:com.saber3d.trains",
         "related:com.LT.XTactics",
         "developer:8879797475457105992",
-        "search:dungeon party building strategy"
+        "search:dungeon party building strategy",
+        "related:com.ronixgames.grow.army"
       ]
     },
     {
@@ -174611,7 +174887,8 @@
       "url": "https://play.google.com/store/apps/details?id=com.OsOs.ArmoredHeroes&hl=en&gl=US",
       "discoveredVia": [
         "related:com.games.stick.ww1",
-        "related:com.herocraft.game.free.armorage"
+        "related:com.herocraft.game.free.armorage",
+        "related:com.BallisticTech.BallisticArmoredAssault"
       ]
     },
     {
@@ -185779,7 +186056,10 @@
       "genreId": "GAME_ADVENTURE",
       "url": "https://play.google.com/store/apps/details?id=com.MonsterPlanet.TowerGame&hl=en&gl=US",
       "discoveredVia": [
-        "search:ninja roguelike defense"
+        "search:ninja roguelike defense",
+        "related:com.ronixgames.neon.army",
+        "related:com.ronixgames.grow.army",
+        "related:com.RonixGames.Super.Hero.Ready"
       ]
     },
     {
@@ -226586,7 +226866,9 @@
       "genreId": "GAME_ACTION",
       "url": "https://play.google.com/store/apps/details?id=com.shadow.survival.rogue.action.shooter.game&hl=en&gl=US",
       "discoveredVia": [
-        "related:com.FunTrigger.UndeadVSDemon"
+        "related:com.FunTrigger.UndeadVSDemon",
+        "related:com.ronixgames.grow.army",
+        "related:com.RonixGames.Super.Hero.Ready"
       ]
     },
     {
@@ -227903,7 +228185,8 @@
       "genreId": "GAME_ACTION",
       "url": "https://play.google.com/store/apps/details?id=com.appon.epicbrawl&hl=en&gl=US",
       "discoveredVia": [
-        "related:com.cgstudio.heroestd"
+        "related:com.cgstudio.heroestd",
+        "related:com.RonixGames.Super.Hero.Ready"
       ]
     },
     {
@@ -258952,6 +259235,460 @@
       "url": "https://play.google.com/store/apps/details?id=com.empirewake.app&hl=en&gl=US",
       "discoveredVia": [
         "developer:8420686417087783905"
+      ]
+    },
+    {
+      "id": "com.GoldenGodGames.PawsPremium",
+      "title": "Paws Against the World Premium",
+      "decision": "not-strategy",
+      "released": "Dec 29, 2025",
+      "genre": "Action",
+      "genreId": "GAME_ACTION",
+      "url": "https://play.google.com/store/apps/details?id=com.GoldenGodGames.PawsPremium&hl=en&gl=US",
+      "discoveredVia": [
+        "related:com.goldengodgames.interstellar",
+        "related:com.goldengodgames.lorhaven",
+        "related:com.GoldenGodGames.CommanderBugWars",
+        "related:com.goldengodgames.ww2",
+        "developer:5881848563687780232"
+      ]
+    },
+    {
+      "id": "com.GoldenGodGames.PawsAgainstWorld",
+      "title": "Paws Against the World",
+      "decision": "not-strategy",
+      "released": "Dec 11, 2025",
+      "genre": "Action",
+      "genreId": "GAME_ACTION",
+      "url": "https://play.google.com/store/apps/details?id=com.GoldenGodGames.PawsAgainstWorld&hl=en&gl=US",
+      "discoveredVia": [
+        "related:com.goldengodgames.interstellar",
+        "related:com.goldengodgames.lorhaven",
+        "related:com.GoldenGodGames.CommanderBugWars",
+        "related:com.goldengodgames.ww2",
+        "developer:5881848563687780232"
+      ]
+    },
+    {
+      "id": "com.goldengodgames.lorhaven",
+      "title": "Lorhaven: Cursed War",
+      "decision": "included",
+      "released": "Jul 31, 2025",
+      "genre": "Strategy",
+      "genreId": "GAME_STRATEGY",
+      "url": "https://play.google.com/store/apps/details?id=com.goldengodgames.lorhaven&hl=en&gl=US",
+      "discoveredVia": [
+        "related:com.goldengodgames.interstellar",
+        "related:com.GoldenGodGames.CommanderBugWars",
+        "related:com.goldengodgames.ww2",
+        "developer:5881848563687780232"
+      ]
+    },
+    {
+      "id": "com.GoldenGodGames.CommanderBugWars",
+      "title": "Commander Bug Wars",
+      "decision": "included",
+      "released": "Dec 24, 2024",
+      "genre": "Strategy",
+      "genreId": "GAME_STRATEGY",
+      "url": "https://play.google.com/store/apps/details?id=com.GoldenGodGames.CommanderBugWars&hl=en&gl=US",
+      "discoveredVia": [
+        "related:com.goldengodgames.interstellar",
+        "related:com.goldengodgames.lorhaven",
+        "related:com.goldengodgames.ww2",
+        "developer:5881848563687780232"
+      ]
+    },
+    {
+      "id": "com.goldengodgames.ww2",
+      "title": "Commander: World War 2",
+      "decision": "outside-window",
+      "released": "Dec 23, 2023",
+      "genre": "Strategy",
+      "genreId": "GAME_STRATEGY",
+      "url": "https://play.google.com/store/apps/details?id=com.goldengodgames.ww2&hl=en&gl=US",
+      "discoveredVia": [
+        "related:com.goldengodgames.interstellar",
+        "related:com.goldengodgames.lorhaven",
+        "related:com.GoldenGodGames.CommanderBugWars",
+        "developer:5881848563687780232"
+      ]
+    },
+    {
+      "id": "com.goldengodgames.zdawn",
+      "title": "Z Dawn",
+      "decision": "not-strategy",
+      "released": "Nov 8, 2023",
+      "genre": "Simulation",
+      "genreId": "GAME_SIMULATION",
+      "url": "https://play.google.com/store/apps/details?id=com.goldengodgames.zdawn&hl=en&gl=US",
+      "discoveredVia": [
+        "related:com.goldengodgames.interstellar",
+        "related:com.goldengodgames.lorhaven",
+        "related:com.GoldenGodGames.CommanderBugWars",
+        "related:com.goldengodgames.ww2",
+        "developer:5881848563687780232"
+      ]
+    },
+    {
+      "id": "com.goldengodgames.interstellar",
+      "title": "Interstellar Conquest",
+      "decision": "outside-window",
+      "released": "Mar 14, 2024",
+      "genre": "Strategy",
+      "genreId": "GAME_STRATEGY",
+      "url": "https://play.google.com/store/apps/details?id=com.goldengodgames.interstellar&hl=en&gl=US",
+      "discoveredVia": [
+        "related:com.goldengodgames.lorhaven",
+        "related:com.GoldenGodGames.CommanderBugWars",
+        "related:com.goldengodgames.ww2",
+        "developer:5881848563687780232"
+      ]
+    },
+    {
+      "id": "com.protopop.vandgels",
+      "title": "Nimian Legends : Vandgels",
+      "decision": "not-strategy",
+      "released": "Sep 25, 2019",
+      "genre": "Role Playing",
+      "genreId": "GAME_ROLE_PLAYING",
+      "url": "https://play.google.com/store/apps/details?id=com.protopop.vandgels&hl=en&gl=US",
+      "discoveredVia": [
+        "related:com.goldengodgames.ww2"
+      ]
+    },
+    {
+      "id": "com.goldengodgames.jurassic",
+      "title": "Jurassic Clans",
+      "decision": "not-strategy",
+      "released": "Oct 14, 2023",
+      "genre": "Simulation",
+      "genreId": "GAME_SIMULATION",
+      "url": "https://play.google.com/store/apps/details?id=com.goldengodgames.jurassic&hl=en&gl=US",
+      "discoveredVia": [
+        "developer:5881848563687780232"
+      ]
+    },
+    {
+      "id": "com.goldengodgames.mutant",
+      "title": "Mutant Meltdown",
+      "decision": "not-strategy",
+      "released": "Oct 7, 2023",
+      "genre": "Role Playing",
+      "genreId": "GAME_ROLE_PLAYING",
+      "url": "https://play.google.com/store/apps/details?id=com.goldengodgames.mutant&hl=en&gl=US",
+      "discoveredVia": [
+        "developer:5881848563687780232"
+      ]
+    },
+    {
+      "id": "com.goldengodgames.pathsdanger",
+      "title": "Paths & Danger",
+      "decision": "not-strategy",
+      "released": "Oct 4, 2023",
+      "genre": "Role Playing",
+      "genreId": "GAME_ROLE_PLAYING",
+      "url": "https://play.google.com/store/apps/details?id=com.goldengodgames.pathsdanger&hl=en&gl=US",
+      "discoveredVia": [
+        "developer:5881848563687780232"
+      ]
+    },
+    {
+      "id": "com.HTGames.spaceconqer",
+      "title": "space conquer: Galaxy Strategy",
+      "decision": "included",
+      "released": "Oct 7, 2025",
+      "genre": "Strategy",
+      "genreId": "GAME_STRATEGY",
+      "url": "https://play.google.com/store/apps/details?id=com.HTGames.spaceconqer&hl=en&gl=US",
+      "discoveredVia": [
+        "developer:Daeyong"
+      ]
+    },
+    {
+      "id": "com.LancasterDigitalLDA.CruiserDuels",
+      "title": "Cruiser Duels: Sea Battles 1v1",
+      "decision": "included",
+      "released": "May 15, 2026",
+      "genre": "Strategy",
+      "genreId": "GAME_STRATEGY",
+      "url": "https://play.google.com/store/apps/details?id=com.LancasterDigitalLDA.CruiserDuels&hl=en&gl=US",
+      "discoveredVia": [
+        "developer:Braza Games"
+      ]
+    },
+    {
+      "id": "com.LittleStories.DivinationQRCode",
+      "title": "Divination by QR and barcode",
+      "decision": "not-strategy",
+      "released": "Jun 23, 2022",
+      "genre": "Lifestyle",
+      "genreId": "LIFESTYLE",
+      "url": "https://play.google.com/store/apps/details?id=com.LittleStories.DivinationQRCode&hl=en&gl=US",
+      "discoveredVia": [
+        "related:com.littlestories.warcastle",
+        "developer:6618077613454770174"
+      ]
+    },
+    {
+      "id": "com.littlestories.multiland",
+      "title": "Математика. Таблица умножения",
+      "decision": "not-strategy",
+      "released": "Jul 7, 2022",
+      "genre": "Education",
+      "genreId": "EDUCATION",
+      "url": "https://play.google.com/store/apps/details?id=com.littlestories.multiland&hl=en&gl=US",
+      "discoveredVia": [
+        "related:com.littlestories.warcastle",
+        "developer:6618077613454770174"
+      ]
+    },
+    {
+      "id": "ru.gigabyte_artur.gigabyte_artur",
+      "title": "Veritas",
+      "decision": "not-strategy",
+      "released": "Mar 26, 2019",
+      "genre": "Educational",
+      "genreId": "GAME_EDUCATIONAL",
+      "url": "https://play.google.com/store/apps/details?id=ru.gigabyte_artur.gigabyte_artur&hl=en&gl=US",
+      "discoveredVia": [
+        "related:com.littlestories.warcastle",
+        "developer:6618077613454770174"
+      ]
+    },
+    {
+      "id": "com.LittleStories.ThrowCheckersHD",
+      "title": "Throw checkers HD",
+      "decision": "not-strategy",
+      "released": "Oct 10, 2014",
+      "genre": "Board",
+      "genreId": "GAME_BOARD",
+      "url": "https://play.google.com/store/apps/details?id=com.LittleStories.ThrowCheckersHD&hl=en&gl=US",
+      "discoveredVia": [
+        "related:com.littlestories.warcastle",
+        "developer:6618077613454770174"
+      ]
+    },
+    {
+      "id": "com.ronixgames.particle.war",
+      "title": "Particle War",
+      "decision": "not-strategy",
+      "released": "Sep 22, 2026",
+      "genre": "Casual",
+      "genreId": "GAME_CASUAL",
+      "url": "https://play.google.com/store/apps/details?id=com.ronixgames.particle.war&hl=en&gl=US",
+      "discoveredVia": [
+        "related:com.bobardo.conquerors",
+        "related:com.ronixgames.neon.army",
+        "related:com.ronixgames.grow.army",
+        "related:com.RonixGames.Super.Hero.Ready",
+        "developer:Ronix Games Studio"
+      ]
+    },
+    {
+      "id": "com.ronixgames.crazy.breakers",
+      "title": "Crazy Breakers",
+      "decision": "not-strategy",
+      "released": "Sep 2, 2026",
+      "genre": "Arcade",
+      "genreId": "GAME_ARCADE",
+      "url": "https://play.google.com/store/apps/details?id=com.ronixgames.crazy.breakers&hl=en&gl=US",
+      "discoveredVia": [
+        "related:com.bobardo.conquerors",
+        "related:com.ronixgames.neon.army",
+        "related:com.ronixgames.grow.army",
+        "related:com.RonixGames.Super.Hero.Ready",
+        "developer:Ronix Games Studio"
+      ]
+    },
+    {
+      "id": "com.ronixgames.neon.army",
+      "title": "Neon Riot",
+      "decision": "included",
+      "released": "Jul 21, 2026",
+      "genre": "Strategy",
+      "genreId": "GAME_STRATEGY",
+      "url": "https://play.google.com/store/apps/details?id=com.ronixgames.neon.army&hl=en&gl=US",
+      "discoveredVia": [
+        "related:com.bobardo.conquerors",
+        "related:com.ronixgames.grow.army",
+        "related:com.RonixGames.Super.Hero.Ready",
+        "developer:Ronix Games Studio"
+      ]
+    },
+    {
+      "id": "com.ronixgames.grow.army",
+      "title": "Legion Quest",
+      "decision": "included",
+      "released": "Feb 18, 2026",
+      "genre": "Strategy",
+      "genreId": "GAME_STRATEGY",
+      "url": "https://play.google.com/store/apps/details?id=com.ronixgames.grow.army&hl=en&gl=US",
+      "discoveredVia": [
+        "related:com.bobardo.conquerors",
+        "related:com.ronixgames.neon.army",
+        "related:com.RonixGames.Super.Hero.Ready",
+        "developer:Ronix Games Studio"
+      ]
+    },
+    {
+      "id": "com.ronixgames.stickman.multiverse",
+      "title": "Stickman Multiverse",
+      "decision": "not-strategy",
+      "released": "Feb 9, 2026",
+      "genre": "Action",
+      "genreId": "GAME_ACTION",
+      "url": "https://play.google.com/store/apps/details?id=com.ronixgames.stickman.multiverse&hl=en&gl=US",
+      "discoveredVia": [
+        "related:com.bobardo.conquerors",
+        "related:com.ronixgames.neon.army",
+        "related:com.ronixgames.grow.army",
+        "related:com.RonixGames.Super.Hero.Ready",
+        "developer:Ronix Games Studio"
+      ]
+    },
+    {
+      "id": "com.RonixGames.Super.Hero.Ready",
+      "title": "Super Hero Ready!",
+      "decision": "included",
+      "released": "Oct 9, 2025",
+      "genre": "Strategy",
+      "genreId": "GAME_STRATEGY",
+      "url": "https://play.google.com/store/apps/details?id=com.RonixGames.Super.Hero.Ready&hl=en&gl=US",
+      "discoveredVia": [
+        "related:com.bobardo.conquerors",
+        "related:com.ronixgames.neon.army",
+        "related:com.ronixgames.grow.army",
+        "developer:Ronix Games Studio"
+      ]
+    },
+    {
+      "id": "com.bobardo.BikeToMine",
+      "title": "Bike to Mine",
+      "decision": "not-strategy",
+      "released": "Mar 13, 2025",
+      "genre": "Casual",
+      "genreId": "GAME_CASUAL",
+      "url": "https://play.google.com/store/apps/details?id=com.bobardo.BikeToMine&hl=en&gl=US",
+      "discoveredVia": [
+        "related:com.ronixgames.neon.army",
+        "related:com.ronixgames.grow.army",
+        "related:com.RonixGames.Super.Hero.Ready",
+        "developer:Ronix Games Studio"
+      ]
+    },
+    {
+      "id": "com.cc.Smashero",
+      "title": "Smashero.io - Hack n slash RPG",
+      "decision": "not-strategy",
+      "released": "Apr 25, 2024",
+      "genre": "Action",
+      "genreId": "GAME_ACTION",
+      "url": "https://play.google.com/store/apps/details?id=com.cc.Smashero&hl=en&gl=US",
+      "discoveredVia": [
+        "related:com.ronixgames.neon.army"
+      ]
+    },
+    {
+      "id": "com.ffsvideogames.dc4aab",
+      "title": "Dark City: Dublin",
+      "decision": "not-strategy",
+      "released": "Sep 13, 2022",
+      "genre": "Adventure",
+      "genreId": "GAME_ADVENTURE",
+      "url": "https://play.google.com/store/apps/details?id=com.ffsvideogames.dc4aab&hl=en&gl=US",
+      "discoveredVia": [
+        "related:com.ronixgames.neon.army"
+      ]
+    },
+    {
+      "id": "com.littlestories.warcastle",
+      "title": "Warcastle: Online 4X Strategy",
+      "decision": "unknown-release",
+      "released": null,
+      "genre": "Strategy",
+      "genreId": "GAME_STRATEGY",
+      "url": "https://play.google.com/store/apps/details?id=com.littlestories.warcastle&hl=en&gl=US",
+      "discoveredVia": [
+        "developer:6618077613454770174"
+      ]
+    },
+    {
+      "id": "com.bobardo.conquerors",
+      "title": "Lord of Castles: Takeover RTS",
+      "decision": "outside-window",
+      "released": "Jan 6, 2022",
+      "genre": "Strategy",
+      "genreId": "GAME_STRATEGY",
+      "url": "https://play.google.com/store/apps/details?id=com.bobardo.conquerors&hl=en&gl=US",
+      "discoveredVia": [
+        "developer:Ronix Games Studio"
+      ]
+    },
+    {
+      "id": "com.bobardo.jalebshod",
+      "title": "جالب شد : Tricky Brain Test",
+      "decision": "not-strategy",
+      "released": "Apr 27, 2020",
+      "genre": "Casual",
+      "genreId": "GAME_CASUAL",
+      "url": "https://play.google.com/store/apps/details?id=com.bobardo.jalebshod&hl=en&gl=US",
+      "discoveredVia": [
+        "developer:Ronix Games Studio"
+      ]
+    },
+    {
+      "id": "com.BallisticTech.CowrieAwakening",
+      "title": "Cowrie Awakening",
+      "decision": "not-strategy",
+      "released": "Jul 12, 2026",
+      "genre": "Puzzle",
+      "genreId": "GAME_PUZZLE",
+      "url": "https://play.google.com/store/apps/details?id=com.BallisticTech.CowrieAwakening&hl=en&gl=US",
+      "discoveredVia": [
+        "related:com.BallisticTech.BallisticArmada",
+        "related:com.BallisticTech.BallisticArmoredAssault",
+        "developer:7518146669390022576"
+      ]
+    },
+    {
+      "id": "com.BallisticTech.BallisticArmoredAssault",
+      "title": "Ballistic Armored Assault",
+      "decision": "included",
+      "released": "Apr 10, 2025",
+      "genre": "Strategy",
+      "genreId": "GAME_STRATEGY",
+      "url": "https://play.google.com/store/apps/details?id=com.BallisticTech.BallisticArmoredAssault&hl=en&gl=US",
+      "discoveredVia": [
+        "related:com.BallisticTech.BallisticArmada",
+        "developer:7518146669390022576"
+      ]
+    },
+    {
+      "id": "com.BallisticTech.BallisticsDefence",
+      "title": "Ballistic Defense",
+      "decision": "not-strategy",
+      "released": "Mar 4, 2019",
+      "genre": "Arcade",
+      "genreId": "GAME_ARCADE",
+      "url": "https://play.google.com/store/apps/details?id=com.BallisticTech.BallisticsDefence&hl=en&gl=US",
+      "discoveredVia": [
+        "related:com.BallisticTech.BallisticArmada",
+        "related:com.BallisticTech.BallisticArmoredAssault",
+        "developer:7518146669390022576"
+      ]
+    },
+    {
+      "id": "com.BallisticTech.BallisticArmada",
+      "title": "Ballistic Armada: Warships",
+      "decision": "included",
+      "released": "Oct 14, 2024",
+      "genre": "Strategy",
+      "genreId": "GAME_STRATEGY",
+      "url": "https://play.google.com/store/apps/details?id=com.BallisticTech.BallisticArmada&hl=en&gl=US",
+      "discoveredVia": [
+        "related:com.BallisticTech.BallisticArmoredAssault",
+        "developer:7518146669390022576"
       ]
     }
   ],

@@ -14844,6 +14844,66 @@
     "iconSourceUrl": "https://play-lh.googleusercontent.com/Y1gp_4hEgEkwRSbC9RqmCAW8mixQXBQ-O-RUG_9tgGpoEM19SzQ6YvcH9EiSm7e8183QGvcp-B4nFU1MHFAy"
   },
   {
+    "minInstalls": 1,
+    "installEvidence": {
+      "minInstalls": 1,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.ronixgames.neon.army&hl=en&gl=US",
+      "fetchedAt": "2026-10-22T19:05:28.295Z"
+    },
+    "id": "com.ronixgames.neon.army",
+    "title": "Neon Riot",
+    "subtitle": "Build your neon army, clear checkpoints, and defeat the ultimate Boss!",
+    "description": "Build your neon army, clear checkpoints, and defeat the ultimate Boss!",
+    "overviewEn": "Build your neon army, clear checkpoints, and defeat the ultimate Boss!",
+    "genre": "Strategy",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Ronix Games Studio",
+    "ads": true,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.ronixgames.neon.army&hl=en&gl=US",
+    "fetchedAt": "2026-10-22T19:05:28.295Z",
+    "sourceDate": "2026-10-22",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-07-21",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Jul 21, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.ronixgames.neon.army&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/Jx4DocPPojZSjfP0_AiBITf7irscZlvYjpOFPeodxFYR9RpQIhKHsxbsjfpXDidy6o5mxPty9CE7_MeD9xrWrI8"
+  },
+  {
     "minInstalls": 10,
     "installEvidence": {
       "minInstalls": 10,
@@ -24502,6 +24562,72 @@
     "catalog": "recent",
     "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
     "iconSourceUrl": "https://play-lh.googleusercontent.com/mrHm8QQym4JbnhNPiwVEVjaUTBslpaZddxGRmANtwrDBpuPjsBAaHlWVEHx6QW7pKzng7kc9RJWGlb8RLQv8Dw"
+  },
+  {
+    "minInstalls": 10000,
+    "installEvidence": {
+      "minInstalls": 10000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.LancasterDigitalLDA.CruiserDuels&hl=en&gl=US",
+      "fetchedAt": "2026-10-22T18:19:50.699Z"
+    },
+    "id": "com.LancasterDigitalLDA.CruiserDuels",
+    "title": "Cruiser Duels: Sea Battles 1v1",
+    "subtitle": "Turn-based naval combat where players move and shoot simultaneously.",
+    "description": "Turn-based naval combat where players move and shoot simultaneously.",
+    "overviewEn": "Turn-based naval combat where players move and shoot simultaneously.",
+    "genre": "Turn-based",
+    "world": "",
+    "tags": [
+      "Turn-based",
+      "Free download",
+      "Android",
+      "In-app purchases"
+    ],
+    "evidence": [
+      {
+        "tag": "Turn-based",
+        "basis": "Developer summary keyword mapping",
+        "excerpt": "Turn-based naval combat where players move and shoot simultaneously."
+      },
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Braza Games",
+    "ads": null,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.LancasterDigitalLDA.CruiserDuels&hl=en&gl=US",
+    "fetchedAt": "2026-10-22T18:19:50.699Z",
+    "sourceDate": "2026-10-22",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-05-15",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "May 15, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.LancasterDigitalLDA.CruiserDuels&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/Wtbin93PqRk5x1Pr_9hmJMzD9qI9N4cLIGGa8GPU4m9fQls36_98Ngkr_rgMUmB_m0gW-WPEcpOsR5gv4Ku5ZA"
   },
   {
     "minInstalls": 5000,
@@ -34186,6 +34312,60 @@
     "catalog": "recent",
     "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
     "iconSourceUrl": "https://play-lh.googleusercontent.com/fi6LmKTjWewMWXr44OZdQIDE7vpaYk4-hWQuZX3DIYirw7ZENddWEnZqti08rkK91I0IlcfQUeG0NBb04BYI_A"
+  },
+  {
+    "minInstalls": 500,
+    "installEvidence": {
+      "minInstalls": 500,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.ronixgames.grow.army&hl=en&gl=US",
+      "fetchedAt": "2026-10-22T19:05:28.306Z"
+    },
+    "id": "com.ronixgames.grow.army",
+    "title": "Legion Quest",
+    "subtitle": "Defeat enemies, grow your legion, and reclaim ancient lands in strategic battle.",
+    "description": "Defeat enemies, grow your legion, and reclaim ancient lands in strategic battle.",
+    "overviewEn": "Defeat enemies, grow your legion, and reclaim ancient lands in strategic battle.",
+    "genre": "Strategy",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Ronix Games Studio",
+    "ads": null,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.ronixgames.grow.army&hl=en&gl=US",
+    "fetchedAt": "2026-10-22T19:05:28.306Z",
+    "sourceDate": "2026-10-22",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-02-18",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Feb 18, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.ronixgames.grow.army&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/egP-qq4zTM_xfPi-TQrr9Usr-OQJWFS5IAMAz0AVCvSzm4xXfdELCcXKkmWxFfrI6i52C1it-DaeVrum2puN"
   },
   {
     "minInstalls": 10000,
@@ -45492,6 +45672,66 @@
     "iconSourceUrl": "https://play-lh.googleusercontent.com/ccFjYydPnIP4W3tPG2UdFPOyfrXjDehBwim7kKaZ8FTevqaDSTtfj8tSzUghxRe2NVvlQLul6JEaR2q8QvlIXw"
   },
   {
+    "minInstalls": 100,
+    "installEvidence": {
+      "minInstalls": 100,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.RonixGames.Super.Hero.Ready&hl=en&gl=US",
+      "fetchedAt": "2026-10-22T19:05:29.600Z"
+    },
+    "id": "com.RonixGames.Super.Hero.Ready",
+    "title": "Super Hero Ready!",
+    "subtitle": "Defend Earth with heroes! Build your team, stop enemies, and save the world!",
+    "description": "Defend Earth with heroes! Build your team, stop enemies, and save the world!",
+    "overviewEn": "Defend Earth with heroes! Build your team, stop enemies, and save the world!",
+    "genre": "Strategy",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Ronix Games Studio",
+    "ads": true,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.RonixGames.Super.Hero.Ready&hl=en&gl=US",
+    "fetchedAt": "2026-10-22T19:05:29.600Z",
+    "sourceDate": "2026-10-22",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2025-10-09",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Oct 9, 2025",
+      "url": "https://play.google.com/store/apps/details?id=com.RonixGames.Super.Hero.Ready&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/tgWiI7CNkOhDJj86N8MCt4422w_PKJpjyc1CgMFe0YhgweJ51wtrIWSq3E2af1UYQF_FJ0OhaG09oTfw1-NW_nI"
+  },
+  {
     "minInstalls": 10,
     "installEvidence": {
       "minInstalls": 10,
@@ -45724,6 +45964,66 @@
     "catalog": "recent",
     "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
     "iconSourceUrl": "https://play-lh.googleusercontent.com/iQdynMz1CTIQxcItRj3PuQNH8MouRXvj-ZEE472GcsJeut2By_5rtHF53qC2HR7xsumlqMnWq2BrR1UzM_LK"
+  },
+  {
+    "minInstalls": 100,
+    "installEvidence": {
+      "minInstalls": 100,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.HTGames.spaceconqer&hl=en&gl=US",
+      "fetchedAt": "2026-10-22T17:32:37.836Z"
+    },
+    "id": "com.HTGames.spaceconqer",
+    "title": "space conquer: Galaxy Strategy",
+    "subtitle": "Command your fleet to conquer planets and blast enemy ships with cannons!",
+    "description": "Command your fleet to conquer planets and blast enemy ships with cannons!",
+    "overviewEn": "Command your fleet to conquer planets and blast enemy ships with cannons!",
+    "genre": "Strategy",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Daeyong",
+    "ads": true,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.HTGames.spaceconqer&hl=en&gl=US",
+    "fetchedAt": "2026-10-22T17:32:37.836Z",
+    "sourceDate": "2026-10-22",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2025-10-07",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Oct 7, 2025",
+      "url": "https://play.google.com/store/apps/details?id=com.HTGames.spaceconqer&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/zcuRq4Twc-N46UWfTdpfg_LwxzaJiWT5Y4uXVpnNs0v4Gk1jkceS9gH45-cJyglzRQGuXODaL8FP9zKwmPyJ6A"
   },
   {
     "minInstalls": 10000,
@@ -50278,6 +50578,60 @@
     "catalog": "recent",
     "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
     "iconSourceUrl": "https://play-lh.googleusercontent.com/buXMNvUlMb0UBfwNztw5C9Zrd4ts9Bx8YedyNAVVXZ1CTLX4sviKfY2IlMElpmYnqaIr1gwk0IOSxynM5pSyAA"
+  },
+  {
+    "minInstalls": 500,
+    "installEvidence": {
+      "minInstalls": 500,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.goldengodgames.lorhaven&hl=en&gl=US",
+      "fetchedAt": "2026-10-22T17:32:41.812Z"
+    },
+    "id": "com.goldengodgames.lorhaven",
+    "title": "Lorhaven: Cursed War",
+    "subtitle": "Command your castle, every decision will shape the outcome of the war.",
+    "description": "Command your castle, every decision will shape the outcome of the war.",
+    "overviewEn": "Command your castle, every decision will shape the outcome of the war.",
+    "genre": "Strategy",
+    "world": "",
+    "tags": [
+      "Paid download",
+      "Android"
+    ],
+    "evidence": [
+      {
+        "tag": "Paid download",
+        "basis": "Google Play price",
+        "excerpt": "USD 4"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      }
+    ],
+    "price": "Paid download",
+    "priceValue": 4,
+    "priceCurrency": "USD",
+    "priceDisplay": "US$4.00",
+    "developer": "GoldenGod Games",
+    "ads": null,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.goldengodgames.lorhaven&hl=en&gl=US",
+    "fetchedAt": "2026-10-22T17:32:41.812Z",
+    "sourceDate": "2026-10-22",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2025-07-31",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Jul 31, 2025",
+      "url": "https://play.google.com/store/apps/details?id=com.goldengodgames.lorhaven&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/yH_lxh0374SqFw4QZPWUr6U2D7YXbf0EK0YlRV2-SrdPd1b-2LiqNWvySLutrQB_wS3PeP1vcMHoO96UYXbKjjY"
   },
   {
     "minInstalls": 100000,
@@ -57522,6 +57876,72 @@
     "iconSourceUrl": "https://play-lh.googleusercontent.com/BcffG8lpAJ_hBOh-140bX9hL-Lt05uQmRW6PIcRwcSNCHV_eAifNQB3bGY1maTd-3f_jZjF5NLKncNzWCPXKyg"
   },
   {
+    "minInstalls": 10000,
+    "installEvidence": {
+      "minInstalls": 10000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.BallisticTech.BallisticArmoredAssault&hl=en&gl=US",
+      "fetchedAt": "2026-10-22T19:51:24.046Z"
+    },
+    "id": "com.BallisticTech.BallisticArmoredAssault",
+    "title": "Ballistic Armored Assault",
+    "subtitle": "Command legendary tanks, jets, and unleash firepower in epic ground battles!",
+    "description": "Command legendary tanks, jets, and unleash firepower in epic ground battles!",
+    "overviewEn": "Command legendary tanks, jets, and unleash firepower in epic ground battles!",
+    "genre": "Strategy",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "In-app purchases"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "BALLISTIC",
+    "ads": true,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.BallisticTech.BallisticArmoredAssault&hl=en&gl=US",
+    "fetchedAt": "2026-10-22T19:51:24.046Z",
+    "sourceDate": "2026-10-22",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2025-04-10",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Apr 10, 2025",
+      "url": "https://play.google.com/store/apps/details?id=com.BallisticTech.BallisticArmoredAssault&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/Ay3iDNaiKrEGK5iVUlY7mZJEVS303W2cq9Lfjt4sX3KnLi3-Rer8ekwd9AJPRn0QeHgIzPxqXAFSrlrjs_Z0rA"
+  },
+  {
     "minInstalls": 500000,
     "installEvidence": {
       "minInstalls": 500000,
@@ -64593,6 +65013,60 @@
     "minInstalls": 50,
     "installEvidence": {
       "minInstalls": 50,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.GoldenGodGames.CommanderBugWars&hl=en&gl=US",
+      "fetchedAt": "2026-10-22T17:32:41.841Z"
+    },
+    "id": "com.GoldenGodGames.CommanderBugWars",
+    "title": "Commander Bug Wars",
+    "subtitle": "Lead your infantry, tanks, aircraft, and ships through intense battles.",
+    "description": "Lead your infantry, tanks, aircraft, and ships through intense battles.",
+    "overviewEn": "Lead your infantry, tanks, aircraft, and ships through intense battles.",
+    "genre": "Strategy",
+    "world": "",
+    "tags": [
+      "Paid download",
+      "Android"
+    ],
+    "evidence": [
+      {
+        "tag": "Paid download",
+        "basis": "Google Play price",
+        "excerpt": "USD 4"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      }
+    ],
+    "price": "Paid download",
+    "priceValue": 4,
+    "priceCurrency": "USD",
+    "priceDisplay": "US$4.00",
+    "developer": "GoldenGod Games",
+    "ads": null,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.GoldenGodGames.CommanderBugWars&hl=en&gl=US",
+    "fetchedAt": "2026-10-22T17:32:41.841Z",
+    "sourceDate": "2026-10-22",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2024-12-24",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Dec 24, 2024",
+      "url": "https://play.google.com/store/apps/details?id=com.GoldenGodGames.CommanderBugWars&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/c8XbcQqeKNAd6IFtqPsJWRJDN3_4En3OOZnXgM8rLAAJIOQvJSIhdlQ7YasKZR6uK8EZbThFCCOQ7x8hsoTwTQ"
+  },
+  {
+    "minInstalls": 50,
+    "installEvidence": {
+      "minInstalls": 50,
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.hrs1094.hitit&hl=en&gl=US",
       "fetchedAt": "2026-10-13T04:10:56.257Z"
     },
@@ -69088,6 +69562,72 @@
     "catalog": "recent",
     "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
     "iconSourceUrl": "https://play-lh.googleusercontent.com/QoUNAOx14w4EDaBhqUN4bzi4NEsmf2sYVAWrb6cZURvfoEO9pIG8fuCh3eXIQ5wIAd8bhKE6tCF_o4oDywMCgQ"
+  },
+  {
+    "minInstalls": 10000,
+    "installEvidence": {
+      "minInstalls": 10000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.BallisticTech.BallisticArmada&hl=en&gl=US",
+      "fetchedAt": "2026-10-22T19:51:22.754Z"
+    },
+    "id": "com.BallisticTech.BallisticArmada",
+    "title": "Ballistic Armada: Warships",
+    "subtitle": "Command a powerful navy in thrilling naval warfare! Attack enemies and conquer!",
+    "description": "Command a powerful navy in thrilling naval warfare! Attack enemies and conquer!",
+    "overviewEn": "Command a powerful navy in thrilling naval warfare! Attack enemies and conquer!",
+    "genre": "Strategy",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "In-app purchases"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "BALLISTIC",
+    "ads": true,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.BallisticTech.BallisticArmada&hl=en&gl=US",
+    "fetchedAt": "2026-10-22T19:51:22.754Z",
+    "sourceDate": "2026-10-22",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2024-10-14",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Oct 14, 2024",
+      "url": "https://play.google.com/store/apps/details?id=com.BallisticTech.BallisticArmada&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/Ru8QfuoVKrs4pVxahpM7adwIWW395SYFwK0TbavfMvddt0so4IadKn3Wl8dX1VwlEo_4IkiMX7h-tG_Uj-6w"
   },
   {
     "minInstalls": 50000,
