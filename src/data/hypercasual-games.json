@@ -5722,5 +5722,157 @@
         "basis": "Official developer gameplay text"
       }
     ]
+  },
+  {
+    "minInstalls": 50000,
+    "installEvidence": {
+      "minInstalls": 50000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.tummygames.dinosurf&hl=en&gl=US",
+      "fetchedAt": "2026-10-22T08:56:22.937Z"
+    },
+    "id": "com.tummygames.dinosurf",
+    "title": "Time Surfer Evolution",
+    "subtitle": "Launch, surf, upgrade! Ride farther in a wild Jurassic world",
+    "description": "Launch, surf, upgrade! Ride farther in a wild Jurassic world",
+    "overviewEn": "Launch, surf, upgrade! Ride farther in a wild Jurassic world",
+    "genre": "Hypercasual",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "In-app purchases"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "TabTale",
+    "ads": true,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.tummygames.dinosurf&hl=en&gl=US",
+    "fetchedAt": "2026-10-22T08:56:22.937Z",
+    "sourceDate": "2026-10-22",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2025-12-30",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Dec 30, 2025",
+      "url": "https://play.google.com/store/apps/details?id=com.tummygames.dinosurf&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/LX10c70DALjuZMQUVJ8dkXCD3U4q_sA87WUtjdXt_neKWYNK2J3S2QLfXHTWnXWi_UHYgCovYnA2Z_DpHeS4ySE",
+    "categories": [
+      "hypercasual"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "hypercasual",
+        "excerpt": "hyper-casual",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 100,
+    "installEvidence": {
+      "minInstalls": 100,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=jp.co.techqiao.matador3d&hl=en&gl=US",
+      "fetchedAt": "2026-10-22T08:57:15.222Z"
+    },
+    "id": "jp.co.techqiao.matador3d",
+    "title": "Matador 3D!",
+    "subtitle": "One tap to dodge! Feel the rush of last-second bull dodging.",
+    "description": "One tap to dodge! Feel the rush of last-second bull dodging.",
+    "overviewEn": "One tap to dodge! Feel the rush of last-second bull dodging.",
+    "genre": "Hypercasual",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "Tap gameplay"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "Tap gameplay",
+        "excerpt": "One tap",
+        "basis": "Official developer gameplay text"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "TechQiao Inc.",
+    "ads": true,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=jp.co.techqiao.matador3d&hl=en&gl=US",
+    "fetchedAt": "2026-10-22T08:57:15.222Z",
+    "sourceDate": "2026-10-22",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-05-28",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "May 28, 2026",
+      "url": "https://play.google.com/store/apps/details?id=jp.co.techqiao.matador3d&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/5gLLsoGtMH5BKK1-tJuDujlETXY5l0E70DjM-6i9f1dJb37rcrDmBCrp2yM7XRXBSF8uYDDELkSlPAX8dN2bzg",
+    "categories": [
+      "hypercasual"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "hypercasual",
+        "excerpt": "hyper casual",
+        "basis": "Official developer gameplay text"
+      }
+    ]
   }
 ]

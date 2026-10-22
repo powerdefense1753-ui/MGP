@@ -49262,6 +49262,45 @@
     "url": "https://play.google.com/store/apps/details?id=com.gf.bus.driving.game&hl=en&gl=US",
     "fetchedAt": "2026-10-20T09:15:21.810Z"
   },
+  "com.MrDog.TrapDefense": {
+    "appId": "com.MrDog.TrapDefense",
+    "title": "Trap Defense",
+    "summary": "Tower Defense game",
+    "installs": "1+",
+    "minInstalls": 1,
+    "score": null,
+    "ratings": null,
+    "price": 0.49,
+    "free": false,
+    "currency": "USD",
+    "priceText": "$0.49",
+    "offersIAP": false,
+    "adSupported": false,
+    "developer": "Mr Dog",
+    "developerId": "Mr+Dog",
+    "developerInternalID": "Mr+Dog",
+    "genre": "Strategy",
+    "genreId": "GAME_STRATEGY",
+    "categories": [
+      {
+        "name": "Strategy",
+        "id": "GAME_STRATEGY"
+      }
+    ],
+    "icon": "https://play-lh.googleusercontent.com/1qmSLSZULqjHMXnxxTLuSfavtc6vQdT1B-AmoDWa-8bBm996rkB_f3FYfd72nyhmv1Zj6l1-h_2kGrct1VbZfi4",
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/7PjzS4JMyhH5ohjiWHDanThc-4RiDUd1wgNl5WoZsKD0PR162h3rfpzGFyfy_v-0IVMf-gTn8bhG3tm2kuKm",
+      "https://play-lh.googleusercontent.com/w7WEgA_l5cExldrkzS1FE2jdWpVyhdZaZRe78or5GrFz1iIA_FEiDiCM9l2BP4oXludgSEWwKQin2P-6Qe4fnw",
+      "https://play-lh.googleusercontent.com/Cz3aJtN-qHw2VqRYUxz5Bb-lAr1TRU5zlj9UueFzsJbu9mZLu-zuk-WhxKUFUCtvT2gq7ouwTulAVcswloIUhvw",
+      "https://play-lh.googleusercontent.com/GCNe8WqopfgdRP7iEIpAnyWbVU1_leMatd0AXCwh5siUBXd2y7fbtvHosAEpyGEOKs6N3t_L3l2iczpRXJ2a"
+    ],
+    "released": "Feb 10, 2025",
+    "updated": 1760023240000,
+    "preregister": false,
+    "earlyAccessEnabled": false,
+    "url": "https://play.google.com/store/apps/details?id=com.MrDog.TrapDefense&hl=en&gl=US",
+    "fetchedAt": "2026-10-22T09:42:05.816Z"
+  },
   "com.vf.frozenwar": {
     "appId": "com.vf.frozenwar",
     "title": "Frost War: Survival",

@@ -4,21 +4,21 @@
     "to": "2026-10-12",
     "country": "US",
     "language": "en",
-    "candidates": 12206,
-    "checked": 12918,
-    "included": 985,
+    "candidates": 12352,
+    "checked": 13069,
+    "included": 986,
     "retainedOriginals": 11,
     "decisions": {
       "outside-window": 1397,
-      "included": 985,
+      "included": 986,
       "existing-curated": 11,
-      "not-strategy": 9665,
+      "not-strategy": 9810,
       "unknown-release": 130,
       "preregistration": 13,
       "fetch-failed": 5
     },
-    "discoveryQueries": 14298,
-    "completedAt": "2026-10-22T06:36:25.446Z",
+    "discoveryQueries": 14450,
+    "completedAt": "2026-10-22T09:42:14.350Z",
     "imageFailures": 0,
     "exhaustive": false,
     "method": "US-English public Google Play Strategy charts, keyword searches, recommendation links and developer catalogs; first release from Released on, not Updated on. Search and chart results are capped by Google Play. No claim of complete coverage."
@@ -71513,6 +71513,766 @@
       "key": "{\"type\":\"app\",\"id\":\"com.bagio.spinparty\"}",
       "count": 0,
       "fetchedAt": "2026-10-22T06:36:22.047Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.greatplay.bingocash\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:23:33.774Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.greatplay.rewardedapp\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:23:33.779Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.greatplay.whamzeecash\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:23:33.784Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"puzzle.merge.adventure\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:23:35.019Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.moonactive.familymerge\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:23:35.043Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.loomgames.ropeland\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:23:35.157Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.moonactive.dreambay\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:23:36.438Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"puzzle.merge.hotel.empire\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:23:36.618Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.moonactive.realitybay\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:23:36.673Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.griffin.colorblock.games.enjoy.android\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:23:38.215Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.date.patch.countdown\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:23:38.221Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.moonactive.yarnit\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:23:38.238Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.play2ever.tycoonempire\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:23:39.524Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.griffin.solarflare.android\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:23:39.530Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.play2ever.megatycoon.android\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:23:39.540Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"in.playsimple.tilematch\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:23:41.043Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"in.playsimple.cryptogram\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:23:41.053Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"in.playsimple.triple.tile.matchgame.pair.three.puzzle.object.royale\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:23:41.058Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"in.playsimple.wordtrip\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:23:42.656Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"in.crossy.daily_crossword\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:23:42.668Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"in.playsimple.mahjongempire\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:23:42.709Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.red.hexaaway.android\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:23:44.025Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"in.playsimple.wordbingo\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:23:44.030Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.sweetfuirt.candy\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:23:44.047Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"traffic.parking.jam.escape.car3d.games\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:23:45.383Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.pin.screw.color.nuts.bolts.spin.free.game\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:23:45.392Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.sorting.games.match3d.goods.triple.puzzle\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:23:45.396Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.arrow.out.color.line.brian.puzzle\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:23:47.625Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"cube.sudoku.block.puzzle\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:23:47.885Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.hidden.object.find.beauty.search.games.free\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:23:47.890Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"match.word.solitaire.associations.blockpuzzle\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:23:49.170Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.screw.bolt.ocean.match.fish.game\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:23:49.190Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.match.triple.games.sort3d.puzzle\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:23:49.245Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"jigsaw.picture.puzzles.games.free\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:23:50.731Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"farm.traffic.jam.puzzle.free\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:23:50.740Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"cats.tap.dacing.games.free\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:23:50.749Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"jigsaw.album.match.games.free\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:23:52.297Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"jigsaw.card.solitaire.games.free\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:23:52.304Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"makeup.skincare.puzzle.games.free\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:23:52.419Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.ios.launcher.free\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:23:53.999Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"water.sort.soda.color.puzzle.games\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:23:54.005Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"hidden.objects.find.out.hunt.puzzle.games.free\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:23:54.060Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.metax.steal.an.egg\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:23:55.337Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.hitappsgames.picturebuilder\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:23:55.341Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.hitappsgames.connectwords\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:23:55.367Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.hitappsgames.ascube\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:23:56.661Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.hitappsgames.cardshift\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:23:56.665Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.hitappsgames.roomdoku\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:23:56.669Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.hitappsgames.blockkitchen\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:23:57.908Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.hitappsgames.resonance\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:23:57.920Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.hitappsgames.mcm\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:23:57.926Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.funcraft.dicewords\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:23:59.889Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.funcraft.diceyatzy\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:23:59.893Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.hitappsgames.jblprod\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:23:59.896Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.funcraft.probasketballmanager\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:24:01.388Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.funcraft.kismet\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:24:01.397Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.funcraft.cardconnect\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:24:01.403Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"cube.clear.burst.spin.sweep.puzzle.rotate\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:24:02.999Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"missing.daughter.escape.merge.puzzle.mystery.story\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:24:03.006Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.funcraft.diceslam\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:24:03.012Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"slide.arrow.geckos.unblock.android\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:24:04.291Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"bus.casual.color.sort.people.flow.car.loop.puzzle\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:24:04.306Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"pixel.blast.shoot.color.art.android\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:24:04.372Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"cube.path.clear.logic.solve.arrow.puzzle\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:24:05.618Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.vaultystudios.ultimate11\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:24:05.643Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.vaultystudios.alldubs\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:24:05.646Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"jam.bubble.sort\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:24:06.969Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"wordsort.merge.bubble\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:24:06.982Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"sort.ball.color\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:24:07.337Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.logic.pandoku\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:24:08.618Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"color.queue.shooter\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:24:08.631Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"escape.arrow.dash\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:24:09.183Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"busjam.traffic.puzzle\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:24:10.712Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"solitaire.klondike.classic\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:24:10.716Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"screw.yarn.unravel\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:24:10.785Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.minoslab.clickforcash\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:24:12.036Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.fundaygames.boosterpack\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:24:12.040Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"jigsaw.solitaire.sort\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:24:12.086Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.minoslab.guessthedate\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:24:13.688Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.minoslab.clickforbtc\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:24:13.695Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.minoslab.rewario\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:24:13.698Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.minoslab.cashshark\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:24:14.952Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.minoslab.mathero\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:24:14.970Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.minoslab.guesstheimage\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:24:15.012Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.minoslab.goldenball\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:24:16.418Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.minoslab.cashquizanimal\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:24:16.421Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.funnyfighters.western.android\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:39:03.959Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.fs.smashout\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:39:03.964Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.fs.crafttales\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:39:03.979Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.antistress.asmr.relaxing.game\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:39:05.550Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.craft.block.build.explore.world\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:39:05.603Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.home.cleaning.makeover.game.perfect.asmr.d28b\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:39:05.618Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.asmr.keyboard.escape.speed.run\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:39:07.427Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.hp.hide.hunt.paint\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:39:07.432Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.higame.par.idol.prank.video.call.chat.phone.fun\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:39:07.443Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.higame.par.bubble.tea\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:39:09.065Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.hp.theme.homescreen.smart\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:39:09.069Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.hp.keyboard.obby.asmr.speed.run\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:39:09.166Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.hp.kpop.parkour.obby3d.escape\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:39:10.746Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.higame.par.alchemy.emoji\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:39:10.755Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.monster.fun.music.mix.sound.beat\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:39:10.792Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.darwingames.mouse.escape.puzzle.games\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:39:12.579Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.dr.pet.care\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:39:12.586Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.dr.pregnant.mom.sim\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:39:12.591Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.dr.airport.guard.life\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:39:14.518Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.dr.pool.cleaning.fun\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:39:14.526Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.dw.evilnu.schoolgirl.horror\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:39:14.530Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.dr.water.park.fun\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:39:16.034Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.dr.delivery.sim\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:39:16.068Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.darwin.scary.monster.house.escape\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:39:16.082Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.chargedmonkey.robotbreaker\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:39:17.647Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.alexb.hazel\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:39:17.891Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.pingu.sort.color.puzzle\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:39:17.894Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.alexb.phrased\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:39:19.457Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.highbrow.games.dv\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:39:19.462Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.alexb.tarotreading2\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:39:19.466Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.highbrow.games.dvb\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:39:20.720Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.highbrow.games.dvarena\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:39:20.730Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.highbrow.games.tnf\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:39:21.121Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.perplelab.dragonvillagem.kr\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:39:22.360Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.highbrow.game\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:39:22.373Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.ss.kitchen.set.diy.cooking.games\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:39:22.380Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.ss.phonecase.diy.mobile.games\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:39:23.912Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.ss.kitchen.set.cooking.chef.games.time\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:39:23.915Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.ss.my.toy.set.toy.world.games\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:39:23.923Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.ss.asmr.skincare.makeover.game\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:39:25.152Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.ss.tile.rescue.match.puzzle\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:39:25.166Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.ss.tricky.minds.nightmare.brainy.puzzles\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:39:25.171Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.horus.fair.shot\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:39:26.625Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.ss.indian.wedding.dressup.bridal\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:39:26.629Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.horus.sandy.jam\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:39:26.638Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.horus.time.era\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:39:28.392Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.horus.bus.dash\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:39:28.395Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.horus.war.survival.last.shooter\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:39:28.401Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.horus.mob.attack.count.runner\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:39:29.949Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.horus.die.loop\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:39:29.951Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.horus.lumber.city.tycoon\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:39:29.954Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.sega.sonicrumble\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:39:31.196Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.horus.sand.spill\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:39:31.209Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.sega.ColorfulStage.en\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:39:31.212Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.sega.HokutoRevive.en\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:39:32.690Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.sega.d2megaten.en\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:39:32.697Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.sega.FootballClubChampions\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:39:32.701Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.sega.sapphire\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T07:39:34.449Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"io.cordova.RogueRpg\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T09:42:05.806Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.FirstPickStudios.EndlessWander\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T09:42:05.812Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.MrDog.TrapDefense\"}",
+      "count": 6,
+      "fetchedAt": "2026-10-22T09:42:05.818Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.RighteousHammerGames.Solitairica\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T09:42:07.585Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.mobilityware.CastleSolitaire\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T09:42:07.588Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.brightpointstudios.apps.castle_royal\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T09:42:07.591Z"
+    },
+    {
+      "key": "{\"type\":\"developer\",\"id\":\"Mr Dog\"}",
+      "count": 2,
+      "fetchedAt": "2026-10-22T09:42:09.366Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.MrDog.CastleRPG\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-22T09:42:11.005Z"
     }
   ],
   "candidates": [
@@ -88536,7 +89296,8 @@
         "search:strategy idle fortress 2026",
         "related:com.edenap.a3",
         "search:신작 좀비 전략 2025",
-        "search:roguelike fortress defense"
+        "search:roguelike fortress defense",
+        "related:com.MrDog.TrapDefense"
       ]
     },
     {
@@ -98836,7 +99597,8 @@
         "related:com.pandorio.foresttd",
         "related:com.chillplay.overcore",
         "related:com.zone.zombie.defense",
-        "related:com.devpixel.necrodefense"
+        "related:com.devpixel.necrodefense",
+        "related:com.MrDog.TrapDefense"
       ]
     },
     {
@@ -103257,7 +104019,8 @@
       "discoveredVia": [
         "related:com.stereo7games.lastdaydefense",
         "related:com.catstudio.zombiewar1",
-        "related:com.builditgames.zombiestreets"
+        "related:com.builditgames.zombiestreets",
+        "related:com.MrDog.TrapDefense"
       ]
     },
     {
@@ -103416,7 +104179,8 @@
         "related:net.ekgames.projectz",
         "related:com.chillplay.overcore",
         "related:com.edenap.a3",
-        "related:com.merge.plants.zombies.shooting.flower.war.game"
+        "related:com.merge.plants.zombies.shooting.flower.war.game",
+        "related:com.MrDog.TrapDefense"
       ]
     },
     {
@@ -104027,7 +104791,8 @@
         "related:com.edenap.g1",
         "related:com.edenap.a3",
         "related:com.edenap.m1",
-        "search:신작 좀비 전략 2025"
+        "search:신작 좀비 전략 2025",
+        "related:com.MrDog.TrapDefense"
       ]
     },
     {
@@ -110583,7 +111348,8 @@
         "related:com.redantz.game.stickarmy",
         "related:com.velocita.clash.of.stickman.evolution.game",
         "related:com.amb.bagwar.mergebattle",
-        "related:com.gameyogi.cardrush"
+        "related:com.gameyogi.cardrush",
+        "related:com.MrDog.TrapDefense"
       ]
     },
     {
@@ -248933,6 +249699,1758 @@
       "url": "https://play.google.com/store/apps/details?id=com.bagio.spinparty&hl=en&gl=US",
       "discoveredVia": [
         "developer:VORKS TECHNOLOGY"
+      ]
+    },
+    {
+      "id": "com.greatplay.bingocash",
+      "title": "Fast Cash Bingo Dice",
+      "decision": "not-strategy",
+      "released": "Aug 7, 2026",
+      "genre": "Board",
+      "genreId": "GAME_BOARD",
+      "url": "https://play.google.com/store/apps/details?id=com.greatplay.bingocash&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate com.greatplay.farklecash"
+      ]
+    },
+    {
+      "id": "com.greatplay.whamzeecash",
+      "title": "Fast Cash Word Yatzy",
+      "decision": "not-strategy",
+      "released": "Oct 2, 2026",
+      "genre": "Word",
+      "genreId": "GAME_WORD",
+      "url": "https://play.google.com/store/apps/details?id=com.greatplay.whamzeecash&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate com.greatplay.farklecash"
+      ]
+    },
+    {
+      "id": "com.greatplay.rewardedapp",
+      "title": "Fast Cash - Play To Earn!",
+      "decision": "not-strategy",
+      "released": "Apr 30, 2025",
+      "genre": "Entertainment",
+      "genreId": "ENTERTAINMENT",
+      "url": "https://play.google.com/store/apps/details?id=com.greatplay.rewardedapp&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate com.greatplay.farklecash"
+      ]
+    },
+    {
+      "id": "com.loomgames.ropeland",
+      "title": "Ropeland",
+      "decision": "not-strategy",
+      "released": "Jul 26, 2025",
+      "genre": "Puzzle",
+      "genreId": "GAME_PUZZLE",
+      "url": "https://play.google.com/store/apps/details?id=com.loomgames.ropeland&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate com.loomgames.pixelflow"
+      ]
+    },
+    {
+      "id": "com.moonactive.familymerge",
+      "title": "Family Bay: Merge & Farm",
+      "decision": "not-strategy",
+      "released": "Jan 19, 2026",
+      "genre": "Puzzle",
+      "genreId": "GAME_PUZZLE",
+      "url": "https://play.google.com/store/apps/details?id=com.moonactive.familymerge&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate com.moonactive.holestars"
+      ]
+    },
+    {
+      "id": "puzzle.merge.adventure",
+      "title": "Merge Adventure: Travel Games",
+      "decision": "not-strategy",
+      "released": "Apr 25, 2024",
+      "genre": "Casual",
+      "genreId": "GAME_CASUAL",
+      "url": "https://play.google.com/store/apps/details?id=puzzle.merge.adventure&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate com.moonactive.holestars"
+      ]
+    },
+    {
+      "id": "puzzle.merge.hotel.empire",
+      "title": "Merge Hotel Empire－Design Game",
+      "decision": "not-strategy",
+      "released": "Mar 18, 2022",
+      "genre": "Casual",
+      "genreId": "GAME_CASUAL",
+      "url": "https://play.google.com/store/apps/details?id=puzzle.merge.hotel.empire&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate com.moonactive.holestars"
+      ]
+    },
+    {
+      "id": "com.moonactive.realitybay",
+      "title": "Reality Bay: Merge & Discover",
+      "decision": "not-strategy",
+      "released": "Feb 16, 2026",
+      "genre": "Puzzle",
+      "genreId": "GAME_PUZZLE",
+      "url": "https://play.google.com/store/apps/details?id=com.moonactive.realitybay&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate com.moonactive.holestars"
+      ]
+    },
+    {
+      "id": "com.moonactive.dreambay",
+      "title": "Dream Bay",
+      "decision": "not-strategy",
+      "released": "Sep 30, 2026",
+      "genre": "Puzzle",
+      "genreId": "GAME_PUZZLE",
+      "url": "https://play.google.com/store/apps/details?id=com.moonactive.dreambay&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate com.moonactive.holestars"
+      ]
+    },
+    {
+      "id": "com.moonactive.yarnit",
+      "title": "Reef Busters",
+      "decision": "not-strategy",
+      "released": "Apr 21, 2026",
+      "genre": "Puzzle",
+      "genreId": "GAME_PUZZLE",
+      "url": "https://play.google.com/store/apps/details?id=com.moonactive.yarnit&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate com.moonactive.holestars"
+      ]
+    },
+    {
+      "id": "com.date.patch.countdown",
+      "title": "DatePatch - Countdown & Habits",
+      "decision": "not-strategy",
+      "released": "Mar 26, 2026",
+      "genre": "Productivity",
+      "genreId": "PRODUCTIVITY",
+      "url": "https://play.google.com/store/apps/details?id=com.date.patch.countdown&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate com.animal.hunter.shooting.apex"
+      ]
+    },
+    {
+      "id": "com.griffin.colorblock.games.enjoy.android",
+      "title": "Block Jam Out: No Timer Puzzle",
+      "decision": "not-strategy",
+      "released": "Mar 18, 2026",
+      "genre": "Puzzle",
+      "genreId": "GAME_PUZZLE",
+      "url": "https://play.google.com/store/apps/details?id=com.griffin.colorblock.games.enjoy.android&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate com.griffin.colorblock.games.free.android"
+      ]
+    },
+    {
+      "id": "com.play2ever.megatycoon.android",
+      "title": "Mega Tycoon: Build Coin World",
+      "decision": "not-strategy",
+      "released": "Mar 3, 2026",
+      "genre": "Casual",
+      "genreId": "GAME_CASUAL",
+      "url": "https://play.google.com/store/apps/details?id=com.play2ever.megatycoon.android&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate com.griffin.colorblock.games.free.android"
+      ]
+    },
+    {
+      "id": "com.play2ever.tycoonempire",
+      "title": "Tycoon Blitz: Coin Games",
+      "decision": "not-strategy",
+      "released": "May 13, 2026",
+      "genre": "Casual",
+      "genreId": "GAME_CASUAL",
+      "url": "https://play.google.com/store/apps/details?id=com.play2ever.tycoonempire&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate com.griffin.colorblock.games.free.android"
+      ]
+    },
+    {
+      "id": "com.griffin.solarflare.android",
+      "title": "Color Duck Sort",
+      "decision": "not-strategy",
+      "released": "Sep 23, 2026",
+      "genre": "Puzzle",
+      "genreId": "GAME_PUZZLE",
+      "url": "https://play.google.com/store/apps/details?id=com.griffin.solarflare.android&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate com.griffin.colorblock.games.free.android"
+      ]
+    },
+    {
+      "id": "in.playsimple.triple.tile.matchgame.pair.three.puzzle.object.royale",
+      "title": "Tile Match puzzle - Tiletopia",
+      "decision": "not-strategy",
+      "released": "Jan 20, 2023",
+      "genre": "Puzzle",
+      "genreId": "GAME_PUZZLE",
+      "url": "https://play.google.com/store/apps/details?id=in.playsimple.triple.tile.matchgame.pair.three.puzzle.object.royale&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate in.playsimple.crossword.go"
+      ]
+    },
+    {
+      "id": "in.playsimple.cryptogram",
+      "title": "PlaySimple Cryptogram",
+      "decision": "not-strategy",
+      "released": "Aug 29, 2024",
+      "genre": "Word",
+      "genreId": "GAME_WORD",
+      "url": "https://play.google.com/store/apps/details?id=in.playsimple.cryptogram&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate in.playsimple.crossword.go"
+      ]
+    },
+    {
+      "id": "in.playsimple.tilematch",
+      "title": "Tile Travels",
+      "decision": "not-strategy",
+      "released": "Jul 31, 2026",
+      "genre": "Puzzle",
+      "genreId": "GAME_PUZZLE",
+      "url": "https://play.google.com/store/apps/details?id=in.playsimple.tilematch&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate in.playsimple.crossword.go"
+      ]
+    },
+    {
+      "id": "in.crossy.daily_crossword",
+      "title": "Daily Themed Crossword Puzzles",
+      "decision": "not-strategy",
+      "released": "Jan 15, 2018",
+      "genre": "Word",
+      "genreId": "GAME_WORD",
+      "url": "https://play.google.com/store/apps/details?id=in.crossy.daily_crossword&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate in.playsimple.crossword.go"
+      ]
+    },
+    {
+      "id": "in.playsimple.mahjongempire",
+      "title": "Mahjong Empire: Classic Match",
+      "decision": "not-strategy",
+      "released": "Feb 24, 2026",
+      "genre": "Board",
+      "genreId": "GAME_BOARD",
+      "url": "https://play.google.com/store/apps/details?id=in.playsimple.mahjongempire&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate in.playsimple.crossword.go"
+      ]
+    },
+    {
+      "id": "in.playsimple.wordtrip",
+      "title": "Word Trip - Word Puzzle Game",
+      "decision": "not-strategy",
+      "released": "Jun 20, 2017",
+      "genre": "Word",
+      "genreId": "GAME_WORD",
+      "url": "https://play.google.com/store/apps/details?id=in.playsimple.wordtrip&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate in.playsimple.crossword.go"
+      ]
+    },
+    {
+      "id": "in.playsimple.wordbingo",
+      "title": "Word Roll",
+      "decision": "not-strategy",
+      "released": "Nov 12, 2020",
+      "genre": "Word",
+      "genreId": "GAME_WORD",
+      "url": "https://play.google.com/store/apps/details?id=in.playsimple.wordbingo&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate in.playsimple.crossword.go"
+      ]
+    },
+    {
+      "id": "com.red.hexaaway.android",
+      "title": "Hexa Run - Block Puzzle",
+      "decision": "not-strategy",
+      "released": "Aug 7, 2025",
+      "genre": "Casual",
+      "genreId": "GAME_CASUAL",
+      "url": "https://play.google.com/store/apps/details?id=com.red.hexaaway.android&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate com.red.arrows.android"
+      ]
+    },
+    {
+      "id": "com.sweetfuirt.candy",
+      "title": "Sweet Fruit Candy",
+      "decision": "not-strategy",
+      "released": "Jun 22, 2016",
+      "genre": "Puzzle",
+      "genreId": "GAME_PUZZLE",
+      "url": "https://play.google.com/store/apps/details?id=com.sweetfuirt.candy&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate com.red.arrows.android"
+      ]
+    },
+    {
+      "id": "com.sorting.games.match3d.goods.triple.puzzle",
+      "title": "Goods 3D Sorting: Match Games",
+      "decision": "not-strategy",
+      "released": "Nov 17, 2023",
+      "genre": "Puzzle",
+      "genreId": "GAME_PUZZLE",
+      "url": "https://play.google.com/store/apps/details?id=com.sorting.games.match3d.goods.triple.puzzle&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate com.loop.clear.cube.free.card.puzzle.sort.match"
+      ]
+    },
+    {
+      "id": "traffic.parking.jam.escape.car3d.games",
+      "title": "Traffic 3D Parking: Escape Jam",
+      "decision": "not-strategy",
+      "released": "Jan 26, 2024",
+      "genre": "Puzzle",
+      "genreId": "GAME_PUZZLE",
+      "url": "https://play.google.com/store/apps/details?id=traffic.parking.jam.escape.car3d.games&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate com.loop.clear.cube.free.card.puzzle.sort.match"
+      ]
+    },
+    {
+      "id": "com.pin.screw.color.nuts.bolts.spin.free.game",
+      "title": "Unscrew Nuts Sort®: Pin Puzzle",
+      "decision": "not-strategy",
+      "released": "Nov 11, 2024",
+      "genre": "Puzzle",
+      "genreId": "GAME_PUZZLE",
+      "url": "https://play.google.com/store/apps/details?id=com.pin.screw.color.nuts.bolts.spin.free.game&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate com.loop.clear.cube.free.card.puzzle.sort.match"
+      ]
+    },
+    {
+      "id": "com.arrow.out.color.line.brian.puzzle",
+      "title": "Arrow Rush: Water Color Sort",
+      "decision": "not-strategy",
+      "released": "Aug 19, 2026",
+      "genre": "Puzzle",
+      "genreId": "GAME_PUZZLE",
+      "url": "https://play.google.com/store/apps/details?id=com.arrow.out.color.line.brian.puzzle&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate com.loop.clear.cube.free.card.puzzle.sort.match"
+      ]
+    },
+    {
+      "id": "com.hidden.object.find.beauty.search.games.free",
+      "title": "Find Beauty: Fun Hidden Object",
+      "decision": "not-strategy",
+      "released": "Oct 28, 2024",
+      "genre": "Puzzle",
+      "genreId": "GAME_PUZZLE",
+      "url": "https://play.google.com/store/apps/details?id=com.hidden.object.find.beauty.search.games.free&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate com.loop.clear.cube.free.card.puzzle.sort.match"
+      ]
+    },
+    {
+      "id": "cube.sudoku.block.puzzle",
+      "title": "Cubedoku: Sudoku n Minesweeper",
+      "decision": "not-strategy",
+      "released": "Oct 20, 2026",
+      "genre": "Puzzle",
+      "genreId": "GAME_PUZZLE",
+      "url": "https://play.google.com/store/apps/details?id=cube.sudoku.block.puzzle&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate com.loop.clear.cube.free.card.puzzle.sort.match"
+      ]
+    },
+    {
+      "id": "com.screw.bolt.ocean.match.fish.game",
+      "title": "Screw Ocean®:Bolt Match Escape",
+      "decision": "not-strategy",
+      "released": "Oct 25, 2024",
+      "genre": "Puzzle",
+      "genreId": "GAME_PUZZLE",
+      "url": "https://play.google.com/store/apps/details?id=com.screw.bolt.ocean.match.fish.game&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate com.loop.clear.cube.free.card.puzzle.sort.match"
+      ]
+    },
+    {
+      "id": "com.match.triple.games.sort3d.puzzle",
+      "title": "3D Crazy Match! Triple Tap",
+      "decision": "not-strategy",
+      "released": "Aug 29, 2024",
+      "genre": "Puzzle",
+      "genreId": "GAME_PUZZLE",
+      "url": "https://play.google.com/store/apps/details?id=com.match.triple.games.sort3d.puzzle&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate com.loop.clear.cube.free.card.puzzle.sort.match"
+      ]
+    },
+    {
+      "id": "match.word.solitaire.associations.blockpuzzle",
+      "title": "BlockWord®: Word Associations",
+      "decision": "not-strategy",
+      "released": "Jul 9, 2026",
+      "genre": "Puzzle",
+      "genreId": "GAME_PUZZLE",
+      "url": "https://play.google.com/store/apps/details?id=match.word.solitaire.associations.blockpuzzle&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate com.loop.clear.cube.free.card.puzzle.sort.match"
+      ]
+    },
+    {
+      "id": "cats.tap.dacing.games.free",
+      "title": "Cat Beats - Tiles Music Games",
+      "decision": "not-strategy",
+      "released": "Dec 2, 2025",
+      "genre": "Casual",
+      "genreId": "GAME_CASUAL",
+      "url": "https://play.google.com/store/apps/details?id=cats.tap.dacing.games.free&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate jigsaw.solitaire.match.games.free"
+      ]
+    },
+    {
+      "id": "jigsaw.picture.puzzles.games.free",
+      "title": "Jigsaw Puzzle Art: Relax Book",
+      "decision": "not-strategy",
+      "released": "Nov 23, 2025",
+      "genre": "Puzzle",
+      "genreId": "GAME_PUZZLE",
+      "url": "https://play.google.com/store/apps/details?id=jigsaw.picture.puzzles.games.free&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate jigsaw.solitaire.match.games.free"
+      ]
+    },
+    {
+      "id": "farm.traffic.jam.puzzle.free",
+      "title": "Farm Madness: Traffic Jam",
+      "decision": "not-strategy",
+      "released": "Jun 11, 2026",
+      "genre": "Casual",
+      "genreId": "GAME_CASUAL",
+      "url": "https://play.google.com/store/apps/details?id=farm.traffic.jam.puzzle.free&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate jigsaw.solitaire.match.games.free"
+      ]
+    },
+    {
+      "id": "jigsaw.album.match.games.free",
+      "title": "Jigsaw Album: Card Puzzles",
+      "decision": "not-strategy",
+      "released": "Sep 11, 2026",
+      "genre": "Puzzle",
+      "genreId": "GAME_PUZZLE",
+      "url": "https://play.google.com/store/apps/details?id=jigsaw.album.match.games.free&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate jigsaw.solitaire.match.games.free"
+      ]
+    },
+    {
+      "id": "jigsaw.card.solitaire.games.free",
+      "title": "Jigsaw Tap: Card Solitaire",
+      "decision": "not-strategy",
+      "released": "Aug 19, 2026",
+      "genre": "Puzzle",
+      "genreId": "GAME_PUZZLE",
+      "url": "https://play.google.com/store/apps/details?id=jigsaw.card.solitaire.games.free&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate jigsaw.solitaire.match.games.free"
+      ]
+    },
+    {
+      "id": "makeup.skincare.puzzle.games.free",
+      "title": "Makeover Salon: Makeup Games",
+      "decision": "not-strategy",
+      "released": "Feb 13, 2026",
+      "genre": "Casual",
+      "genreId": "GAME_CASUAL",
+      "url": "https://play.google.com/store/apps/details?id=makeup.skincare.puzzle.games.free&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate jigsaw.solitaire.match.games.free"
+      ]
+    },
+    {
+      "id": "hidden.objects.find.out.hunt.puzzle.games.free",
+      "title": "Magic Find: Hidden Object Game",
+      "decision": "not-strategy",
+      "released": "Sep 6, 2024",
+      "genre": "Puzzle",
+      "genreId": "GAME_PUZZLE",
+      "url": "https://play.google.com/store/apps/details?id=hidden.objects.find.out.hunt.puzzle.games.free&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate jigsaw.solitaire.match.games.free"
+      ]
+    },
+    {
+      "id": "water.sort.soda.color.puzzle.games",
+      "title": "Water Sort Master-Color Puzzle",
+      "decision": "not-strategy",
+      "released": "Jul 19, 2024",
+      "genre": "Casual",
+      "genreId": "GAME_CASUAL",
+      "url": "https://play.google.com/store/apps/details?id=water.sort.soda.color.puzzle.games&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate jigsaw.solitaire.match.games.free"
+      ]
+    },
+    {
+      "id": "com.ios.launcher.free",
+      "title": "Launcher OS: iOS Home Screen",
+      "decision": "not-strategy",
+      "released": null,
+      "genre": "Personalization",
+      "genreId": "PERSONALIZATION",
+      "url": "https://play.google.com/store/apps/details?id=com.ios.launcher.free&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate com.tricky.brain.annoying.puzzle.prank.master"
+      ]
+    },
+    {
+      "id": "com.metax.steal.an.egg",
+      "title": "Steal An Egg: Hatch & Run",
+      "decision": "not-strategy",
+      "released": "Oct 13, 2026",
+      "genre": "Simulation",
+      "genreId": "GAME_SIMULATION",
+      "url": "https://play.google.com/store/apps/details?id=com.metax.steal.an.egg&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate com.tricky.brain.annoying.puzzle.prank.master"
+      ]
+    },
+    {
+      "id": "com.hitappsgames.picturebuilder",
+      "title": "Picture Builder - Puzzle Game",
+      "decision": "not-strategy",
+      "released": "Jul 9, 2023",
+      "genre": "Puzzle",
+      "genreId": "GAME_PUZZLE",
+      "url": "https://play.google.com/store/apps/details?id=com.hitappsgames.picturebuilder&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate com.hitappsgames.wordsolitaire"
+      ]
+    },
+    {
+      "id": "com.hitappsgames.connectwords",
+      "title": "Connect Word: Association Game",
+      "decision": "not-strategy",
+      "released": "Apr 17, 2024",
+      "genre": "Word",
+      "genreId": "GAME_WORD",
+      "url": "https://play.google.com/store/apps/details?id=com.hitappsgames.connectwords&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate com.hitappsgames.wordsolitaire"
+      ]
+    },
+    {
+      "id": "com.hitappsgames.ascube",
+      "title": "Association Cube",
+      "decision": "not-strategy",
+      "released": "Jul 16, 2026",
+      "genre": "Casual",
+      "genreId": "GAME_CASUAL",
+      "url": "https://play.google.com/store/apps/details?id=com.hitappsgames.ascube&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate com.hitappsgames.wordsolitaire"
+      ]
+    },
+    {
+      "id": "com.hitappsgames.cardshift",
+      "title": "Card Shift: Puzzle Game",
+      "decision": "not-strategy",
+      "released": "Oct 7, 2026",
+      "genre": "Puzzle",
+      "genreId": "GAME_PUZZLE",
+      "url": "https://play.google.com/store/apps/details?id=com.hitappsgames.cardshift&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate com.hitappsgames.wordsolitaire"
+      ]
+    },
+    {
+      "id": "com.hitappsgames.roomdoku",
+      "title": "Roomdoku",
+      "decision": "not-strategy",
+      "released": "Oct 20, 2026",
+      "genre": "Puzzle",
+      "genreId": "GAME_PUZZLE",
+      "url": "https://play.google.com/store/apps/details?id=com.hitappsgames.roomdoku&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate com.hitappsgames.wordsolitaire"
+      ]
+    },
+    {
+      "id": "com.hitappsgames.resonance",
+      "title": "Asocio: Word Associations",
+      "decision": "not-strategy",
+      "released": "Oct 19, 2026",
+      "genre": "Word",
+      "genreId": "GAME_WORD",
+      "url": "https://play.google.com/store/apps/details?id=com.hitappsgames.resonance&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate com.hitappsgames.wordsolitaire"
+      ]
+    },
+    {
+      "id": "com.hitappsgames.blockkitchen",
+      "title": "Block Chef - Cooking Puzzle",
+      "decision": "not-strategy",
+      "released": "Aug 7, 2026",
+      "genre": "Puzzle",
+      "genreId": "GAME_PUZZLE",
+      "url": "https://play.google.com/store/apps/details?id=com.hitappsgames.blockkitchen&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate com.hitappsgames.wordsolitaire"
+      ]
+    },
+    {
+      "id": "com.hitappsgames.mcm",
+      "title": "Match Coin Merge",
+      "decision": "not-strategy",
+      "released": "May 21, 2026",
+      "genre": "Casual",
+      "genreId": "GAME_CASUAL",
+      "url": "https://play.google.com/store/apps/details?id=com.hitappsgames.mcm&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate com.hitappsgames.wordsolitaire"
+      ]
+    },
+    {
+      "id": "com.hitappsgames.jblprod",
+      "title": "Wordelix - Word Puzzle Game",
+      "decision": "not-strategy",
+      "released": "Jun 14, 2023",
+      "genre": "Casual",
+      "genreId": "GAME_CASUAL",
+      "url": "https://play.google.com/store/apps/details?id=com.hitappsgames.jblprod&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate com.hitappsgames.wordsolitaire"
+      ]
+    },
+    {
+      "id": "com.funcraft.dicewords",
+      "title": "Dice Words - Fun Word Game",
+      "decision": "not-strategy",
+      "released": "Aug 25, 2023",
+      "genre": "Word",
+      "genreId": "GAME_WORD",
+      "url": "https://play.google.com/store/apps/details?id=com.funcraft.dicewords&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate com.funcraft.farkle"
+      ]
+    },
+    {
+      "id": "com.funcraft.diceyatzy",
+      "title": "Dice Yatzy - Classic Fun Game",
+      "decision": "not-strategy",
+      "released": "Nov 9, 2023",
+      "genre": "Board",
+      "genreId": "GAME_BOARD",
+      "url": "https://play.google.com/store/apps/details?id=com.funcraft.diceyatzy&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate com.funcraft.farkle"
+      ]
+    },
+    {
+      "id": "com.funcraft.kismet",
+      "title": "Kismet - Dice Game",
+      "decision": "not-strategy",
+      "released": "Aug 19, 2025",
+      "genre": "Board",
+      "genreId": "GAME_BOARD",
+      "url": "https://play.google.com/store/apps/details?id=com.funcraft.kismet&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate com.funcraft.farkle"
+      ]
+    },
+    {
+      "id": "com.funcraft.cardconnect",
+      "title": "Card Connect: Connect & Win!",
+      "decision": "not-strategy",
+      "released": "Oct 14, 2025",
+      "genre": "Board",
+      "genreId": "GAME_BOARD",
+      "url": "https://play.google.com/store/apps/details?id=com.funcraft.cardconnect&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate com.funcraft.farkle"
+      ]
+    },
+    {
+      "id": "com.funcraft.probasketballmanager",
+      "title": "Unbeaten Hoops: 82 & 0",
+      "decision": "not-strategy",
+      "released": "Oct 2, 2026",
+      "genre": "Sports",
+      "genreId": "GAME_SPORTS",
+      "url": "https://play.google.com/store/apps/details?id=com.funcraft.probasketballmanager&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate com.funcraft.farkle"
+      ]
+    },
+    {
+      "id": "com.funcraft.diceslam",
+      "title": "Dice Slam - Fun Classic Game",
+      "decision": "not-strategy",
+      "released": "Sep 23, 2025",
+      "genre": "Board",
+      "genreId": "GAME_BOARD",
+      "url": "https://play.google.com/store/apps/details?id=com.funcraft.diceslam&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate com.funcraft.farkle"
+      ]
+    },
+    {
+      "id": "cube.clear.burst.spin.sweep.puzzle.rotate",
+      "title": "Twist Colors: Cube Smash",
+      "decision": "not-strategy",
+      "released": "Jul 18, 2026",
+      "genre": "Casual",
+      "genreId": "GAME_CASUAL",
+      "url": "https://play.google.com/store/apps/details?id=cube.clear.burst.spin.sweep.puzzle.rotate&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate com.nut.stack.sort.puzzle"
+      ]
+    },
+    {
+      "id": "missing.daughter.escape.merge.puzzle.mystery.story",
+      "title": "Lost in Prison：Merge Secrets",
+      "decision": "not-strategy",
+      "released": "Jul 12, 2026",
+      "genre": "Casual",
+      "genreId": "GAME_CASUAL",
+      "url": "https://play.google.com/store/apps/details?id=missing.daughter.escape.merge.puzzle.mystery.story&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate com.nut.stack.sort.puzzle"
+      ]
+    },
+    {
+      "id": "slide.arrow.geckos.unblock.android",
+      "title": "Route Out: Color Puzzle",
+      "decision": "not-strategy",
+      "released": "Aug 13, 2026",
+      "genre": "Casual",
+      "genreId": "GAME_CASUAL",
+      "url": "https://play.google.com/store/apps/details?id=slide.arrow.geckos.unblock.android&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate com.nut.stack.sort.puzzle"
+      ]
+    },
+    {
+      "id": "bus.casual.color.sort.people.flow.car.loop.puzzle",
+      "title": "PeopleLoop: Bus Sort",
+      "decision": "not-strategy",
+      "released": "Aug 14, 2026",
+      "genre": "Casual",
+      "genreId": "GAME_CASUAL",
+      "url": "https://play.google.com/store/apps/details?id=bus.casual.color.sort.people.flow.car.loop.puzzle&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate com.nut.stack.sort.puzzle"
+      ]
+    },
+    {
+      "id": "pixel.blast.shoot.color.art.android",
+      "title": "Pixel Blast: Color Puzzle",
+      "decision": "not-strategy",
+      "released": "Jul 12, 2026",
+      "genre": "Casual",
+      "genreId": "GAME_CASUAL",
+      "url": "https://play.google.com/store/apps/details?id=pixel.blast.shoot.color.art.android&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate com.nut.stack.sort.puzzle"
+      ]
+    },
+    {
+      "id": "cube.path.clear.logic.solve.arrow.puzzle",
+      "title": "VectorVoid: CubeNull",
+      "decision": "not-strategy",
+      "released": "Jul 10, 2026",
+      "genre": "Casual",
+      "genreId": "GAME_CASUAL",
+      "url": "https://play.google.com/store/apps/details?id=cube.path.clear.logic.solve.arrow.puzzle&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate com.nut.stack.sort.puzzle"
+      ]
+    },
+    {
+      "id": "com.vaultystudios.alldubs",
+      "title": "All Dubs",
+      "decision": "not-strategy",
+      "released": "Aug 9, 2026",
+      "genre": "Sports",
+      "genreId": "GAME_SPORTS",
+      "url": "https://play.google.com/store/apps/details?id=com.vaultystudios.alldubs&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate com.vaultystudios.eightytwoand0"
+      ]
+    },
+    {
+      "id": "com.vaultystudios.ultimate11",
+      "title": "Ultimate 11",
+      "decision": "not-strategy",
+      "released": "Jun 13, 2026",
+      "genre": "Sports",
+      "genreId": "GAME_SPORTS",
+      "url": "https://play.google.com/store/apps/details?id=com.vaultystudios.ultimate11&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate com.vaultystudios.eightytwoand0"
+      ]
+    },
+    {
+      "id": "wordsort.merge.bubble",
+      "title": "Bouncy Match: Bubble Word",
+      "decision": "not-strategy",
+      "released": "Jun 5, 2026",
+      "genre": "Casual",
+      "genreId": "GAME_CASUAL",
+      "url": "https://play.google.com/store/apps/details?id=wordsort.merge.bubble&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate busflow.traffic.puzzle"
+      ]
+    },
+    {
+      "id": "jam.bubble.sort",
+      "title": "Meowpop: Cat Sort Puzzle",
+      "decision": "not-strategy",
+      "released": "Sep 26, 2026",
+      "genre": "Puzzle",
+      "genreId": "GAME_PUZZLE",
+      "url": "https://play.google.com/store/apps/details?id=jam.bubble.sort&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate busflow.traffic.puzzle"
+      ]
+    },
+    {
+      "id": "sort.ball.color",
+      "title": "Color Ball Sort Sorting Puzzle",
+      "decision": "not-strategy",
+      "released": "Sep 27, 2025",
+      "genre": "Casual",
+      "genreId": "GAME_CASUAL",
+      "url": "https://play.google.com/store/apps/details?id=sort.ball.color&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate busflow.traffic.puzzle"
+      ]
+    },
+    {
+      "id": "com.logic.pandoku",
+      "title": "PandaClue",
+      "decision": "not-strategy",
+      "released": "Jun 10, 2026",
+      "genre": "Casual",
+      "genreId": "GAME_CASUAL",
+      "url": "https://play.google.com/store/apps/details?id=com.logic.pandoku&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate busflow.traffic.puzzle"
+      ]
+    },
+    {
+      "id": "color.queue.shooter",
+      "title": "Color Queue Shooter",
+      "decision": "not-strategy",
+      "released": "Aug 28, 2026",
+      "genre": "Casual",
+      "genreId": "GAME_CASUAL",
+      "url": "https://play.google.com/store/apps/details?id=color.queue.shooter&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate busflow.traffic.puzzle"
+      ]
+    },
+    {
+      "id": "escape.arrow.dash",
+      "title": "Arrow Wave",
+      "decision": "not-strategy",
+      "released": "May 7, 2026",
+      "genre": "Casual",
+      "genreId": "GAME_CASUAL",
+      "url": "https://play.google.com/store/apps/details?id=escape.arrow.dash&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate busflow.traffic.puzzle"
+      ]
+    },
+    {
+      "id": "busjam.traffic.puzzle",
+      "title": "Bus Jam Solver: Traffic Escape",
+      "decision": "not-strategy",
+      "released": "Feb 6, 2026",
+      "genre": "Puzzle",
+      "genreId": "GAME_PUZZLE",
+      "url": "https://play.google.com/store/apps/details?id=busjam.traffic.puzzle&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate busflow.traffic.puzzle"
+      ]
+    },
+    {
+      "id": "solitaire.klondike.classic",
+      "title": "Solitaire - Classic Cards",
+      "decision": "not-strategy",
+      "released": "Dec 16, 2025",
+      "genre": "Casual",
+      "genreId": "GAME_CASUAL",
+      "url": "https://play.google.com/store/apps/details?id=solitaire.klondike.classic&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate busflow.traffic.puzzle"
+      ]
+    },
+    {
+      "id": "screw.yarn.unravel",
+      "title": "Yarn Scape",
+      "decision": "not-strategy",
+      "released": "Jan 29, 2026",
+      "genre": "Puzzle",
+      "genreId": "GAME_PUZZLE",
+      "url": "https://play.google.com/store/apps/details?id=screw.yarn.unravel&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate busflow.traffic.puzzle"
+      ]
+    },
+    {
+      "id": "jigsaw.solitaire.sort",
+      "title": "Jigsaw Solitaire Sort Puzzle",
+      "decision": "not-strategy",
+      "released": "Jan 25, 2026",
+      "genre": "Casual",
+      "genreId": "GAME_CASUAL",
+      "url": "https://play.google.com/store/apps/details?id=jigsaw.solitaire.sort&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate busflow.traffic.puzzle"
+      ]
+    },
+    {
+      "id": "com.fundaygames.boosterpack",
+      "title": "Booster Pack Heroes",
+      "decision": "not-strategy",
+      "released": null,
+      "genre": "Arcade",
+      "genreId": "GAME_ARCADE",
+      "url": "https://play.google.com/store/apps/details?id=com.fundaygames.boosterpack&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate com.fundaygames.scritchyscratchy"
+      ]
+    },
+    {
+      "id": "com.minoslab.clickforcash",
+      "title": "Click for Cash - Earn Money",
+      "decision": "not-strategy",
+      "released": "Jun 8, 2025",
+      "genre": "Action",
+      "genreId": "GAME_ACTION",
+      "url": "https://play.google.com/store/apps/details?id=com.minoslab.clickforcash&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate com.minoslab.cashnumber"
+      ]
+    },
+    {
+      "id": "com.minoslab.clickforbtc",
+      "title": "Click for BTC - Earn Bitcoin",
+      "decision": "not-strategy",
+      "released": "Jul 17, 2025",
+      "genre": "Arcade",
+      "genreId": "GAME_ARCADE",
+      "url": "https://play.google.com/store/apps/details?id=com.minoslab.clickforbtc&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate com.minoslab.cashnumber"
+      ]
+    },
+    {
+      "id": "com.minoslab.guessthedate",
+      "title": "Guess the date",
+      "decision": "not-strategy",
+      "released": "Aug 3, 2026",
+      "genre": "Trivia",
+      "genreId": "GAME_TRIVIA",
+      "url": "https://play.google.com/store/apps/details?id=com.minoslab.guessthedate&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate com.minoslab.cashnumber"
+      ]
+    },
+    {
+      "id": "com.minoslab.rewario",
+      "title": "Rewario - Play to Earn",
+      "decision": "not-strategy",
+      "released": "Mar 31, 2026",
+      "genre": "Productivity",
+      "genreId": "PRODUCTIVITY",
+      "url": "https://play.google.com/store/apps/details?id=com.minoslab.rewario&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate com.minoslab.cashnumber"
+      ]
+    },
+    {
+      "id": "com.minoslab.cashshark",
+      "title": "Cash Shark - Earn Money",
+      "decision": "not-strategy",
+      "released": "Jan 26, 2026",
+      "genre": "Arcade",
+      "genreId": "GAME_ARCADE",
+      "url": "https://play.google.com/store/apps/details?id=com.minoslab.cashshark&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate com.minoslab.cashnumber"
+      ]
+    },
+    {
+      "id": "com.minoslab.mathero",
+      "title": "Mathero – IQ Boost",
+      "decision": "not-strategy",
+      "released": "Nov 5, 2025",
+      "genre": "Puzzle",
+      "genreId": "GAME_PUZZLE",
+      "url": "https://play.google.com/store/apps/details?id=com.minoslab.mathero&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate com.minoslab.cashnumber"
+      ]
+    },
+    {
+      "id": "com.minoslab.guesstheimage",
+      "title": "Guess the image",
+      "decision": "not-strategy",
+      "released": "Jul 7, 2025",
+      "genre": "Puzzle",
+      "genreId": "GAME_PUZZLE",
+      "url": "https://play.google.com/store/apps/details?id=com.minoslab.guesstheimage&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate com.minoslab.cashnumber"
+      ]
+    },
+    {
+      "id": "com.minoslab.goldenball",
+      "title": "Golden Ball - Earn Money",
+      "decision": "not-strategy",
+      "released": "May 26, 2025",
+      "genre": "Arcade",
+      "genreId": "GAME_ARCADE",
+      "url": "https://play.google.com/store/apps/details?id=com.minoslab.goldenball&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate com.minoslab.cashnumber"
+      ]
+    },
+    {
+      "id": "com.minoslab.cashquizanimal",
+      "title": "Cash Quiz - Animal Edition",
+      "decision": "not-strategy",
+      "released": "May 4, 2025",
+      "genre": "Trivia",
+      "genreId": "GAME_TRIVIA",
+      "url": "https://play.google.com/store/apps/details?id=com.minoslab.cashquizanimal&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate com.minoslab.cashnumber"
+      ]
+    },
+    {
+      "id": "com.funnyfighters.western.android",
+      "title": "Funny Fighters: Battle Royale",
+      "decision": "not-strategy",
+      "released": "Dec 7, 2023",
+      "genre": "Action",
+      "genreId": "GAME_ACTION",
+      "url": "https://play.google.com/store/apps/details?id=com.funnyfighters.western.android&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate com.zjcs.android.us"
+      ]
+    },
+    {
+      "id": "com.fs.smashout",
+      "title": "Smash Out: Cannon Fest 3D",
+      "decision": "not-strategy",
+      "released": "Jul 17, 2026",
+      "genre": "Puzzle",
+      "genreId": "GAME_PUZZLE",
+      "url": "https://play.google.com/store/apps/details?id=com.fs.smashout&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate com.fs.block"
+      ]
+    },
+    {
+      "id": "com.fs.crafttales",
+      "title": "Craft Tales: Merge & Make",
+      "decision": "not-strategy",
+      "released": "Sep 20, 2026",
+      "genre": "Puzzle",
+      "genreId": "GAME_PUZZLE",
+      "url": "https://play.google.com/store/apps/details?id=com.fs.crafttales&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate com.fs.block"
+      ]
+    },
+    {
+      "id": "com.antistress.asmr.relaxing.game",
+      "title": "Antistress ASMR: Relaxing Game",
+      "decision": "not-strategy",
+      "released": "Oct 8, 2026",
+      "genre": "Simulation",
+      "genreId": "GAME_SIMULATION",
+      "url": "https://play.google.com/store/apps/details?id=com.antistress.asmr.relaxing.game&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate com.grand.city.miami.gangster"
+      ]
+    },
+    {
+      "id": "com.home.cleaning.makeover.game.perfect.asmr.d28b",
+      "title": "Cleaning House Satisfying ASMR",
+      "decision": "not-strategy",
+      "released": "Aug 12, 2026",
+      "genre": "Casual",
+      "genreId": "GAME_CASUAL",
+      "url": "https://play.google.com/store/apps/details?id=com.home.cleaning.makeover.game.perfect.asmr.d28b&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate com.grand.city.miami.gangster"
+      ]
+    },
+    {
+      "id": "com.craft.block.build.explore.world",
+      "title": "Block World: Craft Exploration",
+      "decision": "not-strategy",
+      "released": "Aug 30, 2026",
+      "genre": "Simulation",
+      "genreId": "GAME_SIMULATION",
+      "url": "https://play.google.com/store/apps/details?id=com.craft.block.build.explore.world&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate com.grand.city.miami.gangster"
+      ]
+    },
+    {
+      "id": "com.asmr.keyboard.escape.speed.run",
+      "title": "ASMR Keyboard Escape:Speed Run",
+      "decision": "not-strategy",
+      "released": null,
+      "genre": "Simulation",
+      "genreId": "GAME_SIMULATION",
+      "url": "https://play.google.com/store/apps/details?id=com.asmr.keyboard.escape.speed.run&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate com.grand.city.miami.gangster"
+      ]
+    },
+    {
+      "id": "com.hp.hide.hunt.paint",
+      "title": "Paint & Hide: Color Guys",
+      "decision": "not-strategy",
+      "released": "Jul 28, 2026",
+      "genre": "Casual",
+      "genreId": "GAME_CASUAL",
+      "url": "https://play.google.com/store/apps/details?id=com.hp.hide.hunt.paint&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate com.hp.prison.parkour.worm.hunt"
+      ]
+    },
+    {
+      "id": "com.higame.par.idol.prank.video.call.chat.phone.fun",
+      "title": "Idol Prank Video Call & Chat",
+      "decision": "not-strategy",
+      "released": "Jan 24, 2024",
+      "genre": "Casual",
+      "genreId": "GAME_CASUAL",
+      "url": "https://play.google.com/store/apps/details?id=com.higame.par.idol.prank.video.call.chat.phone.fun&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate com.hp.prison.parkour.worm.hunt"
+      ]
+    },
+    {
+      "id": "com.hp.theme.homescreen.smart",
+      "title": "Idol Themes & Widgets",
+      "decision": "not-strategy",
+      "released": null,
+      "genre": "Personalization",
+      "genreId": "PERSONALIZATION",
+      "url": "https://play.google.com/store/apps/details?id=com.hp.theme.homescreen.smart&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate com.hp.prison.parkour.worm.hunt"
+      ]
+    },
+    {
+      "id": "com.hp.keyboard.obby.asmr.speed.run",
+      "title": "Keyboard Obby: ASMR Speed Run",
+      "decision": "not-strategy",
+      "released": "Jul 27, 2026",
+      "genre": "Casual",
+      "genreId": "GAME_CASUAL",
+      "url": "https://play.google.com/store/apps/details?id=com.hp.keyboard.obby.asmr.speed.run&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate com.hp.prison.parkour.worm.hunt"
+      ]
+    },
+    {
+      "id": "com.higame.par.bubble.tea",
+      "title": "BOBA DIY™: Tasty Tea Simulator",
+      "decision": "not-strategy",
+      "released": "Oct 29, 2022",
+      "genre": "Casual",
+      "genreId": "GAME_CASUAL",
+      "url": "https://play.google.com/store/apps/details?id=com.higame.par.bubble.tea&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate com.hp.prison.parkour.worm.hunt"
+      ]
+    },
+    {
+      "id": "com.higame.par.alchemy.emoji",
+      "title": "Emoji Merge: Fun Moji",
+      "decision": "not-strategy",
+      "released": "Jul 26, 2023",
+      "genre": "Casual",
+      "genreId": "GAME_CASUAL",
+      "url": "https://play.google.com/store/apps/details?id=com.higame.par.alchemy.emoji&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate com.hp.prison.parkour.worm.hunt"
+      ]
+    },
+    {
+      "id": "com.monster.fun.music.mix.sound.beat",
+      "title": "Monster DIY: Mix Beats",
+      "decision": "not-strategy",
+      "released": "Dec 19, 2024",
+      "genre": "Music",
+      "genreId": "GAME_MUSIC",
+      "url": "https://play.google.com/store/apps/details?id=com.monster.fun.music.mix.sound.beat&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate com.hp.prison.parkour.worm.hunt"
+      ]
+    },
+    {
+      "id": "com.hp.kpop.parkour.obby3d.escape",
+      "title": "Parkour Obby: 3D Escape",
+      "decision": "not-strategy",
+      "released": null,
+      "genre": "Casual",
+      "genreId": "GAME_CASUAL",
+      "url": "https://play.google.com/store/apps/details?id=com.hp.kpop.parkour.obby3d.escape&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate com.hp.prison.parkour.worm.hunt"
+      ]
+    },
+    {
+      "id": "com.dr.pregnant.mom.sim",
+      "title": "Pregnant Mother Baby Care Sim",
+      "decision": "not-strategy",
+      "released": "Oct 3, 2025",
+      "genre": "Simulation",
+      "genreId": "GAME_SIMULATION",
+      "url": "https://play.google.com/store/apps/details?id=com.dr.pregnant.mom.sim&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate com.dr.ninja.assassin.fight"
+      ]
+    },
+    {
+      "id": "com.darwingames.mouse.escape.puzzle.games",
+      "title": "Parrot Simulator: Pet World 3D",
+      "decision": "not-strategy",
+      "released": "Nov 16, 2023",
+      "genre": "Role Playing",
+      "genreId": "GAME_ROLE_PLAYING",
+      "url": "https://play.google.com/store/apps/details?id=com.darwingames.mouse.escape.puzzle.games&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate com.dr.ninja.assassin.fight"
+      ]
+    },
+    {
+      "id": "com.dr.pet.care",
+      "title": "Pet Kingdom - Animal Simulator",
+      "decision": "not-strategy",
+      "released": "Nov 8, 2025",
+      "genre": "Role Playing",
+      "genreId": "GAME_ROLE_PLAYING",
+      "url": "https://play.google.com/store/apps/details?id=com.dr.pet.care&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate com.dr.ninja.assassin.fight"
+      ]
+    },
+    {
+      "id": "com.dr.pool.cleaning.fun",
+      "title": "I Am Swimming Pool Cleaner Sim",
+      "decision": "not-strategy",
+      "released": "Feb 26, 2026",
+      "genre": "Role Playing",
+      "genreId": "GAME_ROLE_PLAYING",
+      "url": "https://play.google.com/store/apps/details?id=com.dr.pool.cleaning.fun&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate com.dr.ninja.assassin.fight"
+      ]
+    },
+    {
+      "id": "com.dr.airport.guard.life",
+      "title": "Airport Security Agent Sucks!",
+      "decision": "not-strategy",
+      "released": "Jun 6, 2026",
+      "genre": "Role Playing",
+      "genreId": "GAME_ROLE_PLAYING",
+      "url": "https://play.google.com/store/apps/details?id=com.dr.airport.guard.life&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate com.dr.ninja.assassin.fight"
+      ]
+    },
+    {
+      "id": "com.dw.evilnu.schoolgirl.horror",
+      "title": "School Girl Horror Escape",
+      "decision": "not-strategy",
+      "released": null,
+      "genre": "Adventure",
+      "genreId": "GAME_ADVENTURE",
+      "url": "https://play.google.com/store/apps/details?id=com.dw.evilnu.schoolgirl.horror&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate com.dr.ninja.assassin.fight"
+      ]
+    },
+    {
+      "id": "com.dr.delivery.sim",
+      "title": "I Am Parcel Delivery Boy Game",
+      "decision": "not-strategy",
+      "released": "Mar 5, 2026",
+      "genre": "Role Playing",
+      "genreId": "GAME_ROLE_PLAYING",
+      "url": "https://play.google.com/store/apps/details?id=com.dr.delivery.sim&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate com.dr.ninja.assassin.fight"
+      ]
+    },
+    {
+      "id": "com.dr.water.park.fun",
+      "title": "Water Slide Park Fun Sim Game",
+      "decision": "not-strategy",
+      "released": "Dec 1, 2025",
+      "genre": "Simulation",
+      "genreId": "GAME_SIMULATION",
+      "url": "https://play.google.com/store/apps/details?id=com.dr.water.park.fun&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate com.dr.ninja.assassin.fight"
+      ]
+    },
+    {
+      "id": "com.darwin.scary.monster.house.escape",
+      "title": "Scary Anime School Girl Games",
+      "decision": "not-strategy",
+      "released": "Mar 19, 2024",
+      "genre": "Role Playing",
+      "genreId": "GAME_ROLE_PLAYING",
+      "url": "https://play.google.com/store/apps/details?id=com.darwin.scary.monster.house.escape&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate com.dr.ninja.assassin.fight"
+      ]
+    },
+    {
+      "id": "com.chargedmonkey.robotbreaker",
+      "title": "Robot Breaker: Idle Smash RPG",
+      "decision": "not-strategy",
+      "released": "Mar 11, 2026",
+      "genre": "Casual",
+      "genreId": "GAME_CASUAL",
+      "url": "https://play.google.com/store/apps/details?id=com.chargedmonkey.robotbreaker&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate com.eyaegmoranm.onemagearmy"
+      ]
+    },
+    {
+      "id": "com.pingu.sort.color.puzzle",
+      "title": "Pingu Drop - Color Sort Puzzle",
+      "decision": "not-strategy",
+      "released": "Aug 7, 2026",
+      "genre": "Puzzle",
+      "genreId": "GAME_PUZZLE",
+      "url": "https://play.google.com/store/apps/details?id=com.pingu.sort.color.puzzle&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate com.eyaegmoranm.onemagearmy"
+      ]
+    },
+    {
+      "id": "com.alexb.hazel",
+      "title": "Hazel - Private Period Tracker",
+      "decision": "not-strategy",
+      "released": "Jul 20, 2026",
+      "genre": "Lifestyle",
+      "genreId": "LIFESTYLE",
+      "url": "https://play.google.com/store/apps/details?id=com.alexb.hazel&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate com.alexb.realmidle"
+      ]
+    },
+    {
+      "id": "com.alexb.phrased",
+      "title": "Phrased",
+      "decision": "not-strategy",
+      "released": "May 2, 2026",
+      "genre": "Productivity",
+      "genreId": "PRODUCTIVITY",
+      "url": "https://play.google.com/store/apps/details?id=com.alexb.phrased&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate com.alexb.realmidle"
+      ]
+    },
+    {
+      "id": "com.alexb.tarotreading2",
+      "title": "Tarot Reader",
+      "decision": "not-strategy",
+      "released": "Jan 17, 2026",
+      "genre": "Entertainment",
+      "genreId": "ENTERTAINMENT",
+      "url": "https://play.google.com/store/apps/details?id=com.alexb.tarotreading2&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate com.alexb.realmidle"
+      ]
+    },
+    {
+      "id": "com.highbrow.games.dv",
+      "title": "Dragon Village Collection",
+      "decision": "not-strategy",
+      "released": "Jul 30, 2023",
+      "genre": "Simulation",
+      "genreId": "GAME_SIMULATION",
+      "url": "https://play.google.com/store/apps/details?id=com.highbrow.games.dv&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate com.highbrow.games.dvo"
+      ]
+    },
+    {
+      "id": "com.highbrow.games.dvb",
+      "title": "Dragon Village Rumble",
+      "decision": "not-strategy",
+      "released": "Dec 3, 2025",
+      "genre": "Simulation",
+      "genreId": "GAME_SIMULATION",
+      "url": "https://play.google.com/store/apps/details?id=com.highbrow.games.dvb&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate com.highbrow.games.dvo"
+      ]
+    },
+    {
+      "id": "com.highbrow.games.tnf",
+      "title": "Tiny Farm: Remastered",
+      "decision": "not-strategy",
+      "released": "Mar 13, 2025",
+      "genre": "Simulation",
+      "genreId": "GAME_SIMULATION",
+      "url": "https://play.google.com/store/apps/details?id=com.highbrow.games.tnf&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate com.highbrow.games.dvo"
+      ]
+    },
+    {
+      "id": "com.highbrow.games.dvarena",
+      "title": "Dragon Village Arena",
+      "decision": "not-strategy",
+      "released": "Nov 22, 2022",
+      "genre": "Role Playing",
+      "genreId": "GAME_ROLE_PLAYING",
+      "url": "https://play.google.com/store/apps/details?id=com.highbrow.games.dvarena&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate com.highbrow.games.dvo"
+      ]
+    },
+    {
+      "id": "com.perplelab.dragonvillagem.kr",
+      "title": "Dragon Village M",
+      "decision": "not-strategy",
+      "released": "Jan 24, 2018",
+      "genre": "Role Playing",
+      "genreId": "GAME_ROLE_PLAYING",
+      "url": "https://play.google.com/store/apps/details?id=com.perplelab.dragonvillagem.kr&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate com.highbrow.games.dvo"
+      ]
+    },
+    {
+      "id": "com.highbrow.game",
+      "title": "Dragon Village",
+      "decision": "not-strategy",
+      "released": "Jan 27, 2012",
+      "genre": "Role Playing",
+      "genreId": "GAME_ROLE_PLAYING",
+      "url": "https://play.google.com/store/apps/details?id=com.highbrow.game&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate com.highbrow.games.dvo"
+      ]
+    },
+    {
+      "id": "com.ss.kitchen.set.diy.cooking.games",
+      "title": "Kitchen Set Cooking Chef Time",
+      "decision": "not-strategy",
+      "released": "May 7, 2025",
+      "genre": "Role Playing",
+      "genreId": "GAME_ROLE_PLAYING",
+      "url": "https://play.google.com/store/apps/details?id=com.ss.kitchen.set.diy.cooking.games&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate com.ss.kitchen.set.cooking.fun.game"
+      ]
+    },
+    {
+      "id": "com.ss.kitchen.set.cooking.chef.games.time",
+      "title": "Kitchen Set: Cooking Time Chef",
+      "decision": "not-strategy",
+      "released": "Jan 30, 2026",
+      "genre": "Educational",
+      "genreId": "GAME_EDUCATIONAL",
+      "url": "https://play.google.com/store/apps/details?id=com.ss.kitchen.set.cooking.chef.games.time&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate com.ss.kitchen.set.cooking.fun.game"
+      ]
+    },
+    {
+      "id": "com.ss.my.toy.set.toy.world.games",
+      "title": "kitchenGo: Cozy Games Offline",
+      "decision": "not-strategy",
+      "released": "Oct 20, 2025",
+      "genre": "Simulation",
+      "genreId": "GAME_SIMULATION",
+      "url": "https://play.google.com/store/apps/details?id=com.ss.my.toy.set.toy.world.games&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate com.ss.kitchen.set.cooking.fun.game"
+      ]
+    },
+    {
+      "id": "com.ss.phonecase.diy.mobile.games",
+      "title": "DIY Phone Case 3D Mobile Cover",
+      "decision": "not-strategy",
+      "released": "Jan 1, 2026",
+      "genre": "Casual",
+      "genreId": "GAME_CASUAL",
+      "url": "https://play.google.com/store/apps/details?id=com.ss.phonecase.diy.mobile.games&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate com.ss.kitchen.set.cooking.fun.game"
+      ]
+    },
+    {
+      "id": "com.ss.tricky.minds.nightmare.brainy.puzzles",
+      "title": "Brainy Nightmare Tricky Puzzle",
+      "decision": "not-strategy",
+      "released": "Dec 23, 2025",
+      "genre": "Puzzle",
+      "genreId": "GAME_PUZZLE",
+      "url": "https://play.google.com/store/apps/details?id=com.ss.tricky.minds.nightmare.brainy.puzzles&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate com.ss.kitchen.set.cooking.fun.game"
+      ]
+    },
+    {
+      "id": "com.ss.asmr.skincare.makeover.game",
+      "title": "ASMR Skincare Satisfying Games",
+      "decision": "not-strategy",
+      "released": "Oct 16, 2025",
+      "genre": "Role Playing",
+      "genreId": "GAME_ROLE_PLAYING",
+      "url": "https://play.google.com/store/apps/details?id=com.ss.asmr.skincare.makeover.game&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate com.ss.kitchen.set.cooking.fun.game"
+      ]
+    },
+    {
+      "id": "com.ss.tile.rescue.match.puzzle",
+      "title": "Tile Home: Triple Match Puzzle",
+      "decision": "not-strategy",
+      "released": "Sep 25, 2025",
+      "genre": "Role Playing",
+      "genreId": "GAME_ROLE_PLAYING",
+      "url": "https://play.google.com/store/apps/details?id=com.ss.tile.rescue.match.puzzle&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate com.ss.kitchen.set.cooking.fun.game"
+      ]
+    },
+    {
+      "id": "com.ss.indian.wedding.dressup.bridal",
+      "title": "Indian Wedding Dress Up Bridal",
+      "decision": "not-strategy",
+      "released": "Jul 15, 2025",
+      "genre": "Role Playing",
+      "genreId": "GAME_ROLE_PLAYING",
+      "url": "https://play.google.com/store/apps/details?id=com.ss.indian.wedding.dressup.bridal&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate com.ss.kitchen.set.cooking.fun.game"
+      ]
+    },
+    {
+      "id": "com.horus.fair.shot",
+      "title": "Fair Shot!",
+      "decision": "not-strategy",
+      "released": "Jul 10, 2026",
+      "genre": "Puzzle",
+      "genreId": "GAME_PUZZLE",
+      "url": "https://play.google.com/store/apps/details?id=com.horus.fair.shot&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate com.horus.hero.xp.farm.rpg"
+      ]
+    },
+    {
+      "id": "com.horus.sandy.jam",
+      "title": "Sandy Jam: Sand Puzzle",
+      "decision": "not-strategy",
+      "released": "Mar 10, 2026",
+      "genre": "Puzzle",
+      "genreId": "GAME_PUZZLE",
+      "url": "https://play.google.com/store/apps/details?id=com.horus.sandy.jam&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate com.horus.hero.xp.farm.rpg"
+      ]
+    },
+    {
+      "id": "com.horus.war.survival.last.shooter",
+      "title": "War Survival : Last Shooter",
+      "decision": "not-strategy",
+      "released": "Aug 7, 2026",
+      "genre": "Action",
+      "genreId": "GAME_ACTION",
+      "url": "https://play.google.com/store/apps/details?id=com.horus.war.survival.last.shooter&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate com.horus.hero.xp.farm.rpg"
+      ]
+    },
+    {
+      "id": "com.horus.time.era",
+      "title": "Time Evolve: Age Rush",
+      "decision": "not-strategy",
+      "released": "Jul 10, 2026",
+      "genre": "Action",
+      "genreId": "GAME_ACTION",
+      "url": "https://play.google.com/store/apps/details?id=com.horus.time.era&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate com.horus.hero.xp.farm.rpg"
+      ]
+    },
+    {
+      "id": "com.horus.bus.dash",
+      "title": "Bus Dash: Traffic Escape",
+      "decision": "not-strategy",
+      "released": "Jul 31, 2026",
+      "genre": "Puzzle",
+      "genreId": "GAME_PUZZLE",
+      "url": "https://play.google.com/store/apps/details?id=com.horus.bus.dash&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate com.horus.hero.xp.farm.rpg"
+      ]
+    },
+    {
+      "id": "com.horus.lumber.city.tycoon",
+      "title": "Lumber City: Idle Tycoon",
+      "decision": "not-strategy",
+      "released": "Oct 5, 2026",
+      "genre": "Simulation",
+      "genreId": "GAME_SIMULATION",
+      "url": "https://play.google.com/store/apps/details?id=com.horus.lumber.city.tycoon&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate com.horus.hero.xp.farm.rpg"
+      ]
+    },
+    {
+      "id": "com.horus.die.loop",
+      "title": "Die Loop: Shooting game",
+      "decision": "not-strategy",
+      "released": "Sep 25, 2026",
+      "genre": "Action",
+      "genreId": "GAME_ACTION",
+      "url": "https://play.google.com/store/apps/details?id=com.horus.die.loop&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate com.horus.hero.xp.farm.rpg"
+      ]
+    },
+    {
+      "id": "com.horus.mob.attack.count.runner",
+      "title": "Mob Attack: Count Runner",
+      "decision": "not-strategy",
+      "released": "Oct 19, 2026",
+      "genre": "Action",
+      "genreId": "GAME_ACTION",
+      "url": "https://play.google.com/store/apps/details?id=com.horus.mob.attack.count.runner&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate com.horus.hero.xp.farm.rpg"
+      ]
+    },
+    {
+      "id": "com.horus.sand.spill",
+      "title": "Sand Spill! - Color Puzzle",
+      "decision": "not-strategy",
+      "released": "Jul 10, 2026",
+      "genre": "Puzzle",
+      "genreId": "GAME_PUZZLE",
+      "url": "https://play.google.com/store/apps/details?id=com.horus.sand.spill&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate com.horus.hero.xp.farm.rpg"
+      ]
+    },
+    {
+      "id": "com.sega.ColorfulStage.en",
+      "title": "HATSUNE MIKU: COLORFUL STAGE!",
+      "decision": "not-strategy",
+      "released": "Dec 6, 2021",
+      "genre": "Music",
+      "genreId": "GAME_MUSIC",
+      "url": "https://play.google.com/store/apps/details?id=com.sega.ColorfulStage.en&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate com.sega.persona5.the.phantomx.en"
+      ]
+    },
+    {
+      "id": "com.sega.sonicrumble",
+      "title": "Sonic Rumble Party",
+      "decision": "not-strategy",
+      "released": "Nov 4, 2025",
+      "genre": "Action",
+      "genreId": "GAME_ACTION",
+      "url": "https://play.google.com/store/apps/details?id=com.sega.sonicrumble&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate com.sega.persona5.the.phantomx.en"
+      ]
+    },
+    {
+      "id": "com.sega.d2megaten.en",
+      "title": "SHIN MEGAMI TENSEI L Dx2",
+      "decision": "not-strategy",
+      "released": "Jul 23, 2018",
+      "genre": "Role Playing",
+      "genreId": "GAME_ROLE_PLAYING",
+      "url": "https://play.google.com/store/apps/details?id=com.sega.d2megaten.en&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate com.sega.persona5.the.phantomx.en"
+      ]
+    },
+    {
+      "id": "com.sega.HokutoRevive.en",
+      "title": "FIST OF THE NORTH STAR",
+      "decision": "not-strategy",
+      "released": "Sep 4, 2019",
+      "genre": "Action",
+      "genreId": "GAME_ACTION",
+      "url": "https://play.google.com/store/apps/details?id=com.sega.HokutoRevive.en&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate com.sega.persona5.the.phantomx.en"
+      ]
+    },
+    {
+      "id": "com.sega.FootballClubChampions",
+      "title": "SEGA FC Champions (Soccer)",
+      "decision": "not-strategy",
+      "released": "Jan 21, 2026",
+      "genre": "Sports",
+      "genreId": "GAME_SPORTS",
+      "url": "https://play.google.com/store/apps/details?id=com.sega.FootballClubChampions&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate com.sega.persona5.the.phantomx.en"
+      ]
+    },
+    {
+      "id": "com.sega.sapphire",
+      "title": "SEGA Play AR",
+      "decision": "not-strategy",
+      "released": "Sep 28, 2022",
+      "genre": "Entertainment",
+      "genreId": "ENTERTAINMENT",
+      "url": "https://play.google.com/store/apps/details?id=com.sega.sapphire&hl=en&gl=US",
+      "discoveredVia": [
+        "Official developer of strategy-text candidate com.sega.persona5.the.phantomx.en"
+      ]
+    },
+    {
+      "id": "com.MrDog.TrapDefense",
+      "title": "Trap Defense",
+      "decision": "included",
+      "released": "Feb 10, 2025",
+      "genre": "Strategy",
+      "genreId": "GAME_STRATEGY",
+      "url": "https://play.google.com/store/apps/details?id=com.MrDog.TrapDefense&hl=en&gl=US",
+      "discoveredVia": [
+        "developer:Mr Dog"
+      ]
+    },
+    {
+      "id": "com.MrDog.CastleRPG",
+      "title": "Castle RPG",
+      "decision": "not-strategy",
+      "released": "May 24, 2022",
+      "genre": "Role Playing",
+      "genreId": "GAME_ROLE_PLAYING",
+      "url": "https://play.google.com/store/apps/details?id=com.MrDog.CastleRPG&hl=en&gl=US",
+      "discoveredVia": [
+        "developer:Mr Dog"
       ]
     }
   ],

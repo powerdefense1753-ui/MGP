@@ -59736,6 +59736,66 @@
     "iconSourceUrl": "https://play-lh.googleusercontent.com/3yz88O7jGQGh55VTHw4qcrq91zje2LBzqZ_DvWPqtheWOwXZSCyoWLm5tQJHo4E9Gch_fKXQ-kQnYpZZSxTpVw"
   },
   {
+    "minInstalls": 1,
+    "installEvidence": {
+      "minInstalls": 1,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.MrDog.TrapDefense&hl=en&gl=US",
+      "fetchedAt": "2026-10-22T09:42:05.816Z"
+    },
+    "id": "com.MrDog.TrapDefense",
+    "title": "Trap Defense",
+    "subtitle": "Tower Defense game",
+    "description": "Tower Defense game",
+    "overviewEn": "Tower Defense game",
+    "genre": "Tower defense",
+    "world": "",
+    "tags": [
+      "Tower defense",
+      "Paid download",
+      "Android"
+    ],
+    "evidence": [
+      {
+        "tag": "Tower defense",
+        "basis": "Developer summary keyword mapping",
+        "excerpt": "Tower Defense game"
+      },
+      {
+        "tag": "Paid download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0.49"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      }
+    ],
+    "price": "Paid download",
+    "priceValue": 0.49,
+    "priceCurrency": "USD",
+    "priceDisplay": "US$0.49",
+    "developer": "Mr Dog",
+    "ads": null,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.MrDog.TrapDefense&hl=en&gl=US",
+    "fetchedAt": "2026-10-22T09:42:05.816Z",
+    "sourceDate": "2026-10-22",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2025-02-10",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Feb 10, 2025",
+      "url": "https://play.google.com/store/apps/details?id=com.MrDog.TrapDefense&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/1qmSLSZULqjHMXnxxTLuSfavtc6vQdT1B-AmoDWa-8bBm996rkB_f3FYfd72nyhmv1Zj6l1-h_2kGrct1VbZfi4"
+  },
+  {
     "minInstalls": 500000,
     "installEvidence": {
       "minInstalls": 500000,
