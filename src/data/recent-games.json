@@ -6864,6 +6864,78 @@
     "iconSourceUrl": "https://play-lh.googleusercontent.com/ZOzh0l4e6ygUY_XACfLgTfE0ykHvejZc8ScTCHtzty9vHk6u9e7kF0tcf7LbnFqgx1B3rmuLOuN2rFts9dU-sA"
   },
   {
+    "minInstalls": 10,
+    "installEvidence": {
+      "minInstalls": 10,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.mg.mythic&hl=en&gl=US",
+      "fetchedAt": "2026-10-22T06:36:06.961Z"
+    },
+    "id": "com.mg.mythic",
+    "title": "Mythic Realms: 4X Strategy",
+    "subtitle": "Build, explore and conquer in fast turn-based 4X strategy battles.",
+    "description": "Build, explore and conquer in fast turn-based 4X strategy battles.",
+    "overviewEn": "Build, explore and conquer in fast turn-based 4X strategy battles.",
+    "genre": "Turn-based",
+    "world": "",
+    "tags": [
+      "Turn-based",
+      "4X",
+      "Free download",
+      "Android",
+      "In-app purchases"
+    ],
+    "evidence": [
+      {
+        "tag": "Turn-based",
+        "basis": "Developer summary keyword mapping",
+        "excerpt": "Build, explore and conquer in fast turn-based 4X strategy battles."
+      },
+      {
+        "tag": "4X",
+        "basis": "Developer summary keyword mapping",
+        "excerpt": "Build, explore and conquer in fast turn-based 4X strategy battles."
+      },
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Company Of Bros",
+    "ads": null,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.mg.mythic&hl=en&gl=US",
+    "fetchedAt": "2026-10-22T06:36:06.961Z",
+    "sourceDate": "2026-10-22",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-09-04",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Sep 4, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.mg.mythic&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/IS2dVjcIqdV6yB4cLk1AYEVJkcRyeD-FVSt_LlIoX15wskIH-ZqlZVcDlNBHvv3o1JMFrr3aPJ78F76SLbX26w"
+  },
+  {
     "minInstalls": 1000,
     "installEvidence": {
       "minInstalls": 1000,
@@ -19380,6 +19452,66 @@
     "iconSourceUrl": "https://play-lh.googleusercontent.com/rE78EnwLVAUmAS9dokBPNPRdPNCYp99Lw1_ezx8sA0F_5stsOOb2VK29fAHBUoLvnss2ITabllenIlgHPhaelWw"
   },
   {
+    "minInstalls": 5000,
+    "installEvidence": {
+      "minInstalls": 5000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.denismakhortov.strategypath&hl=en&gl=US",
+      "fetchedAt": "2026-10-20T10:30:34.723Z"
+    },
+    "id": "com.denismakhortov.strategypath",
+    "title": "Strategy Path",
+    "subtitle": "Strategy game where you lead one of many nations and guide it through the ages",
+    "description": "Strategy game where you lead one of many nations and guide it through the ages",
+    "overviewEn": "Strategy game where you lead one of many nations and guide it through the ages",
+    "genre": "Strategy",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "In-app purchases"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Feracore Studio",
+    "ads": null,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.denismakhortov.strategypath&hl=en&gl=US",
+    "fetchedAt": "2026-10-20T10:30:34.723Z",
+    "sourceDate": "2026-10-20",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-06-13",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Jun 13, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.denismakhortov.strategypath&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/AM2_y3vVkf4rFtn16406h47lZtDnk6hqR8inKHjrf5zMA8tlx4NKsiAYcvQzHy9fsbD-mmXhwPHW3AI7N6h_72M"
+  },
+  {
     "minInstalls": 5000000,
     "installEvidence": {
       "minInstalls": 5000000,
@@ -20308,6 +20440,66 @@
     "catalog": "recent",
     "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
     "iconSourceUrl": "https://play-lh.googleusercontent.com/KhebP0FGBUrnBECeFjAiKMg0vzcJqsQJQe3DzV6jaqeEc9nUfjukrGOF_O7_METU5aWqrSkpc4iigLT35PIZBg"
+  },
+  {
+    "minInstalls": 1000,
+    "installEvidence": {
+      "minInstalls": 1000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.politory.mobile&hl=en&gl=US",
+      "fetchedAt": "2026-10-22T06:36:08.390Z"
+    },
+    "id": "com.politory.mobile",
+    "title": "Politory: Politics & Strategy",
+    "subtitle": "Form a party, rule the stock market & wage wars in this MMO strategy simulator!",
+    "description": "Form a party, rule the stock market & wage wars in this MMO strategy simulator!",
+    "overviewEn": "Form a party, rule the stock market & wage wars in this MMO strategy simulator!",
+    "genre": "Strategy",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "VORKS TECHNOLOGY",
+    "ads": true,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.politory.mobile&hl=en&gl=US",
+    "fetchedAt": "2026-10-22T06:36:08.390Z",
+    "sourceDate": "2026-10-22",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-06-06",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Jun 6, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.politory.mobile&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/0DZFVndupD42pTMbf-Kvsf6NbGP1arP3jR6MoVvdb-oQFvY1d-IRUpv40eOoXBHSD62bCYV_kWwF8lFnEzak"
   },
   {
     "minInstalls": 1000,
@@ -23188,6 +23380,78 @@
     "catalog": "recent",
     "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
     "iconSourceUrl": "https://play-lh.googleusercontent.com/5s1Ab5umX1zmpmhDubGsmBVw0qcIcNHPg92H8F7z5czgoXBOdP4McRpuRpON2a_SmmQ5YqVKzdBnqHmYdYuxvpI"
+  },
+  {
+    "minInstalls": 10000,
+    "installEvidence": {
+      "minInstalls": 10000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.cityconflict.game&hl=en&gl=US",
+      "fetchedAt": "2026-10-20T10:30:13.522Z"
+    },
+    "id": "com.cityconflict.game",
+    "title": "City Conflict: Global Wars",
+    "subtitle": "Build your empire, command armies and dominate the world map. Real-time MMO!",
+    "description": "Build your empire, command armies and dominate the world map. Real-time MMO!",
+    "overviewEn": "Build your empire, command armies and dominate the world map. Real-time MMO!",
+    "genre": "Real-time",
+    "world": "",
+    "tags": [
+      "Real-time",
+      "Free download",
+      "Android",
+      "Contains ads",
+      "In-app purchases"
+    ],
+    "evidence": [
+      {
+        "tag": "Real-time",
+        "basis": "Developer summary keyword mapping",
+        "excerpt": "Build your empire, command armies and dominate the world map. Real-time MMO!"
+      },
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "CuiveMedia",
+    "ads": true,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.cityconflict.game&hl=en&gl=US",
+    "fetchedAt": "2026-10-20T10:30:13.522Z",
+    "sourceDate": "2026-10-20",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-05-14",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "May 14, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.cityconflict.game&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/3DPPiR1RBz9ntvZa5WJGoUQ_DyM2JhoFT2dMLRvduOf0ayw3_ICdnDxTWplqDNXX2Rp9RAhFk3L6O9IBbcytjA"
   },
   {
     "minInstalls": 100,
@@ -33454,6 +33718,72 @@
     "catalog": "recent",
     "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
     "iconSourceUrl": "https://play-lh.googleusercontent.com/pWPXPyc8JIduTZSkXGDFommeXFBmBgEgBXzXCeyh_IBBtvE7TpxcX9jbWJiM6KGcWCtE1y5eihbwupqA3jzY"
+  },
+  {
+    "minInstalls": 10000,
+    "installEvidence": {
+      "minInstalls": 10000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=pocketforts.td&hl=en&gl=US",
+      "fetchedAt": "2026-10-20T10:46:54.658Z"
+    },
+    "id": "pocketforts.td",
+    "title": "Pocket Forts Defense TD",
+    "subtitle": "Defend your base with epic guns on fast-paced waves in action tower defense TD!",
+    "description": "Defend your base with epic guns on fast-paced waves in action tower defense TD!",
+    "overviewEn": "Defend your base with epic guns on fast-paced waves in action tower defense TD!",
+    "genre": "Tower defense",
+    "world": "",
+    "tags": [
+      "Tower defense",
+      "Free download",
+      "Android",
+      "Contains ads"
+    ],
+    "evidence": [
+      {
+        "tag": "Tower defense",
+        "basis": "Developer summary keyword mapping",
+        "excerpt": "Defend your base with epic guns on fast-paced waves in action tower defense TD!"
+      },
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "PAMPAM TOV",
+    "ads": true,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=pocketforts.td&hl=en&gl=US",
+    "fetchedAt": "2026-10-20T10:46:54.658Z",
+    "sourceDate": "2026-10-20",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-01-30",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Jan 30, 2026",
+      "url": "https://play.google.com/store/apps/details?id=pocketforts.td&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/XGiUumlKYRR5WHomcieRmyahHf1U9Gs5OSEZrD_yHm60ueiIPpDJAzAcdKBlauHvFSzGGMESpwv7luWOA9ILiKE"
   },
   {
     "minInstalls": 100,
@@ -45768,6 +46098,78 @@
     "iconSourceUrl": "https://play-lh.googleusercontent.com/YBRw5AMrmMZ2wInsyUyv4GTWn_E5Zfl4VvyItzeV-OiL5BnIpUabSGJsbVfV7d6Z8k1zHo7T599v1hQDUmZJQUA"
   },
   {
+    "minInstalls": 5000,
+    "installEvidence": {
+      "minInstalls": 5000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.igindis.empiressupremecommand&hl=en&gl=US",
+      "fetchedAt": "2026-10-20T10:30:05.330Z"
+    },
+    "id": "com.igindis.empiressupremecommand",
+    "title": "Empire’s Supreme Command",
+    "subtitle": "Turn-based strategy. Build, trade, fight, and lead your empire to victory.",
+    "description": "Turn-based strategy. Build, trade, fight, and lead your empire to victory.",
+    "overviewEn": "Turn-based strategy. Build, trade, fight, and lead your empire to victory.",
+    "genre": "Turn-based",
+    "world": "",
+    "tags": [
+      "Turn-based",
+      "Free download",
+      "Android",
+      "Contains ads",
+      "In-app purchases"
+    ],
+    "evidence": [
+      {
+        "tag": "Turn-based",
+        "basis": "Developer summary keyword mapping",
+        "excerpt": "Turn-based strategy. Build, trade, fight, and lead your empire to victory."
+      },
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "iGindis Games",
+    "ads": true,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.igindis.empiressupremecommand&hl=en&gl=US",
+    "fetchedAt": "2026-10-20T10:30:05.330Z",
+    "sourceDate": "2026-10-20",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2025-08-26",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Aug 26, 2025",
+      "url": "https://play.google.com/store/apps/details?id=com.igindis.empiressupremecommand&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/-jnQIwac7quQYStntMxaFJ3Jeyp0AxnYgHTviULQrktK_86qa_X9bShMqruylLcW799VJbdA4jIYBU_3XcWJQ94"
+  },
+  {
     "minInstalls": 10000,
     "installEvidence": {
       "minInstalls": 10000,
@@ -46132,6 +46534,72 @@
     "catalog": "recent",
     "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
     "iconSourceUrl": "https://play-lh.googleusercontent.com/W8Mjc2Zi1r1To_rBMcS6OOFqObt8hOvu6zB4KebFSjGI2DM1qDMf8tSZ-W88nUrw1Arm_7QFUk6mk3ZVOrkj"
+  },
+  {
+    "minInstalls": 100000,
+    "installEvidence": {
+      "minInstalls": 100000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.lion.games.animal.simulator&hl=en&gl=US",
+      "fetchedAt": "2026-10-21T02:33:40.013Z"
+    },
+    "id": "com.lion.games.animal.simulator",
+    "title": "Lion Family Simulator 3D Games",
+    "subtitle": "play as a Lion, In Lion Family Simulator game, hunt wild animals, learn to win",
+    "description": "play as a Lion, In Lion Family Simulator game, hunt wild animals, learn to win",
+    "overviewEn": "play as a Lion, In Lion Family Simulator game, hunt wild animals, learn to win",
+    "genre": "Strategy",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "In-app purchases"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Nuts Game Ventures",
+    "ads": true,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.lion.games.animal.simulator&hl=en&gl=US",
+    "fetchedAt": "2026-10-21T02:33:40.013Z",
+    "sourceDate": "2026-10-21",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2025-08-18",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Aug 18, 2025",
+      "url": "https://play.google.com/store/apps/details?id=com.lion.games.animal.simulator&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/5aY_Cy_msfWxAQKP0c_naAtygZSCYaiLsrKRqv7AeBkLXCqEN637_jWgpmtVpvi26x_xbEA4u2QX1YC2hCitkY0"
   },
   {
     "minInstalls": 500000,
@@ -61894,6 +62362,60 @@
     "catalog": "recent",
     "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
     "iconSourceUrl": "https://play-lh.googleusercontent.com/iiUXwcMzZLyui3EvOeH8VEypEehBNhnn0e8JBnPmn0_q1EM_fN-wzc-mhByIhJ4ePxdhDhJu8mCCAD3f5lEIRQ"
+  },
+  {
+    "minInstalls": 1000,
+    "installEvidence": {
+      "minInstalls": 1000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.bigfishtech.commander&hl=en&gl=US",
+      "fetchedAt": "2026-10-20T10:30:46.076Z"
+    },
+    "id": "com.bigfishtech.commander",
+    "title": "Commander: Battle with Code",
+    "subtitle": "Epic Multiplayer Battles - Control Your Army with Code",
+    "description": "Epic Multiplayer Battles - Control Your Army with Code",
+    "overviewEn": "Epic Multiplayer Battles - Control Your Army with Code",
+    "genre": "Strategy",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Big Fish Tech",
+    "ads": null,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.bigfishtech.commander&hl=en&gl=US",
+    "fetchedAt": "2026-10-20T10:30:46.076Z",
+    "sourceDate": "2026-10-20",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2024-12-18",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Dec 18, 2024",
+      "url": "https://play.google.com/store/apps/details?id=com.bigfishtech.commander&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/JuL_EcssIEQfjwVWtUyTYS_GJbO_xacw2iaBTJ_FARF20II2fETPoEQCOIzZGfFi9ystWVn93-D60_wbUcLu-A"
   },
   {
     "minInstalls": 1000000,

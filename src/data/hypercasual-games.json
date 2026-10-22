@@ -5366,5 +5366,361 @@
         "basis": "Official developer gameplay text"
       }
     ]
+  },
+  {
+    "minInstalls": 100,
+    "installEvidence": {
+      "minInstalls": 100,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.reverbcreativetrstudio.slingshotstars&hl=en&gl=US",
+      "fetchedAt": "2026-10-22T06:46:54.457Z"
+    },
+    "id": "com.reverbcreativetrstudio.slingshotstars",
+    "title": "Slingshot Stars",
+    "subtitle": "Launch rockets, dodge obstacles & reach the stars! Simple one-tap fun!",
+    "description": "Launch rockets, dodge obstacles & reach the stars! Simple one-tap fun!",
+    "overviewEn": "Launch rockets, dodge obstacles & reach the stars! Simple one-tap fun!",
+    "genre": "Hypercasual",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "Tap gameplay"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "Tap gameplay",
+        "excerpt": "one-tap",
+        "basis": "Official developer gameplay text"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "ReverbCreativeTR Studio",
+    "ads": true,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.reverbcreativetrstudio.slingshotstars&hl=en&gl=US",
+    "fetchedAt": "2026-10-22T06:46:54.457Z",
+    "sourceDate": "2026-10-22",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-05-19",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "May 19, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.reverbcreativetrstudio.slingshotstars&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/xBnWe5z4OxBWWB8wP5_VaEIQW4NQ2v_bkhMTjmtLW9aFDXuq7evpuNkBPZXsQkCKN0NxmIcaIGYjzzSGfke5",
+    "categories": [
+      "hypercasual"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "hypercasual",
+        "excerpt": "hypercasual",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 1000,
+    "installEvidence": {
+      "minInstalls": 1000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.pn.fireman.breakrescue&hl=en&gl=US",
+      "fetchedAt": "2026-10-22T07:03:35.530Z"
+    },
+    "id": "com.pn.fireman.breakrescue",
+    "title": "Fireman : Break & Rescue",
+    "subtitle": "Save lives in this thrilling hyper-casual arcade game!",
+    "description": "Save lives in this thrilling hyper-casual arcade game!",
+    "overviewEn": "Save lives in this thrilling hyper-casual arcade game!",
+    "genre": "Hypercasual",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Play Nation",
+    "ads": true,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.pn.fireman.breakrescue&hl=en&gl=US",
+    "fetchedAt": "2026-10-22T07:03:35.530Z",
+    "sourceDate": "2026-10-22",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2025-01-20",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Jan 20, 2025",
+      "url": "https://play.google.com/store/apps/details?id=com.pn.fireman.breakrescue&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/6509H4CLmym5JV3YAjh-Urp193gIku0OF7qLYe96TQD1zWPe3OzQXpjk6EsJZouNP-CCSP7l6o9odBFek5k_",
+    "categories": [
+      "hypercasual"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "hypercasual",
+        "excerpt": "hyper-casual",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 5000,
+    "installEvidence": {
+      "minInstalls": 5000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.KeyCreation.TrampolineDive&hl=en&gl=US",
+      "fetchedAt": "2026-10-22T08:30:38.527Z"
+    },
+    "id": "com.KeyCreation.TrampolineDive",
+    "title": "Trampoline Dive",
+    "subtitle": "Dive into the sky above the big city! Exhilarating trampoline action",
+    "description": "Dive into the sky above the big city! Exhilarating trampoline action",
+    "overviewEn": "Dive into the sky above the big city! Exhilarating trampoline action",
+    "genre": "Hypercasual",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "KEYCREATION, INC.",
+    "ads": true,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.KeyCreation.TrampolineDive&hl=en&gl=US",
+    "fetchedAt": "2026-10-22T08:30:38.527Z",
+    "sourceDate": "2026-10-22",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2025-10-15",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Oct 15, 2025",
+      "url": "https://play.google.com/store/apps/details?id=com.KeyCreation.TrampolineDive&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/HwEV5SkQrMyce7UeCXHSH9VhONHrx2jx8h8EdVtXXODa5fwx8XF5FZPNnu3FuwC3k_Obxf10r99Uecgs4POrA0A",
+    "categories": [
+      "hypercasual"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "hypercasual",
+        "excerpt": "hyper-casual",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 50,
+    "installEvidence": {
+      "minInstalls": 50,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.uikey.magnetcollect3d&hl=en&gl=US",
+      "fetchedAt": "2026-10-22T08:30:44.893Z"
+    },
+    "id": "com.uikey.magnetcollect3d",
+    "title": "Magnet Collect 3D",
+    "subtitle": "Move the magnet, collect objects, grow bigger, and avoid obstacles in 3D.",
+    "description": "Move the magnet, collect objects, grow bigger, and avoid obstacles in 3D.",
+    "overviewEn": "Move the magnet, collect objects, grow bigger, and avoid obstacles in 3D.",
+    "genre": "Hypercasual",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "UIKEY STUDIO",
+    "ads": true,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.uikey.magnetcollect3d&hl=en&gl=US",
+    "fetchedAt": "2026-10-22T08:30:44.893Z",
+    "sourceDate": "2026-10-22",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2025-12-05",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Dec 5, 2025",
+      "url": "https://play.google.com/store/apps/details?id=com.uikey.magnetcollect3d&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/rKf9fmOQqwsaX2FgJK4X0BEwfYr3ViGJ79Yc96PqQ8kORuH4XhzxHrcmq_Ms3U-er_qKN52P2dX03FKYcWTdAg",
+    "categories": [
+      "hypercasual"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "hypercasual",
+        "excerpt": "hyper-casual",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 500,
+    "installEvidence": {
+      "minInstalls": 500,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=jp.co.techqiao.cleanup&hl=en&gl=US",
+      "fetchedAt": "2026-10-22T08:31:11.174Z"
+    },
+    "id": "jp.co.techqiao.cleanup",
+    "title": "Super Clean Up ! - Vacuum 3D",
+    "subtitle": "Robot vacuum clean-up! A satisfying 3D hyper casual cleaning game.",
+    "description": "Robot vacuum clean-up! A satisfying 3D hyper casual cleaning game.",
+    "overviewEn": "Robot vacuum clean-up! A satisfying 3D hyper casual cleaning game.",
+    "genre": "Hypercasual",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "TechQiao Inc.",
+    "ads": true,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=jp.co.techqiao.cleanup&hl=en&gl=US",
+    "fetchedAt": "2026-10-22T08:31:11.174Z",
+    "sourceDate": "2026-10-22",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2025-11-20",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Nov 20, 2025",
+      "url": "https://play.google.com/store/apps/details?id=jp.co.techqiao.cleanup&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/rLJVDq_UIyZEdnF9kumi31OROExGOjL38g6M82yeFSnIYoN2HZBR8Bb5MpXkIyEAgGDAKIZPbP-Nef6nNvih_j8",
+    "categories": [
+      "hypercasual"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "hypercasual",
+        "excerpt": "hyper casual",
+        "basis": "Official developer gameplay text"
+      }
+    ]
   }
 ]
