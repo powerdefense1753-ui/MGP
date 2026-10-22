@@ -5874,5 +5874,80 @@
         "basis": "Official developer gameplay text"
       }
     ]
+  },
+  {
+    "minInstalls": 10,
+    "installEvidence": {
+      "minInstalls": 10,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.hamzag.CrowdGlide&hl=en&gl=US",
+      "fetchedAt": "2026-10-22T10:53:24.485Z"
+    },
+    "id": "com.hamzag.CrowdGlide",
+    "title": "Crowd Glide: Bus Puzzle",
+    "subtitle": "Swipe, merge and guide colorful crowds into the right buses!",
+    "description": "Swipe, merge and guide colorful crowds into the right buses!",
+    "overviewEn": "Swipe, merge and guide colorful crowds into the right buses!",
+    "genre": "Hypercasual",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Sorting"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Sorting",
+        "excerpt": "sorting",
+        "basis": "Official developer gameplay text"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "hamza gassab",
+    "ads": null,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.hamzag.CrowdGlide&hl=en&gl=US",
+    "fetchedAt": "2026-10-22T10:53:24.485Z",
+    "sourceDate": "2026-10-22",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-09-19",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Sep 19, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.hamzag.CrowdGlide&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/l1sqKXjkxP3QlmxyHvYzRMR-wtxMWknnKTovW0pZVCzOEYBxT_EszOltC60yCUveKk-ldGWlTUk27CNhpTxM9A",
+    "categories": [
+      "hypercasual"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "merge",
+        "excerpt": "merge matching",
+        "basis": "Official developer gameplay text"
+      },
+      {
+        "category": "hypercasual",
+        "excerpt": "hypercasual",
+        "basis": "Official developer gameplay text"
+      }
+    ]
   }
 ]

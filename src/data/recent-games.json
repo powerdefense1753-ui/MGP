@@ -3156,6 +3156,66 @@
     "iconSourceUrl": "https://play-lh.googleusercontent.com/TdHqM__vDaGM7AViYGdtbphjG7TEzA3VUxwmIVtiRIySXy_J8wb5Ky7At-7cg6chUFZ0vW7xIRTnggtA8Sho"
   },
   {
+    "minInstalls": 10,
+    "installEvidence": {
+      "minInstalls": 10,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.newdawn333.warofblueandgrey&hl=en&gl=US",
+      "fetchedAt": "2026-10-22T11:31:57.362Z"
+    },
+    "id": "com.newdawn333.warofblueandgrey",
+    "title": "War of Blue and Grey",
+    "subtitle": "Command Union or Confederate armies in tactical Civil War hex battles",
+    "description": "Command Union or Confederate armies in tactical Civil War hex battles",
+    "overviewEn": "Command Union or Confederate armies in tactical Civil War hex battles",
+    "genre": "Strategy",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "In-app purchases"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Vortex Build Labs",
+    "ads": null,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.newdawn333.warofblueandgrey&hl=en&gl=US",
+    "fetchedAt": "2026-10-22T11:31:57.362Z",
+    "sourceDate": "2026-10-22",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-09-23",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Sep 23, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.newdawn333.warofblueandgrey&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/yOZ0mAzN0r4Trqq0UliG6PQw4eYq8r8_689IztbekPGAg8Hxj2UcSI_QI2Mp24vLUnGnpJYOw_MaLyhWqLOKkQ"
+  },
+  {
     "minInstalls": 500,
     "installEvidence": {
       "minInstalls": 500,
@@ -3334,6 +3394,66 @@
     "catalog": "recent",
     "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
     "iconSourceUrl": "https://play-lh.googleusercontent.com/QWjYlGfkiQVJNzCb7HZLXfsAn1-LK4GWGpyZZ1kuDaRTSzz8-Yhm_WqY8JZIxAplmDXFIetAJMJh17R5_MFL"
+  },
+  {
+    "minInstalls": 50,
+    "installEvidence": {
+      "minInstalls": 50,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.jcgame.materialMagic.global&hl=en&gl=US",
+      "fetchedAt": "2026-10-22T11:31:55.928Z"
+    },
+    "id": "com.jcgame.materialMagic.global",
+    "title": "Knight’s Magic War",
+    "subtitle": "Build your army, combine skills, and explore a world of magic.",
+    "description": "Build your army, combine skills, and explore a world of magic.",
+    "overviewEn": "Build your army, combine skills, and explore a world of magic.",
+    "genre": "Strategy",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "In-app purchases"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Riverstar Games",
+    "ads": null,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.jcgame.materialMagic.global&hl=en&gl=US",
+    "fetchedAt": "2026-10-22T11:31:55.928Z",
+    "sourceDate": "2026-10-22",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-09-22",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Sep 22, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.jcgame.materialMagic.global&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/RONLSjenrQmpM_X04OxJIEskg7w1bHFh3ucTs0gJ4AKJJ2g_lAy5db32WcPLzfAEBpfqV1f6Rx_CmDs1R35Nlw"
   },
   {
     "minInstalls": 5,
@@ -5226,6 +5346,72 @@
     "iconSourceUrl": "https://play-lh.googleusercontent.com/OTOE3W5jTkIknB4ukH-Pvis_E0rDbyQi95l_7oDdRWiz_Zj-7qVTm_dKezldUG3F8OB6qAwRizL1FLOMmLNb"
   },
   {
+    "minInstalls": 100,
+    "installEvidence": {
+      "minInstalls": 100,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.felisetsciurus.bordersofrome&hl=en&gl=US",
+      "fetchedAt": "2026-10-22T11:29:37.520Z"
+    },
+    "id": "com.felisetsciurus.bordersofrome",
+    "title": "Borders of Rome: Hex Tactics",
+    "subtitle": "Lead Rome in turn-based strategy. Cut supply lines. No random combat rolls.",
+    "description": "Lead Rome in turn-based strategy. Cut supply lines. No random combat rolls.",
+    "overviewEn": "Lead Rome in turn-based strategy. Cut supply lines. No random combat rolls.",
+    "genre": "Strategy",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "In-app purchases"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Felis et Sciurus",
+    "ads": true,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.felisetsciurus.bordersofrome&hl=en&gl=US",
+    "fetchedAt": "2026-10-22T11:29:37.520Z",
+    "sourceDate": "2026-10-22",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-09-13",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Sep 13, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.felisetsciurus.bordersofrome&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/l1Ez0rldQaXpvJqlA5dC8SXYfEcLfWLPZ_4sLuzGl1TRSAXcbxLzC06YMN6C8sf8KjqP7jqeMU-12LIiivUblQ"
+  },
+  {
     "minInstalls": 0,
     "installEvidence": {
       "minInstalls": 0,
@@ -5830,6 +6016,138 @@
     "catalog": "recent",
     "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
     "iconSourceUrl": "https://play-lh.googleusercontent.com/YSTGeOzvsQmNUgAwvG1JUjlgDVgNhVG9aijtFyGcH1qDD1M8wCPsKHKlmXlYBkc7KlZ6pnwhaVX5fj4dx7zCcg"
+  },
+  {
+    "minInstalls": 50,
+    "installEvidence": {
+      "minInstalls": 50,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.singularprogrammer.hexareign&hl=en&gl=US",
+      "fetchedAt": "2026-10-22T11:28:45.042Z"
+    },
+    "id": "com.singularprogrammer.hexareign",
+    "title": "HexaReign: Strategy & Conquest",
+    "subtitle": "Conquer hexes, manage economy & crush rebellions in this turn-based strategy.",
+    "description": "Conquer hexes, manage economy & crush rebellions in this turn-based strategy.",
+    "overviewEn": "Conquer hexes, manage economy & crush rebellions in this turn-based strategy.",
+    "genre": "Turn-based",
+    "world": "",
+    "tags": [
+      "Turn-based",
+      "Free download",
+      "Android",
+      "Contains ads",
+      "In-app purchases"
+    ],
+    "evidence": [
+      {
+        "tag": "Turn-based",
+        "basis": "Developer summary keyword mapping",
+        "excerpt": "Conquer hexes, manage economy &amp; crush rebellions in this turn-based strategy."
+      },
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Singular Programmer",
+    "ads": true,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.singularprogrammer.hexareign&hl=en&gl=US",
+    "fetchedAt": "2026-10-22T11:28:45.042Z",
+    "sourceDate": "2026-10-22",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-09-10",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Sep 10, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.singularprogrammer.hexareign&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/kyicJkHX0yrJoOtn15JQYyMbH41q-twrXWkTy0vZq_AAfkOIrHcJ6rYh5T56zpPqTqs1wzb93WI-GnJ8fVPUs4M"
+  },
+  {
+    "minInstalls": 10,
+    "installEvidence": {
+      "minInstalls": 10,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=xyz.tessiverse.hexgo&hl=en&gl=US",
+      "fetchedAt": "2026-10-22T11:29:35.336Z"
+    },
+    "id": "xyz.tessiverse.hexgo",
+    "title": "HexGo",
+    "subtitle": "GO With Hexagons And More!!",
+    "description": "GO With Hexagons And More!!",
+    "overviewEn": "GO With Hexagons And More!!",
+    "genre": "Strategy",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "In-app purchases"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Tessiverse",
+    "ads": null,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=xyz.tessiverse.hexgo&hl=en&gl=US",
+    "fetchedAt": "2026-10-22T11:29:35.336Z",
+    "sourceDate": "2026-10-22",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-09-10",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Sep 10, 2026",
+      "url": "https://play.google.com/store/apps/details?id=xyz.tessiverse.hexgo&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/qvg-B780G7V3PM2iMEhFCtnHTDvdHdkGwFdJBWUm2OoKCDToQSnACXohgSjBLXio0iJMI3AizYYFVd0Cr_YVTA"
   },
   {
     "minInstalls": 5,
@@ -6744,6 +7062,66 @@
     "iconSourceUrl": "https://play-lh.googleusercontent.com/LiUsHbGdXuveKEmdYvWP-agz19PyoQ8XWXjqj0twY2nouXp1FFgPHMJFQ3LvnN_6Y55iWOqNfkQhHs2YHsVQNQ"
   },
   {
+    "minInstalls": 100,
+    "installEvidence": {
+      "minInstalls": 100,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.FantasticaGames.TinyDictator&hl=en&gl=US",
+      "fetchedAt": "2026-10-22T11:30:54.758Z"
+    },
+    "id": "com.FantasticaGames.TinyDictator",
+    "title": "Tiny Dictator: World Conquest",
+    "subtitle": "Build your nation, conquer the world, and become the ultimate superpower!",
+    "description": "Build your nation, conquer the world, and become the ultimate superpower!",
+    "overviewEn": "Build your nation, conquer the world, and become the ultimate superpower!",
+    "genre": "Strategy",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Fantastica Games",
+    "ads": true,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.FantasticaGames.TinyDictator&hl=en&gl=US",
+    "fetchedAt": "2026-10-22T11:30:54.758Z",
+    "sourceDate": "2026-10-22",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-09-06",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Sep 6, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.FantasticaGames.TinyDictator&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/Z5HNEA_flvYu7NT5595h6GcxuaGZgXlEQoE3Z60uwBljn3FCIEsKf381p2gYmu2P66SLfD9VWwbnEnsEcbuI7tU"
+  },
+  {
     "minInstalls": 50,
     "installEvidence": {
       "minInstalls": 50,
@@ -7426,6 +7804,72 @@
     "catalog": "recent",
     "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
     "iconSourceUrl": "https://play-lh.googleusercontent.com/KfR-q_5u4IpUgNP0OIRi3XYvvV6k7Y5SUK9tRkmBbDK5-4-weuTJhMlxvdCKiVLT1lNpriqAvkACkB-AJEzn6Q"
+  },
+  {
+    "minInstalls": 10000,
+    "installEvidence": {
+      "minInstalls": 10000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=co.imba.namquocsonha&hl=en&gl=US",
+      "fetchedAt": "2026-10-22T11:30:48.985Z"
+    },
+    "id": "co.imba.namquocsonha",
+    "title": "Nam Quốc Sơn Hà",
+    "subtitle": "An epic tale of defending the nation through intelligence and tactics.",
+    "description": "An epic tale of defending the nation through intelligence and tactics.",
+    "overviewEn": "An epic tale of defending the nation through intelligence and tactics.",
+    "genre": "Strategy",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "In-app purchases"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Imba Games",
+    "ads": true,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=co.imba.namquocsonha&hl=en&gl=US",
+    "fetchedAt": "2026-10-22T11:30:48.985Z",
+    "sourceDate": "2026-10-22",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-08-31",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Aug 31, 2026",
+      "url": "https://play.google.com/store/apps/details?id=co.imba.namquocsonha&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/615q9aw_Vm48fY4O4cEX4gO0H3VVCRcg9rTHKPJu2o8SmtBQQTo1mxXwhQH-ioXZY3XCNKmHMbuOLUnwJ0lP6A"
   },
   {
     "minInstalls": 100,
@@ -8388,6 +8832,66 @@
     "iconSourceUrl": "https://play-lh.googleusercontent.com/x_ZU3AiiqAkaPqMyFXN-NwkT9FUtJfzhO55aJ7ZOio-JG27NWtdjE2AzlHvZ8M3DOdFcj235v1v_t2brs_yc2nk"
   },
   {
+    "minInstalls": 100000,
+    "installEvidence": {
+      "minInstalls": 100000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.dltt.zdeslg&hl=en&gl=US",
+      "fetchedAt": "2026-10-22T11:31:22.817Z"
+    },
+    "id": "com.dltt.zdeslg",
+    "title": "Horizon Z: Survival",
+    "subtitle": "Wisdom Zombie War Game",
+    "description": "Wisdom Zombie War Game",
+    "overviewEn": "Wisdom Zombie War Game",
+    "genre": "Strategy",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "In-app purchases"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "xh&puzzle",
+    "ads": null,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.dltt.zdeslg&hl=en&gl=US",
+    "fetchedAt": "2026-10-22T11:31:22.817Z",
+    "sourceDate": "2026-10-22",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-08-24",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Aug 24, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.dltt.zdeslg&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/q6wxI3RQMZcBByySAhc4g7taqISZlxr2ScWQSH6SesLBDW3LH8vnkGp7CSBXF0dyGJ8Xj5jEAC89aSNpngEyDi0"
+  },
+  {
     "minInstalls": 100,
     "installEvidence": {
       "minInstalls": 100,
@@ -8632,6 +9136,66 @@
     "catalog": "recent",
     "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
     "iconSourceUrl": "https://play-lh.googleusercontent.com/M_01O18Rn2a59I9gUSmWGC6FbNbIoE-13iQHAXoqtc-hE8J061rM1GWe6waZ8WJqAYCYjAFCYb7jlZhiSF3RRws"
+  },
+  {
+    "minInstalls": 50,
+    "installEvidence": {
+      "minInstalls": 50,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.newdawn333.hexrealms&hl=en&gl=US",
+      "fetchedAt": "2026-10-22T11:29:08.118Z"
+    },
+    "id": "com.newdawn333.hexrealms",
+    "title": "Hex Realms",
+    "subtitle": "Turn-based hex strategy. Conquer provinces, build towns, and defeat AI rivals.",
+    "description": "Turn-based hex strategy. Conquer provinces, build towns, and defeat AI rivals.",
+    "overviewEn": "Turn-based hex strategy. Conquer provinces, build towns, and defeat AI rivals.",
+    "genre": "Turn-based",
+    "world": "",
+    "tags": [
+      "Turn-based",
+      "Free download",
+      "Android"
+    ],
+    "evidence": [
+      {
+        "tag": "Turn-based",
+        "basis": "Developer summary keyword mapping",
+        "excerpt": "Turn-based hex strategy. Conquer provinces, build towns, and defeat AI rivals."
+      },
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Vortex Build Labs",
+    "ads": null,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.newdawn333.hexrealms&hl=en&gl=US",
+    "fetchedAt": "2026-10-22T11:29:08.118Z",
+    "sourceDate": "2026-10-22",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-08-21",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Aug 21, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.newdawn333.hexrealms&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/fSoo19JkSdnO-yY0a991gQRDkXCKOoOxVHP_9s_ZisxaKCKmc15EAClAu9iNtz-h8AUY8l-EC7h5mM1aKxOuHgc"
   },
   {
     "minInstalls": 10000,
@@ -8998,6 +9562,66 @@
     "catalog": "recent",
     "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
     "iconSourceUrl": "https://play-lh.googleusercontent.com/6ioSpKK1U0GcD7gYceYRj4CvU_cYpXVcr48t0glzaSkVurM04wOPCLeqbfnVEJJbAV8Hnzh-JmLiIueOCtdXdno"
+  },
+  {
+    "minInstalls": 1000,
+    "installEvidence": {
+      "minInstalls": 1000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.jcgame.winterclan.global&hl=en&gl=US",
+      "fetchedAt": "2026-10-22T11:29:12.003Z"
+    },
+    "id": "com.jcgame.winterclan.global",
+    "title": "Winterclan: Hex Tactics",
+    "subtitle": "Command the frozen frontier—one hex, one hero, and one decisive move at a time.",
+    "description": "Command the frozen frontier—one hex, one hero, and one decisive move at a time.",
+    "overviewEn": "Command the frozen frontier—one hex, one hero, and one decisive move at a time.",
+    "genre": "Strategy",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "In-app purchases"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Riverstar Games",
+    "ads": null,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.jcgame.winterclan.global&hl=en&gl=US",
+    "fetchedAt": "2026-10-22T11:29:12.003Z",
+    "sourceDate": "2026-10-22",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-08-19",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Aug 19, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.jcgame.winterclan.global&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/dIR3_ZJVl13Wa5oPAPNVWC6b_6n_XbU3RgEiDjpqS-jfWM1q77RDB13F629Y1ZkoswRmt4nqjkfVPfl3jynb"
   },
   {
     "minInstalls": 50000,
@@ -10258,6 +10882,72 @@
     "catalog": "recent",
     "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
     "iconSourceUrl": "https://play-lh.googleusercontent.com/6MKEHjDqSXI87YCORiOMySllCtYoNIfSoNetg3dCmBV7BYhVLmN4H15YljR51PY_QxsukrP2qD9-y1UkGMb3QLE"
+  },
+  {
+    "minInstalls": 10,
+    "installEvidence": {
+      "minInstalls": 10,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.morisco.amsar&hl=en&gl=US",
+      "fetchedAt": "2026-10-22T11:29:58.003Z"
+    },
+    "id": "com.morisco.amsar",
+    "title": "Amsar: 4X Hex War Strategy",
+    "subtitle": "Turn-based 4X hex strategy. Campaign, skirmish & pass-and-play party fun!",
+    "description": "Turn-based 4X hex strategy. Campaign, skirmish & pass-and-play party fun!",
+    "overviewEn": "Turn-based 4X hex strategy. Campaign, skirmish & pass-and-play party fun!",
+    "genre": "Turn-based",
+    "world": "",
+    "tags": [
+      "Turn-based",
+      "4X",
+      "Paid download",
+      "Android"
+    ],
+    "evidence": [
+      {
+        "tag": "Turn-based",
+        "basis": "Developer summary keyword mapping",
+        "excerpt": "Turn-based 4X hex strategy. Campaign, skirmish &amp; pass-and-play party fun!"
+      },
+      {
+        "tag": "4X",
+        "basis": "Developer summary keyword mapping",
+        "excerpt": "Turn-based 4X hex strategy. Campaign, skirmish &amp; pass-and-play party fun!"
+      },
+      {
+        "tag": "Paid download",
+        "basis": "Google Play price",
+        "excerpt": "USD 2.89"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      }
+    ],
+    "price": "Paid download",
+    "priceValue": 2.89,
+    "priceCurrency": "USD",
+    "priceDisplay": "US$2.89",
+    "developer": "morisco",
+    "ads": null,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.morisco.amsar&hl=en&gl=US",
+    "fetchedAt": "2026-10-22T11:29:58.003Z",
+    "sourceDate": "2026-10-22",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-08-10",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Aug 10, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.morisco.amsar&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/FVNSL_s8AesTY2_OHUUZSB4_ohSSzOYbbMKkA_UA2KGxHwVi0czI4rso2FfLt1qFJHGzlAkDGHwj-VYAy4Fcgw"
   },
   {
     "minInstalls": 100,
@@ -15480,6 +16170,78 @@
     "iconSourceUrl": "https://play-lh.googleusercontent.com/a3J_N8MllGVexvS_cr32x94ltGdtlLAdlDbF7c_jidj04KjwejogHZGjExi7ZGONxGazUDWwsbSRBfBLosvj"
   },
   {
+    "minInstalls": 100,
+    "installEvidence": {
+      "minInstalls": 100,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.rtsoutpost.game&hl=en&gl=US",
+      "fetchedAt": "2026-10-22T11:30:18.532Z"
+    },
+    "id": "com.rtsoutpost.game",
+    "title": "RTS Outpost - Online Conquest",
+    "subtitle": "Real-time online RTS! Humans, machines & cyborgs. Base building & PvP strategy.",
+    "description": "Real-time online RTS! Humans, machines & cyborgs. Base building & PvP strategy.",
+    "overviewEn": "Real-time online RTS! Humans, machines & cyborgs. Base building & PvP strategy.",
+    "genre": "Real-time",
+    "world": "",
+    "tags": [
+      "Real-time",
+      "Free download",
+      "Android",
+      "Contains ads",
+      "In-app purchases"
+    ],
+    "evidence": [
+      {
+        "tag": "Real-time",
+        "basis": "Developer summary keyword mapping",
+        "excerpt": "Real-time online RTS! Humans, machines &amp; cyborgs. Base building &amp; PvP strategy."
+      },
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "yumy.io",
+    "ads": true,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.rtsoutpost.game&hl=en&gl=US",
+    "fetchedAt": "2026-10-22T11:30:18.532Z",
+    "sourceDate": "2026-10-22",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-07-11",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Jul 11, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.rtsoutpost.game&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/fSCjfvUQyHTY7JCUWiUL-JoZivtq3fJzkKcWbeYXfkfOaa3RxBEN1g3BEtB0lZpdxSPAk7sr_VNp9TGdHGTs"
+  },
+  {
     "minInstalls": 50000,
     "installEvidence": {
       "minInstalls": 50000,
@@ -16486,6 +17248,72 @@
     "catalog": "recent",
     "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
     "iconSourceUrl": "https://play-lh.googleusercontent.com/L4pEcDAn2bhlqqY0ywZrjA_bccl7YtEqK3mLG-KiQnyABMNP9b3n1N_byuZYdqATIO6QqHaw22KcsibojVEG"
+  },
+  {
+    "minInstalls": 50,
+    "installEvidence": {
+      "minInstalls": 50,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.guessic.eternalsigil.slg&hl=en&gl=US",
+      "fetchedAt": "2026-10-22T11:29:53.921Z"
+    },
+    "id": "com.guessic.eternalsigil.slg",
+    "title": "Eternal Sigil: War Strategy",
+    "subtitle": "4X strategy MMO: live alliance battles, real troop counters, heroes you can see.",
+    "description": "4X strategy MMO: live alliance battles, real troop counters, heroes you can see.",
+    "overviewEn": "4X strategy MMO: live alliance battles, real troop counters, heroes you can see.",
+    "genre": "4X",
+    "world": "",
+    "tags": [
+      "4X",
+      "Free download",
+      "Android",
+      "In-app purchases"
+    ],
+    "evidence": [
+      {
+        "tag": "4X",
+        "basis": "Developer summary keyword mapping",
+        "excerpt": "4X strategy MMO: live alliance battles, real troop counters, heroes you can see."
+      },
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Guessic LLC",
+    "ads": null,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.guessic.eternalsigil.slg&hl=en&gl=US",
+    "fetchedAt": "2026-10-22T11:29:53.921Z",
+    "sourceDate": "2026-10-22",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-07-02",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Jul 2, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.guessic.eternalsigil.slg&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/HdjGDPu1L7mpPD9KnFhhvZqwLTQThZue01umrPCjrG1YwlBafIcSKWQImoXbmEDqsRMpp0RF3lKg8S6NikhOMyU"
   },
   {
     "minInstalls": 100000,
@@ -21606,6 +22434,72 @@
     "iconSourceUrl": "https://play-lh.googleusercontent.com/Y4cc7YGkJxs2t-tHty3q_Udak-8wdLryJDj2y_okRRa6lJ3wBD3ybhRa39o8vq11TIT52LUMt3WxIPEzkUSxKw"
   },
   {
+    "minInstalls": 10,
+    "installEvidence": {
+      "minInstalls": 10,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.oar.hexfront.hexfront&hl=en&gl=US",
+      "fetchedAt": "2026-10-22T11:29:53.932Z"
+    },
+    "id": "com.oar.hexfront.hexfront",
+    "title": "HexFront",
+    "subtitle": "Turn-based hex strategy. RPS units, quick 3-min battles, multiplayer & more",
+    "description": "Turn-based hex strategy. RPS units, quick 3-min battles, multiplayer & more",
+    "overviewEn": "Turn-based hex strategy. RPS units, quick 3-min battles, multiplayer & more",
+    "genre": "Turn-based",
+    "world": "",
+    "tags": [
+      "Turn-based",
+      "Free download",
+      "Android",
+      "In-app purchases"
+    ],
+    "evidence": [
+      {
+        "tag": "Turn-based",
+        "basis": "Developer summary keyword mapping",
+        "excerpt": "Turn-based hex strategy. RPS units, quick 3-min battles, multiplayer &amp; more"
+      },
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "QuantBit studios",
+    "ads": null,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.oar.hexfront.hexfront&hl=en&gl=US",
+    "fetchedAt": "2026-10-22T11:29:53.932Z",
+    "sourceDate": "2026-10-22",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-05-30",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "May 30, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.oar.hexfront.hexfront&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/LE_sO37ZNybzRG45VbrLAz06oJhv2Ov0PDpQnB-sw7AsfUBZBF7fqq2FpFoWoZzzKlgAINl3JExggrZmeN_eyg"
+  },
+  {
     "minInstalls": 100,
     "installEvidence": {
       "minInstalls": 100,
@@ -24070,6 +24964,66 @@
     "catalog": "recent",
     "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
     "iconSourceUrl": "https://play-lh.googleusercontent.com/6osHZncugoAvgzy8nwtamWJI7CgxnsAvod9UGIclcXfhvIV5JL-aoUs9ENezGq-uBEfn51v3SI7ArwsfcCN-0Q"
+  },
+  {
+    "minInstalls": 100,
+    "installEvidence": {
+      "minInstalls": 100,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.hexresistance.app&hl=en&gl=US",
+      "fetchedAt": "2026-10-22T11:30:10.101Z"
+    },
+    "id": "com.hexresistance.app",
+    "title": "HEX:ARENA",
+    "subtitle": "Outsmart the AI to claim hexagonal territories in this intense strategy puzzle.",
+    "description": "Outsmart the AI to claim hexagonal territories in this intense strategy puzzle.",
+    "overviewEn": "Outsmart the AI to claim hexagonal territories in this intense strategy puzzle.",
+    "genre": "Strategy",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Super Mega Fun Games",
+    "ads": true,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.hexresistance.app&hl=en&gl=US",
+    "fetchedAt": "2026-10-22T11:30:10.101Z",
+    "sourceDate": "2026-10-22",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-05-06",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "May 6, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.hexresistance.app&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/bljpYS1sHYIGSif-n0TnBNGC9MtF0PuQN3PfonihIfg_DiCMPbBgAK4wDXNGEpMo_sGwVA_Ul9VvHv-ZBLUzLQ"
   },
   {
     "minInstalls": 1000000,
@@ -29058,6 +30012,66 @@
     "iconSourceUrl": "https://play-lh.googleusercontent.com/yznG8B9eYWYLzBhPMRoJCByVEdCkYuOhR2PPwf6GVsMfOnlt93LgOwxnj8J7Tg221j7WdaD5YyaunSKMUg3W8lg"
   },
   {
+    "minInstalls": 100,
+    "installEvidence": {
+      "minInstalls": 100,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=co.hybridfun.grimoireup&hl=en&gl=US",
+      "fetchedAt": "2026-10-22T11:30:50.936Z"
+    },
+    "id": "co.hybridfun.grimoireup",
+    "title": "Grimoire Up",
+    "subtitle": "Roll spells, upgrade your Grimoire, and ascend",
+    "description": "Roll spells, upgrade your Grimoire, and ascend",
+    "overviewEn": "Roll spells, upgrade your Grimoire, and ascend",
+    "genre": "Strategy",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Imba Games",
+    "ads": true,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=co.hybridfun.grimoireup&hl=en&gl=US",
+    "fetchedAt": "2026-10-22T11:30:50.936Z",
+    "sourceDate": "2026-10-22",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-03-23",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Mar 23, 2026",
+      "url": "https://play.google.com/store/apps/details?id=co.hybridfun.grimoireup&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/diDqnOhEpzMFqYyf6mUlkvxCy9q75Att_iA8P13zYLbwXh_Ndy9p3C6JQ0S7rppWIqYmaVc_vPwB9s9DG8wQAHs"
+  },
+  {
     "minInstalls": 10000,
     "installEvidence": {
       "minInstalls": 10000,
@@ -29506,6 +30520,60 @@
     "catalog": "recent",
     "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
     "iconSourceUrl": "https://play-lh.googleusercontent.com/sxPHsURdlo6_KKuJ6HQcS9E2EzR3iLgYo-vsUQK4p_btqAuMVXwSpl7TLxW-np1HzndTzB8vLcFotiEncEY8Dw"
+  },
+  {
+    "minInstalls": 100,
+    "installEvidence": {
+      "minInstalls": 100,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.hexcon.app&hl=en&gl=US",
+      "fetchedAt": "2026-10-22T11:28:41.194Z"
+    },
+    "id": "com.hexcon.app",
+    "title": "Hex Conquest | Simple strategy",
+    "subtitle": "Probably the simplest strategy game. Play hotseat, or online multiplayer.",
+    "description": "Probably the simplest strategy game. Play hotseat, or online multiplayer.",
+    "overviewEn": "Probably the simplest strategy game. Play hotseat, or online multiplayer.",
+    "genre": "Strategy",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Pixel Galaxies",
+    "ads": null,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.hexcon.app&hl=en&gl=US",
+    "fetchedAt": "2026-10-22T11:28:41.194Z",
+    "sourceDate": "2026-10-22",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-03-17",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Mar 17, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.hexcon.app&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/AJDZZHf0wXmIbPuVVEDXHvMmhYGXMCwGv-475wGJVJiMaRnSrzU0FpVnB-hGlm3W-mYPjFuHwklFSf-sWZ1Fd7s"
   },
   {
     "minInstalls": 50000,
@@ -32022,6 +33090,72 @@
     "iconSourceUrl": "https://play-lh.googleusercontent.com/iVUsBK5haImNoLiKN2dRQzGDya4zefQZD5BRojA9lSfUcuPxg5GFsBnTXFKTchTOk_CKxnQU_YmebmS2dQ9TeQ"
   },
   {
+    "minInstalls": 50,
+    "installEvidence": {
+      "minInstalls": 50,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.hexconquest.app&hl=en&gl=US",
+      "fetchedAt": "2026-10-22T11:28:48.805Z"
+    },
+    "id": "com.hexconquest.app",
+    "title": "HexConquest: Tactical War Game",
+    "subtitle": "Offline turn-based strategy. Conquer hex territory with 4 factions. No wifi!",
+    "description": "Offline turn-based strategy. Conquer hex territory with 4 factions. No wifi!",
+    "overviewEn": "Offline turn-based strategy. Conquer hex territory with 4 factions. No wifi!",
+    "genre": "Strategy",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "In-app purchases"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "mukundigames",
+    "ads": true,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.hexconquest.app&hl=en&gl=US",
+    "fetchedAt": "2026-10-22T11:28:48.805Z",
+    "sourceDate": "2026-10-22",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-03-02",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Mar 2, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.hexconquest.app&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/tb4B6pGJ0mGHtpB036YYLS75uvi3bPuCfh4bf-AgQAbnjyUgPYvU1_gCr-6sqqZP3f7zUu8moqS_LOqYpIm9"
+  },
+  {
     "minInstalls": 50000,
     "installEvidence": {
       "minInstalls": 50000,
@@ -32296,6 +33430,78 @@
     "catalog": "recent",
     "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
     "iconSourceUrl": "https://play-lh.googleusercontent.com/qGjdhvDOY5g-uggeGXmONayra-A3Fxs05Gl_pHirWnadt6CBkeVMRr_TN8XWs3XrqOj0n3iOE2FqJi3gwz1eBQ"
+  },
+  {
+    "minInstalls": 1000,
+    "installEvidence": {
+      "minInstalls": 1000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.Vorgames.VorgarFieldsOfWar&hl=en&gl=US",
+      "fetchedAt": "2026-10-22T11:30:05.811Z"
+    },
+    "id": "com.Vorgames.VorgarFieldsOfWar",
+    "title": "Vorgar: Fields of War",
+    "subtitle": "Online turn-based strategy on hex grid. Play globally, conquer territory.",
+    "description": "Online turn-based strategy on hex grid. Play globally, conquer territory.",
+    "overviewEn": "Online turn-based strategy on hex grid. Play globally, conquer territory.",
+    "genre": "Turn-based",
+    "world": "",
+    "tags": [
+      "Turn-based",
+      "Free download",
+      "Android",
+      "Contains ads",
+      "In-app purchases"
+    ],
+    "evidence": [
+      {
+        "tag": "Turn-based",
+        "basis": "Developer summary keyword mapping",
+        "excerpt": "Online turn-based strategy on hex grid. Play globally, conquer territory."
+      },
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Vorgan",
+    "ads": true,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.Vorgames.VorgarFieldsOfWar&hl=en&gl=US",
+    "fetchedAt": "2026-10-22T11:30:05.811Z",
+    "sourceDate": "2026-10-22",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-02-25",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Feb 25, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.Vorgames.VorgarFieldsOfWar&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/y9m9gIitcgL467RTdA-1cODumbSmxIW3WMEgy0KmW1oisj_rlnY1uE5ye-LPQuYNFXrxm91QsX7x26AUfZ5j_Q"
   },
   {
     "minInstalls": 5000000,
@@ -33334,6 +34540,66 @@
     "catalog": "recent",
     "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
     "iconSourceUrl": "https://play-lh.googleusercontent.com/Z0zPBn1LrpHuE7ey5r0zYIUwRTYx7KrkEZ51QH_d9Z1kb13gNaP90nXEK7FxjbPYF-sVF7v3iDhEqdV-0acp"
+  },
+  {
+    "minInstalls": 100,
+    "installEvidence": {
+      "minInstalls": 100,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=co.hybridfun.hexkingdom&hl=en&gl=US",
+      "fetchedAt": "2026-10-22T11:29:51.748Z"
+    },
+    "id": "co.hybridfun.hexkingdom",
+    "title": "Hex Kingdom",
+    "subtitle": "Master hex-based building combos and conquer enemy strongholds",
+    "description": "Master hex-based building combos and conquer enemy strongholds",
+    "overviewEn": "Master hex-based building combos and conquer enemy strongholds",
+    "genre": "Strategy",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Imba Games",
+    "ads": true,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=co.hybridfun.hexkingdom&hl=en&gl=US",
+    "fetchedAt": "2026-10-22T11:29:51.748Z",
+    "sourceDate": "2026-10-22",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-02-06",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Feb 6, 2026",
+      "url": "https://play.google.com/store/apps/details?id=co.hybridfun.hexkingdom&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/aP0ZyVfZ4QNf2L7dtTcHkWeE9AFsD-akBV60D2ncQq46vwVATYH4wArAmUH8WkvVMxPUNYXvvCA7CI_ESyXFpPY"
   },
   {
     "minInstalls": 500,
@@ -43656,6 +44922,60 @@
     "iconSourceUrl": "https://play-lh.googleusercontent.com/ccFjYydPnIP4W3tPG2UdFPOyfrXjDehBwim7kKaZ8FTevqaDSTtfj8tSzUghxRe2NVvlQLul6JEaR2q8QvlIXw"
   },
   {
+    "minInstalls": 10,
+    "installEvidence": {
+      "minInstalls": 10,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.ahmeterkameker.globalcity&hl=en&gl=US",
+      "fetchedAt": "2026-10-22T11:30:16.550Z"
+    },
+    "id": "com.ahmeterkameker.globalcity",
+    "title": "Hex of Thrones",
+    "subtitle": "Expand your kingdom, fight epic wars and rule the world!",
+    "description": "Expand your kingdom, fight epic wars and rule the world!",
+    "overviewEn": "Expand your kingdom, fight epic wars and rule the world!",
+    "genre": "Strategy",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Sincapp",
+    "ads": null,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.ahmeterkameker.globalcity&hl=en&gl=US",
+    "fetchedAt": "2026-10-22T11:30:16.550Z",
+    "sourceDate": "2026-10-22",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2025-10-08",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Oct 8, 2025",
+      "url": "https://play.google.com/store/apps/details?id=com.ahmeterkameker.globalcity&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/1B_irkfng5tk6qPwOYDtVFm0ck94_wL9ifYyI_dFmmkhbkodCAS16qms8wP6JS4JtrevmWTQaOoQZpduRgerbQ"
+  },
+  {
     "minInstalls": 1000000,
     "installEvidence": {
       "minInstalls": 1000000,
@@ -51525,6 +52845,90 @@
     "minInstalls": 100000,
     "installEvidence": {
       "minInstalls": 100000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.momenthk.mwr&hl=en&gl=US",
+      "fetchedAt": "2026-10-22T11:29:43.932Z"
+    },
+    "id": "com.momenthk.mwr",
+    "title": "Mini Warriors Reborn!",
+    "subtitle": "10-Year Classic Revolved",
+    "description": "10-Year Classic Revolved",
+    "overviewEn": "10-Year Classic Revolved",
+    "genre": "Tactics",
+    "world": "",
+    "tags": [
+      "Tactics",
+      "Single player",
+      "Stylized",
+      "Fantasy",
+      "Free download",
+      "Android",
+      "In-app purchases"
+    ],
+    "evidence": [
+      {
+        "tag": "Tactics",
+        "basis": "Google Play category label mapping",
+        "excerpt": "Tactics"
+      },
+      {
+        "tag": "Single player",
+        "basis": "Google Play category label mapping",
+        "excerpt": "Single player"
+      },
+      {
+        "tag": "Stylized",
+        "basis": "Google Play category label mapping",
+        "excerpt": "Stylized"
+      },
+      {
+        "tag": "Fantasy",
+        "basis": "Google Play category label mapping",
+        "excerpt": "Fantasy"
+      },
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Moment Interactive HK Ltd.",
+    "ads": null,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.momenthk.mwr&hl=en&gl=US",
+    "fetchedAt": "2026-10-22T11:29:43.932Z",
+    "sourceDate": "2026-10-22",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2025-06-12",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Jun 12, 2025",
+      "url": "https://play.google.com/store/apps/details?id=com.momenthk.mwr&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/Il_uLTT-rh2NIhQG4IJemHpewKKvqtYuyemLQivBmzCO5sXuK3Ks8rGyg_JvQcgAWdrDBRj_rNIIQjekvwuo"
+  },
+  {
+    "minInstalls": 100000,
+    "installEvidence": {
+      "minInstalls": 100000,
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.doghowlgames.thronefall&hl=en&gl=US",
       "fetchedAt": "2026-10-12T08:16:20.035Z"
     },
@@ -52668,6 +54072,72 @@
     "iconSourceUrl": "https://play-lh.googleusercontent.com/kFrwk-CGyVa9WcAANM4YIw5qKDuTSc_VC0W5MPTdPwe_c5yt05VXV4Q6XumEfAo7KYhoXBQ62kWUDd2waDvt"
   },
   {
+    "minInstalls": 5000,
+    "installEvidence": {
+      "minInstalls": 5000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.arcaneempire.realms.clash.magic.heroes&hl=en&gl=US",
+      "fetchedAt": "2026-10-22T11:29:49.488Z"
+    },
+    "id": "com.arcaneempire.realms.clash.magic.heroes",
+    "title": "War of Arcane Empires",
+    "subtitle": "Conquer kingdoms in a tactical RPG of magic, heroes, and legendary battles.",
+    "description": "Conquer kingdoms in a tactical RPG of magic, heroes, and legendary battles.",
+    "overviewEn": "Conquer kingdoms in a tactical RPG of magic, heroes, and legendary battles.",
+    "genre": "Strategy",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "In-app purchases"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "HGames-ArtWorks",
+    "ads": true,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.arcaneempire.realms.clash.magic.heroes&hl=en&gl=US",
+    "fetchedAt": "2026-10-22T11:29:49.488Z",
+    "sourceDate": "2026-10-22",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2025-05-30",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "May 30, 2025",
+      "url": "https://play.google.com/store/apps/details?id=com.arcaneempire.realms.clash.magic.heroes&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/HRFdoXYbiEZ94qEmwOvlVQR9vLpmZMWQQNN3lvPyBce4CA83YO_aLnDfAxwzkzSsPa8wlsHSHqNydVMUSwka2w"
+  },
+  {
     "minInstalls": 50,
     "installEvidence": {
       "minInstalls": 50,
@@ -53050,6 +54520,78 @@
     "catalog": "recent",
     "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
     "iconSourceUrl": "https://play-lh.googleusercontent.com/OjOqFxMyvljDA5mcfwBFN_WGWH4X0ln7ZuogYOg6mQwxvTxkyG95q7QcNC57VquRKyN8ICxXZ0rST3DcZ3mh"
+  },
+  {
+    "minInstalls": 1000,
+    "installEvidence": {
+      "minInstalls": 1000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.MukstarGame.TurretMonitor&hl=en&gl=US",
+      "fetchedAt": "2026-10-22T11:28:41.190Z"
+    },
+    "id": "com.MukstarGame.TurretMonitor",
+    "title": "Turret Monitor - Tower defence",
+    "subtitle": "2D Survival TD: Outlast waves, defeat unknown foes, unlock epic skills!",
+    "description": "2D Survival TD: Outlast waves, defeat unknown foes, unlock epic skills!",
+    "overviewEn": "2D Survival TD: Outlast waves, defeat unknown foes, unlock epic skills!",
+    "genre": "Tower defense",
+    "world": "",
+    "tags": [
+      "Tower defense",
+      "Free download",
+      "Android",
+      "Contains ads",
+      "In-app purchases"
+    ],
+    "evidence": [
+      {
+        "tag": "Tower defense",
+        "basis": "Developer summary keyword mapping",
+        "excerpt": "2D Survival TD: Outlast waves, defeat unknown foes, unlock epic skills!"
+      },
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "MUKSTAR GAME",
+    "ads": true,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.MukstarGame.TurretMonitor&hl=en&gl=US",
+    "fetchedAt": "2026-10-22T11:28:41.190Z",
+    "sourceDate": "2026-10-22",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2025-05-25",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "May 25, 2025",
+      "url": "https://play.google.com/store/apps/details?id=com.MukstarGame.TurretMonitor&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/9oxUpw7hw-UeflZS34OXdZ4O-DvUxD8YHJvCitsVyAfV0NxvwZLM5wIKeidP9Se1EaFIt2dKWBuEOU0kALPQTg"
   },
   {
     "minInstalls": 10000,
@@ -59676,6 +61218,66 @@
     "iconSourceUrl": "https://play-lh.googleusercontent.com/g18HET8IeVFYX_8XJzvejLZ-_cfUQxRpJTtIHxgkznxBLJY60agJH_egU7FDJWtXO0By_PDLS_OE-QMirVBfCrw"
   },
   {
+    "minInstalls": 10000,
+    "installEvidence": {
+      "minInstalls": 10000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.global.acslg&hl=en&gl=US",
+      "fetchedAt": "2026-10-22T11:30:39.584Z"
+    },
+    "id": "com.global.acslg",
+    "title": "Arcane Clash：Frost War",
+    "subtitle": "Craft runes, duel demons & rewrite fate in this fast-paced RPG!!",
+    "description": "Craft runes, duel demons & rewrite fate in this fast-paced RPG!!",
+    "overviewEn": "Craft runes, duel demons & rewrite fate in this fast-paced RPG!!",
+    "genre": "Strategy",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "In-app purchases"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "xh&puzzle",
+    "ads": null,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.global.acslg&hl=en&gl=US",
+    "fetchedAt": "2026-10-22T11:30:39.584Z",
+    "sourceDate": "2026-10-22",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2025-02-14",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Feb 14, 2025",
+      "url": "https://play.google.com/store/apps/details?id=com.global.acslg&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/Qcv0oLYAsUtsqawn53EZBg0tZ95RpHydrq4DhHEXnerMM3aMj2BkJAc7MXNJtsfWU-m42UNz_q4U_FYmH0x2Uw"
+  },
+  {
     "minInstalls": 100000,
     "installEvidence": {
       "minInstalls": 100000,
@@ -61368,6 +62970,72 @@
     "iconSourceUrl": "https://play-lh.googleusercontent.com/AySoO5LZavPw7fzHqLyEHtSt8iO61D1skF9YxkF70TH63QrTLKUyCSA1Zt_5aMI1Q2zo_OQWEzStOpVp0ja5"
   },
   {
+    "minInstalls": 50,
+    "installEvidence": {
+      "minInstalls": 50,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.allbestgames.hex&hl=en&gl=US",
+      "fetchedAt": "2026-10-22T11:28:42.995Z"
+    },
+    "id": "com.allbestgames.hex",
+    "title": "Hex conquest: Battle strategy",
+    "subtitle": "Hex-based offline strategy game. Upgrade power-ups, plan moves. Conquer And Win!",
+    "description": "Hex-based offline strategy game. Upgrade power-ups, plan moves. Conquer And Win!",
+    "overviewEn": "Hex-based offline strategy game. Upgrade power-ups, plan moves. Conquer And Win!",
+    "genre": "Strategy",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "In-app purchases"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Gekara Games",
+    "ads": true,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.allbestgames.hex&hl=en&gl=US",
+    "fetchedAt": "2026-10-22T11:28:42.995Z",
+    "sourceDate": "2026-10-22",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2025-01-09",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Jan 9, 2025",
+      "url": "https://play.google.com/store/apps/details?id=com.allbestgames.hex&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/c3nciGPWS_jCfaP7IjRqyAghUhFpMzr_LWnA3E83ILUrwLQGRMfaxg4b4PgK4YUXNXTBsYBoLd4lRU2PEPah"
+  },
+  {
     "minInstalls": 100000,
     "installEvidence": {
       "minInstalls": 100000,
@@ -62758,6 +64426,66 @@
     "catalog": "recent",
     "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
     "iconSourceUrl": "https://play-lh.googleusercontent.com/GH-mSCWEETfQCsPOvdeajnIeBbM0FdCoOT5ihOG46qNjqsVkGrKVPY-3TS5idZdP-CRocwuc3BTvnBjcsnWe"
+  },
+  {
+    "minInstalls": 100000,
+    "installEvidence": {
+      "minInstalls": 100000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.FantasticaGames.StickCastlesWar&hl=en&gl=US",
+      "fetchedAt": "2026-10-22T11:30:54.748Z"
+    },
+    "id": "com.FantasticaGames.StickCastlesWar",
+    "title": "Stick Castles: Army Battle TD",
+    "subtitle": "Epic stickman strategy game where you destroy enemy castle and defend your own!",
+    "description": "Epic stickman strategy game where you destroy enemy castle and defend your own!",
+    "overviewEn": "Epic stickman strategy game where you destroy enemy castle and defend your own!",
+    "genre": "Strategy",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Fantastica Games",
+    "ads": true,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.FantasticaGames.StickCastlesWar&hl=en&gl=US",
+    "fetchedAt": "2026-10-22T11:30:54.748Z",
+    "sourceDate": "2026-10-22",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2024-12-14",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Dec 14, 2024",
+      "url": "https://play.google.com/store/apps/details?id=com.FantasticaGames.StickCastlesWar&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/PQNF4i6p6x48aiSmIkGbu_Aq2VmCo9BP7o4Zd1Rz3QW6C-HAq2tmoMdBgAhqJ0MusQAKeO3ijSAWaAyRF4NL"
   },
   {
     "minInstalls": 1000000,
