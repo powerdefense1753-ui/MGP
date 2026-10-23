@@ -1,5 +1,6 @@
 // Import only verifiable listing facts. Unknown values remain null.
-export const WINDOW={from:'2024-10-12',to:'2026-10-12',country:'US',language:'en'};
+export function collectionWindow(now=new Date()){return {from:'2024-10-12',to:new Intl.DateTimeFormat('en-CA',{timeZone:'Asia/Shanghai',year:'numeric',month:'2-digit',day:'2-digit'}).format(now),country:'US',language:'en'};}
+export const WINDOW={from:'2024-10-12',get to(){return collectionWindow().to;},country:'US',language:'en'};
 export function releaseDate(value){
  if(typeof value!=='string')return null;
  const match=value.match(/^([A-Za-z]{3}) (\d{1,2}), (\d{4})$/);
