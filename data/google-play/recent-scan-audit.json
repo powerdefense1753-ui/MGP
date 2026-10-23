@@ -4,21 +4,21 @@
     "to": "2026-10-12",
     "country": "US",
     "language": "en",
-    "candidates": 12617,
-    "checked": 14054,
-    "included": 1040,
+    "candidates": 12655,
+    "checked": 14108,
+    "included": 1048,
     "retainedOriginals": 11,
     "decisions": {
-      "outside-window": 1421,
-      "included": 1039,
+      "outside-window": 1422,
+      "included": 1046,
       "existing-curated": 11,
-      "not-strategy": 9994,
+      "not-strategy": 10024,
       "unknown-release": 134,
       "preregistration": 13,
       "fetch-failed": 5
     },
-    "discoveryQueries": 15493,
-    "completedAt": "2026-10-22T23:22:01.234Z",
+    "discoveryQueries": 15555,
+    "completedAt": "2026-10-23T04:13:34.640Z",
     "imageFailures": 0,
     "exhaustive": false,
     "method": "US-English public Google Play Strategy charts, keyword searches, recommendation links and developer catalogs; first release from Released on, not Updated on. Search and chart results are capped by Google Play. No claim of complete coverage."
@@ -77488,6 +77488,316 @@
       "key": "{\"type\":\"app\",\"id\":\"com.akgames.blockcraftworld\"}",
       "count": 0,
       "fetchedAt": "2026-10-22T23:21:58.174Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"space.galaxy.invasion.iron.machines.war\"}",
+      "count": 12,
+      "fetchedAt": "2026-10-23T00:06:38.890Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.ModernGames.Zombies\"}",
+      "count": 6,
+      "fetchedAt": "2026-10-23T00:37:22.026Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.edenap.z3\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-23T00:37:22.087Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.digectsoft.zombietowndefense\"}",
+      "count": 7,
+      "fetchedAt": "2026-10-23T00:37:22.319Z"
+    },
+    {
+      "key": "{\"type\":\"developer\",\"id\":\"8050017013069437269\"}",
+      "count": 2,
+      "fetchedAt": "2026-10-23T00:37:23.529Z"
+    },
+    {
+      "key": "{\"type\":\"developer\",\"id\":\"MODERN GAME\"}",
+      "count": 1,
+      "fetchedAt": "2026-10-23T00:37:23.583Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.digectsoft.magicboxpuzzle\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-23T00:37:24.388Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"net.fantasysquad.app\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-23T01:06:31.079Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.MSGameStudio.Strategy.TbsCrawler\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-23T01:06:31.091Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.tenyang.ad.dragonstone\"}",
+      "count": 10,
+      "fetchedAt": "2026-10-23T01:37:25.103Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.andrewsheridan.cyberpunk_red_companion\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-23T01:37:25.111Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.appon.dragondefense\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-23T01:37:25.122Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.cy.VerticalMerge\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-23T01:37:26.375Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.feishu.erhe\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-23T01:37:26.381Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.cy.FairyTaleKingdomMergeGame\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-23T01:37:26.385Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.feishu.shelfMatch\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-23T01:37:27.797Z"
+    },
+    {
+      "key": "{\"type\":\"developer\",\"id\":\"5198192358748561417\"}",
+      "count": 5,
+      "fetchedAt": "2026-10-23T01:37:27.800Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.emagroups.wl\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-23T01:37:27.805Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.frs.antsimulator.insect.games\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-23T02:08:30.229Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.flaps.empireofants\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-23T02:08:30.249Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.antcolonyempire.game\"}",
+      "count": 9,
+      "fetchedAt": "2026-10-23T02:08:30.268Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.bug.hunt.ants\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-23T02:08:31.563Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.westplain.antwars\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-23T02:08:31.575Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.weyou.antempire\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-23T02:08:31.663Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.ysld.kzys\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-23T02:08:32.899Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.closeenough.game\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-23T02:08:32.906Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.horus.sky.defense\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-23T02:08:32.922Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.singertycoon.game\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-23T02:08:34.223Z"
+    },
+    {
+      "key": "{\"type\":\"developer\",\"id\":\"Luka Zdravkovic\"}",
+      "count": 4,
+      "fetchedAt": "2026-10-23T02:08:34.241Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"net.kairosoft.android.airplane_en\"}",
+      "count": 12,
+      "fetchedAt": "2026-10-23T02:39:04.107Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"net.kairosoft.android.zoo\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-23T02:39:05.562Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"net.kairosoft.android.boxing\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-23T02:39:05.742Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"net.kairosoft.android.paddock_en\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-23T02:39:06.264Z"
+    },
+    {
+      "key": "{\"type\":\"developer\",\"id\":\"7710637777904825280\"}",
+      "count": 10,
+      "fetchedAt": "2026-10-23T02:39:08.037Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"net.kairosoft.android.school3\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-23T02:39:09.376Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"net.kairosoft.android.dorayaki\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-23T02:39:09.455Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.my.bots\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-23T03:10:52.907Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"r.o.b.o.t.s\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-23T03:10:52.917Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.SyntheticMind.Samurai\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-23T03:10:52.928Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.app.seacolony\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-23T03:10:54.245Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.northstargames.oceans\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-23T03:10:54.260Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.panicartstudios.herosiegepocket\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-23T03:42:26.080Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"lu.jojaweb.rainbow6siegerandomizer\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-23T03:42:26.086Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.dolcefarnientemondo.wavefront\"}",
+      "count": 10,
+      "fetchedAt": "2026-10-23T04:13:20.927Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.grandfront.app\"}",
+      "count": 11,
+      "fetchedAt": "2026-10-23T04:13:21.232Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.dfnmondo.fibonacci.game\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-23T04:13:22.555Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.dolcefarnientemondo.kartopolis\"}",
+      "count": 7,
+      "fetchedAt": "2026-10-23T04:13:22.563Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.dfnmondo.gamepad.app\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-23T04:13:22.765Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.dolce.btcontroller.app\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-23T04:13:24.171Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.aistory.talesplay\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-23T04:13:24.179Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.vndev.maleo\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-23T04:13:24.187Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.flutterflow.wherei\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-23T04:13:25.586Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.vndev.tictac\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-23T04:13:25.592Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.mycompany.emotionsdive\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-23T04:13:25.599Z"
+    },
+    {
+      "key": "{\"type\":\"developer\",\"id\":\"6046959981332060867\"}",
+      "count": 5,
+      "fetchedAt": "2026-10-23T04:13:26.957Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.vbdigitalart.canardrush.challenge\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-23T04:13:26.962Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"ai.agent1c.flipside\"}",
+      "count": 6,
+      "fetchedAt": "2026-10-23T04:13:26.968Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"kr.co.softgene.secondpanel\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-23T04:13:28.332Z"
+    },
+    {
+      "key": "{\"type\":\"developer\",\"id\":\"6878788994447344202\"}",
+      "count": 6,
+      "fetchedAt": "2026-10-23T04:13:28.335Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.QuanticBit.MonsterSiegeTactics\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-23T04:13:28.341Z"
+    },
+    {
+      "key": "{\"type\":\"developer\",\"id\":\"Agent1c.ai\"}",
+      "count": 2,
+      "fetchedAt": "2026-10-23T04:13:29.733Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"ai.agent1c.hitomi\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-23T04:13:31.071Z"
     }
   ],
   "candidates": [
@@ -79574,7 +79884,8 @@
         "search:single player grand strategy",
         "search:simultaneous orders war game",
         "search:tactical mercenary squad strategy",
-        "search:railway war logistics strategy"
+        "search:railway war logistics strategy",
+        "related:com.grandfront.app"
       ]
     },
     {
@@ -80778,7 +81089,8 @@
         "search:4X civilization strategy",
         "search:hex tile civilization",
         "search:wargame campaign editor",
-        "related:com.momenthk.mwr"
+        "related:com.momenthk.mwr",
+        "related:space.galaxy.invasion.iron.machines.war"
       ]
     },
     {
@@ -81271,7 +81583,8 @@
         "search:real time tactics strategy",
         "search:small scale real time strategy",
         "search:railway war logistics strategy",
-        "related:com.hg.frozenfront"
+        "related:com.hg.frozenfront",
+        "related:com.grandfront.app"
       ]
     },
     {
@@ -81316,7 +81629,8 @@
         "search:strategy tribal warfare 2025",
         "search:real time tactics strategy",
         "search:small scale real time strategy",
-        "search:siege warfare castle strategy"
+        "search:siege warfare castle strategy",
+        "related:space.galaxy.invasion.iron.machines.war"
       ]
     },
     {
@@ -81853,7 +82167,8 @@
         "search:asynchronous multiplayer strategy",
         "search:small scale real time strategy",
         "related:com.goldengodgames.ww2",
-        "related:com.sobachkagames.crystaloutpost"
+        "related:com.sobachkagames.crystaloutpost",
+        "related:net.kairosoft.android.airplane_en"
       ]
     },
     {
@@ -84092,7 +84407,8 @@
         "search:tower defense hero placement",
         "search:tower defense economy upgrades",
         "search:terrain manipulation strategy",
-        "related:com.sobachkagames.crystaloutpost"
+        "related:com.sobachkagames.crystaloutpost",
+        "related:com.antcolonyempire.game"
       ]
     },
     {
@@ -84851,7 +85167,8 @@
         "search:strategy logistics factory defense 2026",
         "search:tower defense mazing sandbox",
         "search:tower defense path building",
-        "search:tower defense hero placement"
+        "search:tower defense hero placement",
+        "related:space.galaxy.invasion.iron.machines.war"
       ]
     },
     {
@@ -85072,7 +85389,9 @@
       "genreId": "GAME_SIMULATION",
       "url": "https://play.google.com/store/apps/details?id=net.kairosoft.android.towns&hl=en&gl=US",
       "discoveredVia": [
-        "{\"type\":\"search\",\"term\":\"city builder\"}"
+        "{\"type\":\"search\",\"term\":\"city builder\"}",
+        "related:net.kairosoft.android.airplane_en",
+        "developer:7710637777904825280"
       ]
     },
     {
@@ -85128,7 +85447,9 @@
       "url": "https://play.google.com/store/apps/details?id=net.kairosoft.android.bouken2&hl=en&gl=US",
       "discoveredVia": [
         "{\"type\":\"search\",\"term\":\"city builder\"}",
-        "search:strategy dungeon management 2026"
+        "search:strategy dungeon management 2026",
+        "related:net.kairosoft.android.airplane_en",
+        "developer:7710637777904825280"
       ]
     },
     {
@@ -86053,7 +86374,8 @@
         "search:simultaneous orders war game",
         "related:com.igindis.meegame.middleeastempire",
         "search:railway war logistics strategy",
-        "related:com.steelandfire.game"
+        "related:com.steelandfire.game",
+        "related:com.grandfront.app"
       ]
     },
     {
@@ -86301,7 +86623,8 @@
         "search:strategy ancient war 2025",
         "search:operational level wargame",
         "related:com.joynow.strategy.ww2",
-        "search:territory painting strategy"
+        "search:territory painting strategy",
+        "related:com.grandfront.app"
       ]
     },
     {
@@ -87438,7 +87761,8 @@
         "related:com.novanext.spaceswarm.survivortd",
         "related:com.simple.warstrategy",
         "search:новые стратегии 2025",
-        "related:com.onecat.cosmictowers"
+        "related:com.onecat.cosmictowers",
+        "related:space.galaxy.invasion.iron.machines.war"
       ]
     },
     {
@@ -88699,7 +89023,8 @@
         "related:com.khelian.wilddefense",
         "search:grid based tactical strategy",
         "search:minimalist strategy game",
-        "related:com.singularprogrammer.hexareign"
+        "related:com.singularprogrammer.hexareign",
+        "related:space.galaxy.invasion.iron.machines.war"
       ]
     },
     {
@@ -93488,7 +93813,8 @@
         "related:age.of.robots.superheroes.battle.td",
         "search:ninja roguelike defense",
         "search:strategy artillery roguelike 2025",
-        "search:roguelike fortress defense"
+        "search:roguelike fortress defense",
+        "related:space.galaxy.invasion.iron.machines.war"
       ]
     },
     {
@@ -94565,7 +94891,8 @@
         "related:com.edenap.a3",
         "search:신작 좀비 전략 2025",
         "search:roguelike fortress defense",
-        "related:com.MrDog.TrapDefense"
+        "related:com.MrDog.TrapDefense",
+        "related:com.digectsoft.zombietowndefense"
       ]
     },
     {
@@ -95548,7 +95875,8 @@
         "search:strategi pertahanan kerajaan 2026",
         "search:strategy castle siege offline 2026",
         "search:village raid defense strategy",
-        "related:com.hexconquest.app"
+        "related:com.hexconquest.app",
+        "related:space.galaxy.invasion.iron.machines.war"
       ]
     },
     {
@@ -96446,7 +96774,8 @@
         "related:com.DNSstudio.TrenchesOfEurope",
         "search:frozen kingdom strategy",
         "related:com.warvow.omgoogle",
-        "search:railway war logistics strategy"
+        "search:railway war logistics strategy",
+        "related:com.grandfront.app"
       ]
     },
     {
@@ -100690,7 +101019,8 @@
         "search:strategy steampunk tower 2025",
         "search:strategy tower card battle 2025",
         "search:strategy transport tycoon defense 2025",
-        "search:siege engine strategy"
+        "search:siege engine strategy",
+        "related:space.galaxy.invasion.iron.machines.war"
       ]
     },
     {
@@ -101462,7 +101792,8 @@
         "related:com.shadow.soc.gp",
         "related:com.evsita.mywar.global",
         "related:com.Automatic.SFG",
-        "related:com.movga.castaways2.gp"
+        "related:com.movga.castaways2.gp",
+        "related:com.tenyang.ad.dragonstone"
       ]
     },
     {
@@ -101828,7 +102159,8 @@
         "related:com.backflipgames.mergecastletd",
         "search:strategy orbital defense 2025",
         "related:net.moderndefense",
-        "related:com.onecat.cosmictowers"
+        "related:com.onecat.cosmictowers",
+        "related:space.galaxy.invasion.iron.machines.war"
       ]
     },
     {
@@ -104310,7 +104642,8 @@
         "related:com.warpact.rts",
         "related:com.bmmtbsgame",
         "related:pocketforts.td",
-        "related:com.sobachkagames.crystaloutpost"
+        "related:com.sobachkagames.crystaloutpost",
+        "related:com.digectsoft.zombietowndefense"
       ]
     },
     {
@@ -104359,7 +104692,8 @@
         "related:mech.fortress.tower.defense.hero.war",
         "related:sector.tower.defense.roguelike.alien.survival",
         "related:com.noxgames.hex.polis.civilization.empire",
-        "related:age.of.robots.superheroes.battle.td"
+        "related:age.of.robots.superheroes.battle.td",
+        "related:space.galaxy.invasion.iron.machines.war"
       ]
     },
     {
@@ -104378,7 +104712,8 @@
         "related:sector.tower.defense.roguelike.alien.survival",
         "related:com.noxgames.hex.polis.civilization.empire",
         "related:age.of.robots.superheroes.battle.td",
-        "search:merge tank parts strategy"
+        "search:merge tank parts strategy",
+        "related:space.galaxy.invasion.iron.machines.war"
       ]
     },
     {
@@ -104921,7 +105256,8 @@
         "related:com.zone.zombie.defense",
         "related:com.devpixel.necrodefense",
         "related:com.MrDog.TrapDefense",
-        "related:com.RonixGames.Super.Hero.Ready"
+        "related:com.RonixGames.Super.Hero.Ready",
+        "related:com.antcolonyempire.game"
       ]
     },
     {
@@ -105480,7 +105816,8 @@
         "related:com.pocketarena.castledefense",
         "related:pocketforts.td",
         "related:com.white.castle.grow.tower.defence.heroes.magic.defense.necromancer",
-        "related:com.sobachkagames.crystaloutpost"
+        "related:com.sobachkagames.crystaloutpost",
+        "related:com.digectsoft.zombietowndefense"
       ]
     },
     {
@@ -105776,7 +106113,8 @@
       "url": "https://play.google.com/store/apps/details?id=com.umi.godweapons.beta&hl=en&gl=US",
       "discoveredVia": [
         "related:com.yczombie.global",
-        "related:com.elex.unicorn"
+        "related:com.elex.unicorn",
+        "related:com.ModernGames.Zombies"
       ]
     },
     {
@@ -106114,7 +106452,8 @@
         "related:com.klaracode.everhex",
         "search:新作 タワーディフェンス 2025",
         "related:com.stavbi1.towerdefense",
-        "related:com.sobachkagames.crystaloutpost"
+        "related:com.sobachkagames.crystaloutpost",
+        "related:com.dolcefarnientemondo.wavefront"
       ]
     },
     {
@@ -106162,7 +106501,8 @@
         "developer:8223591372369919986",
         "related:mech.fortress.tower.defense.hero.war",
         "related:sector.tower.defense.roguelike.alien.survival",
-        "related:com.noxgames.hex.polis.civilization.empire"
+        "related:com.noxgames.hex.polis.civilization.empire",
+        "related:space.galaxy.invasion.iron.machines.war"
       ]
     },
     {
@@ -106549,7 +106889,8 @@
         "related:com.edenap.m1",
         "related:com.devpixel.necrodefense",
         "related:com.hexwar.tankbattleeastfront",
-        "related:com.larks.pb1.gp"
+        "related:com.larks.pb1.gp",
+        "related:net.kairosoft.android.airplane_en"
       ]
     },
     {
@@ -109335,7 +109676,8 @@
         "search:strategy fungal colony defense",
         "related:com.towerdefense.kingoflegend",
         "related:com.zone.zombie.defense",
-        "search:strategy steampunk tower 2025"
+        "search:strategy steampunk tower 2025",
+        "related:com.digectsoft.zombietowndefense"
       ]
     },
     {
@@ -110369,7 +110711,8 @@
         "related:com.zone.zombie.defense",
         "related:com.hexconquest.app",
         "related:com.skyisland.mergesoldier.td.backpack.rush",
-        "related:com.onecat.cosmictowers"
+        "related:com.onecat.cosmictowers",
+        "related:com.digectsoft.zombietowndefense"
       ]
     },
     {
@@ -112172,7 +112515,8 @@
         "related:com.devpixel.necrodefense",
         "related:com.statlex.ancientempirestrikebackup",
         "related:com.larks.pb1.gp",
-        "related:com.aredstudio.mintheroes"
+        "related:com.aredstudio.mintheroes",
+        "related:com.antcolonyempire.game"
       ]
     },
     {
@@ -112672,7 +113016,8 @@
         "related:orbit.planet.defence.deepliy",
         "related:com.syslf.xdefenself",
         "related:games.tower.defense",
-        "related:com.CupTea.tower.defense.factory"
+        "related:com.CupTea.tower.defense.factory",
+        "related:ai.agent1c.flipside"
       ]
     },
     {
@@ -113587,7 +113932,8 @@
         "related:ru.gamedevteam.heroes2",
         "related:com.unexpected.asfarastheeye",
         "related:com.zts.ageofgalaxy",
-        "related:com.rpg.gauntlet"
+        "related:com.rpg.gauntlet",
+        "related:net.kairosoft.android.airplane_en"
       ]
     },
     {
@@ -114037,7 +114383,8 @@
         "related:io.TatuStudio.WorldConqueror",
         "related:com.singularprogrammer.hexareign",
         "related:com.FantasticaGames.DictatorsWarWorldConquest",
-        "related:com.FantasticaGames.StickCastlesWar"
+        "related:com.FantasticaGames.StickCastlesWar",
+        "related:com.grandfront.app"
       ]
     },
     {
@@ -116270,7 +116617,8 @@
         "related:com.chuanglian.sgfml",
         "related:com.slggames.hgsg",
         "related:net.toyknight.aeii.android",
-        "related:com.statlex.ancientempirestrikeback"
+        "related:com.statlex.ancientempirestrikeback",
+        "related:net.kairosoft.android.airplane_en"
       ]
     },
     {
@@ -116296,7 +116644,8 @@
         "related:com.kingsbounty.turnbased.strategy.td",
         "related:com.statlex.ancientempirestrikeback",
         "related:com.robinblood.cfh",
-        "related:com.white.castle.grow.tower.defence.heroes.magic.defense.necromancer"
+        "related:com.white.castle.grow.tower.defence.heroes.magic.defense.necromancer",
+        "related:net.kairosoft.android.airplane_en"
       ]
     },
     {
@@ -118406,7 +118755,8 @@
       "genreId": "GAME_CASUAL",
       "url": "https://play.google.com/store/apps/details?id=indie.prectorian.lastpiece&hl=en&gl=US",
       "discoveredVia": [
-        "related:com.ArrowOfTime.ArrowOfProgress"
+        "related:com.ArrowOfTime.ArrowOfProgress",
+        "related:com.dolcefarnientemondo.wavefront"
       ]
     },
     {
@@ -118433,7 +118783,8 @@
       "url": "https://play.google.com/store/apps/details?id=com.NEXTStudio.BladedFury&hl=en&gl=US",
       "discoveredVia": [
         "related:com.ArrowOfTime.ArrowOfProgress",
-        "related:com.wanda.darktank.gp.west"
+        "related:com.wanda.darktank.gp.west",
+        "related:com.dolcefarnientemondo.wavefront"
       ]
     },
     {
@@ -119801,7 +120152,8 @@
         "related:com.Abuksigun.CastleDefenderStrategy",
         "related:com.blazingsolution.mars.colony.idle.builder",
         "related:com.Cacochyme.AntManager",
-        "related:com.firerock.towerquest"
+        "related:com.firerock.towerquest",
+        "related:com.antcolonyempire.game"
       ]
     },
     {
@@ -120740,7 +121092,8 @@
         "related:com.global.ztmslg",
         "related:com.global.pnck",
         "related:com.global.antgame",
-        "search:dark fantasy grand strategy"
+        "search:dark fantasy grand strategy",
+        "related:com.ModernGames.Zombies"
       ]
     },
     {
@@ -123763,7 +124116,8 @@
         "related:com.pandorio.foresttd",
         "related:com.superantstudios.hivefront",
         "related:com.cookapps.towerroguedefense",
-        "related:com.chillplay.overcore"
+        "related:com.chillplay.overcore",
+        "related:com.antcolonyempire.game"
       ]
     },
     {
@@ -124692,7 +125046,8 @@
         "related:com.BeanstalkGames.AncientAlliesTD",
         "search:galaxy turn based diplomacy",
         "search:strategy turn based cyberpunk",
-        "related:com.jcgame.winterclan.global"
+        "related:com.jcgame.winterclan.global",
+        "related:com.dolcefarnientemondo.wavefront"
       ]
     },
     {
@@ -125961,7 +126316,8 @@
         "related:com.wanda.darktank.gp.west",
         "related:com.snowgames.spacenapoleon",
         "developer:6087902597915335733",
-        "related:com.padhaivadhai.catalyst_pvp"
+        "related:com.padhaivadhai.catalyst_pvp",
+        "related:com.dolcefarnientemondo.kartopolis"
       ]
     },
     {
@@ -127782,7 +128138,8 @@
         "related:com.foursakenmedia.blockfortresswar",
         "related:com.pulsar.game",
         "related:com.tundragames.rapture_worldconquest",
-        "related:com.klaracode.everhex"
+        "related:com.klaracode.everhex",
+        "related:com.ModernGames.Zombies"
       ]
     },
     {
@@ -129109,7 +129466,8 @@
       "url": "https://play.google.com/store/apps/details?id=com.heroesofchaos.ggplay.koramgame.na&hl=en&gl=US",
       "discoveredVia": [
         "related:com.arkgames.ggplay.rodna",
-        "developer:8918738938145942688"
+        "developer:8918738938145942688",
+        "related:com.tenyang.ad.dragonstone"
       ]
     },
     {
@@ -133746,7 +134104,8 @@
         "search:strategy dungeon commander 2026",
         "search:전략 기지 방어 2026",
         "search:strategy necromancer army 2026",
-        "search:strategy dungeon keeper 2026"
+        "search:strategy dungeon keeper 2026",
+        "related:com.tenyang.ad.dragonstone"
       ]
     },
     {
@@ -134595,7 +134954,8 @@
       "discoveredVia": [
         "related:com.muurou.games.refence.demo",
         "related:com.corepuzzle.game",
-        "related:de.teiby.castleartillery.android"
+        "related:de.teiby.castleartillery.android",
+        "related:ai.agent1c.flipside"
       ]
     },
     {
@@ -136330,7 +136690,8 @@
       "url": "https://play.google.com/store/apps/details?id=hitzone.anima.spirit.guardians&hl=en&gl=US",
       "discoveredVia": [
         "related:leyi.ageofspirits",
-        "related:com.plantsonfire.merge"
+        "related:com.plantsonfire.merge",
+        "related:com.tenyang.ad.dragonstone"
       ]
     },
     {
@@ -138201,7 +138562,8 @@
       "url": "https://play.google.com/store/apps/details?id=hb.DoomAndDestiny3&hl=en&gl=US",
       "discoveredVia": [
         "related:com.yuegame.defender",
-        "related:com.amaterasu.epicempire"
+        "related:com.amaterasu.epicempire",
+        "related:net.kairosoft.android.airplane_en"
       ]
     },
     {
@@ -142536,7 +142898,8 @@
       "url": "https://play.google.com/store/apps/details?id=com.pphorizon.an&hl=en&gl=US",
       "discoveredVia": [
         "related:com.FGS.FrontlineAssaultSandbox",
-        "related:com.seal.hands"
+        "related:com.seal.hands",
+        "related:com.dolcefarnientemondo.wavefront"
       ]
     },
     {
@@ -150203,7 +150566,8 @@
       "url": "https://play.google.com/store/apps/details?id=com.quanticbit.echoesbeyondtime&hl=en&gl=US",
       "discoveredVia": [
         "related:com.polymorphogenesis.manuscriptexcavation",
-        "related:com.forjaiapps.jogodopedreiro"
+        "related:com.forjaiapps.jogodopedreiro",
+        "related:ai.agent1c.flipside"
       ]
     },
     {
@@ -152526,7 +152890,8 @@
         "related:com.ziro.avz",
         "related:com.hg.gunsandglory4free",
         "related:com.merge.plants.zombies.shooting.flower.war.game",
-        "related:com.merge.plants.td.vs.zombies.flower.shooting.war.game"
+        "related:com.merge.plants.td.vs.zombies.flower.shooting.war.game",
+        "related:com.digectsoft.zombietowndefense"
       ]
     },
     {
@@ -157763,7 +158128,8 @@
       "discoveredVia": [
         "related:com.nex.game",
         "related:com.talentvsai4a1",
-        "related:net.playtouch.tinybluesvsminireds"
+        "related:net.playtouch.tinybluesvsminireds",
+        "related:com.dolcefarnientemondo.wavefront"
       ]
     },
     {
@@ -157880,7 +158246,8 @@
         "related:com.rpg.gauntlet",
         "search:animal wizard roguelike defense",
         "related:com.proguild.cortexslimedefense",
-        "related:com.CupTea.tower.defense.factory"
+        "related:com.CupTea.tower.defense.factory",
+        "related:ai.agent1c.flipside"
       ]
     },
     {
@@ -158341,7 +158708,8 @@
       "url": "https://play.google.com/store/apps/details?id=au.com.suncoastpc.aipro.unbraikable&hl=en&gl=US",
       "discoveredVia": [
         "related:com.dtacraft.deadhandprotocol",
-        "related:com.pvpvirus.game"
+        "related:com.pvpvirus.game",
+        "related:com.ModernGames.Zombies"
       ]
     },
     {
@@ -158520,7 +158888,8 @@
       "url": "https://play.google.com/store/apps/details?id=app.glyphgame.io&hl=en&gl=US",
       "discoveredVia": [
         "related:com.aaa_ai",
-        "related:com.forest.spirit.dodge"
+        "related:com.forest.spirit.dodge",
+        "related:com.ModernGames.Zombies"
       ]
     },
     {
@@ -184518,7 +184887,8 @@
       "url": "https://play.google.com/store/apps/details?id=com.sigmateam.alienshooter.lasthope&hl=en&gl=US",
       "discoveredVia": [
         "related:com.sigmateam.alienshooter.towerdefence",
-        "developer:4706549291390046925"
+        "developer:4706549291390046925",
+        "related:com.ModernGames.Zombies"
       ]
     },
     {
@@ -187221,7 +187591,8 @@
       "url": "https://play.google.com/store/apps/details?id=com.mcolotto.magicresearchfull&hl=en&gl=US",
       "discoveredVia": [
         "related:com.exponenta.marsoforming",
-        "related:com.snarkydingo.orbitalengagement"
+        "related:com.snarkydingo.orbitalengagement",
+        "related:com.antcolonyempire.game"
       ]
     },
     {
@@ -260395,6 +260766,488 @@
       "url": "https://play.google.com/store/apps/details?id=com.akgames.blockcraftworld&hl=en&gl=US",
       "discoveredVia": [
         "developer:HyperFusion Games"
+      ]
+    },
+    {
+      "id": "com.digectsoft.magicboxpuzzle",
+      "title": "Magic Box Puzzle",
+      "decision": "not-strategy",
+      "released": "Apr 20, 2019",
+      "genre": "Puzzle",
+      "genreId": "GAME_PUZZLE",
+      "url": "https://play.google.com/store/apps/details?id=com.digectsoft.magicboxpuzzle&hl=en&gl=US",
+      "discoveredVia": [
+        "related:com.digectsoft.zombietowndefense",
+        "developer:8050017013069437269"
+      ]
+    },
+    {
+      "id": "com.digectsoft.zombietowndefense",
+      "title": "Zombie Town Survival Defense",
+      "decision": "outside-window",
+      "released": "Sep 8, 2016",
+      "genre": "Strategy",
+      "genreId": "GAME_STRATEGY",
+      "url": "https://play.google.com/store/apps/details?id=com.digectsoft.zombietowndefense&hl=en&gl=US",
+      "discoveredVia": [
+        "developer:8050017013069437269"
+      ]
+    },
+    {
+      "id": "com.ModernGames.Zombies",
+      "title": "Zombies : Defence",
+      "decision": "included",
+      "released": "Aug 11, 2026",
+      "genre": "Strategy",
+      "genreId": "GAME_STRATEGY",
+      "url": "https://play.google.com/store/apps/details?id=com.ModernGames.Zombies&hl=en&gl=US",
+      "discoveredVia": [
+        "developer:MODERN GAME"
+      ]
+    },
+    {
+      "id": "com.cy.FairyTaleKingdomMergeGame",
+      "title": "Merge & Behold: Fairy Tales",
+      "decision": "not-strategy",
+      "released": "Dec 3, 2021",
+      "genre": "Casual",
+      "genreId": "GAME_CASUAL",
+      "url": "https://play.google.com/store/apps/details?id=com.cy.FairyTaleKingdomMergeGame&hl=en&gl=US",
+      "discoveredVia": [
+        "related:com.tenyang.ad.dragonstone",
+        "developer:5198192358748561417"
+      ]
+    },
+    {
+      "id": "com.cy.VerticalMerge",
+      "title": "Sortlands: Fairy Tales",
+      "decision": "not-strategy",
+      "released": "May 5, 2025",
+      "genre": "Casual",
+      "genreId": "GAME_CASUAL",
+      "url": "https://play.google.com/store/apps/details?id=com.cy.VerticalMerge&hl=en&gl=US",
+      "discoveredVia": [
+        "related:com.tenyang.ad.dragonstone",
+        "developer:5198192358748561417"
+      ]
+    },
+    {
+      "id": "com.feishu.erhe",
+      "title": "Mrs. No More: Merge & Rebuild",
+      "decision": "not-strategy",
+      "released": "Aug 28, 2026",
+      "genre": "Casual",
+      "genreId": "GAME_CASUAL",
+      "url": "https://play.google.com/store/apps/details?id=com.feishu.erhe&hl=en&gl=US",
+      "discoveredVia": [
+        "related:com.tenyang.ad.dragonstone",
+        "developer:5198192358748561417"
+      ]
+    },
+    {
+      "id": "com.feishu.shelfMatch",
+      "title": "Shelf Match: Love & Lies",
+      "decision": "not-strategy",
+      "released": "Jun 5, 2026",
+      "genre": "Puzzle",
+      "genreId": "GAME_PUZZLE",
+      "url": "https://play.google.com/store/apps/details?id=com.feishu.shelfMatch&hl=en&gl=US",
+      "discoveredVia": [
+        "related:com.tenyang.ad.dragonstone",
+        "developer:5198192358748561417"
+      ]
+    },
+    {
+      "id": "global.thedream.and.rox",
+      "title": "Ragnarok X: Next Generation",
+      "decision": "not-strategy",
+      "released": "May 7, 2025",
+      "genre": "Role Playing",
+      "genreId": "GAME_ROLE_PLAYING",
+      "url": "https://play.google.com/store/apps/details?id=global.thedream.and.rox&hl=en&gl=US",
+      "discoveredVia": [
+        "related:com.tenyang.ad.dragonstone"
+      ]
+    },
+    {
+      "id": "com.emagroups.wl",
+      "title": "Spirits of Aetheria",
+      "decision": "not-strategy",
+      "released": "May 20, 2026",
+      "genre": "Role Playing",
+      "genreId": "GAME_ROLE_PLAYING",
+      "url": "https://play.google.com/store/apps/details?id=com.emagroups.wl&hl=en&gl=US",
+      "discoveredVia": [
+        "related:com.tenyang.ad.dragonstone"
+      ]
+    },
+    {
+      "id": "com.tenyang.ad.dragonstone",
+      "title": "Dragonstone War",
+      "decision": "included",
+      "released": "Jul 1, 2026",
+      "genre": "Strategy",
+      "genreId": "GAME_STRATEGY",
+      "url": "https://play.google.com/store/apps/details?id=com.tenyang.ad.dragonstone&hl=en&gl=US",
+      "discoveredVia": [
+        "developer:5198192358748561417"
+      ]
+    },
+    {
+      "id": "com.closeenough.game",
+      "title": "Close Enough",
+      "decision": "not-strategy",
+      "released": "Oct 5, 2026",
+      "genre": "Trivia",
+      "genreId": "GAME_TRIVIA",
+      "url": "https://play.google.com/store/apps/details?id=com.closeenough.game&hl=en&gl=US",
+      "discoveredVia": [
+        "related:com.antcolonyempire.game",
+        "developer:Luka Zdravkovic"
+      ]
+    },
+    {
+      "id": "com.singertycoon.game",
+      "title": "Singer Tycoon: Be a Music Star",
+      "decision": "not-strategy",
+      "released": "Oct 5, 2026",
+      "genre": "Simulation",
+      "genreId": "GAME_SIMULATION",
+      "url": "https://play.google.com/store/apps/details?id=com.singertycoon.game&hl=en&gl=US",
+      "discoveredVia": [
+        "related:com.antcolonyempire.game",
+        "developer:Luka Zdravkovic"
+      ]
+    },
+    {
+      "id": "com.hexora.game",
+      "title": "HeXora — Hexa Color Puzzle",
+      "decision": "not-strategy",
+      "released": "Aug 17, 2026",
+      "genre": "Puzzle",
+      "genreId": "GAME_PUZZLE",
+      "url": "https://play.google.com/store/apps/details?id=com.hexora.game&hl=en&gl=US",
+      "discoveredVia": [
+        "related:com.antcolonyempire.game",
+        "developer:Luka Zdravkovic"
+      ]
+    },
+    {
+      "id": "com.antcolonyempire.game",
+      "title": "Ant Colony Empire",
+      "decision": "included",
+      "released": "Sep 18, 2026",
+      "genre": "Strategy",
+      "genreId": "GAME_STRATEGY",
+      "url": "https://play.google.com/store/apps/details?id=com.antcolonyempire.game&hl=en&gl=US",
+      "discoveredVia": [
+        "developer:Luka Zdravkovic"
+      ]
+    },
+    {
+      "id": "net.kairosoft.android.gamedev3en",
+      "title": "Game Dev Story",
+      "decision": "not-strategy",
+      "released": "Dec 10, 2010",
+      "genre": "Simulation",
+      "genreId": "GAME_SIMULATION",
+      "url": "https://play.google.com/store/apps/details?id=net.kairosoft.android.gamedev3en&hl=en&gl=US",
+      "discoveredVia": [
+        "related:net.kairosoft.android.airplane_en",
+        "developer:7710637777904825280"
+      ]
+    },
+    {
+      "id": "net.kairosoft.android.zoo",
+      "title": "Zoo Park Story",
+      "decision": "not-strategy",
+      "released": "May 7, 2023",
+      "genre": "Simulation",
+      "genreId": "GAME_SIMULATION",
+      "url": "https://play.google.com/store/apps/details?id=net.kairosoft.android.zoo&hl=en&gl=US",
+      "discoveredVia": [
+        "related:net.kairosoft.android.airplane_en",
+        "developer:7710637777904825280"
+      ]
+    },
+    {
+      "id": "net.kairosoft.android.paddock_en",
+      "title": "Grand Prix Story",
+      "decision": "not-strategy",
+      "released": "Jun 8, 2011",
+      "genre": "Sports",
+      "genreId": "GAME_SPORTS",
+      "url": "https://play.google.com/store/apps/details?id=net.kairosoft.android.paddock_en&hl=en&gl=US",
+      "discoveredVia": [
+        "related:net.kairosoft.android.airplane_en",
+        "developer:7710637777904825280"
+      ]
+    },
+    {
+      "id": "net.kairosoft.android.boxing",
+      "title": "Boxing Gym Story",
+      "decision": "not-strategy",
+      "released": "Feb 9, 2021",
+      "genre": "Sports",
+      "genreId": "GAME_SPORTS",
+      "url": "https://play.google.com/store/apps/details?id=net.kairosoft.android.boxing&hl=en&gl=US",
+      "discoveredVia": [
+        "related:net.kairosoft.android.airplane_en",
+        "developer:7710637777904825280"
+      ]
+    },
+    {
+      "id": "net.kairosoft.android.airport",
+      "title": "Jumbo Airport Story",
+      "decision": "not-strategy",
+      "released": "Sep 26, 2022",
+      "genre": "Simulation",
+      "genreId": "GAME_SIMULATION",
+      "url": "https://play.google.com/store/apps/details?id=net.kairosoft.android.airport&hl=en&gl=US",
+      "discoveredVia": [
+        "developer:7710637777904825280"
+      ]
+    },
+    {
+      "id": "net.kairosoft.android.school3",
+      "title": "Pocket Academy 3",
+      "decision": "not-strategy",
+      "released": "Aug 16, 2022",
+      "genre": "Simulation",
+      "genreId": "GAME_SIMULATION",
+      "url": "https://play.google.com/store/apps/details?id=net.kairosoft.android.school3&hl=en&gl=US",
+      "discoveredVia": [
+        "developer:7710637777904825280"
+      ]
+    },
+    {
+      "id": "net.kairosoft.android.dorayaki",
+      "title": "Doraemon Dorayaki Shop Story",
+      "decision": "not-strategy",
+      "released": "Sep 18, 2024",
+      "genre": "Simulation",
+      "genreId": "GAME_SIMULATION",
+      "url": "https://play.google.com/store/apps/details?id=net.kairosoft.android.dorayaki&hl=en&gl=US",
+      "discoveredVia": [
+        "developer:7710637777904825280"
+      ]
+    },
+    {
+      "id": "net.kairosoft.android.wrestling",
+      "title": "Pro Wrestler Story",
+      "decision": "not-strategy",
+      "released": "Oct 15, 2024",
+      "genre": "Simulation",
+      "genreId": "GAME_SIMULATION",
+      "url": "https://play.google.com/store/apps/details?id=net.kairosoft.android.wrestling&hl=en&gl=US",
+      "discoveredVia": [
+        "developer:7710637777904825280"
+      ]
+    },
+    {
+      "id": "com.dfnmondo.fibonacci.game",
+      "title": "Fibonacci Tower Defense",
+      "decision": "not-strategy",
+      "released": "Aug 2, 2026",
+      "genre": "Arcade",
+      "genreId": "GAME_ARCADE",
+      "url": "https://play.google.com/store/apps/details?id=com.dfnmondo.fibonacci.game&hl=en&gl=US",
+      "discoveredVia": [
+        "related:com.dolcefarnientemondo.wavefront",
+        "related:com.dolcefarnientemondo.kartopolis",
+        "developer:6046959981332060867"
+      ]
+    },
+    {
+      "id": "com.dolcefarnientemondo.kartopolis",
+      "title": "Kartopolis: Swipe Card Game",
+      "decision": "included",
+      "released": "Jul 31, 2026",
+      "genre": "Strategy",
+      "genreId": "GAME_STRATEGY",
+      "url": "https://play.google.com/store/apps/details?id=com.dolcefarnientemondo.kartopolis&hl=en&gl=US",
+      "discoveredVia": [
+        "related:com.dolcefarnientemondo.wavefront",
+        "developer:6046959981332060867"
+      ]
+    },
+    {
+      "id": "com.dfnmondo.gamepad.app",
+      "title": "V-Pad: Virtual Gamepad",
+      "decision": "not-strategy",
+      "released": "Jun 26, 2026",
+      "genre": "Tools",
+      "genreId": "TOOLS",
+      "url": "https://play.google.com/store/apps/details?id=com.dfnmondo.gamepad.app&hl=en&gl=US",
+      "discoveredVia": [
+        "related:com.dolcefarnientemondo.wavefront",
+        "related:com.dolcefarnientemondo.kartopolis",
+        "developer:6046959981332060867"
+      ]
+    },
+    {
+      "id": "com.dolce.btcontroller.app",
+      "title": "Bluetooth Mouse Keyboard&Macro",
+      "decision": "not-strategy",
+      "released": "May 29, 2026",
+      "genre": "Tools",
+      "genreId": "TOOLS",
+      "url": "https://play.google.com/store/apps/details?id=com.dolce.btcontroller.app&hl=en&gl=US",
+      "discoveredVia": [
+        "related:com.dolcefarnientemondo.wavefront",
+        "related:com.dolcefarnientemondo.kartopolis",
+        "developer:6046959981332060867"
+      ]
+    },
+    {
+      "id": "com.aistory.talesplay",
+      "title": "TalesPlay - Bedtime magic",
+      "decision": "not-strategy",
+      "released": "Feb 14, 2024",
+      "genre": "Parenting",
+      "genreId": "PARENTING",
+      "url": "https://play.google.com/store/apps/details?id=com.aistory.talesplay&hl=en&gl=US",
+      "discoveredVia": [
+        "related:com.grandfront.app",
+        "developer:6878788994447344202"
+      ]
+    },
+    {
+      "id": "com.vndev.maleo",
+      "title": "Maleo - Bird Run & Jump",
+      "decision": "not-strategy",
+      "released": "Sep 18, 2023",
+      "genre": "Action",
+      "genreId": "GAME_ACTION",
+      "url": "https://play.google.com/store/apps/details?id=com.vndev.maleo&hl=en&gl=US",
+      "discoveredVia": [
+        "related:com.grandfront.app",
+        "developer:6878788994447344202"
+      ]
+    },
+    {
+      "id": "com.vndev.tictac",
+      "title": "Tic Tac Toe Simple - 2 Player",
+      "decision": "not-strategy",
+      "released": "Aug 13, 2023",
+      "genre": "Puzzle",
+      "genreId": "GAME_PUZZLE",
+      "url": "https://play.google.com/store/apps/details?id=com.vndev.tictac&hl=en&gl=US",
+      "discoveredVia": [
+        "related:com.grandfront.app",
+        "developer:6878788994447344202"
+      ]
+    },
+    {
+      "id": "com.mycompany.emotionsdive",
+      "title": "Emotion Dive - Swipe and Relax",
+      "decision": "not-strategy",
+      "released": "Oct 6, 2022",
+      "genre": "Health & Fitness",
+      "genreId": "HEALTH_AND_FITNESS",
+      "url": "https://play.google.com/store/apps/details?id=com.mycompany.emotionsdive&hl=en&gl=US",
+      "discoveredVia": [
+        "related:com.grandfront.app",
+        "developer:6878788994447344202"
+      ]
+    },
+    {
+      "id": "com.flutterflow.wherei",
+      "title": "Where I? My geolocation",
+      "decision": "not-strategy",
+      "released": "Apr 20, 2022",
+      "genre": "Maps & Navigation",
+      "genreId": "MAPS_AND_NAVIGATION",
+      "url": "https://play.google.com/store/apps/details?id=com.flutterflow.wherei&hl=en&gl=US",
+      "discoveredVia": [
+        "related:com.grandfront.app",
+        "developer:6878788994447344202"
+      ]
+    },
+    {
+      "id": "com.vbdigitalart.canardrush.challenge",
+      "title": "CanardRush: Challenge",
+      "decision": "not-strategy",
+      "released": "Mar 11, 2026",
+      "genre": "Arcade",
+      "genreId": "GAME_ARCADE",
+      "url": "https://play.google.com/store/apps/details?id=com.vbdigitalart.canardrush.challenge&hl=en&gl=US",
+      "discoveredVia": [
+        "related:com.dolcefarnientemondo.kartopolis"
+      ]
+    },
+    {
+      "id": "ai.agent1c.flipside",
+      "title": "Flipside!",
+      "decision": "included",
+      "released": "Apr 16, 2026",
+      "genre": "Strategy",
+      "genreId": "GAME_STRATEGY",
+      "url": "https://play.google.com/store/apps/details?id=ai.agent1c.flipside&hl=en&gl=US",
+      "discoveredVia": [
+        "related:com.dolcefarnientemondo.kartopolis",
+        "developer:Agent1c.ai"
+      ]
+    },
+    {
+      "id": "com.dolcefarnientemondo.wavefront",
+      "title": "Wavefront: Tower Defense",
+      "decision": "included",
+      "released": "Jul 30, 2026",
+      "genre": "Strategy",
+      "genreId": "GAME_STRATEGY",
+      "url": "https://play.google.com/store/apps/details?id=com.dolcefarnientemondo.wavefront&hl=en&gl=US",
+      "discoveredVia": [
+        "related:com.dolcefarnientemondo.kartopolis",
+        "developer:6046959981332060867"
+      ]
+    },
+    {
+      "id": "com.QuanticBit.MonsterSiegeTactics",
+      "title": "Monster Siege Tactics: RPG",
+      "decision": "not-strategy",
+      "released": "Feb 18, 2023",
+      "genre": "Role Playing",
+      "genreId": "GAME_ROLE_PLAYING",
+      "url": "https://play.google.com/store/apps/details?id=com.QuanticBit.MonsterSiegeTactics&hl=en&gl=US",
+      "discoveredVia": [
+        "related:ai.agent1c.flipside"
+      ]
+    },
+    {
+      "id": "kr.co.softgene.secondpanel",
+      "title": "2ndPanel",
+      "decision": "not-strategy",
+      "released": "Mar 2, 2026",
+      "genre": "Simulation",
+      "genreId": "GAME_SIMULATION",
+      "url": "https://play.google.com/store/apps/details?id=kr.co.softgene.secondpanel&hl=en&gl=US",
+      "discoveredVia": [
+        "related:ai.agent1c.flipside"
+      ]
+    },
+    {
+      "id": "com.grandfront.app",
+      "title": "Grand Front: WW2 Hex Strategy",
+      "decision": "included",
+      "released": "Aug 19, 2026",
+      "genre": "Strategy",
+      "genreId": "GAME_STRATEGY",
+      "url": "https://play.google.com/store/apps/details?id=com.grandfront.app&hl=en&gl=US",
+      "discoveredVia": [
+        "developer:6878788994447344202"
+      ]
+    },
+    {
+      "id": "ai.agent1c.hitomi",
+      "title": "Hitomi - Floating AI Assistant",
+      "decision": "not-strategy",
+      "released": "Apr 3, 2026",
+      "genre": "Productivity",
+      "genreId": "PRODUCTIVITY",
+      "url": "https://play.google.com/store/apps/details?id=ai.agent1c.hitomi&hl=en&gl=US",
+      "discoveredVia": [
+        "developer:Agent1c.ai"
       ]
     }
   ],

@@ -4356,6 +4356,72 @@
     "iconSourceUrl": "https://play-lh.googleusercontent.com/sLjy69B9kWMvnnXTG-YW05KNibHh4oFL_BIOy3zOpFpkPG-Rw1yo42IO4rS9i_zRSt-UAG2nl2cGBFKGqAWSNQ"
   },
   {
+    "minInstalls": 1000,
+    "installEvidence": {
+      "minInstalls": 1000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.antcolonyempire.game&hl=en&gl=US",
+      "fetchedAt": "2026-10-23T02:08:30.267Z"
+    },
+    "id": "com.antcolonyempire.game",
+    "title": "Ant Colony Empire",
+    "subtitle": "Draw ant trails, feed the colony, grow an empire. 12 maps and Queen's Day.",
+    "description": "Draw ant trails, feed the colony, grow an empire. 12 maps and Queen's Day.",
+    "overviewEn": "Draw ant trails, feed the colony, grow an empire. 12 maps and Queen's Day.",
+    "genre": "Strategy",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "In-app purchases"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Luka Zdravkovic",
+    "ads": true,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.antcolonyempire.game&hl=en&gl=US",
+    "fetchedAt": "2026-10-23T02:08:30.267Z",
+    "sourceDate": "2026-10-23",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-09-18",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Sep 18, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.antcolonyempire.game&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/h6GDP7P6yhSFXPOPi0gmGnSU9p_sbUfGStp_P_uRnEL9u9zRyljSt8Dyl3LA8fgofAaWfk0y1E5YYlg8Q_zu930"
+  },
+  {
     "minInstalls": 100,
     "installEvidence": {
       "minInstalls": 100,
@@ -9744,6 +9810,72 @@
     "iconSourceUrl": "https://play-lh.googleusercontent.com/eXivw0cW8V_oLSSq-fCHXMiTy9UfDIW850sdCm7iBfJ_jpon1wuQn3YVCSkSdGbFH2CpZfwmSRioEbD7vy-zMDE"
   },
   {
+    "minInstalls": 1000,
+    "installEvidence": {
+      "minInstalls": 1000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.grandfront.app&hl=en&gl=US",
+      "fetchedAt": "2026-10-23T04:13:21.231Z"
+    },
+    "id": "com.grandfront.app",
+    "title": "Grand Front: WW2 Hex Strategy",
+    "subtitle": "Turn-based WW2 hex strategy: divisions, supply, fog of war, offline campaigns",
+    "description": "Turn-based WW2 hex strategy: divisions, supply, fog of war, offline campaigns",
+    "overviewEn": "Turn-based WW2 hex strategy: divisions, supply, fog of war, offline campaigns",
+    "genre": "Turn-based",
+    "world": "",
+    "tags": [
+      "Turn-based",
+      "Free download",
+      "Android",
+      "In-app purchases"
+    ],
+    "evidence": [
+      {
+        "tag": "Turn-based",
+        "basis": "Developer summary keyword mapping",
+        "excerpt": "Turn-based WW2 hex strategy: divisions, supply, fog of war, offline campaigns"
+      },
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "VN.Development",
+    "ads": null,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.grandfront.app&hl=en&gl=US",
+    "fetchedAt": "2026-10-23T04:13:21.231Z",
+    "sourceDate": "2026-10-23",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-08-19",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Aug 19, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.grandfront.app&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/WtAn6cSALFgwen8BIMJza8IrdZ2pxxsJ6BCl8Fao_CGTO8ulROF9VGM07LRxN_9XfhRJMrQ805T7LLoxxuyb"
+  },
+  {
     "minInstalls": 100000,
     "installEvidence": {
       "minInstalls": 100000,
@@ -11122,6 +11254,72 @@
     "catalog": "recent",
     "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
     "iconSourceUrl": "https://play-lh.googleusercontent.com/6MKEHjDqSXI87YCORiOMySllCtYoNIfSoNetg3dCmBV7BYhVLmN4H15YljR51PY_QxsukrP2qD9-y1UkGMb3QLE"
+  },
+  {
+    "minInstalls": 1000,
+    "installEvidence": {
+      "minInstalls": 1000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.ModernGames.Zombies&hl=en&gl=US",
+      "fetchedAt": "2026-10-23T00:37:22.025Z"
+    },
+    "id": "com.ModernGames.Zombies",
+    "title": "Zombies : Defence",
+    "subtitle": "Defend against zombie hordes, upgrade powerful equipment,and survive every stage",
+    "description": "Defend against zombie hordes, upgrade powerful equipment,and survive every stage",
+    "overviewEn": "Defend against zombie hordes, upgrade powerful equipment,and survive every stage",
+    "genre": "Strategy",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "In-app purchases"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "MODERN GAME",
+    "ads": true,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.ModernGames.Zombies&hl=en&gl=US",
+    "fetchedAt": "2026-10-23T00:37:22.025Z",
+    "sourceDate": "2026-10-23",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-08-11",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Aug 11, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.ModernGames.Zombies&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/BP7UuwbWQ4UDM5i0f7myJJjsHh-mD-xBztlevEl3lKjKNGkMatGv0BOX_RLLj3j2OU1rVgcCV70vSdKjTCj1fQ"
   },
   {
     "minInstalls": 10,
@@ -12888,6 +13086,72 @@
     "iconSourceUrl": "https://play-lh.googleusercontent.com/Po5tFa_P9phP1k91wqJ2LKnCPbZ9YwzgrzlVOWDrbuVGCw6xUdhrvsPNNmTJawXikKlR4g0HrtVvSN-7-HflGOU"
   },
   {
+    "minInstalls": 5,
+    "installEvidence": {
+      "minInstalls": 5,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.dolcefarnientemondo.kartopolis&hl=en&gl=US",
+      "fetchedAt": "2026-10-23T04:13:22.561Z"
+    },
+    "id": "com.dolcefarnientemondo.kartopolis",
+    "title": "Kartopolis: Swipe Card Game",
+    "subtitle": "Swipe cards, rule your city! Every decision changes your town's fate.",
+    "description": "Swipe cards, rule your city! Every decision changes your town's fate.",
+    "overviewEn": "Swipe cards, rule your city! Every decision changes your town's fate.",
+    "genre": "Strategy",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "In-app purchases"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "DolceFarNiente Mondo",
+    "ads": true,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.dolcefarnientemondo.kartopolis&hl=en&gl=US",
+    "fetchedAt": "2026-10-23T04:13:22.561Z",
+    "sourceDate": "2026-10-23",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-07-31",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Jul 31, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.dolcefarnientemondo.kartopolis&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/z0GqXtBtsPh7rEOw3TR7RP0pKfx--TjaoEQdzq1y1bT1vSI4mkTu62W2gAILB29zHZZIKRXUK4NyKxf1-0Id1A"
+  },
+  {
     "minInstalls": 1000000,
     "installEvidence": {
       "minInstalls": 1000000,
@@ -13174,6 +13438,78 @@
     "catalog": "recent",
     "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
     "iconSourceUrl": "https://play-lh.googleusercontent.com/Rso0f80_jvTTiCFUhZViQ6In2CG-CP8WNNWOSBNQBjWgh8t5Sdob6ERTimMv1lzhb87p8y74YOlT6gqQZ1hCWw"
+  },
+  {
+    "minInstalls": 50,
+    "installEvidence": {
+      "minInstalls": 50,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.dolcefarnientemondo.wavefront&hl=en&gl=US",
+      "fetchedAt": "2026-10-23T04:13:20.926Z"
+    },
+    "id": "com.dolcefarnientemondo.wavefront",
+    "title": "Wavefront: Tower Defense",
+    "subtitle": "Tower defense across 5 worlds & 100 levels. Build, upgrade & defend every wave!",
+    "description": "Tower defense across 5 worlds & 100 levels. Build, upgrade & defend every wave!",
+    "overviewEn": "Tower defense across 5 worlds & 100 levels. Build, upgrade & defend every wave!",
+    "genre": "Tower defense",
+    "world": "",
+    "tags": [
+      "Tower defense",
+      "Free download",
+      "Android",
+      "Contains ads",
+      "In-app purchases"
+    ],
+    "evidence": [
+      {
+        "tag": "Tower defense",
+        "basis": "Developer summary keyword mapping",
+        "excerpt": "Tower defense across 5 worlds &amp; 100 levels. Build, upgrade &amp; defend every wave!"
+      },
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "DolceFarNiente Mondo",
+    "ads": true,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.dolcefarnientemondo.wavefront&hl=en&gl=US",
+    "fetchedAt": "2026-10-23T04:13:20.926Z",
+    "sourceDate": "2026-10-23",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-07-30",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Jul 30, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.dolcefarnientemondo.wavefront&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/LhD-9WTwycGo3j-w45x_-0MIbFKQucklaU3ioBbH3EhdogXbue_rRhfA1wJurXcquzlyYDrkPvhGAd21KKuQFNA"
   },
   {
     "minInstalls": 10000,
@@ -17884,6 +18220,66 @@
     "catalog": "recent",
     "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
     "iconSourceUrl": "https://play-lh.googleusercontent.com/HdjGDPu1L7mpPD9KnFhhvZqwLTQThZue01umrPCjrG1YwlBafIcSKWQImoXbmEDqsRMpp0RF3lKg8S6NikhOMyU"
+  },
+  {
+    "minInstalls": 5000,
+    "installEvidence": {
+      "minInstalls": 5000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.tenyang.ad.dragonstone&hl=en&gl=US",
+      "fetchedAt": "2026-10-23T01:37:25.102Z"
+    },
+    "id": "com.tenyang.ad.dragonstone",
+    "title": "Dragonstone War",
+    "subtitle": "Dragonstone War is a high-quality 3D world exploration war strategy game",
+    "description": "Dragonstone War is a high-quality 3D world exploration war strategy game",
+    "overviewEn": "Dragonstone War is a high-quality 3D world exploration war strategy game",
+    "genre": "Strategy",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "In-app purchases"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "HONGKONG TENGYANG CO.，LIMITED",
+    "ads": null,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.tenyang.ad.dragonstone&hl=en&gl=US",
+    "fetchedAt": "2026-10-23T01:37:25.102Z",
+    "sourceDate": "2026-10-23",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-07-01",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Jul 1, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.tenyang.ad.dragonstone&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/Ziw9OLZ45A3hdYvoiSnGVzrnhBJB12EZDq8Mcr8TW37HaaSsfg_m99WRq7MRpfM9JbtzTlNyC7p3gOOhd7ksSQ"
   },
   {
     "minInstalls": 100000,
@@ -28018,6 +28414,60 @@
     "catalog": "recent",
     "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
     "iconSourceUrl": "https://play-lh.googleusercontent.com/qrAlA9AZN7Wh_Gn_fezrCg8UGboY8iG91PLn79npRT9oExeFozTRLzw8xCHOhvTjftXc1V6UyL5Y3ExwTjd80g"
+  },
+  {
+    "minInstalls": 10,
+    "installEvidence": {
+      "minInstalls": 10,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=ai.agent1c.flipside&hl=en&gl=US",
+      "fetchedAt": "2026-10-23T04:13:26.967Z"
+    },
+    "id": "ai.agent1c.flipside",
+    "title": "Flipside!",
+    "subtitle": "A cute & cozy game of tactical strategy where you flip your enemies to frens.",
+    "description": "A cute & cozy game of tactical strategy where you flip your enemies to frens.",
+    "overviewEn": "A cute & cozy game of tactical strategy where you flip your enemies to frens.",
+    "genre": "Strategy",
+    "world": "",
+    "tags": [
+      "Paid download",
+      "Android"
+    ],
+    "evidence": [
+      {
+        "tag": "Paid download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0.99"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      }
+    ],
+    "price": "Paid download",
+    "priceValue": 0.99,
+    "priceCurrency": "USD",
+    "priceDisplay": "US$0.99",
+    "developer": "Agent1c.ai",
+    "ads": null,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=ai.agent1c.flipside&hl=en&gl=US",
+    "fetchedAt": "2026-10-23T04:13:26.967Z",
+    "sourceDate": "2026-10-23",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-04-16",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Apr 16, 2026",
+      "url": "https://play.google.com/store/apps/details?id=ai.agent1c.flipside&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/4ly4wVwo4hIo3Z_N7OkSt3CcN1hdCXBCzHypNmiiPjopUenGEdYonI-LCQVdLcqGQAwJ3Ybpyagl5SC_6ysWClw"
   },
   {
     "minInstalls": 10,
@@ -52996,6 +53446,78 @@
     "catalog": "recent",
     "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
     "iconSourceUrl": "https://play-lh.googleusercontent.com/4SU8AZv9DYaVQR1ovgXpS5kvJZY11BoIDNCXm1Hbajyh6W6IsZZU3WeEblmUAIvEKx1mlaPHKLqsc2WA_x7V-g"
+  },
+  {
+    "minInstalls": 50000,
+    "installEvidence": {
+      "minInstalls": 50000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=space.galaxy.invasion.iron.machines.war&hl=en&gl=US",
+      "fetchedAt": "2026-10-23T00:06:38.889Z"
+    },
+    "id": "space.galaxy.invasion.iron.machines.war",
+    "title": "Star Marines: War Invasion TD",
+    "subtitle": "Lead Star Marine force, defend fortress & fight enemy in epic idle TD war game.",
+    "description": "Lead Star Marine force, defend fortress & fight enemy in epic idle TD war game.",
+    "overviewEn": "Lead Star Marine force, defend fortress & fight enemy in epic idle TD war game.",
+    "genre": "Tower defense",
+    "world": "",
+    "tags": [
+      "Tower defense",
+      "Free download",
+      "Android",
+      "Contains ads",
+      "In-app purchases"
+    ],
+    "evidence": [
+      {
+        "tag": "Tower defense",
+        "basis": "Developer summary keyword mapping",
+        "excerpt": "Lead Star Marine force, defend fortress &amp; fight enemy in epic idle TD war game."
+      },
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "NOXGAMES",
+    "ads": true,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=space.galaxy.invasion.iron.machines.war&hl=en&gl=US",
+    "fetchedAt": "2026-10-23T00:06:38.889Z",
+    "sourceDate": "2026-10-23",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2025-07-04",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Jul 4, 2025",
+      "url": "https://play.google.com/store/apps/details?id=space.galaxy.invasion.iron.machines.war&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/6mXBU0hMcUoZ66eHx7XVZVlz2Xtsia6OZY6Nb2YCM11CO2lWO8dJLNZgizV5HhNo54vcibN1yhootgieMqJPCt0"
   },
   {
     "minInstalls": 5000,

@@ -8394,5 +8394,613 @@
         "basis": "Official developer gameplay text"
       }
     ]
+  },
+  {
+    "minInstalls": 100,
+    "installEvidence": {
+      "minInstalls": 100,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.OullmedGames.RunGame.obstacl&hl=en&gl=US",
+      "fetchedAt": "2026-10-23T01:37:57.588Z"
+    },
+    "id": "com.OullmedGames.RunGame.obstacl",
+    "title": "Gate Runner: Grow Bigger",
+    "subtitle": "Choose gates, grow bigger, collect gems, and reach the finish",
+    "description": "Choose gates, grow bigger, collect gems, and reach the finish",
+    "overviewEn": "Choose gates, grow bigger, collect gems, and reach the finish",
+    "genre": "Hypercasual",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "Runner"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "Runner",
+        "excerpt": "Runner",
+        "basis": "Official developer gameplay text"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "OullmedGames",
+    "ads": true,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.OullmedGames.RunGame.obstacl&hl=en&gl=US",
+    "fetchedAt": "2026-10-23T01:37:57.588Z",
+    "sourceDate": "2026-10-23",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-03-09",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Mar 9, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.OullmedGames.RunGame.obstacl&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/yUB8N-Zg0n8wnDJ0uzLSDNmGNakRo2my4iCZiPC6AqZVVNE71-c0mlA4hnpIKZfafG6pSu_EYCgdCGQw2y9s",
+    "categories": [
+      "hypercasual"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "hypercasual",
+        "excerpt": "hyper-casual",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 10,
+    "installEvidence": {
+      "minInstalls": 10,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.balaji.elementballs&hl=en&gl=US",
+      "fetchedAt": "2026-10-23T01:54:05.664Z"
+    },
+    "id": "com.balaji.elementballs",
+    "title": "Element Ball:Arcade Puzzle Run",
+    "subtitle": "Master fire, water, air & earth! Roll the ball and avoid wrong elements.",
+    "description": "Master fire, water, air & earth! Roll the ball and avoid wrong elements.",
+    "overviewEn": "Master fire, water, air & earth! Roll the ball and avoid wrong elements.",
+    "genre": "Hypercasual",
+    "world": "",
+    "tags": [
+      "Paid download",
+      "Android"
+    ],
+    "evidence": [
+      {
+        "tag": "Paid download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0.99"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      }
+    ],
+    "price": "Paid download",
+    "priceValue": 0.99,
+    "priceCurrency": "USD",
+    "priceDisplay": "US$0.99",
+    "developer": "BALAJI INFOTECH",
+    "ads": null,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.balaji.elementballs&hl=en&gl=US",
+    "fetchedAt": "2026-10-23T01:54:05.664Z",
+    "sourceDate": "2026-10-23",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2025-09-09",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Sep 9, 2025",
+      "url": "https://play.google.com/store/apps/details?id=com.balaji.elementballs&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/86Te7G6YqwrsXF9Xxi4hlFndSJUMqIJwAxTj8Zr9uGJesSnY0MOnkCrCdyCxb-BYZ9HwdO7GbcN_3rk4Y-uV0Q",
+    "categories": [
+      "hypercasual"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "hypercasual",
+        "excerpt": "hyper casual",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 100,
+    "installEvidence": {
+      "minInstalls": 100,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.holificbytes.gunrunner&hl=en&gl=US",
+      "fetchedAt": "2026-10-23T02:23:59.810Z"
+    },
+    "id": "com.holificbytes.gunrunner",
+    "title": "Weapon Master Gun Clans 3D",
+    "subtitle": "Weapon runner shooter: offline gun clash game with fast upgrades and runs",
+    "description": "Weapon runner shooter: offline gun clash game with fast upgrades and runs",
+    "overviewEn": "Weapon runner shooter: offline gun clash game with fast upgrades and runs",
+    "genre": "Hypercasual",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "Runner",
+      "Tap gameplay"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "Runner",
+        "excerpt": "runner",
+        "basis": "Official developer gameplay text"
+      },
+      {
+        "tag": "Tap gameplay",
+        "excerpt": "tap to",
+        "basis": "Official developer gameplay text"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Awfully Good Games",
+    "ads": true,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.holificbytes.gunrunner&hl=en&gl=US",
+    "fetchedAt": "2026-10-23T02:23:59.810Z",
+    "sourceDate": "2026-10-23",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-05-18",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "May 18, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.holificbytes.gunrunner&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/GOd6XGBVE7ZqgwV8HN8zvgAlmhHFUNAFaP1vHmwseGjrLrNCAT_yr_AnO5eO907pwwj5nbPcsdBV5YUbU2S0qg",
+    "categories": [
+      "hypercasual"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "hypercasual",
+        "excerpt": "hypercasual",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 100,
+    "installEvidence": {
+      "minInstalls": 100,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.Ravion.ColorBurstEscape&hl=en&gl=US",
+      "fetchedAt": "2026-10-23T02:54:43.756Z"
+    },
+    "id": "com.Ravion.ColorBurstEscape",
+    "title": "Color Burst Escape",
+    "subtitle": "Match colors, move smart, and drop stickmen into the right holes!",
+    "description": "Match colors, move smart, and drop stickmen into the right holes!",
+    "overviewEn": "Match colors, move smart, and drop stickmen into the right holes!",
+    "genre": "Hypercasual",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Ravion Game Studios",
+    "ads": true,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.Ravion.ColorBurstEscape&hl=en&gl=US",
+    "fetchedAt": "2026-10-23T02:54:43.756Z",
+    "sourceDate": "2026-10-23",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-02-06",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Feb 6, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.Ravion.ColorBurstEscape&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/iVPwsY5iR_Px_PmsWnH3sLPFH8ST3QotR1Dh7XIaqzVa4pLG6VrWT0At9TbynPSmlxbIMKSHqYuuNHxUo70Snw",
+    "categories": [
+      "hypercasual"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "hypercasual",
+        "excerpt": "hyper-casual",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 10000,
+    "installEvidence": {
+      "minInstalls": 10000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.brightsapp.timerchallenge_android&hl=en&gl=US",
+      "fetchedAt": "2026-10-23T03:42:40.819Z"
+    },
+    "id": "com.brightsapp.timerchallenge_android",
+    "title": "Timer Challenge - Perfect Stop",
+    "subtitle": "Stop the timer at the perfect second! Test your reflexes & challenge friends",
+    "description": "Stop the timer at the perfect second! Test your reflexes & challenge friends",
+    "overviewEn": "Stop the timer at the perfect second! Test your reflexes & challenge friends",
+    "genre": "Hypercasual",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "In-app purchases"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "bright_apps",
+    "ads": true,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.brightsapp.timerchallenge_android&hl=en&gl=US",
+    "fetchedAt": "2026-10-23T03:42:40.819Z",
+    "sourceDate": "2026-10-23",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-05-31",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "May 31, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.brightsapp.timerchallenge_android&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/pfnyPSRtRrXYQng1GQoP1OsEU-yxSna49UBinfQv8WTz_u2Fjjx18or3ALqAC78NoMOtS62E6mTPwx0oNoRmmGc",
+    "categories": [
+      "hypercasual"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "hypercasual",
+        "excerpt": "hyper-casual",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 1000,
+    "installEvidence": {
+      "minInstalls": 1000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.gr.spring.spear.attack&hl=en&gl=US",
+      "fetchedAt": "2026-10-23T04:14:13.799Z"
+    },
+    "id": "com.gr.spring.spear.attack",
+    "title": "Spear Lancer : Aim & Smash",
+    "subtitle": "Aim throw and smash enemies with your spear in this fun ragdoll arcade challenge",
+    "description": "Aim throw and smash enemies with your spear in this fun ragdoll arcade challenge",
+    "overviewEn": "Aim throw and smash enemies with your spear in this fun ragdoll arcade challenge",
+    "genre": "Hypercasual",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "In-app purchases"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Game Reaper Studios",
+    "ads": true,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.gr.spring.spear.attack&hl=en&gl=US",
+    "fetchedAt": "2026-10-23T04:14:13.799Z",
+    "sourceDate": "2026-10-23",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2025-10-08",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Oct 8, 2025",
+      "url": "https://play.google.com/store/apps/details?id=com.gr.spring.spear.attack&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/h1WP-SuPA-m75Pn26e6lMdrRYhpcXmezu9eli8L-BJxaAJ1jgbgJnB_XOsKkszbIZ01CFnhIpBARdlm_gGep",
+    "categories": [
+      "hypercasual"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "hypercasual",
+        "excerpt": "Hyper-Casual",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 5000,
+    "installEvidence": {
+      "minInstalls": 5000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.loopingbee.tikgames&hl=en&gl=US",
+      "fetchedAt": "2026-10-23T04:14:19.150Z"
+    },
+    "id": "com.loopingbee.tikgames",
+    "title": "Swipe & Play: Mini Games",
+    "subtitle": "Instant mini-games in one feed: puzzles, arcade & brain games. Swipe to play!",
+    "description": "Instant mini-games in one feed: puzzles, arcade & brain games. Swipe to play!",
+    "overviewEn": "Instant mini-games in one feed: puzzles, arcade & brain games. Swipe to play!",
+    "genre": "Hypercasual",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "In-app purchases",
+      "Stacking",
+      "Sorting"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      },
+      {
+        "tag": "Stacking",
+        "excerpt": "stacking",
+        "basis": "Official developer gameplay text"
+      },
+      {
+        "tag": "Sorting",
+        "excerpt": "sorting",
+        "basis": "Official developer gameplay text"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "looping bee",
+    "ads": true,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.loopingbee.tikgames&hl=en&gl=US",
+    "fetchedAt": "2026-10-23T04:14:19.150Z",
+    "sourceDate": "2026-10-23",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2025-05-28",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "May 28, 2025",
+      "url": "https://play.google.com/store/apps/details?id=com.loopingbee.tikgames&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/zRreADYmCVju51VVUsJHQLgj2vbUM6ZlhqkQNfYqgDQLYFb3nwpG6cTafatUr0zK7gFIy0kwpDRxpObgVT5scQ",
+    "categories": [
+      "hypercasual"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "hypercasual",
+        "excerpt": "hyper-casual",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 100,
+    "installEvidence": {
+      "minInstalls": 100,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.gamesbyanant.anant&hl=en&gl=US",
+      "fetchedAt": "2026-10-23T04:14:23.169Z"
+    },
+    "id": "com.gamesbyanant.anant",
+    "title": "Swipe Gamer:Offline Fun Games",
+    "subtitle": "Games for action, brain, drone shooting, puzzles, racing, board, rider strike IQ",
+    "description": "Games for action, brain, drone shooting, puzzles, racing, board, rider strike IQ",
+    "overviewEn": "Games for action, brain, drone shooting, puzzles, racing, board, rider strike IQ",
+    "genre": "Hypercasual",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "In-app purchases",
+      "Runner"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      },
+      {
+        "tag": "Runner",
+        "excerpt": "Runner",
+        "basis": "Official developer gameplay text"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Bunni Production",
+    "ads": null,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.gamesbyanant.anant&hl=en&gl=US",
+    "fetchedAt": "2026-10-23T04:14:23.169Z",
+    "sourceDate": "2026-10-23",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-03-04",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Mar 4, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.gamesbyanant.anant&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/SJ4syUH_UvQm-DRHGqoK5NRYL9Dwo0VQUjgj6gLttACSkUXlerwE4xdcKNWdauvrs35g3ogglegE7jhgbKivH9k",
+    "categories": [
+      "hypercasual"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "hypercasual",
+        "excerpt": "Hypercasual",
+        "basis": "Official developer gameplay text"
+      }
+    ]
   }
 ]
