@@ -6471,6 +6471,76 @@
     ]
   },
   {
+    "minInstalls": 0,
+    "installEvidence": {
+      "minInstalls": 0,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.jump.jump.cube&hl=en&gl=US",
+      "fetchedAt": "2026-10-22T17:34:01.663Z"
+    },
+    "id": "com.jump.jump.cube",
+    "title": "Jump Jump – Cube Jump 3D",
+    "subtitle": "One finger. Jump between colorful 3D cubes. Beat your best score!",
+    "description": "One finger. Jump between colorful 3D cubes. Beat your best score!",
+    "overviewEn": "One finger. Jump between colorful 3D cubes. Beat your best score!",
+    "genre": "Hypercasual",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Tap gameplay"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Tap gameplay",
+        "excerpt": "one-tap",
+        "basis": "Official developer gameplay text"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "XiaoMelody",
+    "ads": null,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.jump.jump.cube&hl=en&gl=US",
+    "fetchedAt": "2026-10-22T17:34:01.663Z",
+    "sourceDate": "2026-10-22",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-10-18",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Oct 18, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.jump.jump.cube&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/B-UWVmZz-bg1fg5RhMSbfhe1TXwhsKzBdI673lg0_mdbO2fFmY4j9Tk46fMCy1F79nNsexTCjCEA6xBYHaKkhnQ",
+    "categories": [
+      "hypercasual"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "hypercasual",
+        "excerpt": "hyper-casual",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
     "minInstalls": 5,
     "installEvidence": {
       "minInstalls": 5,
@@ -9004,6 +9074,88 @@
     ]
   },
   {
+    "minInstalls": 1,
+    "installEvidence": {
+      "minInstalls": 1,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.hypercasual.collection&hl=en&gl=US",
+      "fetchedAt": "2026-10-23T05:00:41.639Z"
+    },
+    "id": "com.hypercasual.collection",
+    "title": "Hyper Casual : Offline Games",
+    "subtitle": "One-tap arcade mini games in one app. Play without Wi-Fi, earn coins and skins.",
+    "description": "One-tap arcade mini games in one app. Play without Wi-Fi, earn coins and skins.",
+    "overviewEn": "One-tap arcade mini games in one app. Play without Wi-Fi, earn coins and skins.",
+    "genre": "Hypercasual",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "Stacking",
+      "Tap gameplay"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "Stacking",
+        "excerpt": "Stack",
+        "basis": "Official developer gameplay text"
+      },
+      {
+        "tag": "Tap gameplay",
+        "excerpt": "One-tap",
+        "basis": "Official developer gameplay text"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "ZGLab",
+    "ads": true,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.hypercasual.collection&hl=en&gl=US",
+    "fetchedAt": "2026-10-23T05:00:41.639Z",
+    "sourceDate": "2026-10-23",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-10-14",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Oct 14, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.hypercasual.collection&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/9ybl4oFooRamRFA8ammmQWfE6K19H4THYuOdFsbdHyVruBHAwWtcMfGXwqMH3x_b17jByI7dQeHfh3Wjl1HGFQ",
+    "categories": [
+      "hypercasual"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "hypercasual",
+        "excerpt": "Hyper Casual",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
     "minInstalls": 100,
     "installEvidence": {
       "minInstalls": 100,
@@ -9062,6 +9214,94 @@
     "catalog": "recent",
     "note": "Gameplay classification from official developer text; no independent playtest.",
     "iconSourceUrl": "https://play-lh.googleusercontent.com/rwK3-1Qv8hCSsZeCOC9X5N2lI6Uoobx22G46GOG90VE7bxwIzsBdNK8U6NVokyl2br47VvTIN82sQDblwbKKWg",
+    "categories": [
+      "hypercasual"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "hypercasual",
+        "excerpt": "hyper-casual",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 5000,
+    "installEvidence": {
+      "minInstalls": 5000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.funkidgamers.rollingballcityrun&hl=en&gl=US",
+      "fetchedAt": "2026-10-23T10:29:46.134Z"
+    },
+    "id": "com.funkidgamers.rollingballcityrun",
+    "title": "Classic Rolling Ball",
+    "subtitle": "Roll fast, dodge traps & unlock cool hats, trails, wings, and companions!",
+    "description": "Roll fast, dodge traps & unlock cool hats, trails, wings, and companions!",
+    "overviewEn": "Roll fast, dodge traps & unlock cool hats, trails, wings, and companions!",
+    "genre": "Hypercasual",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "In-app purchases",
+      "Runner",
+      "Physics puzzle"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      },
+      {
+        "tag": "Runner",
+        "excerpt": "runner",
+        "basis": "Official developer gameplay text"
+      },
+      {
+        "tag": "Physics puzzle",
+        "excerpt": "physics-based",
+        "basis": "Official developer gameplay text"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "FunKid Gamers",
+    "ads": true,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.funkidgamers.rollingballcityrun&hl=en&gl=US",
+    "fetchedAt": "2026-10-23T10:29:46.134Z",
+    "sourceDate": "2026-10-23",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2025-07-13",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Jul 13, 2025",
+      "url": "https://play.google.com/store/apps/details?id=com.funkidgamers.rollingballcityrun&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/c7j4SeV_SgQTFKGM54ch12Sjl2ByYBS2vV-Jak9QJDGnPHCmNm5N3XAhmXBiTSFNdd-hL043rQY52Vy9y5JDnw",
     "categories": [
       "hypercasual"
     ],
