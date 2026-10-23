@@ -60,6 +60,60 @@
     "iconSourceUrl": "https://play-lh.googleusercontent.com/4H9Ukne-bYf7jWFSUvhzmHabjJU23zchMzn6sbPTpzviLT1OwcneP5aKLbXL-mkXrCfr3jJ9waom29PC28kKlQ"
   },
   {
+    "minInstalls": 0,
+    "installEvidence": {
+      "minInstalls": 0,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.zw.openwars&hl=en&gl=US",
+      "fetchedAt": "2026-10-23T18:38:47.224Z"
+    },
+    "id": "com.zw.openwars",
+    "title": "Superpowers at War",
+    "subtitle": "Conquer territory, build your army, and turn the tide with powerful strikes.",
+    "description": "Conquer territory, build your army, and turn the tide with powerful strikes.",
+    "overviewEn": "Conquer territory, build your army, and turn the tide with powerful strikes.",
+    "genre": "Strategy",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Zillion Whales HQ",
+    "ads": null,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.zw.openwars&hl=en&gl=US",
+    "fetchedAt": "2026-10-23T18:38:47.224Z",
+    "sourceDate": "2026-10-23",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-10-19",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Oct 19, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.zw.openwars&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/p5U975KZEIu1TcysnjQzNgx9AQ0A--xw6heddcknGPuKf4vXMhqwDzjg12d6aRdJCZ2JBVGxAavHOoD1vdQdtQ"
+  },
+  {
     "minInstalls": 1,
     "installEvidence": {
       "minInstalls": 1,
@@ -790,6 +844,60 @@
     "catalog": "recent",
     "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
     "iconSourceUrl": "https://play-lh.googleusercontent.com/BSfuFfvDnHhGTdULjj6h14AUnJOZaQoNJu_Yzrnc6tAZC6B13WZf6xC6LT0Ky2HJ3JlFutD2JJHw_LLMk_AV9w"
+  },
+  {
+    "minInstalls": 1,
+    "installEvidence": {
+      "minInstalls": 1,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.orqa.shadowprotocol&hl=en&gl=US",
+      "fetchedAt": "2026-10-23T17:10:14.341Z"
+    },
+    "id": "com.orqa.shadowprotocol",
+    "title": "Shadow Protocol: Signal Lost",
+    "subtitle": "Neo-noir spy visual novel. Solve the puzzles. Find Jiwon. Trust no feed.",
+    "description": "Neo-noir spy visual novel. Solve the puzzles. Find Jiwon. Trust no feed.",
+    "overviewEn": "Neo-noir spy visual novel. Solve the puzzles. Find Jiwon. Trust no feed.",
+    "genre": "Strategy",
+    "world": "",
+    "tags": [
+      "Paid download",
+      "Android"
+    ],
+    "evidence": [
+      {
+        "tag": "Paid download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0.33"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      }
+    ],
+    "price": "Paid download",
+    "priceValue": 0.33,
+    "priceCurrency": "USD",
+    "priceDisplay": "US$0.33",
+    "developer": "Early Phantasm",
+    "ads": null,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.orqa.shadowprotocol&hl=en&gl=US",
+    "fetchedAt": "2026-10-23T17:10:14.341Z",
+    "sourceDate": "2026-10-23",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-10-08",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Oct 8, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.orqa.shadowprotocol&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/IbYGSXH23Zl9_NVOmL3W2CC0XMareJ1D-QoqWWKCnP6PX1e_Yd3w-tFn0gwWUVXXxbv-458YIOf32paLudojvfU"
   },
   {
     "minInstalls": 1,
@@ -1900,6 +2008,60 @@
     "catalog": "recent",
     "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
     "iconSourceUrl": "https://play-lh.googleusercontent.com/EXAJoSjT7ZskSzgX39PB9kC_jng0Frgj7fXcUOqRnSX8A6hQrRBl1fHMtcHYBFzGOrTew5kxyfltOti-ZPTsOg"
+  },
+  {
+    "minInstalls": 50,
+    "installEvidence": {
+      "minInstalls": 50,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.cata.ageofcar&hl=en&gl=US",
+      "fetchedAt": "2026-10-23T17:09:14.403Z"
+    },
+    "id": "com.cata.ageofcar",
+    "title": "Age of Car",
+    "subtitle": "Evolve your car, crush enemy waves, and conquer three ages of battle!",
+    "description": "Evolve your car, crush enemy waves, and conquer three ages of battle!",
+    "overviewEn": "Evolve your car, crush enemy waves, and conquer three ages of battle!",
+    "genre": "Strategy",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Cata Game Studios",
+    "ads": null,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.cata.ageofcar&hl=en&gl=US",
+    "fetchedAt": "2026-10-23T17:09:14.403Z",
+    "sourceDate": "2026-10-23",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-10-02",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Oct 2, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.cata.ageofcar&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/lAS6S4wFlpxDZMrFnxqhYoEVdZgDOMbkNcA_sqV_xzwh9tyRIPPKJqgUlgLIi4OtBiYJdutLTsA28iH1ddhD"
   },
   {
     "minInstalls": 1000,
@@ -5548,6 +5710,72 @@
     "catalog": "recent",
     "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
     "iconSourceUrl": "https://play-lh.googleusercontent.com/xwDzlDvyX4r8aia-c_jZlGUB_ieFHGXP7oOtk_QyOYYU9oZ9ZN-g_oO2gV2zgXLiMI82BPm4P8ogn3zey6QySyw"
+  },
+  {
+    "minInstalls": 500,
+    "installEvidence": {
+      "minInstalls": 500,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.gulfgames.bonehenge&hl=en&gl=US",
+      "fetchedAt": "2026-10-23T18:09:51.886Z"
+    },
+    "id": "com.gulfgames.bonehenge",
+    "title": "Bonehenge: Zombie Defense",
+    "subtitle": "Zombie tower defense! Build bone towers & survive waves of hunters.",
+    "description": "Zombie tower defense! Build bone towers & survive waves of hunters.",
+    "overviewEn": "Zombie tower defense! Build bone towers & survive waves of hunters.",
+    "genre": "Tower defense",
+    "world": "",
+    "tags": [
+      "Tower defense",
+      "Free download",
+      "Android",
+      "In-app purchases"
+    ],
+    "evidence": [
+      {
+        "tag": "Tower defense",
+        "basis": "Developer summary keyword mapping",
+        "excerpt": "Zombie tower defense! Build bone towers &amp; survive waves of hunters."
+      },
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "GULF SOFT AND APP DESIGNER FZE",
+    "ads": null,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.gulfgames.bonehenge&hl=en&gl=US",
+    "fetchedAt": "2026-10-23T18:09:51.886Z",
+    "sourceDate": "2026-10-23",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-09-16",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Sep 16, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.gulfgames.bonehenge&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/k8ozSsuxC1rtMfKlazkyk5-tcGfO26eyAC4J4_c-3b4hpKKCKG4HIxczmIUAtWMwqvQM4msa3maxn8XLFZr0CQ"
   },
   {
     "minInstalls": 50,
@@ -12132,6 +12360,66 @@
     "iconSourceUrl": "https://play-lh.googleusercontent.com/6MKEHjDqSXI87YCORiOMySllCtYoNIfSoNetg3dCmBV7BYhVLmN4H15YljR51PY_QxsukrP2qD9-y1UkGMb3QLE"
   },
   {
+    "minInstalls": 50,
+    "installEvidence": {
+      "minInstalls": 50,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.etg.lod&hl=en&gl=US",
+      "fetchedAt": "2026-10-23T21:58:47.489Z"
+    },
+    "id": "com.etg.lod",
+    "title": "Legacy of Defense",
+    "subtitle": "Combines defense with deck-building.",
+    "description": "Combines defense with deck-building.",
+    "overviewEn": "Combines defense with deck-building.",
+    "genre": "Strategy",
+    "world": "",
+    "tags": [
+      "Paid download",
+      "Android",
+      "In-app purchases"
+    ],
+    "evidence": [
+      {
+        "tag": "Paid download",
+        "basis": "Google Play price",
+        "excerpt": "USD 7.99"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      }
+    ],
+    "price": "Paid download",
+    "priceValue": 7.99,
+    "priceCurrency": "USD",
+    "priceDisplay": "US$7.99",
+    "developer": "EntertheGame",
+    "ads": null,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.etg.lod&hl=en&gl=US",
+    "fetchedAt": "2026-10-23T21:58:47.489Z",
+    "sourceDate": "2026-10-23",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-08-12",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Aug 12, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.etg.lod&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/pDCYTJVTfnU-Fopyl8FAJmjVXko8UyZI5dOVsAcVdABLdBtKXsqzHh8164oQ4sNzyXFH-0baqqNs_bJF0MCXfrk"
+  },
+  {
     "minInstalls": 10,
     "installEvidence": {
       "minInstalls": 10,
@@ -13252,6 +13540,66 @@
     "catalog": "recent",
     "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
     "iconSourceUrl": "https://play-lh.googleusercontent.com/lfJ3WQY9WPsZ4iljjWTYYocRXjYtLB0ZGhBCf5PcmnvDkVAOJGg9D3ihHggU8fDYrf4vVPUZ995XP02nKP-hgp8"
+  },
+  {
+    "minInstalls": 50,
+    "installEvidence": {
+      "minInstalls": 50,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.nextgame.summon.arena.last.battle&hl=en&gl=US",
+      "fetchedAt": "2026-10-23T19:39:59.415Z"
+    },
+    "id": "com.nextgame.summon.arena.last.battle",
+    "title": "Summon Arena: Last Battle",
+    "subtitle": "Welcome to Summon Arena: Last Battle",
+    "description": "Welcome to Summon Arena: Last Battle",
+    "overviewEn": "Welcome to Summon Arena: Last Battle",
+    "genre": "Strategy",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Green Knights",
+    "ads": true,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.nextgame.summon.arena.last.battle&hl=en&gl=US",
+    "fetchedAt": "2026-10-23T19:39:59.415Z",
+    "sourceDate": "2026-10-23",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-08-06",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Aug 6, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.nextgame.summon.arena.last.battle&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/q9keLUNno_IQh4naTqunURPoMAEhSPdqyTKR8fqwNx5CIy_ldzV_LpqcvJlXsnheZXhdaXt57F2eh21dghMuEw"
   },
   {
     "minInstalls": 100,
@@ -14886,6 +15234,60 @@
     "iconSourceUrl": "https://play-lh.googleusercontent.com/Vzqu4Ud8WLPk9yVYOqLthcI_7sVxwj7Kxo1A7UkkwzsDmT4UE82rnbX_JP_vHPT49pyQJD-WJHI-m6ibwRNg"
   },
   {
+    "minInstalls": 1,
+    "installEvidence": {
+      "minInstalls": 1,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=myrathorium.breach.wars.puzzle&hl=en&gl=US",
+      "fetchedAt": "2026-10-23T15:54:26.238Z"
+    },
+    "id": "myrathorium.breach.wars.puzzle",
+    "title": "Breach: Tactical Front",
+    "subtitle": "Medieval lane strategy! Deploy units, use catapults, and breach enemy lines!.",
+    "description": "Medieval lane strategy! Deploy units, use catapults, and breach enemy lines!.",
+    "overviewEn": "Medieval lane strategy! Deploy units, use catapults, and breach enemy lines!.",
+    "genre": "Strategy",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Myrathorium",
+    "ads": null,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=myrathorium.breach.wars.puzzle&hl=en&gl=US",
+    "fetchedAt": "2026-10-23T15:54:26.238Z",
+    "sourceDate": "2026-10-23",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-07-27",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Jul 27, 2026",
+      "url": "https://play.google.com/store/apps/details?id=myrathorium.breach.wars.puzzle&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/W0ygmd2dAfHOMqy6sEx40fQknWhfUsk1W7FxI220qHtH5CpEjPHKa17U1k50d9ke53VxKyABVmC2q_6begNf"
+  },
+  {
     "minInstalls": 10,
     "installEvidence": {
       "minInstalls": 10,
@@ -15490,6 +15892,126 @@
     "catalog": "recent",
     "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
     "iconSourceUrl": "https://play-lh.googleusercontent.com/xQCFYsA25MWSB6bYojECk4ylQxN-ylE_oexYaeGwZKJLax2N_x7sAKWQKgRCgibGJkxeV9QRADIJdSrDHi9mDPE"
+  },
+  {
+    "minInstalls": 1000,
+    "installEvidence": {
+      "minInstalls": 1000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.utkuyuksel.mememonsterdefense&hl=en&gl=US",
+      "fetchedAt": "2026-10-23T21:58:45.931Z"
+    },
+    "id": "com.utkuyuksel.mememonsterdefense",
+    "title": "Meme Monster: Tower Defense",
+    "subtitle": "Build towers, stop meme monsters, and survive every wave!",
+    "description": "Build towers, stop meme monsters, and survive every wave!",
+    "overviewEn": "Build towers, stop meme monsters, and survive every wave!",
+    "genre": "Strategy",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Yuksel Software",
+    "ads": true,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.utkuyuksel.mememonsterdefense&hl=en&gl=US",
+    "fetchedAt": "2026-10-23T21:58:45.931Z",
+    "sourceDate": "2026-10-23",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-07-26",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Jul 26, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.utkuyuksel.mememonsterdefense&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/QtU2sHD_SzF-Fx3G6sa9BV7qKG85q_orHy6rMuIKM028RL2zjPGuaJhLuLnXGGO_Gujsz0vVdI-STlOqKakm"
+  },
+  {
+    "minInstalls": 10000,
+    "installEvidence": {
+      "minInstalls": 10000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.battleofdots&hl=en&gl=US",
+      "fetchedAt": "2026-10-23T15:54:15.433Z"
+    },
+    "id": "com.battleofdots",
+    "title": "Battle Of Dots: Last Stand",
+    "subtitle": "Command armies of dots in fast-paced real-time tactical battles.",
+    "description": "Command armies of dots in fast-paced real-time tactical battles.",
+    "overviewEn": "Command armies of dots in fast-paced real-time tactical battles.",
+    "genre": "Real-time",
+    "world": "",
+    "tags": [
+      "Real-time",
+      "Free download",
+      "Android"
+    ],
+    "evidence": [
+      {
+        "tag": "Real-time",
+        "basis": "Developer summary keyword mapping",
+        "excerpt": "Command armies of dots in fast-paced real-time tactical battles."
+      },
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "TempFiber",
+    "ads": null,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.battleofdots&hl=en&gl=US",
+    "fetchedAt": "2026-10-23T15:54:15.433Z",
+    "sourceDate": "2026-10-23",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-07-25",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Jul 25, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.battleofdots&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/KaAbEK_MKHWT0NOVjDX4A501lu-MUEDgnD3vcD4HZsXZYPu7ogmMjBZPQxcKxP0E77pKU7IGJyYO2YglBb81Rg"
   },
   {
     "minInstalls": 100000,
@@ -16546,6 +17068,78 @@
     "catalog": "recent",
     "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
     "iconSourceUrl": "https://play-lh.googleusercontent.com/ZzWBe6oaQPx9XEOEcZ1I5OqG2xUdpbducdP5UFSlmByCuX4VLX20ErNMWUjFZUryG8Jwor3TDsL3b77td53p"
+  },
+  {
+    "minInstalls": 500,
+    "installEvidence": {
+      "minInstalls": 500,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.bitwise.sea_battle_nations&hl=en&gl=US",
+      "fetchedAt": "2026-10-23T15:53:54.729Z"
+    },
+    "id": "com.bitwise.sea_battle_nations",
+    "title": "Sea Battle: Warship Online",
+    "subtitle": "Classic naval grid combat. Sink enemy fleets in real-time online PvP!",
+    "description": "Classic naval grid combat. Sink enemy fleets in real-time online PvP!",
+    "overviewEn": "Classic naval grid combat. Sink enemy fleets in real-time online PvP!",
+    "genre": "Real-time",
+    "world": "",
+    "tags": [
+      "Real-time",
+      "Free download",
+      "Android",
+      "Contains ads",
+      "In-app purchases"
+    ],
+    "evidence": [
+      {
+        "tag": "Real-time",
+        "basis": "Developer summary keyword mapping",
+        "excerpt": "Classic naval grid combat. Sink enemy fleets in real-time online PvP!"
+      },
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Bitwise Tech",
+    "ads": true,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.bitwise.sea_battle_nations&hl=en&gl=US",
+    "fetchedAt": "2026-10-23T15:53:54.729Z",
+    "sourceDate": "2026-10-23",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-07-18",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Jul 18, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.bitwise.sea_battle_nations&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/hYI8IHJdMn8MYrAo-TNAr8p0L_wavbn4AwYFpCDJ17mQrdyr8HAU54tzUlw7MwnF5CpQk2RRsf9vI4jBqj-anw"
   },
   {
     "minInstalls": 500,
@@ -23040,6 +23634,78 @@
     "iconSourceUrl": "https://play-lh.googleusercontent.com/w9QW0kJ_e7i66KC42K3abDylxXwURoOhPL6W6XY38fUOgoEtx6DhechRKJPL9NCqelA5IQYNAw_YGLL9DdJffA"
   },
   {
+    "minInstalls": 100000,
+    "installEvidence": {
+      "minInstalls": 100000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.n2pge.ws&hl=en&gl=US",
+      "fetchedAt": "2026-10-23T16:53:55.893Z"
+    },
+    "id": "com.n2pge.ws",
+    "title": "War Steel",
+    "subtitle": "Lead your army in a war-torn world of strategy, tactics, and real-time combat.",
+    "description": "Lead your army in a war-torn world of strategy, tactics, and real-time combat.",
+    "overviewEn": "Lead your army in a war-torn world of strategy, tactics, and real-time combat.",
+    "genre": "Real-time",
+    "world": "",
+    "tags": [
+      "Real-time",
+      "Free download",
+      "Android",
+      "Contains ads",
+      "In-app purchases"
+    ],
+    "evidence": [
+      {
+        "tag": "Real-time",
+        "basis": "Developer summary keyword mapping",
+        "excerpt": "Lead your army in a war-torn world of strategy, tactics, and real-time combat."
+      },
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Now to Play Game Entertainment S.L.",
+    "ads": true,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.n2pge.ws&hl=en&gl=US",
+    "fetchedAt": "2026-10-23T16:53:55.893Z",
+    "sourceDate": "2026-10-23",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-06-09",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Jun 9, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.n2pge.ws&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/-A9R7QCtl8Tga2oopafgaGW_f9uzXc7UEYyHlB8AQYyeIjw0kyR5vuVWbe__z-ldJ7fJnm4YJZT7ZH7PduBqTjo"
+  },
+  {
     "minInstalls": 10,
     "installEvidence": {
       "minInstalls": 10,
@@ -23152,6 +23818,66 @@
     "catalog": "recent",
     "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
     "iconSourceUrl": "https://play-lh.googleusercontent.com/zxhHa0BHVvDFvDH5sSk4YtnUC5gYLM6bCpYtufxuaxKHs_9ZM9u0qQWzruPqF2qWMl_Ep-i0hSxLpNKz9_-7Zww"
+  },
+  {
+    "minInstalls": 100,
+    "installEvidence": {
+      "minInstalls": 100,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.terraclast&hl=en&gl=US",
+      "fetchedAt": "2026-10-23T18:38:19.817Z"
+    },
+    "id": "com.terraclast",
+    "title": "Terraclast: GPS Strategy MMO",
+    "subtitle": "Conquer real streets. Claim territory, build towers, fight for your city.",
+    "description": "Conquer real streets. Claim territory, build towers, fight for your city.",
+    "overviewEn": "Conquer real streets. Claim territory, build towers, fight for your city.",
+    "genre": "Strategy",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Radek Mezulanik",
+    "ads": true,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.terraclast&hl=en&gl=US",
+    "fetchedAt": "2026-10-23T18:38:19.817Z",
+    "sourceDate": "2026-10-23",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-06-08",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Jun 8, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.terraclast&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/jKDkZcxmDTsqv68slutYALzAJXYQzgHFHlUJjLo7fFCdM8cM1VIGJqCxhZfHjkwsiRJClrjZvEJab1pMGjjXtg"
   },
   {
     "minInstalls": 10000,
@@ -24760,6 +25486,72 @@
     "catalog": "recent",
     "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
     "iconSourceUrl": "https://play-lh.googleusercontent.com/PVjhfkgTpWE7BzRyqdI26GvZSrD1TAN55POLKYtY7OjG3Sm7MDvpgYsnqpltRY8wIGtqXF9-KIEPIyybgSiAQQ"
+  },
+  {
+    "minInstalls": 100000,
+    "installEvidence": {
+      "minInstalls": 100000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.motor.capital&hl=en&gl=US",
+      "fetchedAt": "2026-10-23T17:26:21.375Z"
+    },
+    "id": "com.motor.capital",
+    "title": "Motor Capital",
+    "subtitle": "A premier car company tycoon! Build your auto services empire in Motor Town.",
+    "description": "A premier car company tycoon! Build your auto services empire in Motor Town.",
+    "overviewEn": "A premier car company tycoon! Build your auto services empire in Motor Town.",
+    "genre": "Strategy",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "In-app purchases"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "24 HIT Riga SIA",
+    "ads": true,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.motor.capital&hl=en&gl=US",
+    "fetchedAt": "2026-10-23T17:26:21.375Z",
+    "sourceDate": "2026-10-23",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-05-29",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "May 29, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.motor.capital&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/MY7MQvETMbuvhA-Izn-9B4IUtF2qzXFP3whc6umtiy6oGhqE_vhftOJ5jipOkMKUk3ptMheZq4HkwjQkWvYHvw"
   },
   {
     "minInstalls": 100,
@@ -27024,6 +27816,66 @@
     "iconSourceUrl": "https://play-lh.googleusercontent.com/Ku6-XsE0sMeaGthQ2_NZXIgsnjVmvUcgmW5PPbwEuXJShrjhNeEQja0fndSNhv3O4g2IVAgjc-vX2T9m0nRT"
   },
   {
+    "minInstalls": 10000,
+    "installEvidence": {
+      "minInstalls": 10000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.cgff.horse.games.racing&hl=en&gl=US",
+      "fetchedAt": "2026-10-23T20:10:24.063Z"
+    },
+    "id": "com.cgff.horse.games.racing",
+    "title": "Horse Games: Horse Racing 3D",
+    "subtitle": "Manage horse ranch and train various horse breeds to become racing champions",
+    "description": "Manage horse ranch and train various horse breeds to become racing champions",
+    "overviewEn": "Manage horse ranch and train various horse breeds to become racing champions",
+    "genre": "Strategy",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Crazy Games To Play",
+    "ads": true,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.cgff.horse.games.racing&hl=en&gl=US",
+    "fetchedAt": "2026-10-23T20:10:24.063Z",
+    "sourceDate": "2026-10-23",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-05-13",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "May 13, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.cgff.horse.games.racing&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/24yEAeNSEkSlkpqxZ4dpb5Rzm9_lzje7H_7-8EqFSLGMlig9Deo2Uby88NvmXLut2fNnXZtKdHCRwd-iAPCzfA"
+  },
+  {
     "minInstalls": 1000000,
     "installEvidence": {
       "minInstalls": 1000000,
@@ -27346,6 +28198,66 @@
     "catalog": "recent",
     "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
     "iconSourceUrl": "https://play-lh.googleusercontent.com/eDxDLDvtKnt8J8kJOzKZ8hLeKSLEl1g441PSWpjpYeysZGJmd6jhOf8OoC24OBoO_CBXTVSC6z_lUOExr9zICg"
+  },
+  {
+    "minInstalls": 100,
+    "installEvidence": {
+      "minInstalls": 100,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.nextgame.royal.war.color.clash&hl=en&gl=US",
+      "fetchedAt": "2026-10-23T19:39:59.411Z"
+    },
+    "id": "com.nextgame.royal.war.color.clash",
+    "title": "Royal Wars: Color Clash",
+    "subtitle": "Welcome to Royal Wars: Color Clash",
+    "description": "Welcome to Royal Wars: Color Clash",
+    "overviewEn": "Welcome to Royal Wars: Color Clash",
+    "genre": "Strategy",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Green Knights",
+    "ads": true,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.nextgame.royal.war.color.clash&hl=en&gl=US",
+    "fetchedAt": "2026-10-23T19:39:59.411Z",
+    "sourceDate": "2026-10-23",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-05-08",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "May 8, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.nextgame.royal.war.color.clash&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/HfhRWy2rZu3P5RvFlxUtXfbNh7rdPa1GQ-UiHqdwc-pIz4NwORs1sHZLRHxIq49-0f9l6GMsw8HwLMXUVgJ2"
   },
   {
     "minInstalls": 10000,
@@ -29886,6 +30798,78 @@
     "iconSourceUrl": "https://play-lh.googleusercontent.com/O9h7rjnTEn_ogl5Gc3PbBqojw-QNYE4xcRin16h97jb3l5F43-YcwfPWoUdCZAby6UHkhx1rq6B8yC9Y_Okl"
   },
   {
+    "minInstalls": 100000,
+    "installEvidence": {
+      "minInstalls": 100000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.tree.hybrid.routedefense&hl=en&gl=US",
+      "fetchedAt": "2026-10-23T18:09:01.489Z"
+    },
+    "id": "com.tree.hybrid.routedefense",
+    "title": "Tile Wars TD",
+    "subtitle": "Expand the terrain with tactical choices and place towers! A unique strategy TD.",
+    "description": "Expand the terrain with tactical choices and place towers! A unique strategy TD.",
+    "overviewEn": "Expand the terrain with tactical choices and place towers! A unique strategy TD.",
+    "genre": "Tower defense",
+    "world": "",
+    "tags": [
+      "Tower defense",
+      "Free download",
+      "Android",
+      "Contains ads",
+      "In-app purchases"
+    ],
+    "evidence": [
+      {
+        "tag": "Tower defense",
+        "basis": "Developer summary keyword mapping",
+        "excerpt": "Expand the terrain with tactical choices and place towers! A unique strategy TD."
+      },
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "NEPTUNE(TREEPLLA)",
+    "ads": true,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.tree.hybrid.routedefense&hl=en&gl=US",
+    "fetchedAt": "2026-10-23T18:09:01.489Z",
+    "sourceDate": "2026-10-23",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-04-16",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Apr 16, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.tree.hybrid.routedefense&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/cyw4KouIof7iIRxzddJub4Uf7AOPi03QYu8o5nJ4ZhfVRljk1wlgcASYXXdIOAedLm80u_RtRcwIQR3iPt0p"
+  },
+  {
     "minInstalls": 50000,
     "installEvidence": {
       "minInstalls": 50000,
@@ -30252,6 +31236,66 @@
     "iconSourceUrl": "https://play-lh.googleusercontent.com/wwvhK3PrrthIzfOWY-ww8VkPqfp2ZRGeYQ2NKnIUYeLb0dG3V2lx6yfzxkkM78iBunc4344BiGVGoHeBxW9v"
   },
   {
+    "minInstalls": 10000,
+    "installEvidence": {
+      "minInstalls": 10000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.coe.global.gp&hl=en&gl=US",
+      "fetchedAt": "2026-10-23T23:00:08.666Z"
+    },
+    "id": "com.coe.global.gp",
+    "title": "Crusade of Empires",
+    "subtitle": "Build, command knights, and conquer the battlefield in this epic medieval SLG!",
+    "description": "Build, command knights, and conquer the battlefield in this epic medieval SLG!",
+    "overviewEn": "Build, command knights, and conquer the battlefield in this epic medieval SLG!",
+    "genre": "Strategy",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "In-app purchases"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Time Killers Studios",
+    "ads": null,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.coe.global.gp&hl=en&gl=US",
+    "fetchedAt": "2026-10-23T23:00:08.666Z",
+    "sourceDate": "2026-10-23",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-04-12",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Apr 12, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.coe.global.gp&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/vmMNXpURG_KkfZcDM_o7h6aoMyUodT3Vg5Uil_v43gTT5_d8TlgmGidbdKA6nDFl3OwMwTjecPcJ8ERdpRGykn4"
+  },
+  {
     "minInstalls": 5,
     "installEvidence": {
       "minInstalls": 5,
@@ -30388,6 +31432,72 @@
     "catalog": "recent",
     "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
     "iconSourceUrl": "https://play-lh.googleusercontent.com/FkUuBQIszXNmdYO0_qFpu1R8NCBPqrD3qG7nUNb-6c_xxz57w38coywOwQYY96DhuRVGykgM2d6mlr6sl-m4Ug"
+  },
+  {
+    "minInstalls": 500,
+    "installEvidence": {
+      "minInstalls": 500,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.shirokinstudio.area81&hl=en&gl=US",
+      "fetchedAt": "2026-10-23T18:38:41.249Z"
+    },
+    "id": "com.shirokinstudio.area81",
+    "title": "Area 81: Tower Defense",
+    "subtitle": "Defend Area 81 with towers, your drone, upgrades and alien waves.",
+    "description": "Defend Area 81 with towers, your drone, upgrades and alien waves.",
+    "overviewEn": "Defend Area 81 with towers, your drone, upgrades and alien waves.",
+    "genre": "Strategy",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "In-app purchases"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "ShiroKin Studio",
+    "ads": true,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.shirokinstudio.area81&hl=en&gl=US",
+    "fetchedAt": "2026-10-23T18:38:41.249Z",
+    "sourceDate": "2026-10-23",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-04-10",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Apr 10, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.shirokinstudio.area81&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/jpErztm07SZWH9WsQ733j0fDgPExOh2MTgA71o8abD7TLafgrZrrXydQe43KpiGM_61eUzOx25PbrvuZO1nn"
   },
   {
     "minInstalls": 5000,
@@ -32652,6 +33762,60 @@
     "iconSourceUrl": "https://play-lh.googleusercontent.com/diDqnOhEpzMFqYyf6mUlkvxCy9q75Att_iA8P13zYLbwXh_Ndy9p3C6JQ0S7rppWIqYmaVc_vPwB9s9DG8wQAHs"
   },
   {
+    "minInstalls": 100,
+    "installEvidence": {
+      "minInstalls": 100,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.nextgame.island.war.battle.clash&hl=en&gl=US",
+      "fetchedAt": "2026-10-23T19:39:38.674Z"
+    },
+    "id": "com.nextgame.island.war.battle.clash",
+    "title": "Islands War: Battle Clash",
+    "subtitle": "Welcome to Islands War: Battle Clash",
+    "description": "Welcome to Islands War: Battle Clash",
+    "overviewEn": "Welcome to Islands War: Battle Clash",
+    "genre": "Strategy",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Green Knights",
+    "ads": null,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.nextgame.island.war.battle.clash&hl=en&gl=US",
+    "fetchedAt": "2026-10-23T19:39:38.674Z",
+    "sourceDate": "2026-10-23",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-03-23",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Mar 23, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.nextgame.island.war.battle.clash&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/5bm1QOgBNVNtwh9XhgL6mauWkcmZk8D6QydHim5zgKDFRixxUDjPZXvSptPBgbsOT5CVbQo2V-4A5xEN8r8v1A"
+  },
+  {
     "minInstalls": 10000,
     "installEvidence": {
       "minInstalls": 10000,
@@ -33352,6 +34516,72 @@
     "catalog": "recent",
     "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
     "iconSourceUrl": "https://play-lh.googleusercontent.com/jDPXNhLaKMGsmVxKTI5p1B1db8tSAHLxbfIDVXqzur2lt3cwns7TqINYgbiJrghvyJtBXdi33vycJtu6v4qawg"
+  },
+  {
+    "minInstalls": 10000,
+    "installEvidence": {
+      "minInstalls": 10000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.evax.worldcitieswar&hl=en&gl=US",
+      "fetchedAt": "2026-10-23T22:29:43.820Z"
+    },
+    "id": "com.evax.worldcitieswar",
+    "title": "World Cities War",
+    "subtitle": "Conquer Real Cities. Build Your War Empire",
+    "description": "Conquer Real Cities. Build Your War Empire",
+    "overviewEn": "Conquer Real Cities. Build Your War Empire",
+    "genre": "Strategy",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "In-app purchases"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Evax",
+    "ads": true,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.evax.worldcitieswar&hl=en&gl=US",
+    "fetchedAt": "2026-10-23T22:29:43.820Z",
+    "sourceDate": "2026-10-23",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-03-16",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Mar 16, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.evax.worldcitieswar&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/tpMqm_eJiKR6Q2r4g0m5ZR4EV8OmIiZWIqUUvthC_yRA19SC7jajlmoigbSepd1sMQIOUIWJBcmilbwshg3J"
   },
   {
     "minInstalls": 5000,
@@ -35110,6 +36340,60 @@
     "catalog": "recent",
     "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
     "iconSourceUrl": "https://play-lh.googleusercontent.com/Yz2xvh2erBF8kufRDytzqORW2WcgE_21z2UCMXl5EmORENCUDifaOK-Yep3Wwi-McIAqkRrcMODUWRdSWo-NJRg"
+  },
+  {
+    "minInstalls": 10,
+    "installEvidence": {
+      "minInstalls": 10,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.twisted.graphen.pd&hl=en&gl=US",
+      "fetchedAt": "2026-10-23T15:23:39.977Z"
+    },
+    "id": "com.twisted.graphen.pd",
+    "title": "TwistedGraphen-pd",
+    "subtitle": "Two parties placing 24 colorful pawns on 24 hexagonal corners w\\o repetition",
+    "description": "Two parties placing 24 colorful pawns on 24 hexagonal corners w\\o repetition",
+    "overviewEn": "Two parties placing 24 colorful pawns on 24 hexagonal corners w\\o repetition",
+    "genre": "Strategy",
+    "world": "",
+    "tags": [
+      "Paid download",
+      "Android"
+    ],
+    "evidence": [
+      {
+        "tag": "Paid download",
+        "basis": "Google Play price",
+        "excerpt": "USD 1"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      }
+    ],
+    "price": "Paid download",
+    "priceValue": 1,
+    "priceCurrency": "USD",
+    "priceDisplay": "US$1.00",
+    "developer": "Mordechai Lando",
+    "ads": null,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.twisted.graphen.pd&hl=en&gl=US",
+    "fetchedAt": "2026-10-23T15:23:39.977Z",
+    "sourceDate": "2026-10-23",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-03-07",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Mar 7, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.twisted.graphen.pd&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/SDKjxbSvcui3fz_zp1SbBk1wKNbGhvVf_w9eBOoxV4Ck7Dxnm7VMmt6WA8_e6sCIqQc-e6nmGtcOUp-8hjxxaQ"
   },
   {
     "minInstalls": 10,
@@ -38296,6 +39580,60 @@
     "catalog": "recent",
     "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
     "iconSourceUrl": "https://play-lh.googleusercontent.com/FX4W5QJVWMznSEKdJjAs0MkTFbr_ST7Z1OH-NA9zkJpz6ZGdtP-I79LCci8WKbPao1DPxgkRVB9UJp7O10CsLos"
+  },
+  {
+    "minInstalls": 100,
+    "installEvidence": {
+      "minInstalls": 100,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.tricoding.AOBattleship&hl=en&gl=US",
+      "fetchedAt": "2026-10-23T15:54:09.418Z"
+    },
+    "id": "com.tricoding.AOBattleship",
+    "title": "Age of Battleships",
+    "subtitle": "3D adaptation of Battleship board game. Plan your strategy and sunk all ships",
+    "description": "3D adaptation of Battleship board game. Plan your strategy and sunk all ships",
+    "overviewEn": "3D adaptation of Battleship board game. Plan your strategy and sunk all ships",
+    "genre": "Strategy",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Tri Coding Studio",
+    "ads": null,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.tricoding.AOBattleship&hl=en&gl=US",
+    "fetchedAt": "2026-10-23T15:54:09.418Z",
+    "sourceDate": "2026-10-23",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-01-26",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Jan 26, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.tricoding.AOBattleship&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/84jY1hQuGfdF-37HyQSa_5fpegu7nl4By1bQinSw0Ma8NAo0rcE14S8AqTIBWr1hJam79uUNSDjwT6Oh811vlA"
   },
   {
     "minInstalls": 10000,
@@ -42768,6 +44106,66 @@
     "iconSourceUrl": "https://play-lh.googleusercontent.com/iMMYoCekw0T7QSu9fDaAlP1My6M-hUpT8qKBeJKzNO3G-9JAAssTmbruBXdcm9QMdjmZbficvkfBdZMs2WNxbjc"
   },
   {
+    "minInstalls": 5000,
+    "installEvidence": {
+      "minInstalls": 5000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.crunchyroll.gv.locksquest.game&hl=en&gl=US",
+      "fetchedAt": "2026-10-23T17:25:12.313Z"
+    },
+    "id": "com.crunchyroll.gv.locksquest.game",
+    "title": "Crunchyroll: Lock's Quest",
+    "subtitle": "Build Defenses and Battle in this isometric Action RPG / Defense hybrid.",
+    "description": "Build Defenses and Battle in this isometric Action RPG / Defense hybrid.",
+    "overviewEn": "Build Defenses and Battle in this isometric Action RPG / Defense hybrid.",
+    "genre": "Strategy",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "In-app purchases"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Crunchyroll, LLC",
+    "ads": null,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.crunchyroll.gv.locksquest.game&hl=en&gl=US",
+    "fetchedAt": "2026-10-23T17:25:12.313Z",
+    "sourceDate": "2026-10-23",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2025-12-03",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Dec 3, 2025",
+      "url": "https://play.google.com/store/apps/details?id=com.crunchyroll.gv.locksquest.game&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/TApyyzrurmpL1g0aSTRNPiOjGMXYgJfIWsEfIYZJmpGqGlYs7zaJ9eLzdzMHcWTfSSoqZ_REhpWxLKYxA6Iqg3k"
+  },
+  {
     "minInstalls": 50000,
     "installEvidence": {
       "minInstalls": 50000,
@@ -43626,6 +45024,132 @@
     "iconSourceUrl": "https://play-lh.googleusercontent.com/r_zx2yJMNU1z9dWmkgsvFwCPnOxaT4SbKLubKZxRhO_vLrSO0zD9jkVJRzeLdlxw7B8NOqVxGCcn0-tfJKyK"
   },
   {
+    "minInstalls": 1000,
+    "installEvidence": {
+      "minInstalls": 1000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.factorytycoongrid.commercialproject&hl=en&gl=US",
+      "fetchedAt": "2026-10-23T19:08:41.491Z"
+    },
+    "id": "com.factorytycoongrid.commercialproject",
+    "title": "Mega Factory Tycoon",
+    "subtitle": "From farm to factory, mine to market! Produce, trade, and build your fortune!",
+    "description": "From farm to factory, mine to market! Produce, trade, and build your fortune!",
+    "overviewEn": "From farm to factory, mine to market! Produce, trade, and build your fortune!",
+    "genre": "Strategy",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "In-app purchases"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Kulaksız App Geliştirme",
+    "ads": true,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.factorytycoongrid.commercialproject&hl=en&gl=US",
+    "fetchedAt": "2026-10-23T19:08:41.491Z",
+    "sourceDate": "2026-10-23",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2025-11-26",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Nov 26, 2025",
+      "url": "https://play.google.com/store/apps/details?id=com.factorytycoongrid.commercialproject&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/VPvH0aflGsXSWezz8FddcikxwUFZEf6bFmQACzjUrzmPV_fGVtrUv5td3GAQF6dinh5hkQT7pScswFyuWqS0ig"
+  },
+  {
+    "minInstalls": 10000,
+    "installEvidence": {
+      "minInstalls": 10000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.DoomsdaySurvivalTeam.game&hl=en&gl=US",
+      "fetchedAt": "2026-10-23T17:24:23.802Z"
+    },
+    "id": "com.DoomsdaySurvivalTeam.game",
+    "title": "Doomsday Survival Team",
+    "subtitle": "Zombie Slayer: Merge weapons & fight in cute clicker battles!",
+    "description": "Zombie Slayer: Merge weapons & fight in cute clicker battles!",
+    "overviewEn": "Zombie Slayer: Merge weapons & fight in cute clicker battles!",
+    "genre": "Strategy",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "PAYBOL TEKNOLOJİ VE DANIŞMANLIK A.Ş",
+    "ads": true,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.DoomsdaySurvivalTeam.game&hl=en&gl=US",
+    "fetchedAt": "2026-10-23T17:24:23.802Z",
+    "sourceDate": "2026-10-23",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2025-11-25",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Nov 25, 2025",
+      "url": "https://play.google.com/store/apps/details?id=com.DoomsdaySurvivalTeam.game&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/oHd_5FaX7js7wemRnIzRZ0OxpTc6uNbvUcldKd7I2ha5BBobN3tmouNx6R9kAe1iOAH6qyll2eELgr_S5QjW"
+  },
+  {
     "minInstalls": 100,
     "installEvidence": {
       "minInstalls": 100,
@@ -44464,6 +45988,66 @@
     "catalog": "recent",
     "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
     "iconSourceUrl": "https://play-lh.googleusercontent.com/WkiKXlxsph6vqYXzxP-JbvOTZ0wy0aY0pVxYXYb9tb3LDa64fDUqWKP_yNCewB7z4N6lsoGVZ31cIEzUJRJdVg"
+  },
+  {
+    "minInstalls": 10000,
+    "installEvidence": {
+      "minInstalls": 10000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.IWantToLive.game&hl=en&gl=US",
+      "fetchedAt": "2026-10-23T17:24:27.676Z"
+    },
+    "id": "com.IWantToLive.game",
+    "title": "I Want To Live",
+    "subtitle": "Stranded on a deserted island - survive using limited resources!",
+    "description": "Stranded on a deserted island - survive using limited resources!",
+    "overviewEn": "Stranded on a deserted island - survive using limited resources!",
+    "genre": "Strategy",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "PAYBOL TEKNOLOJİ VE DANIŞMANLIK A.Ş",
+    "ads": true,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.IWantToLive.game&hl=en&gl=US",
+    "fetchedAt": "2026-10-23T17:24:27.676Z",
+    "sourceDate": "2026-10-23",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2025-11-17",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Nov 17, 2025",
+      "url": "https://play.google.com/store/apps/details?id=com.IWantToLive.game&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/oNTEQ1V8oa_t3nO8gO54fMM8JriVWSRJhG5lsFmFMgVB1hPU1IXapVW0L0BZ0DI1dy0vZHVCBsUVlRSzdd5G"
   },
   {
     "minInstalls": 1000000,
@@ -48510,6 +50094,78 @@
     "iconSourceUrl": "https://play-lh.googleusercontent.com/Pc8EtL8N5XA-kltQpKzP1q8VQV8t_8uS9zdl74DFpAr69BybW04uk4DWfOiot9TNtu1JSjU-ZDYd1NgCg1vy"
   },
   {
+    "minInstalls": 100000,
+    "installEvidence": {
+      "minInstalls": 100000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.zillionwhales.wildwars&hl=en&gl=US",
+      "fetchedAt": "2026-10-23T18:38:24.757Z"
+    },
+    "id": "com.zillionwhales.wildwars",
+    "title": "Wild Forest",
+    "subtitle": "mobile real-time strategy game with player-versus-player (PvP) battles",
+    "description": "mobile real-time strategy game with player-versus-player (PvP) battles",
+    "overviewEn": "mobile real-time strategy game with player-versus-player (PvP) battles",
+    "genre": "Real-time",
+    "world": "",
+    "tags": [
+      "Multiplayer",
+      "Stylized",
+      "Real-time",
+      "Free download",
+      "Android"
+    ],
+    "evidence": [
+      {
+        "tag": "Multiplayer",
+        "basis": "Google Play category label mapping",
+        "excerpt": "Multiplayer"
+      },
+      {
+        "tag": "Stylized",
+        "basis": "Google Play category label mapping",
+        "excerpt": "Stylized"
+      },
+      {
+        "tag": "Real-time",
+        "basis": "Developer summary keyword mapping",
+        "excerpt": "mobile real-time strategy game with player-versus-player (PvP) battles"
+      },
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Zillion Whales HQ",
+    "ads": null,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.zillionwhales.wildwars&hl=en&gl=US",
+    "fetchedAt": "2026-10-23T18:38:24.757Z",
+    "sourceDate": "2026-10-23",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2025-10-03",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Oct 3, 2025",
+      "url": "https://play.google.com/store/apps/details?id=com.zillionwhales.wildwars&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/Do2WEdJirg8wjBGJEpVCj0sslCoAtvLWUSwHe8TPhoQg_TYfp7t3PV00PbP0ikEDv1ZpE1n_HWgh9s8wbVsfcQ"
+  },
+  {
     "minInstalls": 500,
     "installEvidence": {
       "minInstalls": 500,
@@ -51220,6 +52876,66 @@
     "catalog": "recent",
     "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
     "iconSourceUrl": "https://play-lh.googleusercontent.com/5aY_Cy_msfWxAQKP0c_naAtygZSCYaiLsrKRqv7AeBkLXCqEN637_jWgpmtVpvi26x_xbEA4u2QX1YC2hCitkY0"
+  },
+  {
+    "minInstalls": 50000,
+    "installEvidence": {
+      "minInstalls": 50000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.ntstudio.focus.tweak.lab&hl=en&gl=US",
+      "fetchedAt": "2026-10-23T17:09:02.870Z"
+    },
+    "id": "com.ntstudio.focus.tweak.lab",
+    "title": "Shadowkeep: Last Stand",
+    "subtitle": "Summon ancient magic to repel the night and protect your last shining bastion!",
+    "description": "Summon ancient magic to repel the night and protect your last shining bastion!",
+    "overviewEn": "Summon ancient magic to repel the night and protect your last shining bastion!",
+    "genre": "Strategy",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "In-app purchases"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "NT Studio Inc",
+    "ads": null,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.ntstudio.focus.tweak.lab&hl=en&gl=US",
+    "fetchedAt": "2026-10-23T17:09:02.870Z",
+    "sourceDate": "2026-10-23",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2025-08-16",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Aug 16, 2025",
+      "url": "https://play.google.com/store/apps/details?id=com.ntstudio.focus.tweak.lab&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/d9edZef_1500_HChHuWKJ2eM8Eycc_EwHWDM5P8HCdwXqku2Jj4LsGJKA727pKno8rG9W0i76vx4nIJOVU9iBw"
   },
   {
     "minInstalls": 500000,
@@ -55026,6 +56742,72 @@
     "iconSourceUrl": "https://play-lh.googleusercontent.com/HaGuu-1XA6n8tO4xoocpZaHQf-tw6RFwQNRBYig_dc7U2c5BT6VA3zsLQTUeEtUi-4TDEOTQTqnfhW3Ch4Q7"
   },
   {
+    "minInstalls": 10000,
+    "installEvidence": {
+      "minInstalls": 10000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.zhengdegames.warship&hl=en&gl=US",
+      "fetchedAt": "2026-10-23T15:53:50.292Z"
+    },
+    "id": "com.zhengdegames.warship",
+    "title": "Warship Clash",
+    "subtitle": "Gather your warships, conquer the oceans!",
+    "description": "Gather your warships, conquer the oceans!",
+    "overviewEn": "Gather your warships, conquer the oceans!",
+    "genre": "Strategy",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "In-app purchases"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "ZHENGDE GAMES",
+    "ads": true,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.zhengdegames.warship&hl=en&gl=US",
+    "fetchedAt": "2026-10-23T15:53:50.292Z",
+    "sourceDate": "2026-10-23",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2025-07-08",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Jul 8, 2025",
+      "url": "https://play.google.com/store/apps/details?id=com.zhengdegames.warship&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/9OPaMVTMHwZj4O-qzgtDHVjNciPoYDEMau-Fd2SInJtN55rztS5gV_Uiqa6tq6JyHRYaPv3AglJd7KWs4uYxvw"
+  },
+  {
     "minInstalls": 500,
     "installEvidence": {
       "minInstalls": 500,
@@ -55155,6 +56937,66 @@
     "minInstalls": 5000,
     "installEvidence": {
       "minInstalls": 5000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.googleplay.tos.frontline&hl=en&gl=US",
+      "fetchedAt": "2026-10-23T18:38:19.827Z"
+    },
+    "id": "com.googleplay.tos.frontline",
+    "title": "Tiles of Survive!",
+    "subtitle": "Your tale of survival begins here!",
+    "description": "Your tale of survival begins here!",
+    "overviewEn": "Your tale of survival begins here!",
+    "genre": "Strategy",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "In-app purchases"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "FRONTLINE HONG KONG LIMITED",
+    "ads": null,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.googleplay.tos.frontline&hl=en&gl=US",
+    "fetchedAt": "2026-10-23T18:38:19.827Z",
+    "sourceDate": "2026-10-23",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2025-07-03",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Jul 3, 2025",
+      "url": "https://play.google.com/store/apps/details?id=com.googleplay.tos.frontline&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/8mXO55Tt9AL2swFvU01y89OqeSW84mRqEjhuP4BIDBm1IzUbORj7kBFjUHEaQGyTHafOYP5tvutk7mI0xcBy3Q"
+  },
+  {
+    "minInstalls": 5000,
+    "installEvidence": {
+      "minInstalls": 5000,
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.TNTExplosionGames.TinyWarriors&hl=en&gl=US",
       "fetchedAt": "2026-10-12T16:56:20.648Z"
     },
@@ -55222,6 +57064,72 @@
     "catalog": "recent",
     "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
     "iconSourceUrl": "https://play-lh.googleusercontent.com/yZ1O9eNJgaOQyBzinbfPFtbj5gbRkPar5UA33QUP9es6eD4dv_SRycI2RXdi3v_JleiuXm54FsgGt6KO6hSGaw"
+  },
+  {
+    "minInstalls": 100000,
+    "installEvidence": {
+      "minInstalls": 100000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.vice.ventures&hl=en&gl=US",
+      "fetchedAt": "2026-10-23T17:26:37.107Z"
+    },
+    "id": "com.vice.ventures",
+    "title": "Vice Ventures: Idle Empire",
+    "subtitle": "Build your dream Miami city and earn idle income as it grows!",
+    "description": "Build your dream Miami city and earn idle income as it grows!",
+    "overviewEn": "Build your dream Miami city and earn idle income as it grows!",
+    "genre": "Strategy",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "In-app purchases"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "24 HIT Riga SIA",
+    "ads": true,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.vice.ventures&hl=en&gl=US",
+    "fetchedAt": "2026-10-23T17:26:37.107Z",
+    "sourceDate": "2026-10-23",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2025-07-02",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Jul 2, 2025",
+      "url": "https://play.google.com/store/apps/details?id=com.vice.ventures&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/WlqzxIavM1T98kIS20vyClX6ru0H9tvLvQWG02Lq6fuknZmTFjC5xw121j14elKkNKTYJOHXeFz-xSv6UtaGsQ"
   },
   {
     "minInstalls": 50000,
@@ -58912,6 +60820,66 @@
     "catalog": "recent",
     "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
     "iconSourceUrl": "https://play-lh.googleusercontent.com/IHuhqDcveGBG_WBnzOOU4nbN5VNWxYMKN3IYazdcRvc_9tdtvh6QKaOeJJI2D_fSjYpE544i5ZGScySLZmpMIQ"
+  },
+  {
+    "minInstalls": 10000,
+    "installEvidence": {
+      "minInstalls": 10000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.crunchyroll.gv.shogunshowdown.game&hl=en&gl=US",
+      "fetchedAt": "2026-10-23T17:25:02.079Z"
+    },
+    "id": "com.crunchyroll.gv.shogunshowdown.game",
+    "title": "Crunchyroll: Shogun Showdown",
+    "subtitle": "Master your strategy and rise as the ultimate shogun in the Shogun Showdown!",
+    "description": "Master your strategy and rise as the ultimate shogun in the Shogun Showdown!",
+    "overviewEn": "Master your strategy and rise as the ultimate shogun in the Shogun Showdown!",
+    "genre": "Strategy",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "In-app purchases"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Crunchyroll, LLC",
+    "ads": null,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.crunchyroll.gv.shogunshowdown.game&hl=en&gl=US",
+    "fetchedAt": "2026-10-23T17:25:02.079Z",
+    "sourceDate": "2026-10-23",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2025-04-30",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Apr 30, 2025",
+      "url": "https://play.google.com/store/apps/details?id=com.crunchyroll.gv.shogunshowdown.game&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/bbkombu3XiZoKVq41joxbAMgvP7Yisk5PFUrKXBOsWC1LFhGQ92r4vMNX6_SZEesSz4NJ3oD2Hezbr-B8cMUOw"
   },
   {
     "minInstalls": 500000,
@@ -69214,6 +71182,72 @@
     "catalog": "recent",
     "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
     "iconSourceUrl": "https://play-lh.googleusercontent.com/9MVyL22-Mph-eqHGwkeiRCBAlHl_Dr50GIQu4WpGi_0x5qcjm_ihIKwtb1xbBgy1hgbx5H4jEBKM0tfeV2_g7rc"
+  },
+  {
+    "minInstalls": 10000,
+    "installEvidence": {
+      "minInstalls": 10000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.supermarket.food.tycoon&hl=en&gl=US",
+      "fetchedAt": "2026-10-23T19:08:40.080Z"
+    },
+    "id": "com.supermarket.food.tycoon",
+    "title": "Factory & Market Tycoon",
+    "subtitle": "Manage a grocery, build a supermarket, farm and factory, and create own brand!",
+    "description": "Manage a grocery, build a supermarket, farm and factory, and create own brand!",
+    "overviewEn": "Manage a grocery, build a supermarket, farm and factory, and create own brand!",
+    "genre": "Strategy",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "In-app purchases"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Günel Yazılım",
+    "ads": true,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.supermarket.food.tycoon&hl=en&gl=US",
+    "fetchedAt": "2026-10-23T19:08:40.080Z",
+    "sourceDate": "2026-10-23",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2024-11-26",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Nov 26, 2024",
+      "url": "https://play.google.com/store/apps/details?id=com.supermarket.food.tycoon&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/m404Vjk9milKjWl90t_AuXF_9SXFRi7o8MWXcuT0os2LSFH_ddOPQR27oK8gmAKAeQ605UDP-r6fxbutkw6esA"
   },
   {
     "minInstalls": 1000000,
