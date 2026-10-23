@@ -1974,6 +1974,66 @@
     "iconSourceUrl": "https://play-lh.googleusercontent.com/69NA1HDNmso92w7llOBdoeH4QN4JmkPxqSqcLWpzL6A3hJ44afRA-zuv8oUnYEcA6Uq1geaDnnDV3ClKPk0uGlw"
   },
   {
+    "minInstalls": 500,
+    "installEvidence": {
+      "minInstalls": 500,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=io.adisoft.bugsquadtactics&hl=en&gl=US",
+      "fetchedAt": "2026-10-23T05:29:52.494Z"
+    },
+    "id": "io.adisoft.bugsquadtactics",
+    "title": "Bug Squad Tactics",
+    "subtitle": "Collect bugs, stack passives, auto-battle the frogs. A roguelike auto battler.",
+    "description": "Collect bugs, stack passives, auto-battle the frogs. A roguelike auto battler.",
+    "overviewEn": "Collect bugs, stack passives, auto-battle the frogs. A roguelike auto battler.",
+    "genre": "Strategy",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "In-app purchases"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Adisoft Gaming",
+    "ads": null,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=io.adisoft.bugsquadtactics&hl=en&gl=US",
+    "fetchedAt": "2026-10-23T05:29:52.494Z",
+    "sourceDate": "2026-10-23",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-09-30",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Sep 30, 2026",
+      "url": "https://play.google.com/store/apps/details?id=io.adisoft.bugsquadtactics&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/ULj82fanSS0g3UbicggTnBZbOIocgJIo8nSwQAXqVXX9TD1dImWUoG-2u7IoI_33mxuAuq_ZeosfY9TRqZekjx8"
+  },
+  {
     "minInstalls": 50000,
     "installEvidence": {
       "minInstalls": 50000,
@@ -5770,6 +5830,72 @@
     "catalog": "recent",
     "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
     "iconSourceUrl": "https://play-lh.googleusercontent.com/d612EvCSrspprmg6jvA6y8iqB1QI61skzdDiD8MewxgFmVYH9589Zd1do28lruD8EZb3VKNcSD_yyrPxTGfy"
+  },
+  {
+    "minInstalls": 100,
+    "installEvidence": {
+      "minInstalls": 100,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=io.adisoft.stickertactics&hl=en&gl=US",
+      "fetchedAt": "2026-10-23T05:30:00.297Z"
+    },
+    "id": "io.adisoft.stickertactics",
+    "title": "Sticker Tactics",
+    "subtitle": "Sticker Tactics: Cute Tower Defense! Equip stickers and power up your plushies!",
+    "description": "Sticker Tactics: Cute Tower Defense! Equip stickers and power up your plushies!",
+    "overviewEn": "Sticker Tactics: Cute Tower Defense! Equip stickers and power up your plushies!",
+    "genre": "Tower defense",
+    "world": "",
+    "tags": [
+      "Tower defense",
+      "Free download",
+      "Android",
+      "Contains ads"
+    ],
+    "evidence": [
+      {
+        "tag": "Tower defense",
+        "basis": "Developer summary keyword mapping",
+        "excerpt": "Sticker Tactics: Cute Tower Defense! Equip stickers and power up your plushies!"
+      },
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Adisoft Gaming",
+    "ads": true,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=io.adisoft.stickertactics&hl=en&gl=US",
+    "fetchedAt": "2026-10-23T05:30:00.297Z",
+    "sourceDate": "2026-10-23",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-09-13",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Sep 13, 2026",
+      "url": "https://play.google.com/store/apps/details?id=io.adisoft.stickertactics&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/uCwOvrkVvC4gV17uhP35EDThA4cpcPDQ_ZG75kFAjj47yIXtJL2vyN1ls3bZOVhXzjBH0TX-G3LATKvzDHessCQ"
   },
   {
     "minInstalls": 1000,
@@ -53392,6 +53518,66 @@
     "catalog": "recent",
     "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
     "iconSourceUrl": "https://play-lh.googleusercontent.com/EgiKownM4r4nICWKkMCucUSHRBG3ptqu2vQw1k710edB4CzhrfK0C2WOgdO0kwkFA59QIU4lCqAff6MsrQ0cbQ"
+  },
+  {
+    "minInstalls": 10000,
+    "installEvidence": {
+      "minInstalls": 10000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=io.adisoft.quantumwars&hl=en&gl=US",
+      "fetchedAt": "2026-10-23T05:30:03.636Z"
+    },
+    "id": "io.adisoft.quantumwars",
+    "title": "Quantum Wars: PvP Board Game",
+    "subtitle": "Roll dice, build your strategy deck, and battle worldwide in this PvP board game",
+    "description": "Roll dice, build your strategy deck, and battle worldwide in this PvP board game",
+    "overviewEn": "Roll dice, build your strategy deck, and battle worldwide in this PvP board game",
+    "genre": "Strategy",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "In-app purchases"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Adisoft Gaming",
+    "ads": null,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=io.adisoft.quantumwars&hl=en&gl=US",
+    "fetchedAt": "2026-10-23T05:30:03.636Z",
+    "sourceDate": "2026-10-23",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2025-07-08",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Jul 8, 2025",
+      "url": "https://play.google.com/store/apps/details?id=io.adisoft.quantumwars&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/HaGuu-1XA6n8tO4xoocpZaHQf-tw6RFwQNRBYig_dc7U2c5BT6VA3zsLQTUeEtUi-4TDEOTQTqnfhW3Ch4Q7"
   },
   {
     "minInstalls": 500,

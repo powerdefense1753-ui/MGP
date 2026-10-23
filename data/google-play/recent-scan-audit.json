@@ -4,21 +4,21 @@
     "to": "2026-10-12",
     "country": "US",
     "language": "en",
-    "candidates": 12655,
-    "checked": 14108,
-    "included": 1048,
+    "candidates": 12664,
+    "checked": 14125,
+    "included": 1051,
     "retainedOriginals": 11,
     "decisions": {
       "outside-window": 1422,
-      "included": 1046,
+      "included": 1049,
       "existing-curated": 11,
-      "not-strategy": 10024,
+      "not-strategy": 10030,
       "unknown-release": 134,
       "preregistration": 13,
       "fetch-failed": 5
     },
-    "discoveryQueries": 15555,
-    "completedAt": "2026-10-23T04:13:34.640Z",
+    "discoveryQueries": 15573,
+    "completedAt": "2026-10-23T05:30:07.199Z",
     "imageFailures": 0,
     "exhaustive": false,
     "method": "US-English public Google Play Strategy charts, keyword searches, recommendation links and developer catalogs; first release from Released on, not Updated on. Search and chart results are capped by Google Play. No claim of complete coverage."
@@ -77798,6 +77798,96 @@
       "key": "{\"type\":\"app\",\"id\":\"ai.agent1c.hitomi\"}",
       "count": 0,
       "fetchedAt": "2026-10-23T04:13:31.071Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.football.favorite\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-23T05:29:49.720Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.lindehammarkonsult.coachmate\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-23T05:29:49.733Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"eu.nordeus.topeleven.android\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-23T05:29:49.792Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.stratforge.mobile\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-23T05:29:52.487Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.ragnar.futactics.test\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-23T05:29:52.490Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"io.adisoft.bugsquadtactics\"}",
+      "count": 6,
+      "fetchedAt": "2026-10-23T05:29:52.495Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.teamtactics.byjohn\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-23T05:29:55.135Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.clansoft.tacticalpadintlite\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-23T05:29:55.208Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.bluelinden.coachboard\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-23T05:29:55.314Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"io.adisoft.mergemiko\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-23T05:29:57.640Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.adisoft.mindspell.mobile\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-23T05:29:57.999Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"io.adisoft.zooplp\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-23T05:29:58.006Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"io.adisoft.stickertactics\"}",
+      "count": 6,
+      "fetchedAt": "2026-10-23T05:30:00.298Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"io.adisoft.charonexpress\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-23T05:30:00.624Z"
+    },
+    {
+      "key": "{\"type\":\"developer\",\"id\":\"6965135026491423072\"}",
+      "count": 10,
+      "fetchedAt": "2026-10-23T05:30:00.626Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.ichigames.neonjump\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-23T05:30:03.496Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"com.adisoft.campfire\"}",
+      "count": 0,
+      "fetchedAt": "2026-10-23T05:30:03.631Z"
+    },
+    {
+      "key": "{\"type\":\"app\",\"id\":\"io.adisoft.quantumwars\"}",
+      "count": 12,
+      "fetchedAt": "2026-10-23T05:30:03.637Z"
     }
   ],
   "candidates": [
@@ -99109,7 +99199,10 @@
         "search:shape auto battler roguelite",
         "search:strategy castle roguelike 2026",
         "search:strategy card roguelite 2026",
-        "search:strategy artillery roguelike 2025"
+        "search:strategy artillery roguelike 2025",
+        "related:io.adisoft.bugsquadtactics",
+        "related:io.adisoft.stickertactics",
+        "developer:6965135026491423072"
       ]
     },
     {
@@ -111037,7 +111130,8 @@
         "related:spherestudios.spinheromobile",
         "related:ru.gamedevteam.wz",
         "related:com.huntedcow.thegreatwar",
-        "search:strategy undead kingdom 2026"
+        "search:strategy undead kingdom 2026",
+        "related:io.adisoft.quantumwars"
       ]
     },
     {
@@ -134521,7 +134615,8 @@
         "related:com.shg.sg433",
         "developer:sogetsu",
         "related:com.yuegame.hero",
-        "related:com.whaleplays.summonlord"
+        "related:com.whaleplays.summonlord",
+        "related:io.adisoft.quantumwars"
       ]
     },
     {
@@ -142467,7 +142562,8 @@
         "related:com.mobsmile.trapfortress",
         "related:hantro.tower.roguelike",
         "related:games.tower.defense",
-        "related:com.pocketarena.castledefense"
+        "related:com.pocketarena.castledefense",
+        "related:io.adisoft.quantumwars"
       ]
     },
     {
@@ -148547,7 +148643,8 @@
         "related:com.ingarturorejon.funguscleanup",
         "related:com.venturesis.miniclash",
         "related:com.mobsmile.trapfortress",
-        "related:co.hybridfun.grimoireup"
+        "related:co.hybridfun.grimoireup",
+        "related:io.adisoft.quantumwars"
       ]
     },
     {
@@ -203372,7 +203469,8 @@
         "related:com.featherweightgames.piratecards",
         "related:com.kingsbounty.turnbased.strategy.td",
         "related:com.mega.priate.dice.rpg",
-        "related:gg.reignoftitans"
+        "related:gg.reignoftitans",
+        "related:io.adisoft.quantumwars"
       ]
     },
     {
@@ -214977,7 +215075,8 @@
       "url": "https://play.google.com/store/apps/details?id=kemco.execreate.alphadiaoneandtwopremium&hl=en&gl=US",
       "discoveredVia": [
         "related:com.tinycell.zombiedefense",
-        "related:com.Fury.t.gp"
+        "related:com.Fury.t.gp",
+        "related:io.adisoft.quantumwars"
       ]
     },
     {
@@ -261248,6 +261347,130 @@
       "url": "https://play.google.com/store/apps/details?id=ai.agent1c.hitomi&hl=en&gl=US",
       "discoveredVia": [
         "developer:Agent1c.ai"
+      ]
+    },
+    {
+      "id": "com.adisoft.mindspell.mobile",
+      "title": "Mind Spell : Puzzle Games",
+      "decision": "not-strategy",
+      "released": "Oct 5, 2026",
+      "genre": "Puzzle",
+      "genreId": "GAME_PUZZLE",
+      "url": "https://play.google.com/store/apps/details?id=com.adisoft.mindspell.mobile&hl=en&gl=US",
+      "discoveredVia": [
+        "related:io.adisoft.bugsquadtactics",
+        "related:io.adisoft.stickertactics",
+        "developer:6965135026491423072",
+        "related:io.adisoft.quantumwars"
+      ]
+    },
+    {
+      "id": "io.adisoft.mergemiko",
+      "title": "Merge Miko: Spirit Rush",
+      "decision": "not-strategy",
+      "released": "Sep 23, 2026",
+      "genre": "Casual",
+      "genreId": "GAME_CASUAL",
+      "url": "https://play.google.com/store/apps/details?id=io.adisoft.mergemiko&hl=en&gl=US",
+      "discoveredVia": [
+        "related:io.adisoft.bugsquadtactics",
+        "related:io.adisoft.stickertactics",
+        "developer:6965135026491423072",
+        "related:io.adisoft.quantumwars"
+      ]
+    },
+    {
+      "id": "io.adisoft.zooplp",
+      "title": "Zoooo: Paw & Link Puzzle",
+      "decision": "not-strategy",
+      "released": "Sep 23, 2026",
+      "genre": "Puzzle",
+      "genreId": "GAME_PUZZLE",
+      "url": "https://play.google.com/store/apps/details?id=io.adisoft.zooplp&hl=en&gl=US",
+      "discoveredVia": [
+        "related:io.adisoft.bugsquadtactics",
+        "related:io.adisoft.stickertactics",
+        "developer:6965135026491423072",
+        "related:io.adisoft.quantumwars"
+      ]
+    },
+    {
+      "id": "io.adisoft.charonexpress",
+      "title": "Charon Express: Stack Runner",
+      "decision": "not-strategy",
+      "released": "Sep 22, 2026",
+      "genre": "Arcade",
+      "genreId": "GAME_ARCADE",
+      "url": "https://play.google.com/store/apps/details?id=io.adisoft.charonexpress&hl=en&gl=US",
+      "discoveredVia": [
+        "related:io.adisoft.bugsquadtactics",
+        "related:io.adisoft.stickertactics",
+        "developer:6965135026491423072",
+        "related:io.adisoft.quantumwars"
+      ]
+    },
+    {
+      "id": "io.adisoft.stickertactics",
+      "title": "Sticker Tactics",
+      "decision": "included",
+      "released": "Sep 13, 2026",
+      "genre": "Strategy",
+      "genreId": "GAME_STRATEGY",
+      "url": "https://play.google.com/store/apps/details?id=io.adisoft.stickertactics&hl=en&gl=US",
+      "discoveredVia": [
+        "related:io.adisoft.bugsquadtactics",
+        "developer:6965135026491423072",
+        "related:io.adisoft.quantumwars"
+      ]
+    },
+    {
+      "id": "io.adisoft.bugsquadtactics",
+      "title": "Bug Squad Tactics",
+      "decision": "included",
+      "released": "Sep 30, 2026",
+      "genre": "Strategy",
+      "genreId": "GAME_STRATEGY",
+      "url": "https://play.google.com/store/apps/details?id=io.adisoft.bugsquadtactics&hl=en&gl=US",
+      "discoveredVia": [
+        "related:io.adisoft.stickertactics",
+        "developer:6965135026491423072",
+        "related:io.adisoft.quantumwars"
+      ]
+    },
+    {
+      "id": "com.adisoft.campfire",
+      "title": "Monster Campfire: cooking game",
+      "decision": "not-strategy",
+      "released": "Sep 14, 2025",
+      "genre": "Role Playing",
+      "genreId": "GAME_ROLE_PLAYING",
+      "url": "https://play.google.com/store/apps/details?id=com.adisoft.campfire&hl=en&gl=US",
+      "discoveredVia": [
+        "developer:6965135026491423072"
+      ]
+    },
+    {
+      "id": "io.adisoft.quantumwars",
+      "title": "Quantum Wars: PvP Board Game",
+      "decision": "included",
+      "released": "Jul 8, 2025",
+      "genre": "Strategy",
+      "genreId": "GAME_STRATEGY",
+      "url": "https://play.google.com/store/apps/details?id=io.adisoft.quantumwars&hl=en&gl=US",
+      "discoveredVia": [
+        "developer:6965135026491423072"
+      ]
+    },
+    {
+      "id": "com.ichigames.neonjump",
+      "title": "NeonJump!!",
+      "decision": "not-strategy",
+      "released": "May 30, 2025",
+      "genre": "Casual",
+      "genreId": "GAME_CASUAL",
+      "url": "https://play.google.com/store/apps/details?id=com.ichigames.neonjump&hl=en&gl=US",
+      "discoveredVia": [
+        "developer:6965135026491423072"
       ]
     }
   ],

@@ -5898,5 +5898,40 @@
       "localPath": "https://play-lh.googleusercontent.com/SJ4syUH_UvQm-DRHGqoK5NRYL9Dwo0VQUjgj6gLttACSkUXlerwE4xdcKNWdauvrs35g3ogglegE7jhgbKivH9k",
       "sourceUrl": "https://play-lh.googleusercontent.com/SJ4syUH_UvQm-DRHGqoK5NRYL9Dwo0VQUjgj6gLttACSkUXlerwE4xdcKNWdauvrs35g3ogglegE7jhgbKivH9k"
     }
+  },
+  "com.tap.bark.blitz": {
+    "id": "com.tap.bark.blitz",
+    "url": "https://play.google.com/store/apps/details?id=com.tap.bark.blitz&hl=en&gl=US",
+    "fetchedAt": "2026-10-23T05:13:01.589Z",
+    "rating": null,
+    "ratingCount": null,
+    "reviews": [],
+    "reviewStatus": "not-collected",
+    "screenshots": [
+      {
+        "sourceUrl": "https://play-lh.googleusercontent.com/X-qGDjOflheJd25cTu2B43-patsW3P0JaZ3XGwCFfHKLnWwBXyiTSq1qKOZqBfukqvAqCwp9frxyuj4KvU-1Ng",
+        "displayUrl": "https://play-lh.googleusercontent.com/X-qGDjOflheJd25cTu2B43-patsW3P0JaZ3XGwCFfHKLnWwBXyiTSq1qKOZqBfukqvAqCwp9frxyuj4KvU-1Ng=w1280",
+        "storage": "remote"
+      },
+      {
+        "sourceUrl": "https://play-lh.googleusercontent.com/OwbteK1iQ9xYVhukApLeGcDOVWgOgRHZLjxTY5Y2tZgnuVcBzDx15Vbi-afot0YVAOZplF4Em8bJuQwxHqb9pA",
+        "displayUrl": "https://play-lh.googleusercontent.com/OwbteK1iQ9xYVhukApLeGcDOVWgOgRHZLjxTY5Y2tZgnuVcBzDx15Vbi-afot0YVAOZplF4Em8bJuQwxHqb9pA=w1280",
+        "storage": "remote"
+      },
+      {
+        "sourceUrl": "https://play-lh.googleusercontent.com/NEN8aM0_baydlQhnA06L93Q70cyi4pnO5mfcuHfA4nI255TSwOH1P15On0edp4-L3gFlKQPPrr2BuGFd9YjyIw",
+        "displayUrl": "https://play-lh.googleusercontent.com/NEN8aM0_baydlQhnA06L93Q70cyi4pnO5mfcuHfA4nI255TSwOH1P15On0edp4-L3gFlKQPPrr2BuGFd9YjyIw=w1280",
+        "storage": "remote"
+      },
+      {
+        "sourceUrl": "https://play-lh.googleusercontent.com/8tMZEhxnD3LUZA7bMFjIZSTJbD48I9uXkIqE2PuCa800NJDYDADOIxjY6m_Wzp-NdTuI-Mri9SQeeSkvaMxV",
+        "displayUrl": "https://play-lh.googleusercontent.com/8tMZEhxnD3LUZA7bMFjIZSTJbD48I9uXkIqE2PuCa800NJDYDADOIxjY6m_Wzp-NdTuI-Mri9SQeeSkvaMxV=w1280",
+        "storage": "remote"
+      }
+    ],
+    "icon": {
+      "localPath": "https://play-lh.googleusercontent.com/rwK3-1Qv8hCSsZeCOC9X5N2lI6Uoobx22G46GOG90VE7bxwIzsBdNK8U6NVokyl2br47VvTIN82sQDblwbKKWg",
+      "sourceUrl": "https://play-lh.googleusercontent.com/rwK3-1Qv8hCSsZeCOC9X5N2lI6Uoobx22G46GOG90VE7bxwIzsBdNK8U6NVokyl2br47VvTIN82sQDblwbKKWg"
+    }
   }
 }

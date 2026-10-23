@@ -9002,5 +9002,75 @@
         "basis": "Official developer gameplay text"
       }
     ]
+  },
+  {
+    "minInstalls": 100,
+    "installEvidence": {
+      "minInstalls": 100,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.tap.bark.blitz&hl=en&gl=US",
+      "fetchedAt": "2026-10-23T05:13:01.589Z"
+    },
+    "id": "com.tap.bark.blitz",
+    "title": "Bark Blitz",
+    "subtitle": "Tap fast, bark louder, and outbark your opponent in this intense dog battle!",
+    "description": "Tap fast, bark louder, and outbark your opponent in this intense dog battle!",
+    "overviewEn": "Tap fast, bark louder, and outbark your opponent in this intense dog battle!",
+    "genre": "Hypercasual",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "KMI Tech Ltd",
+    "ads": true,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.tap.bark.blitz&hl=en&gl=US",
+    "fetchedAt": "2026-10-23T05:13:01.589Z",
+    "sourceDate": "2026-10-23",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-08-31",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Aug 31, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.tap.bark.blitz&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/rwK3-1Qv8hCSsZeCOC9X5N2lI6Uoobx22G46GOG90VE7bxwIzsBdNK8U6NVokyl2br47VvTIN82sQDblwbKKWg",
+    "categories": [
+      "hypercasual"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "hypercasual",
+        "excerpt": "hyper-casual",
+        "basis": "Official developer gameplay text"
+      }
+    ]
   }
 ]
