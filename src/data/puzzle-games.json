@@ -127552,5 +127552,2183 @@
         "basis": "Official developer gameplay text"
       }
     ]
+  },
+  {
+    "minInstalls": 100,
+    "installEvidence": {
+      "minInstalls": 100,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.sevensails.queensgarden6&hl=en&gl=US",
+      "fetchedAt": "2026-10-24T00:31:00.108Z"
+    },
+    "id": "com.sevensails.queensgarden6",
+    "title": "Queen's Garden French Splendor",
+    "subtitle": "Build dream gardens! Play match-3, restore a royal manor & uncover secrets.",
+    "description": "Build dream gardens! Play match-3, restore a royal manor & uncover secrets.",
+    "overviewEn": "Build dream gardens! Play match-3, restore a royal manor & uncover secrets.",
+    "genre": "Match-3",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "Match-3",
+      "+ Renovation",
+      "+ Story"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "Match-3",
+        "excerpt": "match-3",
+        "basis": "Official developer gameplay text"
+      },
+      {
+        "tag": "+ Renovation",
+        "excerpt": "decorations",
+        "basis": "Official developer gameplay text"
+      },
+      {
+        "tag": "+ Story",
+        "excerpt": "UNCOVER A STORY",
+        "basis": "Official developer gameplay text"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Pixel Crate Games",
+    "ads": true,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.sevensails.queensgarden6&hl=en&gl=US",
+    "fetchedAt": "2026-10-24T00:31:00.108Z",
+    "sourceDate": "2026-10-24",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2025-02-21",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Feb 21, 2025",
+      "url": "https://play.google.com/store/apps/details?id=com.sevensails.queensgarden6&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/p-m8PeW7j6qSsYNtX7Qsak1rv9fHxXMmJoulUBqbMb1iI-3SZaSPiHby3HCavxniGFcEDUvnwwS4dfJicMb2-WY",
+    "categories": [
+      "match3"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "match3",
+        "excerpt": "match-3",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 1000,
+    "installEvidence": {
+      "minInstalls": 1000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.yfactorysoft.MysticRome.gp&hl=en&gl=US",
+      "fetchedAt": "2026-10-24T00:31:13.724Z"
+    },
+    "id": "com.yfactorysoft.MysticRome.gp",
+    "title": "Mystic Rome - Match 3 Games",
+    "subtitle": "Enjoy match 3 games by solving puzzles and blasting colors with Mystic Rome",
+    "description": "Enjoy match 3 games by solving puzzles and blasting colors with Mystic Rome",
+    "overviewEn": "Enjoy match 3 games by solving puzzles and blasting colors with Mystic Rome",
+    "genre": "Match-3",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "In-app purchases",
+      "Match-3"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      },
+      {
+        "tag": "Match-3",
+        "excerpt": "Match 3",
+        "basis": "Official developer gameplay text"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Y Factory Inc.",
+    "ads": true,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.yfactorysoft.MysticRome.gp&hl=en&gl=US",
+    "fetchedAt": "2026-10-24T00:31:13.724Z",
+    "sourceDate": "2026-10-24",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2025-01-21",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Jan 21, 2025",
+      "url": "https://play.google.com/store/apps/details?id=com.yfactorysoft.MysticRome.gp&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/yEUT3mxTQOHVys5YgpJReTNMBvZdC9rMHvLy_K5CVdqdtYYSlmvtif6GU-kzdzawSi0eAHVz2sMRPcRJPESc_w",
+    "categories": [
+      "match3"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "match3",
+        "excerpt": "Match 3",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 5000,
+    "installEvidence": {
+      "minInstalls": 5000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=game.bm.bug.merge&hl=en&gl=US",
+      "fetchedAt": "2026-10-24T00:46:13.781Z"
+    },
+    "id": "game.bm.bug.merge",
+    "title": "Bug Merge",
+    "subtitle": "Merge cute bugs, climb leaderboards. Relaxing puzzle game with high scores.",
+    "description": "Merge cute bugs, climb leaderboards. Relaxing puzzle game with high scores.",
+    "overviewEn": "Merge cute bugs, climb leaderboards. Relaxing puzzle game with high scores.",
+    "genre": "Merge",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "In-app purchases"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Dashie Game",
+    "ads": true,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=game.bm.bug.merge&hl=en&gl=US",
+    "fetchedAt": "2026-10-24T00:46:13.781Z",
+    "sourceDate": "2026-10-24",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2025-11-12",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Nov 12, 2025",
+      "url": "https://play.google.com/store/apps/details?id=game.bm.bug.merge&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/AQHxlnQfphThsM5V4NptwJhx4Fxwu9B-vM25szWgEPEokilNMg7rmyj72PxOVHvyymI4xLjRcPJYxzy5P-jy7w",
+    "categories": [
+      "merge"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "merge",
+        "excerpt": "Merging: Combine",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 100,
+    "installEvidence": {
+      "minInstalls": 100,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.seth.games.empire.match&hl=en&gl=US",
+      "fetchedAt": "2026-10-24T01:46:48.779Z"
+    },
+    "id": "com.seth.games.empire.match",
+    "title": "Empire Match 3",
+    "subtitle": "Build legendary empires by solving match-3 puzzles across history.",
+    "description": "Build legendary empires by solving match-3 puzzles across history.",
+    "overviewEn": "Build legendary empires by solving match-3 puzzles across history.",
+    "genre": "Match-3",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "In-app purchases",
+      "Match-3"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      },
+      {
+        "tag": "Match-3",
+        "excerpt": "Match 3",
+        "basis": "Official developer gameplay text"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Legacy-X",
+    "ads": true,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.seth.games.empire.match&hl=en&gl=US",
+    "fetchedAt": "2026-10-24T01:46:48.779Z",
+    "sourceDate": "2026-10-24",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-03-25",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Mar 25, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.seth.games.empire.match&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/Sk57jhaGzPslxROQVODr7eLxGGORIKnex7V_yN-EGJ4kapkacGqGNqziPv82ISaX7sPneCF9JZ9cPLeJKrY7",
+    "categories": [
+      "match3"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "match3",
+        "excerpt": "Match 3",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 500,
+    "installEvidence": {
+      "minInstalls": 500,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.sakstudios.countrymerge2048&hl=en&gl=US",
+      "fetchedAt": "2026-10-24T02:17:07.204Z"
+    },
+    "id": "com.sakstudios.countrymerge2048",
+    "title": "Country Merge: World Journey",
+    "subtitle": "Merge countries, unlock world flags, and master the 2048 globe puzzle offline!",
+    "description": "Merge countries, unlock world flags, and master the 2048 globe puzzle offline!",
+    "overviewEn": "Merge countries, unlock world flags, and master the 2048 globe puzzle offline!",
+    "genre": "Merge",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "+ Exploration"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "+ Exploration",
+        "excerpt": "Explore over 232 real-world",
+        "basis": "Official developer gameplay text"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "SAK Studios",
+    "ads": true,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.sakstudios.countrymerge2048&hl=en&gl=US",
+    "fetchedAt": "2026-10-24T02:17:07.204Z",
+    "sourceDate": "2026-10-24",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-09-22",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Sep 22, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.sakstudios.countrymerge2048&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/NFscMupBgHL2i369RarJSv0ju4mUOS5zP3h40o0CXSc_S1u_tnzD3E5MBYQqumqv8k22d9Ojf31JoWG5ErauLro",
+    "categories": [
+      "merge"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "merge",
+        "excerpt": "merge puzzle",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 10,
+    "installEvidence": {
+      "minInstalls": 10,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.cgs.webcrawlerevolution&hl=en&gl=US",
+      "fetchedAt": "2026-10-24T03:02:29.099Z"
+    },
+    "id": "com.cgs.webcrawlerevolution",
+    "title": "Web Crawler Evolution",
+    "subtitle": "Merge webs, wrap humans & evolve your spider. Race to unlock new spiders!",
+    "description": "Merge webs, wrap humans & evolve your spider. Race to unlock new spiders!",
+    "overviewEn": "Merge webs, wrap humans & evolve your spider. Race to unlock new spiders!",
+    "genre": "Merge",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Merge-2",
+      "Runner"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Merge-2",
+        "excerpt": "Merge two",
+        "basis": "Official developer gameplay text"
+      },
+      {
+        "tag": "Runner",
+        "excerpt": "runner",
+        "basis": "Official developer gameplay text"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Casihyp Games Studio",
+    "ads": null,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.cgs.webcrawlerevolution&hl=en&gl=US",
+    "fetchedAt": "2026-10-24T03:02:29.099Z",
+    "sourceDate": "2026-10-24",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-10-12",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Oct 12, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.cgs.webcrawlerevolution&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/LUE7DQbA0uY12JSLUJ_H3cImIfU57GR5JviWH0dNi3vDiSLCMEbwYzWSrfx9ZdSAIz48nGQzzVTK9f22vYJnig",
+    "categories": [
+      "merge"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "merge",
+        "excerpt": "Merge two",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 500,
+    "installEvidence": {
+      "minInstalls": 500,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.cgs.cafemergeadventure&hl=en&gl=US",
+      "fetchedAt": "2026-10-24T03:02:32.545Z"
+    },
+    "id": "com.cgs.cafemergeadventure",
+    "title": "Cafe Merge: Cook & Restore",
+    "subtitle": "Merge food, serve cozy guests and restore a seaside café in this relaxing game!",
+    "description": "Merge food, serve cozy guests and restore a seaside café in this relaxing game!",
+    "overviewEn": "Merge food, serve cozy guests and restore a seaside café in this relaxing game!",
+    "genre": "Merge",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Merge-2",
+      "+ Renovation"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Merge-2",
+        "excerpt": "Merge two",
+        "basis": "Official developer gameplay text"
+      },
+      {
+        "tag": "+ Renovation",
+        "excerpt": "DECORATE",
+        "basis": "Official developer gameplay text"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Casihyp Games Studio",
+    "ads": null,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.cgs.cafemergeadventure&hl=en&gl=US",
+    "fetchedAt": "2026-10-24T03:02:32.545Z",
+    "sourceDate": "2026-10-24",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-10-06",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Oct 6, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.cgs.cafemergeadventure&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/mmZWY2QNItqTskmnYhM98uP63Xp0R2BT1DWcwWmvmBaJK0ZSGwpxrHBwde7opIqd6sEJ1K8ErtnY_4TN0Bd-4w",
+    "categories": [
+      "merge"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "merge",
+        "excerpt": "merge game",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 5000,
+    "installEvidence": {
+      "minInstalls": 5000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=jp.co.mahorobase.nagi&hl=en&gl=US",
+      "fetchedAt": "2026-10-24T03:17:44.105Z"
+    },
+    "id": "jp.co.mahorobase.nagi",
+    "title": "Nagi: Relaxing Merge Puzzle",
+    "subtitle": "Relaxing merge puzzle with glowing pieces. Simple and satisfying.",
+    "description": "Relaxing merge puzzle with glowing pieces. Simple and satisfying.",
+    "overviewEn": "Relaxing merge puzzle with glowing pieces. Simple and satisfying.",
+    "genre": "Merge",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "In-app purchases"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Mahorobase Inc.",
+    "ads": true,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=jp.co.mahorobase.nagi&hl=en&gl=US",
+    "fetchedAt": "2026-10-24T03:17:44.105Z",
+    "sourceDate": "2026-10-24",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-04-19",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Apr 19, 2026",
+      "url": "https://play.google.com/store/apps/details?id=jp.co.mahorobase.nagi&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/mSz1ZKgrmNc0TpwTkv9faGCW4eEjcSJp_R7UJLN8aZ9fFrNRUoP96rr46SpZhQt-OTt9G0Qp8cxNOHxvHoqy8A",
+    "categories": [
+      "merge"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "merge",
+        "excerpt": "Merge Puzzle",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 1000,
+    "installEvidence": {
+      "minInstalls": 1000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.helias.battleofthetribes&hl=en&gl=US",
+      "fetchedAt": "2026-10-24T03:17:47.665Z"
+    },
+    "id": "com.helias.battleofthetribes",
+    "title": "Battle of the Tribes: Match 3",
+    "subtitle": "Real-time PvP match-3: choose your tribe, crush rivals in 120-sec battles!",
+    "description": "Real-time PvP match-3: choose your tribe, crush rivals in 120-sec battles!",
+    "overviewEn": "Real-time PvP match-3: choose your tribe, crush rivals in 120-sec battles!",
+    "genre": "Match-3",
+    "world": "",
+    "tags": [
+      "Real-time",
+      "Free download",
+      "Android",
+      "Contains ads",
+      "In-app purchases",
+      "Match-3"
+    ],
+    "evidence": [
+      {
+        "tag": "Real-time",
+        "basis": "Developer summary keyword mapping",
+        "excerpt": "Real-time PvP match-3: choose your tribe, crush rivals in 120-sec battles!"
+      },
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      },
+      {
+        "tag": "Match-3",
+        "excerpt": "Match 3",
+        "basis": "Official developer gameplay text"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Illia Tkachenko",
+    "ads": true,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.helias.battleofthetribes&hl=en&gl=US",
+    "fetchedAt": "2026-10-24T03:17:47.665Z",
+    "sourceDate": "2026-10-24",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-05-21",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "May 21, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.helias.battleofthetribes&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/AmCLl9ZBm4rViVf0C0CkAeKrtOk3f0KYTzkLFsKB5eQviFJLY87wV8Rz2ERv5MC9WNz_yfcU9xvAbVK7KPqb_g",
+    "categories": [
+      "match3"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "match3",
+        "excerpt": "Match 3",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 500,
+    "installEvidence": {
+      "minInstalls": 500,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.emoo.hellrush&hl=en&gl=US",
+      "fetchedAt": "2026-10-24T03:46:44.299Z"
+    },
+    "id": "com.emoo.hellrush",
+    "title": "Hell Rush: Merge Hero Defense",
+    "subtitle": "Merge heroes & defend Hell. Roguelite tower defense SSR units, epic boss battles",
+    "description": "Merge heroes & defend Hell. Roguelite tower defense SSR units, epic boss battles",
+    "overviewEn": "Merge heroes & defend Hell. Roguelite tower defense SSR units, epic boss battles",
+    "genre": "Merge",
+    "world": "",
+    "tags": [
+      "Tower defense",
+      "Free download",
+      "Android",
+      "Contains ads",
+      "In-app purchases"
+    ],
+    "evidence": [
+      {
+        "tag": "Tower defense",
+        "basis": "Developer summary keyword mapping",
+        "excerpt": "Merge heroes &amp; defend Hell. Roguelite tower defense SSR units, epic boss battles"
+      },
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "88,63%",
+    "ads": true,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.emoo.hellrush&hl=en&gl=US",
+    "fetchedAt": "2026-10-24T03:46:44.299Z",
+    "sourceDate": "2026-10-24",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-03-22",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Mar 22, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.emoo.hellrush&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/s1KHFXV7__0FgnviXwH4ACTtroFbu3P9zOcKuHepjUwHgDkZMGcB8CBmZSjND9DxndiFPxpTT0Y-tEsnPuA",
+    "categories": [
+      "merge"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "strategy",
+        "excerpt": "GAME_STRATEGY",
+        "basis": "Official Google Play category"
+      },
+      {
+        "category": "merge",
+        "excerpt": "merge game",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 50000,
+    "installEvidence": {
+      "minInstalls": 50000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.merge.helltown&hl=en&gl=US",
+      "fetchedAt": "2026-10-24T03:46:46.724Z"
+    },
+    "id": "com.merge.helltown",
+    "title": "Merge Helltown: merging games",
+    "subtitle": "Solve a picture merge puzzle in a mystery game. Build your hell merge city.",
+    "description": "Solve a picture merge puzzle in a mystery game. Build your hell merge city.",
+    "overviewEn": "Solve a picture merge puzzle in a mystery game. Build your hell merge city.",
+    "genre": "Merge",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "In-app purchases",
+      "+ Building",
+      "+ Renovation"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      },
+      {
+        "tag": "+ Building",
+        "excerpt": "Build your hell merge city",
+        "basis": "Official developer gameplay text"
+      },
+      {
+        "tag": "+ Renovation",
+        "excerpt": "renovate",
+        "basis": "Official developer gameplay text"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Brightika, Inc.",
+    "ads": true,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.merge.helltown&hl=en&gl=US",
+    "fetchedAt": "2026-10-24T03:46:46.724Z",
+    "sourceDate": "2026-10-24",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2025-09-15",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Sep 15, 2025",
+      "url": "https://play.google.com/store/apps/details?id=com.merge.helltown&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/Eb8LzsA6uevom8vamvAOUMmnjwhilKckwjoUBiCL0kkyquHTkes-jrtbDm4LWQhEYZ1RnksD-PM4AnuuCHYAmA",
+    "categories": [
+      "merge"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "merge",
+        "excerpt": "merge puzzle",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 100000,
+    "installEvidence": {
+      "minInstalls": 100000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.ig.epic.merge&hl=en&gl=US",
+      "fetchedAt": "2026-10-24T03:46:55.274Z"
+    },
+    "id": "com.ig.epic.merge",
+    "title": "Epic Merge: Roguelike TD",
+    "subtitle": "Merge and conquer in Epic Merge, the ultimate Roguelike Tower Defense",
+    "description": "Merge and conquer in Epic Merge, the ultimate Roguelike Tower Defense",
+    "overviewEn": "Merge and conquer in Epic Merge, the ultimate Roguelike Tower Defense",
+    "genre": "Merge",
+    "world": "",
+    "tags": [
+      "Tower defense",
+      "Free download",
+      "Android",
+      "Contains ads",
+      "In-app purchases",
+      "+ Combat"
+    ],
+    "evidence": [
+      {
+        "tag": "Tower defense",
+        "basis": "Developer summary keyword mapping",
+        "excerpt": "Merge and conquer in Epic Merge, the ultimate Roguelike Tower Defense"
+      },
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      },
+      {
+        "tag": "+ Combat",
+        "excerpt": "battle fearsome monsters",
+        "basis": "Official developer gameplay text"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "iKame Games - Zego Studio",
+    "ads": true,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.ig.epic.merge&hl=en&gl=US",
+    "fetchedAt": "2026-10-24T03:46:55.274Z",
+    "sourceDate": "2026-10-24",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2024-12-27",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Dec 27, 2024",
+      "url": "https://play.google.com/store/apps/details?id=com.ig.epic.merge&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/10339R8DhIDmE58xARRzEDbl5LMFG7XhIyJRcLa4HvPPI3VXOKzHg8L7t0bh_KHUbdX4pn8nbxAbgFYoVLLq3A",
+    "categories": [
+      "merge"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "merge",
+        "excerpt": "merge items",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 100,
+    "installEvidence": {
+      "minInstalls": 100,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.sf.minigames.zombie&hl=en&gl=US",
+      "fetchedAt": "2026-10-24T03:47:12.714Z"
+    },
+    "id": "com.sf.minigames.zombie",
+    "title": "Last Hero: Merge War",
+    "subtitle": "Merge, defend, and survive in a post-apocalyptic monster war!",
+    "description": "Merge, defend, and survive in a post-apocalyptic monster war!",
+    "overviewEn": "Merge, defend, and survive in a post-apocalyptic monster war!",
+    "genre": "Merge",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "+ Combat",
+      "+ Exploration"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "+ Combat",
+        "excerpt": "Fight epic bosses",
+        "basis": "Official developer gameplay text"
+      },
+      {
+        "tag": "+ Exploration",
+        "excerpt": "Explore a ruined world",
+        "basis": "Official developer gameplay text"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "veikr",
+    "ads": null,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.sf.minigames.zombie&hl=en&gl=US",
+    "fetchedAt": "2026-10-24T03:47:12.714Z",
+    "sourceDate": "2026-10-24",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2025-06-18",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Jun 18, 2025",
+      "url": "https://play.google.com/store/apps/details?id=com.sf.minigames.zombie&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/Kqo7H3e0OaLw5XMXNeeh0BXC1KvRxUlPSRVtaNGmOl7Ef59p44NPHAEHK2D_nZ7a1-VWwWmuLCNOyVwjFzt6fA",
+    "categories": [
+      "merge"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "merge",
+        "excerpt": "Merge units – Combine identical",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 1000,
+    "installEvidence": {
+      "minInstalls": 1000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.FarlightStudiosLLC.NexusPuzzleHeroes&hl=en&gl=US",
+      "fetchedAt": "2026-10-24T03:47:20.513Z"
+    },
+    "id": "com.FarlightStudiosLLC.NexusPuzzleHeroes",
+    "title": "Nexus Puzzle Heroes: Match 3",
+    "subtitle": "Match 3 Puzzle RPG",
+    "description": "Match 3 Puzzle RPG",
+    "overviewEn": "Match 3 Puzzle RPG",
+    "genre": "Match-3",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "In-app purchases",
+      "Match-3",
+      "+ Combat"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      },
+      {
+        "tag": "Match-3",
+        "excerpt": "Match 3",
+        "basis": "Official developer gameplay text"
+      },
+      {
+        "tag": "+ Combat",
+        "excerpt": "battle formidable enemies",
+        "basis": "Official developer gameplay text"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Farlight Studios LLC",
+    "ads": null,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.FarlightStudiosLLC.NexusPuzzleHeroes&hl=en&gl=US",
+    "fetchedAt": "2026-10-24T03:47:20.513Z",
+    "sourceDate": "2026-10-24",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2024-12-17",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Dec 17, 2024",
+      "url": "https://play.google.com/store/apps/details?id=com.FarlightStudiosLLC.NexusPuzzleHeroes&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/jLZpfRGBVq61cq8V8hAM1bXS4PAtGPfZeYfFTE85M9UDtyR8WwZSAIzj5NmhQM54EUiFjRw4fjX0u6TDqAHF",
+    "categories": [
+      "match3"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "match3",
+        "excerpt": "Match 3",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 1000,
+    "installEvidence": {
+      "minInstalls": 1000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.sf.minigames.animalcrush&hl=en&gl=US",
+      "fetchedAt": "2026-10-24T04:02:10.329Z"
+    },
+    "id": "com.sf.minigames.animalcrush",
+    "title": "Zoo Blast Puzzle",
+    "subtitle": "Match colorful animals to solve puzzles",
+    "description": "Match colorful animals to solve puzzles",
+    "overviewEn": "Match colorful animals to solve puzzles",
+    "genre": "Match-3",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Match-3"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Match-3",
+        "excerpt": "match-3",
+        "basis": "Official developer gameplay text"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "veikr",
+    "ads": null,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.sf.minigames.animalcrush&hl=en&gl=US",
+    "fetchedAt": "2026-10-24T04:02:10.329Z",
+    "sourceDate": "2026-10-24",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2025-02-24",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Feb 24, 2025",
+      "url": "https://play.google.com/store/apps/details?id=com.sf.minigames.animalcrush&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/zrCP-qN7PNN4G0UycHUhoGlWqjC7nwYK6wgr35iCmOASZNOlA6f97HqjvnXx_MEvG4-7hhPG1Q1V15ruvgi0",
+    "categories": [
+      "match3"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "match3",
+        "excerpt": "match-3",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 500,
+    "installEvidence": {
+      "minInstalls": 500,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.onwstudio.android.hero2048.pay&hl=en&gl=US",
+      "fetchedAt": "2026-10-24T04:17:05.404Z"
+    },
+    "id": "com.onwstudio.android.hero2048.pay",
+    "title": "HERO 2048 - Merge Defense Game",
+    "subtitle": "Merge heroes, level them up, and stop the incoming horde!",
+    "description": "Merge heroes, level them up, and stop the incoming horde!",
+    "overviewEn": "Merge heroes, level them up, and stop the incoming horde!",
+    "genre": "Merge",
+    "world": "",
+    "tags": [
+      "Paid download",
+      "Android"
+    ],
+    "evidence": [
+      {
+        "tag": "Paid download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0.45"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      }
+    ],
+    "price": "Paid download",
+    "priceValue": 0.45,
+    "priceCurrency": "USD",
+    "priceDisplay": "US$0.45",
+    "developer": "ONW Studio",
+    "ads": null,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.onwstudio.android.hero2048.pay&hl=en&gl=US",
+    "fetchedAt": "2026-10-24T04:17:05.404Z",
+    "sourceDate": "2026-10-24",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2025-08-13",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Aug 13, 2025",
+      "url": "https://play.google.com/store/apps/details?id=com.onwstudio.android.hero2048.pay&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/BxKhr9NewvNnWV4wKrEmjASJbGOFH5eDu2xVLsHTyOhtUIILOI1pyOnhJpwERd3PZmJvcUTHDP9IgA9mLRHINcE",
+    "categories": [
+      "merge"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "strategy",
+        "excerpt": "GAME_STRATEGY",
+        "basis": "Official Google Play category"
+      },
+      {
+        "category": "merge",
+        "excerpt": "Merge Puzzle",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 100000,
+    "installEvidence": {
+      "minInstalls": 100000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.onwstudio.android.hero2048&hl=en&gl=US",
+      "fetchedAt": "2026-10-24T04:31:53.885Z"
+    },
+    "id": "com.onwstudio.android.hero2048",
+    "title": "Hero 2048 – Merge Defense Game",
+    "subtitle": "Merge heroes, level them up, and stop the incoming horde!",
+    "description": "Merge heroes, level them up, and stop the incoming horde!",
+    "overviewEn": "Merge heroes, level them up, and stop the incoming horde!",
+    "genre": "Merge",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "In-app purchases"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "ONW Studio",
+    "ads": true,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.onwstudio.android.hero2048&hl=en&gl=US",
+    "fetchedAt": "2026-10-24T04:31:53.885Z",
+    "sourceDate": "2026-10-24",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2025-08-13",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Aug 13, 2025",
+      "url": "https://play.google.com/store/apps/details?id=com.onwstudio.android.hero2048&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/Bygqbasi-xq8ePSj_tKFwmzulY327F2nI-8-LM-eIkVn6FZwlpReNM0WxKVXgoZ-_uqtmsFDgc8N4UbClb-Qrg",
+    "categories": [
+      "merge"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "strategy",
+        "excerpt": "GAME_STRATEGY",
+        "basis": "Official Google Play category"
+      },
+      {
+        "category": "merge",
+        "excerpt": "Merge Puzzle",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 100,
+    "installEvidence": {
+      "minInstalls": 100,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.frvr.dumplingdrop&hl=en&gl=US",
+      "fetchedAt": "2026-10-24T05:49:52.367Z"
+    },
+    "id": "com.frvr.dumplingdrop",
+    "title": "Dumpling Drop",
+    "subtitle": "Match two. Make them bigger.",
+    "description": "Match two. Make them bigger.",
+    "overviewEn": "Match two. Make them bigger.",
+    "genre": "Merge",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "FRVR",
+    "ads": true,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.frvr.dumplingdrop&hl=en&gl=US",
+    "fetchedAt": "2026-10-24T05:49:52.367Z",
+    "sourceDate": "2026-10-24",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-09-28",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Sep 28, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.frvr.dumplingdrop&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/vf6ZUiq9ekjPFthLyF9BP6IfvE0vLAZZWER7ASbE0sWtTkiRCONDrjnjPRiVCNS8PxngVOgMmMOG81SW7ffJ",
+    "categories": [
+      "merge"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "merge",
+        "excerpt": "merge puzzle",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 5000,
+    "installEvidence": {
+      "minInstalls": 5000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.rimasupergames.monsterquest&hl=en&gl=US",
+      "fetchedAt": "2026-10-24T06:06:00.859Z"
+    },
+    "id": "com.rimasupergames.monsterquest",
+    "title": "Monster Quest - Match 3 Games",
+    "subtitle": "Monster Quest - Match 3 Halloween Story - Defeat Monster of Block Puzzle Games",
+    "description": "Monster Quest - Match 3 Halloween Story - Defeat Monster of Block Puzzle Games",
+    "overviewEn": "Monster Quest - Match 3 Halloween Story - Defeat Monster of Block Puzzle Games",
+    "genre": "Match-3",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "In-app purchases",
+      "Match-3",
+      "+ Combat"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      },
+      {
+        "tag": "Match-3",
+        "excerpt": "Match 3",
+        "basis": "Official developer gameplay text"
+      },
+      {
+        "tag": "+ Combat",
+        "excerpt": "defeat all types of monsters",
+        "basis": "Official developer gameplay text"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Rima Super Games",
+    "ads": true,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.rimasupergames.monsterquest&hl=en&gl=US",
+    "fetchedAt": "2026-10-24T06:06:00.859Z",
+    "sourceDate": "2026-10-24",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2025-12-15",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Dec 15, 2025",
+      "url": "https://play.google.com/store/apps/details?id=com.rimasupergames.monsterquest&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/WauG-U59EqnKIVkDsdKpHn-O-kliBf8tuDmMcWVBSYi8xdatkYIdqh6zEAZALEPhLu58s-1r8_pMVDQjRk4lW_0",
+    "categories": [
+      "match3",
+      "merge"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "match3",
+        "excerpt": "Match 3",
+        "basis": "Official developer gameplay text"
+      },
+      {
+        "category": "merge",
+        "excerpt": "merge game",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 10000,
+    "installEvidence": {
+      "minInstalls": 10000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.Galeroz.DungeonBuster&hl=en&gl=US",
+      "fetchedAt": "2026-10-24T06:06:04.293Z"
+    },
+    "id": "com.Galeroz.DungeonBuster",
+    "title": "Dungeon Buster: Match 3 Puzzle",
+    "subtitle": "Match 3+ same colors to clear stages. Slay the dragon deep in the labyrinth.",
+    "description": "Match 3+ same colors to clear stages. Slay the dragon deep in the labyrinth.",
+    "overviewEn": "Match 3+ same colors to clear stages. Slay the dragon deep in the labyrinth.",
+    "genre": "Match-3",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "Match-3"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "Match-3",
+        "excerpt": "Match 3",
+        "basis": "Official developer gameplay text"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Galeroz Studios",
+    "ads": true,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.Galeroz.DungeonBuster&hl=en&gl=US",
+    "fetchedAt": "2026-10-24T06:06:04.293Z",
+    "sourceDate": "2026-10-24",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2024-11-20",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Nov 20, 2024",
+      "url": "https://play.google.com/store/apps/details?id=com.Galeroz.DungeonBuster&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/9FaWzfzzXzob-meqAEhOL5kzLdMmCpEQTiW__gJnlVO2Un-5I6Jf6bXAnE70aafxz8UiT8kR_FXZgD81Sc8r",
+    "categories": [
+      "match3"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "match3",
+        "excerpt": "Match 3",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 5000,
+    "installEvidence": {
+      "minInstalls": 5000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.kreativitasstudio.pencilpack&hl=en&gl=US",
+      "fetchedAt": "2026-10-24T06:21:03.927Z"
+    },
+    "id": "com.kreativitasstudio.pencilpack",
+    "title": "Pencil Pack",
+    "subtitle": "Merge pencils and solve challenges. Can you merge your way to the last pencil?",
+    "description": "Merge pencils and solve challenges. Can you merge your way to the last pencil?",
+    "overviewEn": "Merge pencils and solve challenges. Can you merge your way to the last pencil?",
+    "genre": "Merge",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "Sorting"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "Sorting",
+        "excerpt": "sort",
+        "basis": "Official developer gameplay text"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Kreativitas Studio Ltda",
+    "ads": true,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.kreativitasstudio.pencilpack&hl=en&gl=US",
+    "fetchedAt": "2026-10-24T06:21:03.927Z",
+    "sourceDate": "2026-10-24",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2025-09-05",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Sep 5, 2025",
+      "url": "https://play.google.com/store/apps/details?id=com.kreativitasstudio.pencilpack&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/4PYTSW6ZWMP6YNsb6DSUbzwNdwNJNSN_1mraSpmofnzMERFNBiuO6o0gdGPAP1hLQe28hzwfovYhO-CBbObm1w",
+    "categories": [
+      "merge"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "merge",
+        "excerpt": "merge puzzle",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 100000,
+    "installEvidence": {
+      "minInstalls": 100000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.Galeroz.SweetBliss&hl=en&gl=US",
+      "fetchedAt": "2026-10-24T06:21:13.314Z"
+    },
+    "id": "com.Galeroz.SweetBliss",
+    "title": "Sweet Bliss",
+    "subtitle": "A match‑3 puzzle in a world of sweets! Match cute treats for satisfying combos!",
+    "description": "A match‑3 puzzle in a world of sweets! Match cute treats for satisfying combos!",
+    "overviewEn": "A match‑3 puzzle in a world of sweets! Match cute treats for satisfying combos!",
+    "genre": "Match-3",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "In-app purchases",
+      "Match-3"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      },
+      {
+        "tag": "Match-3",
+        "excerpt": "match three",
+        "basis": "Official developer gameplay text"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Galeroz Studios",
+    "ads": true,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.Galeroz.SweetBliss&hl=en&gl=US",
+    "fetchedAt": "2026-10-24T06:21:13.314Z",
+    "sourceDate": "2026-10-24",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-04-27",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Apr 27, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.Galeroz.SweetBliss&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/Wz0K41XLoHVvaigjy0KrwTSBdmh9M9vuTbqDyPPu45gcGx7Pkj9zjmFzkKpzIBr8xw378oYvDwhykv0dktGH2sg",
+    "categories": [
+      "match3"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "match3",
+        "excerpt": "match three",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 100,
+    "installEvidence": {
+      "minInstalls": 100,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.fortress.merge.defense&hl=en&gl=US",
+      "fetchedAt": "2026-10-24T06:37:08.412Z"
+    },
+    "id": "com.fortress.merge.defense",
+    "title": "Fortress Kingdom: Merge TD",
+    "subtitle": "Merge to upgrade! Defend your castle in this addictive tower defense.",
+    "description": "Merge to upgrade! Defend your castle in this addictive tower defense.",
+    "overviewEn": "Merge to upgrade! Defend your castle in this addictive tower defense.",
+    "genre": "Merge",
+    "world": "",
+    "tags": [
+      "Tower defense",
+      "Free download",
+      "Android",
+      "Contains ads"
+    ],
+    "evidence": [
+      {
+        "tag": "Tower defense",
+        "basis": "Developer summary keyword mapping",
+        "excerpt": "Merge to upgrade! Defend your castle in this addictive tower defense."
+      },
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "MGIF",
+    "ads": true,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.fortress.merge.defense&hl=en&gl=US",
+    "fetchedAt": "2026-10-24T06:37:08.412Z",
+    "sourceDate": "2026-10-24",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-03-20",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Mar 20, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.fortress.merge.defense&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/DGnELiKKai-ZtlKYG23jEGLOShlVb_WMM8lzt-HIaDQM1e58riQAWfB4dETAWfNQLloaYwLTESY9OnQiBW3I5I8",
+    "categories": [
+      "merge"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "strategy",
+        "excerpt": "GAME_STRATEGY",
+        "basis": "Official Google Play category"
+      },
+      {
+        "category": "merge",
+        "excerpt": "merge puzzles",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 10000,
+    "installEvidence": {
+      "minInstalls": 10000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.gaia.triple.card.solitaire.match&hl=en&gl=US",
+      "fetchedAt": "2026-10-24T06:37:25.021Z"
+    },
+    "id": "com.gaia.triple.card.solitaire.match",
+    "title": "Triple card：Solitaire match",
+    "subtitle": "Match 3 cards to clear the board in this fun and relaxing 3D puzzle game!",
+    "description": "Match 3 cards to clear the board in this fun and relaxing 3D puzzle game!",
+    "overviewEn": "Match 3 cards to clear the board in this fun and relaxing 3D puzzle game!",
+    "genre": "Match-3",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "In-app purchases",
+      "Match-3",
+      "Stacking",
+      "Sorting"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      },
+      {
+        "tag": "Match-3",
+        "excerpt": "Match 3",
+        "basis": "Official developer gameplay text"
+      },
+      {
+        "tag": "Stacking",
+        "excerpt": "stack",
+        "basis": "Official developer gameplay text"
+      },
+      {
+        "tag": "Sorting",
+        "excerpt": "sorting",
+        "basis": "Official developer gameplay text"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "browmbeebear",
+    "ads": true,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.gaia.triple.card.solitaire.match&hl=en&gl=US",
+    "fetchedAt": "2026-10-24T06:37:25.021Z",
+    "sourceDate": "2026-10-24",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2025-06-22",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Jun 22, 2025",
+      "url": "https://play.google.com/store/apps/details?id=com.gaia.triple.card.solitaire.match&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/vJOKpUhuO0T0MpNa4qcUDYxjcAYUkgfGzl6kGeSJBo-FqIR8Xnp7TwH-Fs5q0WILOb-jfwK_05K8yF6ZeIp1Sg",
+    "categories": [
+      "match3"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "match3",
+        "excerpt": "Match 3",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 100,
+    "installEvidence": {
+      "minInstalls": 100,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.catch.the.fish.merge.tile&hl=en&gl=US",
+      "fetchedAt": "2026-10-24T06:51:37.355Z"
+    },
+    "id": "com.catch.the.fish.merge.tile",
+    "title": "Catch The Fish: Merge Tile",
+    "subtitle": "Catch cute fish in a 3D aquarium, match 3 of a kind and watch them burst!",
+    "description": "Catch cute fish in a 3D aquarium, match 3 of a kind and watch them burst!",
+    "overviewEn": "Catch cute fish in a 3D aquarium, match 3 of a kind and watch them burst!",
+    "genre": "Match-3",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "In-app purchases",
+      "Match-3"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      },
+      {
+        "tag": "Match-3",
+        "excerpt": "match 3",
+        "basis": "Official developer gameplay text"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "MGIF",
+    "ads": true,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.catch.the.fish.merge.tile&hl=en&gl=US",
+    "fetchedAt": "2026-10-24T06:51:37.355Z",
+    "sourceDate": "2026-10-24",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-10-08",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Oct 8, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.catch.the.fish.merge.tile&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/o2ihSSGg6b-DJCQJoTbf5dL05vzuF--UpCHdm7tk4i4ZpVno7Au20cUDVpdSN3iAr9sKrTWebr2BHnzEB6d_cw",
+    "categories": [
+      "match3"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "match3",
+        "excerpt": "match 3",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 10,
+    "installEvidence": {
+      "minInstalls": 10,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.chushou.warlordbag&hl=en&gl=US",
+      "fetchedAt": "2026-10-24T07:07:46.236Z"
+    },
+    "id": "com.chushou.warlordbag",
+    "title": "Warlord Bag: Merge Battle",
+    "subtitle": "Merge soldiers, build your battle bag, and lead your army to victory!",
+    "description": "Merge soldiers, build your battle bag, and lead your army to victory!",
+    "overviewEn": "Merge soldiers, build your battle bag, and lead your army to victory!",
+    "genre": "Merge",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "In-app purchases"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Hong Kong Chushou Technology Co., Limited",
+    "ads": true,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.chushou.warlordbag&hl=en&gl=US",
+    "fetchedAt": "2026-10-24T07:07:46.236Z",
+    "sourceDate": "2026-10-24",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-08-13",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Aug 13, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.chushou.warlordbag&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/6qbgoi_3dED2SDzJkwkVn9lJnOr5uo9jpvnibhRLnge00VGC7pBcQEVDt2zz91gh9Rmwn8AR_7RkFFW-p3SDs6M",
+    "categories": [
+      "merge"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "strategy",
+        "excerpt": "GAME_STRATEGY",
+        "basis": "Official Google Play category"
+      },
+      {
+        "category": "merge",
+        "excerpt": "merge game",
+        "basis": "Official developer gameplay text"
+      }
+    ]
+  },
+  {
+    "minInstalls": 1000,
+    "installEvidence": {
+      "minInstalls": 1000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.zen.plants.battle&hl=en&gl=US",
+      "fetchedAt": "2026-10-24T08:10:33.107Z"
+    },
+    "id": "com.zen.plants.battle",
+    "title": "Plants Battle",
+    "subtitle": "An ultimate merge tower defense strategy game with idle gameplay",
+    "description": "An ultimate merge tower defense strategy game with idle gameplay",
+    "overviewEn": "An ultimate merge tower defense strategy game with idle gameplay",
+    "genre": "Merge",
+    "world": "",
+    "tags": [
+      "Tower defense",
+      "Free download",
+      "Android",
+      "Contains ads"
+    ],
+    "evidence": [
+      {
+        "tag": "Tower defense",
+        "basis": "Developer summary keyword mapping",
+        "excerpt": "An ultimate merge tower defense strategy game with idle gameplay"
+      },
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "NoHurry Games",
+    "ads": true,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.zen.plants.battle&hl=en&gl=US",
+    "fetchedAt": "2026-10-24T08:10:33.107Z",
+    "sourceDate": "2026-10-24",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-02-16",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Feb 16, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.zen.plants.battle&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/8BxVG8O7OiCUuHQgnN3csxN_AWqaRF9TR4gB5b02MG25iuKgxkwk08JpZY1SIrgkE_599_HsLu72jGlLtvtcfw",
+    "categories": [
+      "merge"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "strategy",
+        "excerpt": "GAME_STRATEGY",
+        "basis": "Official Google Play category"
+      },
+      {
+        "category": "merge",
+        "excerpt": "Merge identical",
+        "basis": "Official developer gameplay text"
+      }
+    ]
   }
 ]
