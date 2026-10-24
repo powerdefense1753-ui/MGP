@@ -1554,6 +1554,72 @@
     "iconSourceUrl": "https://play-lh.googleusercontent.com/bx85nFouR20th07bCZnIbBbwGGLLVb4T9BCEIxuKsayhMysW-QuBkOyppmGmHJKN2W3Q9OU42pTdKk4LcNMC1bA"
   },
   {
+    "minInstalls": 1000,
+    "installEvidence": {
+      "minInstalls": 1000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.mpgs.bagmerge&hl=en&gl=US",
+      "fetchedAt": "2026-10-24T08:53:24.897Z"
+    },
+    "id": "com.mpgs.bagmerge",
+    "title": "Bag Merge: Zombie War",
+    "subtitle": "Merge soldiers in your bag, arm them up and hold the castle against zombies!",
+    "description": "Merge soldiers in your bag, arm them up and hold the castle against zombies!",
+    "overviewEn": "Merge soldiers in your bag, arm them up and hold the castle against zombies!",
+    "genre": "Strategy",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "In-app purchases"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "MobilePixel Game Studio LLC",
+    "ads": true,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.mpgs.bagmerge&hl=en&gl=US",
+    "fetchedAt": "2026-10-24T08:53:24.897Z",
+    "sourceDate": "2026-10-24",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-10-05",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Oct 5, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.mpgs.bagmerge&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/2sDjTaXRPgqjtTv8L2lkSjiv6P7otjzCU5yQQx6qtl9j6HLmocKPEmiVTvJyOmAFcbLUcm3LXEiSw9EtqMzra20"
+  },
+  {
     "minInstalls": 100000,
     "installEvidence": {
       "minInstalls": 100000,
@@ -3358,6 +3424,60 @@
     "catalog": "recent",
     "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
     "iconSourceUrl": "https://play-lh.googleusercontent.com/0HPx6cGABdNJD1lsX0GRd7Rc6jDclCAXdycPslf3exdog4-Z-MY56aDs6yK-zQeGKiX3jJqV35vGyeKUdn0G"
+  },
+  {
+    "minInstalls": 1000,
+    "installEvidence": {
+      "minInstalls": 1000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.xp101.dice.magic.elemental.rpg&hl=en&gl=US",
+      "fetchedAt": "2026-10-24T09:23:04.267Z"
+    },
+    "id": "com.xp101.dice.magic.elemental.rpg",
+    "title": "Dice Magic",
+    "subtitle": "Roll dice, unleash elemental magic skills, and conquer this roguelike RPG map.",
+    "description": "Roll dice, unleash elemental magic skills, and conquer this roguelike RPG map.",
+    "overviewEn": "Roll dice, unleash elemental magic skills, and conquer this roguelike RPG map.",
+    "genre": "Strategy",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "101XP LIMITED",
+    "ads": null,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.xp101.dice.magic.elemental.rpg&hl=en&gl=US",
+    "fetchedAt": "2026-10-24T09:23:04.267Z",
+    "sourceDate": "2026-10-24",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-09-28",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Sep 28, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.xp101.dice.magic.elemental.rpg&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/QK3y814_0F-MwOUpQ8-tGoJ10E55X-AZ0z6PZ9CZXfqOEkAAQunvuSfKK2q3zWdpTniXhyCYB9dtxcyY5Aj5"
   },
   {
     "minInstalls": 10000,
@@ -9096,6 +9216,132 @@
     "iconSourceUrl": "https://play-lh.googleusercontent.com/t-0X9UYdnnNbomzLtqK6c1Xbp4sCiGiI29jUG9y8fI594L8qWX-azw9TiATv3Ta1EygPTXpRJSFDh0TNv2h_"
   },
   {
+    "minInstalls": 1,
+    "installEvidence": {
+      "minInstalls": 1,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.eighthfloor.roadsofdavinci1.premium&hl=en&gl=US",
+      "fetchedAt": "2026-10-24T09:23:07.775Z"
+    },
+    "id": "com.eighthfloor.roadsofdavinci1.premium",
+    "title": "Roads of Da Vinci 1",
+    "subtitle": "Who is right – Claire or da Vinci’s descendant?",
+    "description": "Who is right – Claire or da Vinci’s descendant?",
+    "overviewEn": "Who is right – Claire or da Vinci’s descendant?",
+    "genre": "Strategy",
+    "world": "",
+    "tags": [
+      "Paid download",
+      "Android",
+      "Contains ads"
+    ],
+    "evidence": [
+      {
+        "tag": "Paid download",
+        "basis": "Google Play price",
+        "excerpt": "USD 14.99"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      }
+    ],
+    "price": "Paid download",
+    "priceValue": 14.99,
+    "priceCurrency": "USD",
+    "priceDisplay": "US$14.99",
+    "developer": "8FLOOR COMPANY",
+    "ads": true,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.eighthfloor.roadsofdavinci1.premium&hl=en&gl=US",
+    "fetchedAt": "2026-10-24T09:23:07.775Z",
+    "sourceDate": "2026-10-24",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-09-02",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Sep 2, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.eighthfloor.roadsofdavinci1.premium&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/GP3aaZ76f6tGwz7hVtTFbLKXW0uQ6W-rsrEOFM-81WsqO-HEbfCm0hNJ_TK9wycT5AUsMOfCpd5_XtcGjVb2FA"
+  },
+  {
+    "minInstalls": 100,
+    "installEvidence": {
+      "minInstalls": 100,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.eighthfloor.roadsofdavinci1.f2p&hl=en&gl=US",
+      "fetchedAt": "2026-10-24T09:23:07.781Z"
+    },
+    "id": "com.eighthfloor.roadsofdavinci1.f2p",
+    "title": "Roads of Da Vinci Chapter 1",
+    "subtitle": "Who is right – Claire or da Vinci’s descendant?",
+    "description": "Who is right – Claire or da Vinci’s descendant?",
+    "overviewEn": "Who is right – Claire or da Vinci’s descendant?",
+    "genre": "Strategy",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "In-app purchases"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "8FLOOR COMPANY",
+    "ads": true,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.eighthfloor.roadsofdavinci1.f2p&hl=en&gl=US",
+    "fetchedAt": "2026-10-24T09:23:07.781Z",
+    "sourceDate": "2026-10-24",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-09-02",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Sep 2, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.eighthfloor.roadsofdavinci1.f2p&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/nBA4yiMIzVBalh2myrpH817ewjBefYpRQBD_cPqklPPc6ApXDz02QAK8TD4U4_ibLIsuceG-ETqecPGbY2UdJw"
+  },
+  {
     "minInstalls": 10000,
     "installEvidence": {
       "minInstalls": 10000,
@@ -10227,6 +10473,66 @@
     "minInstalls": 10,
     "installEvidence": {
       "minInstalls": 10,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.sinovadigital.commanddefense&hl=en&gl=US",
+      "fetchedAt": "2026-10-24T12:23:43.294Z"
+    },
+    "id": "com.sinovadigital.commanddefense",
+    "title": "Command Defense: Modern Army",
+    "subtitle": "Modern tower defense warfare has begun! Command your army, defend your base.",
+    "description": "Modern tower defense warfare has begun! Command your army, defend your base.",
+    "overviewEn": "Modern tower defense warfare has begun! Command your army, defend your base.",
+    "genre": "Tower defense",
+    "world": "",
+    "tags": [
+      "Tower defense",
+      "Free download",
+      "Android"
+    ],
+    "evidence": [
+      {
+        "tag": "Tower defense",
+        "basis": "Developer summary keyword mapping",
+        "excerpt": "Modern tower defense warfare has begun! Command your army, defend your base."
+      },
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Sinova Digital",
+    "ads": null,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.sinovadigital.commanddefense&hl=en&gl=US",
+    "fetchedAt": "2026-10-24T12:23:43.294Z",
+    "sourceDate": "2026-10-24",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-08-25",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Aug 25, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.sinovadigital.commanddefense&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/YIQyUswY-CR9YhEUo2ITsdK_npQNaW4ilHIjvANKFFi3ygBaE5ezOxFf1QpmOSfv8L6tzwJpUf1OTAYyF0VKpA"
+  },
+  {
+    "minInstalls": 10,
+    "installEvidence": {
+      "minInstalls": 10,
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.hestplan&hl=en&gl=US",
       "fetchedAt": "2026-10-13T02:10:35.901Z"
     },
@@ -11152,6 +11458,66 @@
     "catalog": "recent",
     "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
     "iconSourceUrl": "https://play-lh.googleusercontent.com/EJgHlN8OTaj9uJkKlVo8yNYIVVrjHkzfxDKoFlZ7MhCtkyyQapLvq72Mx9H14NNyVvKzCrdtRGaX-RjGkbPu"
+  },
+  {
+    "minInstalls": 500,
+    "installEvidence": {
+      "minInstalls": 500,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.xp101.war.factory.horde.survival&hl=en&gl=US",
+      "fetchedAt": "2026-10-24T09:23:06.317Z"
+    },
+    "id": "com.xp101.war.factory.horde.survival",
+    "title": "War Factory",
+    "subtitle": "Merge rifles and grenades to arm your soldiers against the endless zombie horde",
+    "description": "Merge rifles and grenades to arm your soldiers against the endless zombie horde",
+    "overviewEn": "Merge rifles and grenades to arm your soldiers against the endless zombie horde",
+    "genre": "Strategy",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "101XP LIMITED",
+    "ads": true,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.xp101.war.factory.horde.survival&hl=en&gl=US",
+    "fetchedAt": "2026-10-24T09:23:06.317Z",
+    "sourceDate": "2026-10-24",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-08-20",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Aug 20, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.xp101.war.factory.horde.survival&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/LrV-Kfse1DkVjW0YXldGxUiHjU_TVexUq6ExDhD-WxbtWpieXz1obY5x4ELDIy8gOZjUr4NrkJtiyIbWIPi0gg"
   },
   {
     "minInstalls": 100,
@@ -15201,6 +15567,60 @@
     "minInstalls": 500,
     "installEvidence": {
       "minInstalls": 500,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.studio501.armycommand&hl=en&gl=US",
+      "fetchedAt": "2026-10-24T12:53:46.077Z"
+    },
+    "id": "com.studio501.armycommand",
+    "title": "Army Command",
+    "subtitle": "Summon. Charge. Conquer.",
+    "description": "Summon. Charge. Conquer.",
+    "overviewEn": "Summon. Charge. Conquer.",
+    "genre": "Strategy",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Barbozo",
+    "ads": null,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.studio501.armycommand&hl=en&gl=US",
+    "fetchedAt": "2026-10-24T12:53:46.077Z",
+    "sourceDate": "2026-10-24",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-07-30",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Jul 30, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.studio501.armycommand&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/TPcW_12e475ND-tTclaeZIvcRH0YH7hrEkfYc_YwmC4MGBsEJuzmP9_dDI-sZXr9os_L2F79nd9JSKPkpS-k"
+  },
+  {
+    "minInstalls": 500,
+    "installEvidence": {
+      "minInstalls": 500,
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.kodsay.exocolony&hl=en&gl=US",
       "fetchedAt": "2026-10-12T09:13:58.900Z"
     },
@@ -17679,6 +18099,60 @@
     "minInstalls": 10,
     "installEvidence": {
       "minInstalls": 10,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.studio501.castlelooters&hl=en&gl=US",
+      "fetchedAt": "2026-10-24T12:54:44.223Z"
+    },
+    "id": "com.studio501.castlelooters",
+    "title": "Castle Looters",
+    "subtitle": "Loot enemies castle!",
+    "description": "Loot enemies castle!",
+    "overviewEn": "Loot enemies castle!",
+    "genre": "Strategy",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Barbozo",
+    "ads": null,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.studio501.castlelooters&hl=en&gl=US",
+    "fetchedAt": "2026-10-24T12:54:44.223Z",
+    "sourceDate": "2026-10-24",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-07-20",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Jul 20, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.studio501.castlelooters&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/NVlaTSTnCoo6cKlh9tRTDGHjKYcsXAVVeUFbS0LbKi332k_h63c94O4efqMFpSMyVlvkFQ-IEXV3VG9y6xFq"
+  },
+  {
+    "minInstalls": 10,
+    "installEvidence": {
+      "minInstalls": 10,
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.protogen.jungleattack&hl=en&gl=US",
       "fetchedAt": "2026-10-19T08:12:26.971Z"
     },
@@ -18370,6 +18844,66 @@
     "catalog": "recent",
     "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
     "iconSourceUrl": "https://play-lh.googleusercontent.com/T4wVbm1sviTwyOLYaWEasGx6OvKEhDU2zApBX9e-zJrmLjwR2Jc3ZpmYod9rgMqIN0Pn9MYRsb3RN5v5NTn7AQ"
+  },
+  {
+    "minInstalls": 100,
+    "installEvidence": {
+      "minInstalls": 100,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.appeargames.main.warcommand&hl=en&gl=US",
+      "fetchedAt": "2026-10-24T12:53:45.938Z"
+    },
+    "id": "com.appeargames.main.warcommand",
+    "title": "War Command:Offline Tactical",
+    "subtitle": "Military Strategy & Base Defense Battle Offline Tactical War",
+    "description": "Military Strategy & Base Defense Battle Offline Tactical War",
+    "overviewEn": "Military Strategy & Base Defense Battle Offline Tactical War",
+    "genre": "Strategy",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "AppearGames",
+    "ads": true,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.appeargames.main.warcommand&hl=en&gl=US",
+    "fetchedAt": "2026-10-24T12:53:45.938Z",
+    "sourceDate": "2026-10-24",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-07-17",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Jul 17, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.appeargames.main.warcommand&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/cV3M_A_31S6bGcRnQ7ZsPtvgOHbZ8yvj3K7tNoE3pEouMpdYkk0i3JIJvzknxPDlZlL74mpQg4e15YJcqSj7ekQ"
   },
   {
     "minInstalls": 1000,
@@ -20592,6 +21126,126 @@
     "iconSourceUrl": "https://play-lh.googleusercontent.com/B_35A91qGfZFVU6qxIJVkcFR5r8Bpvh-O6jM0O9LxZ6DlyhbstdO_8KoO9HbdocYNukW-N4h_BICOStRsPYIxBQ"
   },
   {
+    "minInstalls": 5,
+    "installEvidence": {
+      "minInstalls": 5,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.eighthfloor.argonautsagency17.premium&hl=en&gl=US",
+      "fetchedAt": "2026-10-24T09:23:07.767Z"
+    },
+    "id": "com.eighthfloor.argonautsagency17.premium",
+    "title": "Argonauts Agency 17",
+    "subtitle": "Investigate Atlas's escape and restore the heavens!",
+    "description": "Investigate Atlas's escape and restore the heavens!",
+    "overviewEn": "Investigate Atlas's escape and restore the heavens!",
+    "genre": "Strategy",
+    "world": "",
+    "tags": [
+      "Paid download",
+      "Android"
+    ],
+    "evidence": [
+      {
+        "tag": "Paid download",
+        "basis": "Google Play price",
+        "excerpt": "USD 14.99"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      }
+    ],
+    "price": "Paid download",
+    "priceValue": 14.99,
+    "priceCurrency": "USD",
+    "priceDisplay": "US$14.99",
+    "developer": "8FLOOR COMPANY",
+    "ads": null,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.eighthfloor.argonautsagency17.premium&hl=en&gl=US",
+    "fetchedAt": "2026-10-24T09:23:07.767Z",
+    "sourceDate": "2026-10-24",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-07-02",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Jul 2, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.eighthfloor.argonautsagency17.premium&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/xwU-SynFvW9Azp2nQUQMHs6ssKPoGBOWhaZFWro3pJd_RVeEW85IhLZv_H1ogXGwWhyUOe0ui3Bpi1IBfQdUx9M"
+  },
+  {
+    "minInstalls": 100,
+    "installEvidence": {
+      "minInstalls": 100,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.eighthfloor.argonautsagency17.f2p&hl=en&gl=US",
+      "fetchedAt": "2026-10-24T09:23:09.322Z"
+    },
+    "id": "com.eighthfloor.argonautsagency17.f2p",
+    "title": "Argonauts Agency Chapter 17",
+    "subtitle": "Investigate Atlas's escape and restore the heavens!",
+    "description": "Investigate Atlas's escape and restore the heavens!",
+    "overviewEn": "Investigate Atlas's escape and restore the heavens!",
+    "genre": "Strategy",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "In-app purchases"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "8FLOOR COMPANY",
+    "ads": true,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.eighthfloor.argonautsagency17.f2p&hl=en&gl=US",
+    "fetchedAt": "2026-10-24T09:23:09.322Z",
+    "sourceDate": "2026-10-24",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-07-02",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Jul 2, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.eighthfloor.argonautsagency17.f2p&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/FVEjNTJFp3HnOgrdoHJxMvQ4U5VIMU0n9bxQQipnaoRf-Dq_d3bB5OPrw3G9jfB01Z3oh7gAMTMGmnbkGs4FPg"
+  },
+  {
     "minInstalls": 5000,
     "installEvidence": {
       "minInstalls": 5000,
@@ -20872,6 +21526,60 @@
     "catalog": "recent",
     "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
     "iconSourceUrl": "https://play-lh.googleusercontent.com/VW6X5EpK6DUmfC3Jap80BnsYSnvj2dsiQqXZJR8BQ0sgH7plwerG1kJ0oc0UuI5cKD73G7Q2XW5rfWT1OixH"
+  },
+  {
+    "minInstalls": 100000,
+    "installEvidence": {
+      "minInstalls": 100000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=io.warera.twa&hl=en&gl=US",
+      "fetchedAt": "2026-10-24T10:53:23.569Z"
+    },
+    "id": "io.warera.twa",
+    "title": "War Era",
+    "subtitle": "Build your legacy in a world at war. Every decision counts. Your path awaits.",
+    "description": "Build your legacy in a world at war. Every decision counts. Your path awaits.",
+    "overviewEn": "Build your legacy in a world at war. Every decision counts. Your path awaits.",
+    "genre": "Strategy",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "vatou",
+    "ads": null,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=io.warera.twa&hl=en&gl=US",
+    "fetchedAt": "2026-10-24T10:53:23.569Z",
+    "sourceDate": "2026-10-24",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-07-01",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Jul 1, 2026",
+      "url": "https://play.google.com/store/apps/details?id=io.warera.twa&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/pO438B0MWQKQM63U8CrrGmLq5WVRo1D_7iXJUyrrHgWSjZDkVU77OaMla79SEXUfl_ZLPQPjFESwF9yYndyw9A"
   },
   {
     "minInstalls": 100,
@@ -27003,6 +27711,60 @@
     "minInstalls": 1000,
     "installEvidence": {
       "minInstalls": 1000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.xp101.skeleton.merge.evolution&hl=en&gl=US",
+      "fetchedAt": "2026-10-24T09:23:02.663Z"
+    },
+    "id": "com.xp101.skeleton.merge.evolution",
+    "title": "Merge Warriors: Zombie War",
+    "subtitle": "Assemble your survivor army, merge gear and defend the bunker from zombies!",
+    "description": "Assemble your survivor army, merge gear and defend the bunker from zombies!",
+    "overviewEn": "Assemble your survivor army, merge gear and defend the bunker from zombies!",
+    "genre": "Strategy",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "101XP LIMITED",
+    "ads": null,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.xp101.skeleton.merge.evolution&hl=en&gl=US",
+    "fetchedAt": "2026-10-24T09:23:02.663Z",
+    "sourceDate": "2026-10-24",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-05-26",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "May 26, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.xp101.skeleton.merge.evolution&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/hEJ0i4vlde1qhIMu4lU42zf3Wp2l_lk8hjoPLa1bLEEYbuzNC1bzELv5xRasqS7SFoTggZuCSOpKILDjbOSSCw"
+  },
+  {
+    "minInstalls": 1000,
+    "installEvidence": {
+      "minInstalls": 1000,
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.advantgames.minedefence&hl=en&gl=US",
       "fetchedAt": "2026-10-13T03:11:17.972Z"
     },
@@ -31176,6 +31938,60 @@
     "iconSourceUrl": "https://play-lh.googleusercontent.com/0xBdVsZaJPk4G8zXQX16SyWoxulP7DamVQq0Bi6HyVoCsSGSJTMN1vLR78JnUQoyg0TnWq6wBKh1dsZalIeMkA"
   },
   {
+    "minInstalls": 100,
+    "installEvidence": {
+      "minInstalls": 100,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.studio501.castleclash&hl=en&gl=US",
+      "fetchedAt": "2026-10-24T12:54:33.824Z"
+    },
+    "id": "com.studio501.castleclash",
+    "title": "Castle Clash",
+    "subtitle": "Lead your army, build your strategy, and conquer the battlefield.",
+    "description": "Lead your army, build your strategy, and conquer the battlefield.",
+    "overviewEn": "Lead your army, build your strategy, and conquer the battlefield.",
+    "genre": "Strategy",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Barbozo",
+    "ads": null,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.studio501.castleclash&hl=en&gl=US",
+    "fetchedAt": "2026-10-24T12:54:33.824Z",
+    "sourceDate": "2026-10-24",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-04-20",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Apr 20, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.studio501.castleclash&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/kTGkeJFzr3ZSYsZiQczk9ar_q7Mhy9WHF4Vr_Eouaajh9mHiEs1xCSBAXcjDC_GECTmYInm2OcIwyLsckcBsXw"
+  },
+  {
     "minInstalls": 1000,
     "installEvidence": {
       "minInstalls": 1000,
@@ -32158,6 +32974,60 @@
     "catalog": "recent",
     "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
     "iconSourceUrl": "https://play-lh.googleusercontent.com/MJkP0zFLYo1MKKvxG5L-6AV0I2kbTiWcpxVMYLQLBr4pTMVyyKNh-wju6X2RO2wnNerIDSkXIJyv2wrzl9SL"
+  },
+  {
+    "minInstalls": 10000,
+    "installEvidence": {
+      "minInstalls": 10000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=lumosplay.strategic.merge.craft&hl=en&gl=US",
+      "fetchedAt": "2026-10-24T11:53:45.950Z"
+    },
+    "id": "lumosplay.strategic.merge.craft",
+    "title": "Merge Tower Defense: Wasteland",
+    "subtitle": "Merge towers, beat waves & bosses.",
+    "description": "Merge towers, beat waves & bosses.",
+    "overviewEn": "Merge towers, beat waves & bosses.",
+    "genre": "Strategy",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "LumosPlay Game",
+    "ads": null,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=lumosplay.strategic.merge.craft&hl=en&gl=US",
+    "fetchedAt": "2026-10-24T11:53:45.950Z",
+    "sourceDate": "2026-10-24",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-04-15",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Apr 15, 2026",
+      "url": "https://play.google.com/store/apps/details?id=lumosplay.strategic.merge.craft&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/iEtWM5pSM8Rz3shh8_kaTb-xj0HC7Oz8-YHzKwh2M9xVGvC1JSc1zJ6UO2JBUBahutcq_DJrhGfDCA6gxYMztg"
   },
   {
     "minInstalls": 10,
@@ -33862,6 +34732,66 @@
     "catalog": "recent",
     "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
     "iconSourceUrl": "https://play-lh.googleusercontent.com/iaQ2DLcheEgj-3SdiW4_5Xx5KHh4e8zWIMyiTZluNdSsxCUStzWR8n_RcemSIKgXdqbpFP0cfM0g53N2cVxCqA"
+  },
+  {
+    "minInstalls": 1000,
+    "installEvidence": {
+      "minInstalls": 1000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.xp101.backpack.survival.adventure&hl=en&gl=US",
+      "fetchedAt": "2026-10-24T09:23:15.921Z"
+    },
+    "id": "com.xp101.backpack.survival.adventure",
+    "title": "Backpack Raiders",
+    "subtitle": "Pack your backpack, combine gear, and dominate in wild auto-battles!",
+    "description": "Pack your backpack, combine gear, and dominate in wild auto-battles!",
+    "overviewEn": "Pack your backpack, combine gear, and dominate in wild auto-battles!",
+    "genre": "Strategy",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "101XP LIMITED",
+    "ads": true,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.xp101.backpack.survival.adventure&hl=en&gl=US",
+    "fetchedAt": "2026-10-24T09:23:15.921Z",
+    "sourceDate": "2026-10-24",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-04-01",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Apr 1, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.xp101.backpack.survival.adventure&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/J59oNr1CBf-YTOGlNTjjhonNmXxhevaC8MLjNsu60AgKMOdUUhjcP7PhcRNEQ-_4OrCURCbbAQKkQLI9ovXPRQ"
   },
   {
     "minInstalls": 50,
@@ -38520,6 +39450,72 @@
     "iconSourceUrl": "https://play-lh.googleusercontent.com/tb4B6pGJ0mGHtpB036YYLS75uvi3bPuCfh4bf-AgQAbnjyUgPYvU1_gCr-6sqqZP3f7zUu8moqS_LOqYpIm9"
   },
   {
+    "minInstalls": 1000,
+    "installEvidence": {
+      "minInstalls": 1000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.eighthfloor.argonautsagency13.freemium&hl=en&gl=US",
+      "fetchedAt": "2026-10-24T09:53:10.753Z"
+    },
+    "id": "com.eighthfloor.argonautsagency13.freemium",
+    "title": "Argonauts Agency Chapter 13",
+    "subtitle": "When the walls move, remember why you entered.",
+    "description": "When the walls move, remember why you entered.",
+    "overviewEn": "When the walls move, remember why you entered.",
+    "genre": "Strategy",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "In-app purchases"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "8FLOOR COMPANY",
+    "ads": true,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.eighthfloor.argonautsagency13.freemium&hl=en&gl=US",
+    "fetchedAt": "2026-10-24T09:53:10.753Z",
+    "sourceDate": "2026-10-24",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-03-01",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Mar 1, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.eighthfloor.argonautsagency13.freemium&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/OxnaIo4m0vAy404SsXDLLg3g2ry8zhRxPmi5L8g6PoKwywd1jmtTA6QEye2kPfEIN3E5frEHeOZZYxtr6NHzNw"
+  },
+  {
     "minInstalls": 50000,
     "installEvidence": {
       "minInstalls": 50000,
@@ -39351,6 +40347,78 @@
     "minInstalls": 10000,
     "installEvidence": {
       "minInstalls": 10000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.dragonrealm.td&hl=en&gl=US",
+      "fetchedAt": "2026-10-24T12:23:39.984Z"
+    },
+    "id": "com.dragonrealm.td",
+    "title": "Dragon Realm TD",
+    "subtitle": "Dragon tower defense strategy game with powerful dragons and multiple waves",
+    "description": "Dragon tower defense strategy game with powerful dragons and multiple waves",
+    "overviewEn": "Dragon tower defense strategy game with powerful dragons and multiple waves",
+    "genre": "Tower defense",
+    "world": "",
+    "tags": [
+      "Tower defense",
+      "Free download",
+      "Android",
+      "Contains ads",
+      "In-app purchases"
+    ],
+    "evidence": [
+      {
+        "tag": "Tower defense",
+        "basis": "Developer summary keyword mapping",
+        "excerpt": "Dragon tower defense strategy game with powerful dragons and multiple waves"
+      },
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "JBDIGITAL",
+    "ads": true,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.dragonrealm.td&hl=en&gl=US",
+    "fetchedAt": "2026-10-24T12:23:39.984Z",
+    "sourceDate": "2026-10-24",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-02-13",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Feb 13, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.dragonrealm.td&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/yFumce5VWlQejsBqHZPdcCpLgqd-yQdW3Q0ZCiL5hzFOPctbjD2UA8PSfB4Trk65pm6zx9-X2q1AQ5qQw3h6RQ"
+  },
+  {
+    "minInstalls": 10000,
+    "installEvidence": {
+      "minInstalls": 10000,
       "sourceUrl": "https://play.google.com/store/apps/details?id=com.qxgame.ghard&hl=en&gl=US",
       "fetchedAt": "2026-10-12T08:18:02.752Z"
     },
@@ -39466,6 +40534,60 @@
     "catalog": "recent",
     "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
     "iconSourceUrl": "https://play-lh.googleusercontent.com/_JIBEuGFWLUs96XH2CxCQXt0OZUceArcXGtB49LHFOB7ChqgyeaCfqCuiGoBB-g44jleUwbmd7Ie3y2kIGg1"
+  },
+  {
+    "minInstalls": 10,
+    "installEvidence": {
+      "minInstalls": 10,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.eighthfloor.argonautsagency13.premium&hl=en&gl=US",
+      "fetchedAt": "2026-10-24T09:53:12.374Z"
+    },
+    "id": "com.eighthfloor.argonautsagency13.premium",
+    "title": "Argonauts Agency 13",
+    "subtitle": "When the walls move, remember why you entered.",
+    "description": "When the walls move, remember why you entered.",
+    "overviewEn": "When the walls move, remember why you entered.",
+    "genre": "Strategy",
+    "world": "",
+    "tags": [
+      "Paid download",
+      "Android"
+    ],
+    "evidence": [
+      {
+        "tag": "Paid download",
+        "basis": "Google Play price",
+        "excerpt": "USD 14.99"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      }
+    ],
+    "price": "Paid download",
+    "priceValue": 14.99,
+    "priceCurrency": "USD",
+    "priceDisplay": "US$14.99",
+    "developer": "8FLOOR COMPANY",
+    "ads": null,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.eighthfloor.argonautsagency13.premium&hl=en&gl=US",
+    "fetchedAt": "2026-10-24T09:53:12.374Z",
+    "sourceDate": "2026-10-24",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-02-11",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Feb 11, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.eighthfloor.argonautsagency13.premium&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/7XYPn9P0bsx2EGaPxL_mfNqu4lrWfdRR_747oDycAnZ2td7DVrc2hixaenbXNTCZ6q2vTGa2W8ZIBDReDlyP9So"
   },
   {
     "minInstalls": 100000,
@@ -40354,6 +41476,66 @@
     "catalog": "recent",
     "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
     "iconSourceUrl": "https://play-lh.googleusercontent.com/YJLZJsFFkov304SWYvL4WTZ87hfagXyLt2XCQfaYWWDqndVwr4R8irECiPNWbNkMyWFjzriW3pCqoC3UOBRj"
+  },
+  {
+    "minInstalls": 100,
+    "installEvidence": {
+      "minInstalls": 100,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=gsv.zombiefortress.com&hl=en&gl=US",
+      "fetchedAt": "2026-10-24T09:23:02.645Z"
+    },
+    "id": "gsv.zombiefortress.com",
+    "title": "Zombie Fortress: Merge Defense",
+    "subtitle": "Merge. Defend. Conquer. Only in Zombie Fortress: Merge Defense",
+    "description": "Merge. Defend. Conquer. Only in Zombie Fortress: Merge Defense",
+    "overviewEn": "Merge. Defend. Conquer. Only in Zombie Fortress: Merge Defense",
+    "genre": "Strategy",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Petru Postolachi",
+    "ads": true,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=gsv.zombiefortress.com&hl=en&gl=US",
+    "fetchedAt": "2026-10-24T09:23:02.645Z",
+    "sourceDate": "2026-10-24",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-02-04",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Feb 4, 2026",
+      "url": "https://play.google.com/store/apps/details?id=gsv.zombiefortress.com&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/Sy9Cj2jeAny1h9iYUdmTowdxf96-nHctc4e06RGK7R8z1DfGiUo27-1ANCcyg-UzX2siLRvG06R0m3ov5gNC7Q"
   },
   {
     "minInstalls": 10000,
@@ -41854,6 +43036,72 @@
     "catalog": "recent",
     "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
     "iconSourceUrl": "https://play-lh.googleusercontent.com/Yr-GJi7Vi1l8nZ_hTNcqzc4yIWh8jxfA8v4cTUMThu0qBP3Rg2DsBnqrizMstUab-GiEijSfeppJ_mrRkTku"
+  },
+  {
+    "minInstalls": 500,
+    "installEvidence": {
+      "minInstalls": 500,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.eighthfloor.argonautsagency12.freemium&hl=en&gl=US",
+      "fetchedAt": "2026-10-24T09:53:13.979Z"
+    },
+    "id": "com.eighthfloor.argonautsagency12.freemium",
+    "title": "Argonauts Agency Chapter 12",
+    "subtitle": "Reflections took Earth! Go to the Moon and save the world!",
+    "description": "Reflections took Earth! Go to the Moon and save the world!",
+    "overviewEn": "Reflections took Earth! Go to the Moon and save the world!",
+    "genre": "Strategy",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "In-app purchases"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "8FLOOR COMPANY",
+    "ads": true,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.eighthfloor.argonautsagency12.freemium&hl=en&gl=US",
+    "fetchedAt": "2026-10-24T09:53:13.979Z",
+    "sourceDate": "2026-10-24",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-01-18",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Jan 18, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.eighthfloor.argonautsagency12.freemium&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/oLTwllI7rrEdMIuqqQoqefBKoKoOhBcF48O_q8QmdBv2EQ82ZE2_UfOlB-1DoyrLWJkPtCm2juds0gND4iU-"
   },
   {
     "minInstalls": 5000,
@@ -45576,6 +46824,60 @@
     "iconSourceUrl": "https://play-lh.googleusercontent.com/z35tvZTgMZEUU3b1_o1iYSEerunqYRX2pF8Egy50IO8NY0MhoHvfc3N5XSidc0P5j6KuBCnZjL_n-X2ke9IbCQ"
   },
   {
+    "minInstalls": 10,
+    "installEvidence": {
+      "minInstalls": 10,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.eighthfloor.argonautsagency12.premium&hl=en&gl=US",
+      "fetchedAt": "2026-10-24T09:53:17.369Z"
+    },
+    "id": "com.eighthfloor.argonautsagency12.premium",
+    "title": "Argonauts Agency 12",
+    "subtitle": "Reflections took Earth! Go to the Moon and save the world!",
+    "description": "Reflections took Earth! Go to the Moon and save the world!",
+    "overviewEn": "Reflections took Earth! Go to the Moon and save the world!",
+    "genre": "Strategy",
+    "world": "",
+    "tags": [
+      "Paid download",
+      "Android"
+    ],
+    "evidence": [
+      {
+        "tag": "Paid download",
+        "basis": "Google Play price",
+        "excerpt": "USD 14.99"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      }
+    ],
+    "price": "Paid download",
+    "priceValue": 14.99,
+    "priceCurrency": "USD",
+    "priceDisplay": "US$14.99",
+    "developer": "8FLOOR COMPANY",
+    "ads": null,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.eighthfloor.argonautsagency12.premium&hl=en&gl=US",
+    "fetchedAt": "2026-10-24T09:53:17.369Z",
+    "sourceDate": "2026-10-24",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2025-12-05",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Dec 5, 2025",
+      "url": "https://play.google.com/store/apps/details?id=com.eighthfloor.argonautsagency12.premium&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/Rudxk_U7AmXftBOHNLLlIGLx9Rh6Pwt82hFZ85lS1YNYzB9OCB04NVlasohZ1hQQ1FVOOdDp-C7jYcU2VxxLyg"
+  },
+  {
     "minInstalls": 5000,
     "installEvidence": {
       "minInstalls": 5000,
@@ -48756,6 +50058,60 @@
     "iconSourceUrl": "https://play-lh.googleusercontent.com/xlSHTkg0ToYEeBSqPHQBfXTeKR6QK52KaZnqIJ-6ENHdWakgEWela0DjCG9sA3DJrdFruegEn17ZYaJ4ny88xQ"
   },
   {
+    "minInstalls": 5000,
+    "installEvidence": {
+      "minInstalls": 5000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.rikegames.evogears&hl=en&gl=US",
+      "fetchedAt": "2026-10-24T11:53:47.536Z"
+    },
+    "id": "com.rikegames.evogears",
+    "title": "Evo Gears",
+    "subtitle": "Strategic gear defense, build, upgrade and conquer every era!",
+    "description": "Strategic gear defense, build, upgrade and conquer every era!",
+    "overviewEn": "Strategic gear defense, build, upgrade and conquer every era!",
+    "genre": "Strategy",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "Rike Games",
+    "ads": null,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.rikegames.evogears&hl=en&gl=US",
+    "fetchedAt": "2026-10-24T11:53:47.536Z",
+    "sourceDate": "2026-10-24",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2025-11-06",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Nov 6, 2025",
+      "url": "https://play.google.com/store/apps/details?id=com.rikegames.evogears&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/S4Y1iDLJOeJoIOVUG3JcQ6lNDoska2Ww0UB0VNwx9QrYwRVMFOi-e5-h9p0lK5V7utMdEeqN7bBIE5C__MvkefQ"
+  },
+  {
     "minInstalls": 10,
     "installEvidence": {
       "minInstalls": 10,
@@ -48820,6 +50176,72 @@
     "catalog": "recent",
     "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
     "iconSourceUrl": "https://play-lh.googleusercontent.com/5_fV21_wV6VL4QzgQq-ejXzPoIMVV1eneoMz-0iijYGfrwtLS4lV0W6DLsF19VGq9Pg3TziEbOuk4ZQb8bdVuw"
+  },
+  {
+    "minInstalls": 1000,
+    "installEvidence": {
+      "minInstalls": 1000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.eighthfloor.argonautsagency11.freemium&hl=en&gl=US",
+      "fetchedAt": "2026-10-24T09:53:13.971Z"
+    },
+    "id": "com.eighthfloor.argonautsagency11.freemium",
+    "title": "Argonauts Agency Chapter 11",
+    "subtitle": "Stop the spread of bronze and save the world from plague.",
+    "description": "Stop the spread of bronze and save the world from plague.",
+    "overviewEn": "Stop the spread of bronze and save the world from plague.",
+    "genre": "Strategy",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "In-app purchases"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "8FLOOR COMPANY",
+    "ads": true,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.eighthfloor.argonautsagency11.freemium&hl=en&gl=US",
+    "fetchedAt": "2026-10-24T09:53:13.971Z",
+    "sourceDate": "2026-10-24",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2025-11-05",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Nov 5, 2025",
+      "url": "https://play.google.com/store/apps/details?id=com.eighthfloor.argonautsagency11.freemium&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/o7qzesK1nntRyrCi_wRborrqvpueTM5n06Cqa1ShG88AsK1iL2hpkUq_F9PW9xb9jg-_CHOw3Or13anshKDKDg"
   },
   {
     "minInstalls": 1000,
@@ -53668,6 +55090,132 @@
     "catalog": "recent",
     "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
     "iconSourceUrl": "https://play-lh.googleusercontent.com/-nn34-g2zmHzDVGakTg7f9zBB2JwDXSdnne5MWmuhxg_ggq5_GZexUEii8UraRD2Ppyw02CCmFCpRl6K-wM9"
+  },
+  {
+    "minInstalls": 50,
+    "installEvidence": {
+      "minInstalls": 50,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.eighthfloor.argonautsagency10.premium&hl=en&gl=US",
+      "fetchedAt": "2026-10-24T09:53:13.961Z"
+    },
+    "id": "com.eighthfloor.argonautsagency10.premium",
+    "title": "Argonauts Agency 10",
+    "subtitle": "End the cataclysms and restore harmony to Hellas.",
+    "description": "End the cataclysms and restore harmony to Hellas.",
+    "overviewEn": "End the cataclysms and restore harmony to Hellas.",
+    "genre": "Strategy",
+    "world": "",
+    "tags": [
+      "Paid download",
+      "Android",
+      "Contains ads"
+    ],
+    "evidence": [
+      {
+        "tag": "Paid download",
+        "basis": "Google Play price",
+        "excerpt": "USD 10.99"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      }
+    ],
+    "price": "Paid download",
+    "priceValue": 10.99,
+    "priceCurrency": "USD",
+    "priceDisplay": "US$10.99",
+    "developer": "8FLOOR COMPANY",
+    "ads": true,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.eighthfloor.argonautsagency10.premium&hl=en&gl=US",
+    "fetchedAt": "2026-10-24T09:53:13.961Z",
+    "sourceDate": "2026-10-24",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2025-09-03",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Sep 3, 2025",
+      "url": "https://play.google.com/store/apps/details?id=com.eighthfloor.argonautsagency10.premium&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/gjf7HzfXXZsR-vqm9_fvwO79TbL1QIe-pxvf7S8wbzKOXa8dxHsMCkKV8tmjMEq_XoOVb3eH78QWx6y6MyyenQ"
+  },
+  {
+    "minInstalls": 1000,
+    "installEvidence": {
+      "minInstalls": 1000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.eighthfloor.argonautsagency10.freemium&hl=en&gl=US",
+      "fetchedAt": "2026-10-24T09:23:02.680Z"
+    },
+    "id": "com.eighthfloor.argonautsagency10.freemium",
+    "title": "Argonauts Agency Chapter 10",
+    "subtitle": "End the cataclysms and restore harmony to Hellas.",
+    "description": "End the cataclysms and restore harmony to Hellas.",
+    "overviewEn": "End the cataclysms and restore harmony to Hellas.",
+    "genre": "Strategy",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "In-app purchases"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "In-app purchases",
+        "basis": "Google Play label",
+        "excerpt": "In-app purchases"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "8FLOOR COMPANY",
+    "ads": true,
+    "inAppPurchases": true,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.eighthfloor.argonautsagency10.freemium&hl=en&gl=US",
+    "fetchedAt": "2026-10-24T09:23:02.680Z",
+    "sourceDate": "2026-10-24",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2025-09-03",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Sep 3, 2025",
+      "url": "https://play.google.com/store/apps/details?id=com.eighthfloor.argonautsagency10.freemium&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/irTVsQF8OwiDds0DW--QnKbpDMQrWsWBppoFaLVhRyLh8fdwLoAN8Mr0Q4dHIhD6v3AHYrPUSCInE09lN6zo40Q"
   },
   {
     "minInstalls": 100000,
@@ -62614,6 +64162,66 @@
     "catalog": "recent",
     "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
     "iconSourceUrl": "https://play-lh.googleusercontent.com/SO4k3IBC7SuIX2gc3v778-GYr3PP1jVlJuNOBq9FDDQ-hgLDrNyPRpBiQcZTu8u8pnRgx-vO93PDG1o3bnXTfw"
+  },
+  {
+    "minInstalls": 1000,
+    "installEvidence": {
+      "minInstalls": 1000,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.gameyogi.slimeclash&hl=en&gl=US",
+      "fetchedAt": "2026-10-24T10:53:22.069Z"
+    },
+    "id": "com.gameyogi.slimeclash",
+    "title": "Slime Clash - Goo Wars",
+    "subtitle": "Lead your slime squad to victory in tactical hex tile wars!",
+    "description": "Lead your slime squad to victory in tactical hex tile wars!",
+    "overviewEn": "Lead your slime squad to victory in tactical hex tile wars!",
+    "genre": "Strategy",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "GameYogi",
+    "ads": true,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.gameyogi.slimeclash&hl=en&gl=US",
+    "fetchedAt": "2026-10-24T10:53:22.069Z",
+    "sourceDate": "2026-10-24",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2025-05-05",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "May 5, 2025",
+      "url": "https://play.google.com/store/apps/details?id=com.gameyogi.slimeclash&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Official Google Play strategy category. Release date is the listing’s Released on value; no independent playtest or review synthesis.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/Smz81jcFNHWcLRC6Z9r6kDEHhk7CRMJ5YYIynJ47_ErfW3JgjpAoSnQKGSSd4DsHj4tByKhBnmdPavGcrpF6Vg"
   },
   {
     "minInstalls": 100000,

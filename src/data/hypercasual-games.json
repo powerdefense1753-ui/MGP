@@ -9312,5 +9312,81 @@
         "basis": "Official developer gameplay text"
       }
     ]
+  },
+  {
+    "minInstalls": 500,
+    "installEvidence": {
+      "minInstalls": 500,
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.gamincat.piggybank&hl=en&gl=US",
+      "fetchedAt": "2026-10-24T12:24:50.850Z"
+    },
+    "id": "com.gamincat.piggybank",
+    "title": "Piggy Bank",
+    "subtitle": "Smash the Piggy Bank!",
+    "description": "Smash the Piggy Bank!",
+    "overviewEn": "Smash the Piggy Bank!",
+    "genre": "Hypercasual",
+    "world": "",
+    "tags": [
+      "Free download",
+      "Android",
+      "Contains ads",
+      "Runner"
+    ],
+    "evidence": [
+      {
+        "tag": "Free download",
+        "basis": "Google Play price",
+        "excerpt": "USD 0"
+      },
+      {
+        "tag": "Android",
+        "basis": "Google Play platform",
+        "excerpt": "Android"
+      },
+      {
+        "tag": "Contains ads",
+        "basis": "Google Play label",
+        "excerpt": "Contains ads"
+      },
+      {
+        "tag": "Runner",
+        "excerpt": "running",
+        "basis": "Official developer gameplay text"
+      }
+    ],
+    "price": "Free download",
+    "priceValue": 0,
+    "priceCurrency": "USD",
+    "priceDisplay": "Free download",
+    "developer": "TOKANO Inc.",
+    "ads": true,
+    "inAppPurchases": null,
+    "duration": null,
+    "depth": null,
+    "sourceUrl": "https://play.google.com/store/apps/details?id=com.gamincat.piggybank&hl=en&gl=US",
+    "fetchedAt": "2026-10-24T12:24:50.850Z",
+    "sourceDate": "2026-10-24",
+    "region": "US",
+    "language": "English",
+    "releasedAt": "2026-07-30",
+    "releaseEvidence": {
+      "basis": "Google Play Released on",
+      "value": "Jul 30, 2026",
+      "url": "https://play.google.com/store/apps/details?id=com.gamincat.piggybank&hl=en&gl=US"
+    },
+    "catalog": "recent",
+    "note": "Gameplay classification from official developer text; no independent playtest.",
+    "iconSourceUrl": "https://play-lh.googleusercontent.com/QNZV7W8b0ygiOqikue0-iYiwIp1m9Ao-Z8To22-zdNqi27zwcqI9zKz9Gp5IJSD75ZXNmkhxN4w5CQ4_nYIZsFw",
+    "categories": [
+      "hypercasual"
+    ],
+    "categoryEvidence": [
+      {
+        "category": "hypercasual",
+        "excerpt": "hyper-casual",
+        "basis": "Official developer gameplay text"
+      }
+    ]
   }
 ]
